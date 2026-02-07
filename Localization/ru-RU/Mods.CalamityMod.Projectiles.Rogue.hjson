@@ -1,0 +1,370 @@
+AbyssalMirrorProjectile.DisplayName: Люмениловая Жидкость
+AcidBarrelDrop.DisplayName: Капля Кислотной Бочки
+AcidShrapnel.DisplayName: Кислотная Шрапнель
+AdamantiteThrowingAxeProjectile.DisplayName: Адамантитовый Метательный Топор
+AlphaSeeker.DisplayName: Искатель Альфа-Вируса
+AlphaVirusProjectile.DisplayName: Альфа-Вирус
+AntumbraShardProjectile.DisplayName: Осколок Антумбры
+ApoctolithProj.DisplayName: Апоктолит
+ApoctolithShard.DisplayName: Осколок Апоктолита
+AshenStalactiteDebris.DisplayName: Пепельный Осколок
+AshenStalactiteProj.DisplayName: Пепельный Сталактит
+AshenStalagmiteProj.DisplayName: Пепельный Сталагмит
+AuroradicalSplitter.DisplayName: Аврорадикальная Звезда
+AuroradicalStar.DisplayName: Аврорадикальная Звезда
+BallisticPoisonBombProj.DisplayName: Ядовитая Бомба
+BallisticPoisonBombSpike.DisplayName: Ядовитый Шип
+BarrelShrapnel.DisplayName: Шрапнель Бочки
+BettyExplosion.DisplayName: Взрыв «Бэтти»
+BileExplosion.DisplayName: Желчь
+BlastBarrelProjectile.DisplayName: Взрывная Бочка
+BlazingStarProj.DisplayName: Пылающая Звезда
+BloodsoakedCrashax.DisplayName: Окровавленный Крушитель
+BlueFlamePillar.DisplayName: Огненный Столб
+BlunderBoosterLightning.DisplayName: Жужжащий Болт
+BouncingEyeballProjectile.DisplayName: Упругое Глазное Яблоко
+BouncingEyeballProjectileStealthStrike.DisplayName: Упругое Глазное Яблоко
+BouncyBol.DisplayName: Упругий Колючий Шар
+BrackishFlaskProj.DisplayName: Фляга с Солончаком
+BrackishSpear.DisplayName: Не Атлантида
+BrackishWater.DisplayName: Морская Вода
+BrackishWaterBlast.DisplayName: Морская Вода
+Brick.DisplayName: Кирпич
+BrickFragment.DisplayName: Осколок Кирпича
+Brimblade2.DisplayName: Серное Лезвие
+BrimbladeProj.DisplayName: Серное Лезвие
+BurningStrifeProj.DisplayName: Колючий Шар Теневого Огня
+ButcherKnife.DisplayName: Тесак
+CarvingFork.DisplayName: Разделочная Вилка
+CelestialReaperAfterimage.DisplayName: Небесный Жнец
+CelestialReaperProjectile.DisplayName: Небесный Жнец
+CelestusMiniScythe.DisplayName: Целестус
+CelestusProj.DisplayName: Целестус
+CinquedeaProj.DisplayName: Чинкуэда
+CircletMark.DisplayName: Метка Торнадо
+CircletTornado.DisplayName: Торнадо
+CobaltEnergy.DisplayName: Кобальтовая Энергия
+CobaltKunaiProjectile.DisplayName: Кобальтовый Кунай
+ConsecratedWaterProjectile.DisplayName: Священная Вода
+ContaminatedBileFlask.DisplayName: Зараженная Желчь
+CorpusAvertorClone.DisplayName: Трупный Отвратитель
+CorpusAvertorProj.DisplayName: Трупный Отвратитель
+CorpusAvertorStealth.DisplayName: Трупный Отвратитель
+Corrocloud1.DisplayName: Коррозийное Облако
+Corrocloud2.DisplayName: Коррозийное Облако
+Corrocloud3.DisplayName: Коррозийное Облако
+CosmicKunaiProj.DisplayName: Космический Кунай
+CosmicScythe.DisplayName: Космическая Коса
+CraniumSMASH.DisplayName: Череп ЛОМАТЬ
+CraniumSmasherExplosive.DisplayName: Взрывной Череполом
+CraniumSmasherProj.DisplayName: Череполом
+CraniumSmasherStealth.DisplayName: Дофига Скрытный Череполом
+Crushax.DisplayName: Пилотопор
+Crystalline2.DisplayName: Кристаллин
+CrystallineProj.DisplayName: Кристаллин
+CrystalPiercerProjectile.DisplayName: Кристалический Пронизатель
+CrystalPiercerShard.DisplayName: Кристаллический Осколок
+CursedDaggerBlastHitbox.DisplayName: Проклятая Воронка
+CursedDaggerProj.DisplayName: Проклятый Кинжал
+DeepSeaDumbbell1.DisplayName: Глубоководная Гантель
+DeepSeaDumbbell2.DisplayName: Глубоководная Гантель
+DeepSeaDumbbell3.DisplayName: Глубоководная Гантель
+DeepSeaDumbbellWeight.DisplayName: Глубоководная Гантель
+DeepWounderProjectile.DisplayName: Глубинный Разрыв
+DeepWounderWater.DisplayName: Водяная Капля
+DesecratedBubble.DisplayName: Оскверненный Пузырек
+DesecratedWaterProj.DisplayName: Оскверненная Вода
+DestructionBolt.DisplayName: Болт Разрушения
+DestructionStar.DisplayName: Звезда Разрушения
+DragonShit.DisplayName: Огонь
+DukesDecapitatorBubble.DisplayName: Пузырек Герцога
+DukesDecapitatorProj.DisplayName: Герцогская Гильотина
+DuststormCloud.DisplayName: Пылевое Облако
+DuststormCloudHitbox.DisplayName: Облако Пылевой Бури
+DuststormInABottleProj.DisplayName: Бутылка с Пылевой Бурей
+DragonScalesInfernado.DisplayName: Инфернадо
+DynamicPursuerElectricity.DisplayName: Динамическое Электричество
+DynamicPursuerLaser.DisplayName: Динамический Лазер
+DynamicPursuerProjectile.DisplayName: Динамический Преследователь
+EclipseMirrorBurst.DisplayName: Вспышка Зеркала Затмения
+EclipsesFallMain.DisplayName: Падение Затмения
+EclipsesSmol.DisplayName: Мелкое Затмения
+EclipsesStealth.DisplayName: Падение Затмения
+EclipseStealthBoom.DisplayName: Взрыв Затмения
+EGloveSpark.DisplayName: Искра
+ElementalDiskProj.DisplayName: Элементальный Диск
+ElementalDiskSplit.DisplayName: Элементальный Диск
+EnchantedAxe2.DisplayName: Зачарованный Топор
+EnchantedAxeProj.DisplayName: Зачарованный Топор
+EpidemicShredderProjectile.DisplayName: Шреддер Эпидемии
+EquanimityDarkShard.DisplayName: Темный Осколок
+EquanimityLightShard.DisplayName: Светлый Осколок
+EquanimityProj.DisplayName: Равновесие
+EradicatorProjectile.DisplayName: Истребитель
+ExecutionersBladeProj.DisplayName: Клинок Палача
+ExecutionersBladeStealthProj.DisplayName: Клинок Палача
+ExorcismProj.DisplayName: Экзорцизм
+ExorcismShockwave.DisplayName: Ударная Волна Экзорцизма
+ExorcismStar.DisplayName: Звезда Экзорцизма
+ExplosiveSun.DisplayName: Взрывное Солнце
+FantasyTalismanProj.DisplayName: Талисман
+FantasyTalismanStealth.DisplayName: Талисман
+FeatherKnifeProjectile.DisplayName: Нож-Перо
+FinalDawnFireball.DisplayName: Последний Рассвет
+FinalDawnFireSlash.DisplayName: Последний Рассвет
+FinalDawnFlame.DisplayName: Последний Рассвет
+FinalDawnHorizontalSlash.DisplayName: Последний Рассвет
+FinalDawnProjectile.DisplayName: Последний Рассвет
+FinalDawnReticle.DisplayName: Последний Рассвет
+FinalDawnThrow.DisplayName: Последний Рассвет
+FinalDawnThrow2.DisplayName: Последний Рассвет
+FishboneBoomerangProjectile.DisplayName: Бумеранг из Рыбьей Кости
+Fork.DisplayName: Вилка
+FossilShardThrown.DisplayName: Окаменелый Осколок
+FrostShardFriendly.DisplayName: Морозный Осколок
+FrostyFlareProj.DisplayName: Морозная Сигнальная Ракета
+FrostyFlareStealth.DisplayName: Морозная Сигнальная Ракета
+GacruxianHome.DisplayName: Гакруксовый Моллюск
+GacruxianProj.DisplayName: Гакруксовый Моллюск
+GelDartProjectile.DisplayName: Гелвый Дротик
+GhoulishGougerBoomerang.DisplayName: Призрачный Расчленятель
+GildedDaggerProj.DisplayName: Блестящий Кинжал
+GlaiveProj.DisplayName: Глефа
+GleamingDaggerProj.DisplayName: Мерцающий Кинжал
+GodsParanoiaDart.DisplayName: Дротик Паранойи Бога
+GodsParanoiaProj.DisplayName: Паранойя Бога
+GraveGrimreaverProjectile.DisplayName: Зловещий Жнец
+GreenDonkeyKongReference.DisplayName: Бочка с Кислотным Дождем
+GrimreaverBat.DisplayName: Зловещая Летучая Мышь
+GrimreaverSkull.DisplayName: Зловещий Череп
+HeavenfallenEnergy.DisplayName: Падшая с Небес Энергия
+HeavenfallenStardiskBoomerang.DisplayName: Диск Падающей Звезды
+HellsSunProj.DisplayName: Солнце Преисподней
+Honeycomb.DisplayName: Сота
+HoneycombFragment.DisplayName: Осколок Соты
+HypothermiaChunk.DisplayName: Ледяной Обломок
+HypothermiaShard.DisplayName: Ледяной Осколок
+IcebreakerHammer.DisplayName: Ледокол
+IceStarProjectile.DisplayName: Ледяная Звезда
+IchorSpearProj.DisplayName: Ихоровое Копье
+InfernalKrisCinder.DisplayName: Инфернальный Пепел
+InfernalKrisExplosion.DisplayName: Инфернальный Взрыв
+InfernalKrisProjectile.DisplayName: Инфернальный Крис
+InfestedClawmerangProj.DisplayName: Гриборанг
+InkBombProjectile.DisplayName: Чернильная Бомба
+InkCloud.DisplayName: Облако Чернил
+InkCloud2.DisplayName: Облако Чернил
+InkCloud3.DisplayName: Облако Чернил
+IronFranciscaProj.DisplayName: Железная Франциска
+JawsProjectile.DisplayName: Зуб Жнеца
+JawsShockwave.DisplayName: Ударная Волна Зуба Жнеца
+KelvinCatalystBoomerang.DisplayName: Катализатор Кельвина
+Knife.DisplayName: Нож
+KylieBoomerang.DisplayName: Килия
+LanceofDestiny.DisplayName: Святое Копье
+LeadTomahawkProj.DisplayName: Свинцовый Томагавк
+LeonidCometBig.DisplayName: Леонидовская Комета
+LeonidCometSmall.DisplayName: Леонидовская Комета
+LeonidProgenitorBombshell.DisplayName: Леонидовская Бомба
+LeonidStar.DisplayName: Леонидовская Звезда
+LeviathanTooth.DisplayName: Зуб Левиафана
+LionfishProj.DisplayName: Крылатка
+LostSoulFriendly.DisplayName: Заблудшая Душа
+LuminousShard.DisplayName: Осколок Звездной Пыли
+LunarKunaiProj.DisplayName: Лунный Кунай
+LuxorsGiftRogue.DisplayName: Метательный Скарабей Люксора
+MalachiteBolt.DisplayName: Малахит
+MalachiteProj.DisplayName: Малахит
+MalachiteStealth.DisplayName: Малахит
+MangroveChakramFlower.DisplayName: Мангровый Цветок
+MangroveChakramProjectile.DisplayName: Мангровый Чакрам
+MetalChunk.DisplayName: Металлический Кусок
+MetalShard.DisplayName: Металлический Осколок
+MeteorFistProj.DisplayName: Метеоритный Кулак Хорош Много для Чего
+MeteorFistStealth.DisplayName: Метеоритный Кулак Хорош Много для Чего
+MoltenAmputatorProj.DisplayName: Литой Ампутатор
+MoltenBlobThrown.DisplayName: Литая Жижа
+MonkeyDart.DisplayName: Обезьяньи Дротики
+MoonSigil.DisplayName: Лунный Сигил
+MycorootProj.DisplayName: Мицелиевый Корень
+MythrilKnifeProjectile.DisplayName: Мифриловый Нож
+NanoblackMain.DisplayName: Нано-Черный Жнец
+NanoblackSplit.DisplayName: Нано-Черное Лезвие
+NanoblackStealthSplit.DisplayName: Нано-Черный След
+NastyChollaBol.DisplayName: Гадкий Кактус
+NastyChollaNeedle.DisplayName: Кактусовая Иголка
+NiceCock.DisplayName: Кухонный Огонь
+NightsGazeProjectile.DisplayName: Взгляд Ночи
+NightsGazeSpark.DisplayName: Искра Взгляда Ночи
+NightsGazeStar.DisplayName: Звезда Взгляда Ночи
+NychthemeronOrb.DisplayName: Сфера Никтемерона
+NychthemeronProjectile.DisplayName: Никтемерон
+OrichalcumSpikedGemstoneProjectile.DisplayName: Орихалковый Самоцвет
+PalladiumJavelinProjectile.DisplayName: Палладиевое Копье
+PanSpark.DisplayName: Искра Сковородки
+PartisanExplosion.DisplayName: Скверный Взрыв
+PenumbraBomb.DisplayName: Бомба Полутени
+PenumbraSoul.DisplayName: Душа Полутени
+PhantasmalRuinProj.DisplayName: Фантомный Рок
+PhantasmalSoul.DisplayName: Фантомная Душа
+PhantasmalSoulBlue.DisplayName: Синяя душа
+PlaguedFuelPackCloud.DisplayName: Чумное Облако
+PlaguenadeBee.DisplayName: Чумная Пчела
+PlaguenadeProj.DisplayName: Чумоната
+PoisonBol.DisplayName: Ядовитый Шар
+Prismalline2.DisplayName: Призмаллин
+Prismalline3.DisplayName: Призмаллин
+PrismallineProj.DisplayName: Призмаллин
+PrismRocket.DisplayName: Призматическая Ракета
+PrismShurikenBlade.DisplayName: Рефракционное Лезвие
+ProfanedPartisanProj.DisplayName: Скверный Протазан
+ProfanedPartisanSpear.DisplayName: Скверное Копье
+RadiantExplosion.DisplayName: Сияющий Взрыв
+RadiantStar2.DisplayName: Сияющая Звезда
+RadiantStarKnife.DisplayName: Сияющая Звезда
+RealityRuptureLance.DisplayName: Копье Реальности
+RealityRuptureMini.DisplayName: Осколок Реальности
+RealityRuptureStealth.DisplayName: Разорванная Реальность
+ReaperProjectile.DisplayName: Старый Жнец
+RefractionRotorProjectile.DisplayName: Призматический Сюрикен
+RegulusEnergy.DisplayName: Энергия Регула
+RegulusRiotProj.DisplayName: Восстание Регула
+RotBallProjectile.DisplayName: Ком Гнили
+SacrificeProjectile.DisplayName: Жертвенный Кинжал
+SamsaraSlicerProjectile.DisplayName: Лезвие Самсары
+SamsaraSlicerSmallDisk.DisplayName: Лезвие Самсары
+SandDollarProj.DisplayName: Щитообразный Морской Еж
+SandDollarStealth.DisplayName: Щитообразный Морской Еж
+SandslasherProj.DisplayName: Песчаный Рубака
+ScarletBlast.DisplayName: Алый Взрыв
+ScarletDevilBullet.DisplayName: Пуля Гунгнира
+ScarletDevilProjectile.DisplayName: Копье Гунгнир
+ScourgeoftheDesertProj.DisplayName: Пустынный Бич
+ScourgeoftheSeasProjectile.DisplayName: Увлажненный Бич
+ScourgeVenomCloud.DisplayName: Ядовитое Облако
+SeafoamBombProj.DisplayName: Бомба Морской Пены
+SeafoamBubble.DisplayName: Пузырь Морской Пены
+SealedSingularityBlackhole.DisplayName: Запечатанная Черная Дыра
+SealedSingularityGore.DisplayName: Осколок Запечатанной Сингулярности
+SealedSingularityProj.DisplayName: Запечатанная Сингулярность
+SearedPanProjectile.DisplayName: Сковородка
+SeraphimAngelicLight.DisplayName: Световая Сфера
+SeraphimAngelicLight2.DisplayName: Световая Сфера
+SeraphimBeamLarge.DisplayName: Святой Луч
+SeraphimDagger.DisplayName: Серафим
+SeraphimProjectile.DisplayName: Серафим
+ShatteredExplosion.DisplayName: Взрыв Расколотой Звезды
+ShatteredSunKnife.DisplayName: Расколотая Звезда
+ShatteredSunScorchedBlade.DisplayName: Обожженное Лезвие
+ShinobiBladeProjectile.DisplayName: Кинжал Шиноби
+ShockGrenadeBolt.DisplayName: Удар Шоковой Гранаты
+ShockGrenadeExplosion.DisplayName: Взрыв Шоковой Гранаты
+ShockGrenadeProjectile.DisplayName: Шоковая Граната
+ShockTeslaAura.DisplayName: Электрическая Аура
+ShroomerangSpore.DisplayName: Зараженная Спора
+SkyBomberGas.DisplayName: Облученное Облако
+SkyfinNuke.DisplayName: Плавниковая бомба
+SkyStabberProj.DisplayName: Небесная Колючка
+SludgeSplotchProj1.DisplayName: Слизевая Клякса
+SludgeSplotchProj2.DisplayName: Слизевая Клякса
+SnapClamProj.DisplayName: Устрица
+SnapClamStealth.DisplayName: Устрица
+SpearofDestinyProjectile.DisplayName: Копье Судьбы
+SpearofDestinyStealth.DisplayName: Усиленное Святое Копье
+SpearofDestinyStealthExplosion.DisplayName: Сильный Взрыв
+SpearofPaleolithProj.DisplayName: Копье Палеолита
+SpentFuelContainerProjectile.DisplayName: Израсходованный Топливный Контейнер
+SphereBladed.DisplayName: Режущая Сфера
+SphereBlue.DisplayName: Синяя Сфера с Ускорителями
+SphereSpiked.DisplayName: Шипастая Сфера
+SphereYellow.DisplayName: Желтая Сфера с Ускорителями
+StealthNimbus.DisplayName: Тучка
+StealthNimbusCloud.DisplayName: Тучка
+StealthRain.DisplayName: Дождь
+StellarKnifeProj.DisplayName: Звездный Кинжал
+StickyBol.DisplayName: Липкий Колючий Шар
+StormfrontLightning.DisplayName: Молния Штормового Фронта
+StormfrontRazorProjectile.DisplayName: Лезвие Штормового Фронта
+Stormfrontspark.DisplayName: Искра Штормового Фронта
+SubductionFlameburst.DisplayName: Столб Огня
+SubductionSlicerProj.DisplayName: Покоряющий Кромсатель
+SulphuricNukesplosion.DisplayName: Ядерная Бомба
+SupernovaBomb.DisplayName: Сверхновая Бомба
+SupernovaBoom.DisplayName: Микро-Сверхновая
+SupernovaStealthBoom.DisplayName: Экзо-Сверхновая
+TalonLargeProj.DisplayName: Большой Коготь Ужаса
+TalonSmallProj.DisplayName: Коготь Ужаса
+TarragonThrowingDartProjectile.DisplayName: Таррагоновый Метательный Нож
+TarraThornRight.DisplayName: Таррагоновая Иголка
+TheAtomSplitterDuplicate.DisplayName: Раскалыватель Атомов
+TheAtomSplitterProjectile.DisplayName: Раскалыватель Атомов
+TheSyringeCinder.DisplayName: Пепел Шприца
+TheSyringeProj.DisplayName: Шприц
+TheSyringeS1.DisplayName: Шрапнель
+TimeBoltKnife.DisplayName: Временной Удар
+TitaniumClone.DisplayName: Сюрикен
+TitaniumShurikenProjectile.DisplayName: Сюрикен
+ToothBallProjectile.DisplayName: Ком Зубов
+TotalityFire.DisplayName: Огонь Затмения
+TotalityFlask.DisplayName: Бутыль Затмения
+TotalityTar.DisplayName: Масло Затмения
+TotalMeltdown.DisplayName: Взрыв
+ToxicantTwisterDust.DisplayName: Токсичная Пыль
+ToxicantTwisterTwoPointZero.DisplayName: Токсичный Водоворот
+TurbulanceProjectile.DisplayName: Турбуленция
+TurbulanceWindSlash.DisplayName: Ветряной Разрез
+TwistingThunderProj.DisplayName: Скрученный Гром
+UmbraphileBoom.DisplayName: Вспышка Умбры
+UrchinStingerProj.DisplayName: Колючка Морского Ежа
+ValariBoomerang.DisplayName: Валари Мороза
+Valaricicle.DisplayName: Cосулька Валари
+Valaricicle2.DisplayName: Cосулька Валари
+ValedictionBoomerang.DisplayName: Прощальное Слово
+VeneratedKnife.DisplayName: Благоговейный Нож
+WaveSkipperProjectile.DisplayName: Волновой скакун
+WebBallBol.DisplayName: Ком Паутины
+WrathwingCinder.DisplayName: Извержение Крыла Гнева
+WrathwingFireball.DisplayName: Огненный Шар Крыло Гнева
+WrathwingSpear.DisplayName: Крыло Гнева
+WulfrumKnifeProj.DisplayName: Вульфрумовый Кинжал
+// AntlionSkewerProj.DisplayName: Antlion on a Stick
+// AntlionSkewerSandBlast.DisplayName: Antlion Blast
+// AntlionSkewerSandCloud.DisplayName: Dense Sand Cloud
+// ApoctolithExplosion.DisplayName: Apoctolith Boom
+// BallisticPoisonCloud.DisplayName: Ballistic Cloud
+// BlazingStarOrbital.DisplayName: Orbital Blazing Star
+// BurningStrifeExplosion.DisplayName: Shadow Flame Explosion
+// BurningTentacle.DisplayName: Strife Tentacle
+// DestructionExplosion.DisplayName: Destruction Explosion
+// DimensionTearingDiskProjectile.DisplayName: Dimension-Tearing Disk
+// GlaiveOrbital.DisplayName: Orbital Glaive
+// LeviathanToothStealth.DisplayName: Leviathan Jaw
+// LyraConstellation.DisplayName: Lyra Constellation
+// MeteorFistMeteorite.DisplayName: Meteorite REALLY Gud For A Lot Of Shtuff
+// PumpkaboomSmall.DisplayName: Small Pumpkaboom
+// PumpkaboomBoomSmall.DisplayName: Pump-kaboom!
+// PumpkaboomBig.DisplayName: Big Pumpkaboom
+// PumpkaboomBoomBig.DisplayName: Pump-KABOOM!!
+// RadiationBurst.DisplayName: Radiation Burst
+// RadiationRain.DisplayName: Radiation Rain
+// ReboundingRainbowProj.DisplayName: Rebounding Rainbow
+// ReboundingRainbowSplit.DisplayName: Rebounding Rainbow
+// RefractionRotorSlashCreator.DisplayName: Refraction Rotor Slash Creator
+// RefractionSlash.DisplayName: Refraction Slash
+// SandDollarFrag.DisplayName: Sand Dollar Frag
+// ShatteredDawnKnife.DisplayName: Shattered Dawn
+// ShatteredDawnScorchedBlade.DisplayName: Scorched Blade
+// ShockBolt.DisplayName: Shock Bolt
+// ShockExplosion.DisplayName: Shock Explosion
+// DoomsdayDeviceProjectile.DisplayName: Doomsday Device
+// SmallCoral.DisplayName: Small Coral
+// SporeKnifeBud.DisplayName: Spore Knife Bud
+// SporeKnifeProj.DisplayName: Spore Knife
+// ToxicantTwisterProj.DisplayName: Toxicant Twister
+// UrchinIrradiation.DisplayName: Irradiation
+// VegaProjectile.DisplayName: Vega
+// VegaSpark.DisplayName: Vega Spark
+// VegaStar.DisplayName: Vega Star
+// WhitewaterAura.DisplayName: Whitewater Aura
+// WhitewaterProj.DisplayName: Whitewater Flask
+// WhitewaterSpear.DisplayName: Whitewater Spear

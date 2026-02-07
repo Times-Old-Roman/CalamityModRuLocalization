@@ -1,0 +1,386 @@
+AerospecBreastplate: {
+	DisplayName: Аэралитовый Нагрудник
+	Tooltip: +3% урона и шанса критического удара
+	CommonSetBonus:
+		'''
+		При получении более 25 урона за один удар, вы обрушите россыпь из наводящихся перьев
+		Убирает урон от падения и позволяет вам быстрее падать
+		'''
+}
+
+AerospecHat: {
+	DisplayName: Аэралитовая Шляпа
+	Tooltip: +10% магического урона и +30 максимальной маны
+	SetBonus:
+		'''
+		-8% потребления маны
+		+5% скорости движения и шанса критического удара магией
+		'''
+}
+
+AerospecHeadgear: {
+	DisplayName: Аэралитовая Диадема
+	Tooltip: +10% метательного урона и +5% скорости движения
+	SetBonus:
+		'''
+		+5% скорости движения и шанса критического удара метанием
+		+80 максимальной скрытности
+		'''
+}
+
+AerospecHelm: {
+	DisplayName: Аэралитовый Шлем
+	Tooltip: +10% урона в ближнем бою
+	SetBonus:
+		'''
+		+5% скорости движения и шанса критического удара в ближнем бою
+		Противники будут предпочитать атаковать вас
+		'''
+}
+
+AerospecHelmet: {
+	DisplayName: Аэралитовый Наголовник
+	Tooltip: +10% урона призванных существ и +5% скорости движения
+	SetBonus:
+		'''
+		+11% урона призванных существ и +1 слот призванных существ
+		Призывает валькирию, которая будет защищать вас
+		'''
+}
+
+AerospecHood: {
+	DisplayName: Аэралитовый Капюшон
+	Tooltip: +10% урона в дальнем бою
+	SetBonus: +5% скорости движения и шанса критического удара в дальнем бою
+}
+
+AerospecLeggings: {
+	DisplayName: Аэралитовые Поножи
+	Tooltip: +12% скорости движения
+}
+
+DesertProwlerHat: {
+	DisplayName: Шляпа Пустынного Грабителя
+	Tooltip: +4% шанса критического удара в дальнем бою и +20% шанс не использовать боеприпас
+	SetBonus: Атаки в дальнем бою дополнительно наносят {0} фиксированного урона
+	AbilityBrief: Бомба песчаной завесы - Дважды нажмите {0}, чтобы окружить себя маленьким облаком песка
+	AbilityDescription:
+		'''
+		Пока облако активно, вы получаете увеличенную мобильность, но ваша защита сильно уменьшена
+		Использование оружия дальнего боя мгновенно развеет песчаную завесу, но гарантированно нанесет сверхкритический удар с {0}% бонусом урона
+		Суперкрит применяется только в случае, если итоговый урон не нанесет более {1} урона
+		Если суперкрит убил противника, то перезарядка способности убавляется на {2} секунд
+		'''
+}
+
+DesertProwlerPants: {
+	DisplayName: Штаны Пустынного Грабителя
+	Tooltip: +10% скорости движения и иммунитет к эффекту Могучего Ветра
+}
+
+DesertProwlerShirt: {
+	DisplayName: Рубашка Пустынного Грабителя
+	Tooltip: +5% шанса критического удара в дальнем бою
+}
+
+MarniteArchitectHeadgear: {
+	DisplayName: Мранитный Наголовник Архитектора
+	Tooltip: +5 к дальности размещения блоков и действия инструментов
+	AbilityBrief: Мранитный Лифт - Вы можете призвать под вашими ногами лифт, чтобы подняться повыше
+	AbilityDescription:
+		'''
+		Лифт призывается по нажатию кнопки ездового существа [c/D4C870:без экипированных ездовых существ]
+		Кнопки ВВЕРХ и ВНИЗ меняют высоту лифта
+		'''
+	/* SetBonus:
+		'''
+		[c/{0}:Marnite Lift - You can summon a lift under your feet to reach higher up]
+		[c/91C5EF:The lift gets summoned when the mount hotkey gets pressed] [c/D4C870:without any mounts equipped]
+		[c/91C5EF:Press {$Key.UP} and {$Key.DOWN} to change the lift's height, reaching up to {1} tiles above ground]
+		''' */
+}
+
+MarniteArchitectToga: {
+	DisplayName: Мранитная Тога Архитектора
+	Tooltip: +50% скорости размещения блоков
+}
+
+SnowRuffianChestplate: {
+	DisplayName: Нагрудник Снежного Головореза
+	Tooltip: +3% шанса критического удара метанием
+}
+
+SnowRuffianGreaves: {
+	DisplayName: Поножи Снежного Головореза
+	Tooltip: +5% скорости движения
+}
+
+SnowRuffianMask: {
+	DisplayName: Маска Снежного Головореза
+	Tooltip: +2% метательного урона
+	SetBonus:
+		'''
+		+5% метательного урона
+		+50 максимальной скрытности
+		Вы можете парить, чтобы избежать урона от падения
+		'''
+}
+
+StatigelArmor: {
+	DisplayName: Статигелевая Кираса
+	Tooltip: +5% шанса критического удара
+	CommonSetBonus:
+		'''
+		Если вы получаете более 100 урона за один удар, то вы становитесь иммунным к урону на больший промежуток времени
+		Дарует дополнительный прыжок и увеличивает высоту прыжка
+		+12% скорости прыжка
+		'''
+}
+
+StatigelGreaves: {
+	DisplayName: Статигелевые Поножи
+	Tooltip: +5% урона и скорости движения
+}
+
+StatigelHeadMagic: {
+	DisplayName: Статигелевая Шляпа
+	Tooltip:
+		'''
+		+10% магического урона и -10% потребления маны
+		+7% шанса критического удара магией и +40 максимальной маны
+		'''
+}
+
+StatigelHeadMelee: {
+	DisplayName: Статигелевый Шлем
+	Tooltip:
+		'''
+		+10% урона в ближнем бою и скорости атаки
+		+7% шанса критического удара в ближнем бою
+		'''
+	SetBonus: Противники будут предпочитать атаковать вас
+}
+
+StatigelHeadRanged: {
+	DisplayName: Статигелевый Наголовник
+	Tooltip:
+		'''
+		+10% урона в дальнем бою
+		+7% шанса критического удара в дальнем бою
+		'''
+}
+
+StatigelHeadRogue: {
+	DisplayName: Статигелевая Маска
+	Tooltip:
+		'''
+		+10% метательного урона и +34% шанс не использовать метательное оружие
+		+7% шанса критического удара метанием и +5% скорости движения
+		'''
+	SetBonus: +90 максимальной скрытности
+}
+
+StatigelHeadSummon: {
+	DisplayName: Статигелевый капюшон
+	Tooltip: Увеличивается отдача призванных существ
+	SetBonus:
+		'''
+		+18% урона призванных существ и +1 слот призванных существ
+		Призывает мини-слизневого бога, который будет сражаться за вас.
+		Его внешний вид зависит от зла вашего мира
+		'''
+}
+
+SulphurousBreastplate: {
+	DisplayName: Сернистый Нагрудник
+	Tooltip: +6% метательного урона и +4% шанса критического удара метанием
+}
+
+SulphurousHelmet: {
+	DisplayName: Сернистый Шлем
+	Tooltip:
+		'''
+		+4% метательного урона
+		+2% шанса критического удара метанием
+		Дарует подводное дыхание
+		'''
+	SetBonus:
+		'''
+		+65 максимальной скрытности
+		При получении урона или атакуя на противников накладывается Отравление
+		Дает дополнительный прыжок, который создает сернистый пузырь
+		Дает увеличенную мобильность в воде и уменьшает опасность серных вод
+		'''
+}
+
+SulphurousLeggings: {
+	DisplayName: Сернистые Поножи
+	Tooltip:
+		'''
+		+10% скорости движения
+		+35% скорости движения, пока вы находитесь в жидкости
+		'''
+}
+
+VictideBreastplate: {
+	DisplayName: Нагрудник Прилива
+	Tooltip:
+		'''
+		+5% уменьшения входящего урона и шанса критического удара
+		+5 защиты и +10% уменьшения входящего урона, пока вы находитесь в жидкости
+		'''
+	CommonSetBonus:
+		'''
+		Используя любое оружие, у вас имеется 10% шанс бросить ракушку-бумеранг
+		Эта ракушка наносит чистый урон и не получает бонусы от какого-либо типа класса
+		Дает улучшенную мобильность в воде и немного замедляет потерю воздуха в Бездне
+		'''
+}
+
+VictideGreaves: {
+	DisplayName: Поножи Прилива
+	Tooltip:
+		'''
+		+8% скорости движения
+		+30% скорости движения, пока вы находитесь в жидкости
+		'''
+}
+
+VictideHeadMagic: {
+	DisplayName: Капюшон-Раковина Прилива
+	Tooltip: +5% магического урона
+	SetBonus: +1.5 ОЗ/с регенерации жизни и +10% магического урона, пока вы находитесь в жидкости
+}
+
+VictideHeadMelee: {
+	DisplayName: Шлем-моллюск Прилива
+	Tooltip: +5% урона в ближнем бою
+	SetBonus:
+		'''
+		Противники будут предпочитать атаковать вас
+		+1.5 ОЗ/с регенерации жизни и +10% урона в ближнем бою, пока вы находитесь в жидкости
+		'''
+}
+
+VictideHeadRanged: {
+	DisplayName: Коралловый Тюрбан Прилива
+	Tooltip: +5% урона в дальнем бою
+	SetBonus: +1.5 ОЗ/с регенерации жизни и +10% урона в дальнем бою, пока вы находитесь в жидкости
+}
+
+VictideHeadRogue: {
+	DisplayName: Краб-Наголовник Прилива
+	Tooltip: +5% метательного урона
+	SetBonus:
+		'''
+		+60 максимальной скрытности
+		+1.5 ОЗ/с регенерации жизни и +10% метательного урона, пока вы находитесь в жидкости
+		'''
+}
+
+VictideHeadSummon: {
+	DisplayName: Маска Прилива
+	Tooltip: +10% урона призванных существ
+	SetBonus:
+		'''
+		+1 слот призванных существ
+		Призывает морскую улитку, которая будет защищать вас
+		+1.5 ОЗ/с регенерации жизни и +10% урона призванных существ, пока вы находитесь в жидкости
+		'''
+}
+
+WulfrumFusionCannon: {
+	DisplayName: Экспериментальная Вульфрумовая Матрица Синтеза
+	Tooltip:
+		'''
+		Стреляет быстрыми очередями пуль на среднюю дистанцию
+		Игнорирует 10 защиты противника
+		[c/878787:'Кому нужны кнуты, когда можно просто взять и самим стать призванным существом?']
+		'''
+}
+
+WulfrumHat: {
+	DisplayName: Вульфрумовая Шапка и Очки
+	Tooltip:
+		'''
+		+10% урона призванных существ
+		[c/878787:'В набор также входят удлинители для волос']
+		'''
+	SetBonus: +1 слот призванных существ
+	AbilityBrief: Вульфрумовый бастион - Дважды нажмите {0}, пока спешены, чтобы экипировать вульфрумовую силовую броню
+	AbilityDescription:
+		'''
+		Пока броня активна, вы можете использовать только интегрированную пушку синтеза, но ваши защитные характеристики увеличены
+		Призыв брони потребляет один {0}, а сама броня будет постепенно терять прочность. Получение урона ускоряет потерю прочности
+		'''
+	ShiftToExpand: Зажмите SHIFT, чтобы просмотреть характеристики пушки синтеза
+}
+
+WulfrumJacket: {
+	DisplayName: Вульфрумовый Жакет
+	Tooltip: +5% уменьшения входящего урона
+}
+
+WulfrumOveralls: {
+	DisplayName: Вульфрумовые Брюки
+	Tooltip: +5% скорости движения
+}
+
+AerospecHeadMagic: {
+	// DisplayName: Aerospec Hat
+	/* Tooltip:
+		'''
+		{$CommonItemTooltip.IncreasesMaxManaBy}
+		{$CommonItemTooltip.PercentIncreasedMagicDamage@1}
+		''' */
+	/* SetBonus:
+		'''
+		{$CommonItemTooltip.PercentReducedManaCost}
+		{1}% increased movement speed and magic critical strike chance
+		{$AerospecBreastplate.CommonSetBonus@2}
+		''' */
+}
+
+AerospecHeadRogue: {
+	// DisplayName: Aerospec Headgear
+	// Tooltip: "{$Common.RogueDamage} and {$CommonItemTooltip.PercentIncreasedMovementSpeed@1}"
+	/* SetBonus:
+		'''
+		{$Common.RogueStealth}
+		{1}% increased movement speed and rogue critical strike chance
+		{$AerospecBreastplate.CommonSetBonus@2}
+		''' */
+}
+
+AerospecHeadMelee: {
+	// DisplayName: Aerospec Helm
+	// Tooltip: "{$CommonItemTooltip.PercentIncreasedMeleeDamage}"
+	/* SetBonus:
+		'''
+		{0}% increased movement speed and melee critical strike chance
+		{$Common.AggroBoost}
+		{$AerospecBreastplate.CommonSetBonus@1}
+		''' */
+}
+
+AerospecHeadSummon: {
+	// DisplayName: Aerospec Helmet
+	// Tooltip: "{$CommonItemTooltip.PercentIncreasedSummonDamage} and {$CommonItemTooltip.PercentIncreasedMovementSpeed@1}"
+	/* SetBonus:
+		'''
+		{$CommonItemTooltip.IncreasesMaxMinionsBy}
+		{$CommonItemTooltip.PercentIncreasedSummonDamage@1}
+		Summons a valkyrie to protect you
+		{$AerospecBreastplate.CommonSetBonus@2}
+		''' */
+}
+
+AerospecHeadRanged: {
+	// DisplayName: Aerospec Hood
+	// Tooltip: "{$CommonItemTooltip.PercentIncreasedRangedDamage}"
+	/* SetBonus:
+		'''
+		{0}% increased movement speed and ranged critical strike chance
+		{$AerospecBreastplate.CommonSetBonus@1}
+		''' */
+}

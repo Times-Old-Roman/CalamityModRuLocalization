@@ -1,0 +1,203 @@
+AcidRainT1: {
+	EntryName: Кислотный Дождь
+	SpawnInfo: Используйте [i:CalamityMod/CausticTear] или дождитесь, пока он не начнется естественным образом после победы над Глазом Ктулху.
+}
+
+AcidRainT2: {
+	EntryName: Кислотный Дождь (Уровень 2)
+	SpawnInfo: Используйте [i:CalamityMod/CausticTear] или дождитесь, пока он не начнется естественным образом после победы над Водным Бичем.
+}
+
+AcidRainT3: {
+	EntryName: Кислотный Дождь (Уровень 3)
+	SpawnInfo: Используйте [i:CalamityMod/CausticTear] или дождитесь, пока он не начнется естественным образом после победы над Полтергастом.
+}
+
+AquaticScourge: {
+	EntryName: Водный Бич
+	SpawnInfo: Используйте [i:CalamityMod/Seafood] в Серном Море, или дождитесь, пока он не объявится там естественным образом.
+	DespawnMessage: "[c/F0E68C:Отравленный Бич возвращается назад в безмятежный, открытый океан.]"
+}
+
+AstrumAureus: {
+	SpawnInfo: Используйте [i:CalamityMod/AstralChunk] ночью в Астральной Инфекции.
+	DespawnMessage: '''[c/FFD700: > returned true; logmsg: "АУРЕУС НЕЙТРАЛИЗОВАЛ ВСЕ УГРОЗЫ. ВОЗВРАЩЕНИЕ К НАЧАТОЙ РАЗВЕДКЕ."]'''
+}
+
+AstrumDeus: {
+	EntryName: Аструм Деус
+	SpawnInfo: Используйте [i:CalamityMod/TitanHeart] или [i:CalamityMod/Starcore] в качестве жертвы на [i:CalamityMod/AstralBeaconItem].
+	DespawnMessage: "[c/FFD700:Зараженное божество отступает на небеса.]"
+}
+
+BossRush: {
+	EntryName: Босс-раш
+	SpawnInfo: Используйте [i:CalamityMod/Terminus], найденный на дне Бездны.
+}
+
+BrimstoneElemental: {
+	SpawnInfo: Используйте [i:CalamityMod/CharredIdol] в Серных Скалах Азафюра.
+	DespawnMessage: "[c/DC143C:Элементаль возвращается к своему мрачному бдению за Азафюром...]"
+}
+
+Calamitas: {
+	EntryName: Каламитас, Великая Ведьма
+	SpawnInfo: Используйте [i:CalamityMod/AshesofCalamity] или [i:CalamityMod/CeremonialUrn] в качестве жертвы на [i:CalamityMod/AltarOfTheAccursedItem].
+	DespawnMessage: "[c/FFA500:Ведьма исчезла, оставив позади лишь удушающий жар.]"
+}
+
+CalamitasClone: {
+	SpawnInfo: Используйте [i:CalamityMod/EyeofDesolation] ночью.
+	DespawnMessage: "[c/FFA500:Клон плюнулся кровью в отвращении и испарился.]"
+}
+
+CeaselessVoid: {
+	EntryName: Ненасытная Пустота
+	SpawnInfo: Используйте [i:CalamityMod/RuneofKos] в Темнице.
+	DespawnMessage: "[c/4B0082:Древний межпространственный разрыв ускользнул в неизвестные нам миры.]"
+}
+
+Crabulon: {
+	SpawnInfo: Используйте [i:CalamityMod/DecapoditaSprout] в биоме Светящихся Грибов.
+	DespawnMessage: "[c/6495ED:Монструозный мицелиевый краб уволочился прочь...]"
+}
+
+CragmawMire: {
+	SpawnInfo:
+		'''
+		Появляется во время Кислотного Дождя после победы над Водноым Бичом.
+		Начните Кислотный Дождь при помощи [i:CalamityMod/CausticTear] или дождитесь, пока он не начнется естественным образом.
+		'''
+	DespawnMessage: "[c/F0E68C:Утесная Пасть зарывается в токсичный песок.]"
+}
+
+Cryogen: {
+	SpawnInfo: Используйте [i:CalamityMod/CryoKey] в Тундре.
+	DespawnMessage: "[c/00FFFF:Криоген исчезает в пронзительном морозе зимней вьюги.]"
+}
+
+DesertScourge: {
+	EntryName: Бич Пустыни
+	SpawnInfo: Используйте [i:CalamityMod/DesertMedallion] в Пустыне.
+	DespawnMessage: "[c/EEE8AA:Бич Пустыни зарывается обратно в песок.]"
+}
+
+DevourerofGods: {
+	EntryName: Пожиратель Богов
+	SpawnInfo: Используйте [i:CalamityMod/CosmicWorm].
+	DespawnMessage: "[c/00FFFF:Пожиратель Богов надменно возвращается в глубины Дисторсии.]"
+}
+
+Dragonfolly: {
+	SpawnInfo: Используйте [i:CalamityMod/ExoticPheromones] в Джунглях.
+	DespawnMessage: "[c/FFD700:Причуда возвращается к своему уединенному насесту.]"
+}
+
+ExoMechs: {
+	EntryName: Экзо-Мехи
+	SpawnInfo: Используйте полноценный Шифролом, чтобы связаться с Драедоном...
+	DespawnMessage: "[c/7FFFD4:Все-таки подопытный несовершенен... жаль.]"
+}
+
+GiantClam: {
+	SpawnInfo: Появляется естественным образом под водой в Затонувшем Море.
+	DespawnMessage: "[c/7FFFD4:Гигантский Моллюск скрылся в своей пещере.]"
+}
+
+GreatSandShark: {
+	SpawnInfo: Убейте 10 Песчаных Акул после победы над Плантерой или используйте [i:CalamityMod/SandstormsCore] в пустыне.
+	DespawnMessage: "[c/DAA520:Высший хищник песков зарылся меж дюн.]"
+}
+
+HiveMind: {
+	SpawnInfo: Убейте Роевую Опухоль в Искажении или используйте там [i:CalamityMod/Teratoma].
+	DespawnMessage: "[c/9400D3:Роевое Сознание перелетело в другое место, где оно продолжит размножаться.]"
+}
+
+Leviathan: {
+	EntryName: Анахита и Левиафан
+	SpawnInfo: Атакуйте загадочную певицу в океане...
+	DespawnMessage: "[c/7FFFD4:Морские отшельники возвращаются назад томиться в своей одинокой компании.]"
+}
+
+Mauler: {
+	SpawnInfo:
+		'''
+		Появляется во время Кислотного Дождя после победы над Полтергастом.
+		Начните Кислотный Дождь при помощи [i:CalamityMod/CausticTear] или дождитесь, пока он не начнется естественным образом.
+		'''
+	DespawnMessage: "[c/F0E68C:Брутальная акула ищет других жертв, на которых она бы выместила свою агрессию.]"
+}
+
+NuclearTerror: {
+	SpawnInfo:
+		'''
+		Появляется во время Кислотного Дождя после победы над Полтергастом.
+		Начните Кислотный Дождь при помощи [i:CalamityMod/CausticTear] или дождитесь, пока он не начнется естественным образом.
+		'''
+	DespawnMessage: "[c/F0E68C:Радиоактивное порождение рассеивается в болезненном свете.]"
+}
+
+OldDuke: {
+	EntryName: Древний Герцог
+	SpawnInfo: Пройдите Кислотный Дождь 3 Уровня или используйте [i:CalamityMod/BloodwormItem] в качестве наживки в Серном Море.
+	DespawnMessage: "[c/F0E68C:Древний Герцог возвращается обратно в туман кислотного мусона.]"
+}
+
+Perforators: {
+	EntryName: Перфораторы
+	SpawnInfo: Убейте Кисту Перфоратора в Багрянце или используйте там [i:CalamityMod/BloodyWormFood].
+	DespawnMessage: "[c/DC143C:Перфораторы начали поиск других носителей, за счет которого они будут питаться.]"
+}
+
+PlaguebringerGoliath: {
+	SpawnInfo: Используйтеn [i:CalamityMod/Abombination] в Джунглях.
+	DespawnMessage: '''[c/00FF00: > returned true; logmsg: "ИСПЫТУЕМЫЕ ОБРАЗЦЫ УСЫПЛЕНЫ. ПРЕКРАЩАЕТСЯ ВЫПОЛНЕНИЕ БОЕВОГО ПРОТОКОЛА."]'''
+}
+
+Polterghast: {
+	EntryName: Полтергаст
+	SpawnInfo: Убейте 30 Фантомных Духов или используйте [i:CalamityMod/NecroplasmicBeacon] в Темнице.
+	DespawnMessage: "[c/B0E0E6:Летучий фантом растворяется в разражающимся эхом вое.]"
+}
+
+ProfanedGuardians: {
+	EntryName: Скверные Защитники
+	SpawnInfo: Используйте [i:CalamityMod/ProfanedShard] в Освящении или в Преисподней.
+	DespawnMessage: "[c/FFA500:Защитники были возвращены обратно к своей Богине.]"
+}
+
+Providence: {
+	SpawnInfo: Используйте [i:CalamityMod/ProfanedCore] в Освящении или в Преисподней.
+	DespawnMessage: "[c/FFA500:Скверная Богиня укрылась очищающим огнем, оставив лишь только пепел...]"
+}
+
+Ravager: {
+	EntryName: Опустошитель
+	SpawnInfo: Используйте [i:CalamityMod/DeathWhistle].
+	DespawnMessage: "[c/B22222:Опустошитель продолжает свое бессмысленное, кошмарное буйство.]"
+}
+
+Signus: {
+	EntryName: Сигнус
+	SpawnInfo: Используйте [i:CalamityMod/RuneofKos] в Преисподней.
+	DespawnMessage: "[c/BA55D3:Сигнус необъяснимо перестал быть там, где он только что находился.]"
+}
+
+SlimeGod: {
+	EntryName: Слизневый Бог
+	SpawnInfo: Используйтеn [i:CalamityMod/OverloadedSludge].
+	DespawnMessage: "[c/BA5533:Грязный, желатинистый Бог ускакал, свершив свое мщение.]"
+}
+
+StormWeaver: {
+	EntryName: Ткач Штормов
+	SpawnInfo: Используйте [i:CalamityMod/RuneofKos] высоко в небе или в космосе.
+	DespawnMessage: "[c/EE82EE:Ткач Штормов укрылся в свирепых грозовых облаках.]"
+}
+
+Yharon: {
+	EntryName: Ярон
+	SpawnInfo: Используйте [i:CalamityMod/YharonEgg].
+	DespawnMessage: "[c/FFA500:Ярон улетел из виду, исполнив свой долг.]"
+}

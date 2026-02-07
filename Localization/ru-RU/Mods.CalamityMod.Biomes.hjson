@@ -1,0 +1,117 @@
+// For general uses
+Abyss: Бездна
+AstralInfection: Астральная Инфекция
+AstralSnow: Астральная Тундра
+BrimstoneCrags: Серные Скалы
+SulphurousSea: Серное Море
+SunkenSea: Затонувшее Море
+
+AstralDesert: {
+	DisplayName: Поверхность Астральной Пустыни
+	TownNPCDialogueName: Астральная Пустыня
+}
+
+AstralBiome: {
+	DisplayName: Астральная Инфекция
+	TownNPCDialogueName: Астральная Инфекция
+}
+
+AstralInfectionBiome: {
+	DisplayName: Астральная Инфекция
+	TownNPCDialogueName: Астральная Инфекция
+}
+
+AstralIce: {
+	DisplayName: Астральная Тундра
+	TownNPCDialogueName: Астральная Тундра
+}
+
+AbyssLayer1Biome: {
+	DisplayName: Серные Глубины
+	TownNPCDialogueName: Серные Глубины
+}
+
+AbyssLayer2Biome: {
+	DisplayName: Темные Воды
+	TownNPCDialogueName: Темные Воды
+}
+
+AbyssLayer3Biome: {
+	DisplayName: Термальные Источники
+	TownNPCDialogueName: Термальные Источники
+}
+
+AbyssLayer4Biome: {
+	DisplayName: Тьма
+	TownNPCDialogueName: Тьма
+}
+
+AcidRainBiome: {
+	DisplayName: Кислотный Дождь
+	TownNPCDialogueName: Кислотный Дождь
+}
+
+ArsenalLabBiome: {
+	DisplayName: Арсенальные Лаборатории
+	TownNPCDialogueName: Арсенальные Лаборатории
+}
+
+BrimstoneCragsBiome: {
+	DisplayName: Серные Скалы
+	TownNPCDialogueName: Серные Скалы
+}
+
+SulphurousSeaBiome: {
+	DisplayName: Серное Море
+	TownNPCDialogueName: Серное Море
+}
+
+SunkenSeaBiome: {
+	DisplayName: Затонувшее Море
+	TownNPCDialogueName: Затонувшее Море
+}
+
+AstralUnderground: {
+	DisplayName: Астральные Подземелья
+	TownNPCDialogueName: Астральные Подземелья
+}
+
+AstralCaveDesert: {
+	DisplayName: Астральные Пещеры Пустыни
+	TownNPCDialogueName: Астральные Пещеры Пустыни
+}
+
+FloralParadiseBiome: {
+	// DisplayName: Floral Paradise
+	// TownNPCDialogueName: the Floral Paradise
+}
+
+BasaltGullyBiome: {
+	// DisplayName: Basalt Gully
+	// TownNPCDialogueName: the Basalt Gully
+}
+
+GleamingBurrowsBiome: {
+	// DisplayName: Gleaming Burrows
+	// TownNPCDialogueName: the Gleaming Burrows
+}
+
+PolypForestBiome: {
+	// DisplayName: Polyp Forest
+	// TownNPCDialogueName: the Polyp Forest
+}
+
+RadiantReefsBiome: {
+	// DisplayName: Radiant Reefs
+	// TownNPCDialogueName: the Radiant Reefs
+}
+
+TimelessShoresBiome: {
+	// DisplayName: Timeless Shores
+	// TownNPCDialogueName: the Timeless Shores
+}
+
+ClamDenBiome: {
+	// DisplayName: Clam Den
+	// TownNPCDialogueName: the Clam Den
+}

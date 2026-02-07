@@ -1,0 +1,815 @@
+AuricTeslaBodyArmor: {
+	DisplayName: Броня Ауритовой Молнии
+	Tooltip:
+		'''
+		+100 максимального здоровья
+		+8% урона и +5% шанса критического удара
+		'''
+}
+
+AuricTeslaCuisses: {
+	DisplayName: Набедренники Ауритовой Молнии
+	Tooltip:
+		'''
+		+10% скорости движения
+		+12% урона и +5% шанса критического удара
+		Эффект ковра-самолета
+		'''
+}
+
+AuricTeslaHoodedFacemask: {
+	DisplayName: Капюшон и Лицевая Маска Ауритовой Молнии
+	Tooltip: +30% урона в дальнем бою и шанса критического удара
+	SetBonus: Эффекты Таррагоновой брони, Кровавой Вспышки и Богоубийцы для дальнего боя
+}
+
+AuricTeslaPlumedHelm: {
+	DisplayName: Оперенный Шлем Ауритовой Молнии
+	Tooltip:
+		'''
+		+20% урона метательного оружия и шанса критического удара
+		+5% скорости движения
+		'''
+	SetBonus:
+		'''
+		Эффекты метательной Таррагоновой брони, Кровавой Вспышки и Богоубийцы
+		+130 максимальной скрытности
+		'''
+}
+
+AuricTeslaRoyalHelm: {
+	DisplayName: Королевский Шлем Ауритовой Молнии
+	Tooltip:
+		'''
+		+20% урона в ближнем бою
+		+10% шанса критического удара в ближнем бою
+		'''
+	SetBonus:
+		'''
+		Эффекты Таррагоновой брони, Кровавой Вспышки и Богоубийцы для ближнего боя
+		Противники будут предпочитать атаковать вас
+		+28% скорости атаки в ближнем бою
+		'''
+}
+
+AuricTeslaSpaceHelmet: {
+	DisplayName: Космический Шлем Ауритовой Молнии
+	Tooltip: +15% урона призванных существ
+	SetBonus:
+		'''
+		Эффекты Таррагоновой брони, Кровавой Вспышки и Сильвы для призыва
+		+5% максимальной скорости и ускорения движения
+		+6 слотов призванных существ и +75% урона призванных существ
+		'''
+}
+
+AuricTeslaWireHemmedVisage: {
+	DisplayName: Обшитый Проволокой Лик Ауритовой Молнии
+	Tooltip: +30% магического урона, +20% шанса критического удара магией, +100 максимальной маны и -20% потребления маны
+	SetBonus:
+		'''
+		Эффекты Таррагоновой брони, Кровавой Вспышки и Сильвы для магии
+		+5% максимальной скорости и ускорения движения
+		'''
+}
+
+BloodflareBodyArmor: {
+	DisplayName: Броня Кровавой Вспышки
+	Tooltip:
+		'''
+		+12% урона и +8% шанса критического удара
+		+40 максимального здоровья
+		'''
+	CommonSetBonus:
+		'''
+		Увеличивает регенерацию жизни до уровня, эквивалентного Багрянцевой Брони
+		Противники, у которых менее 50% здоровья, роняют сердца при получении урона
+		У этого эффекта есть 5 секундная перезарядка
+		'''
+}
+
+BloodflareCuisses: {
+	DisplayName: Набедренники Кровавой Вспышки
+	Tooltip: +17% скорости движения, +10% урона и +7% шанса критического удара
+}
+
+BloodflareHeadMagic: {
+	DisplayName: Капюшон Гидры Кровавой Вспышки
+	Tooltip: +20% магического урона, +10% шанса критического удара магией, +100 максимальной маны и -17% потребления маны
+	SetBonus:
+		'''
+		Магическое оружие стреляет призрачными болтами каждые 1.67 секунд
+		Магические критические удары создают пламенные взрывы раз в 2 секунды
+		'''
+	/* SetBonusEffect:
+		'''
+		Magic weapons fire ghostly bolts every {0} seconds
+		Magic critical strikes cause blood explosions every {1} seconds
+		{$BloodflareBodyArmor.CommonSetBonus}
+		''' */
+}
+
+BloodflareHeadMelee: {
+	DisplayName: Маска Овна Кровавой Вспышки
+	Tooltip: +10% урона в ближнем бою и +5% шанса критического удара в ближнем бою
+	SetBonus:
+		'''
+		+18% скорости атаки в ближнем бою
+		Противники будут предпочитать атаковать вас
+		Удары в настоящем ближнем бою будут лечить вас
+		После удара по противнику 15 раз в настоящем ближнем бою вы войдете в Кровавое Исступление на 5 секунд
+		Во время этого эффекта вы получаете +25% урона и шанса критического удара в ближнем бою, а контактный урон уменьшен на половину
+		У этого эффекта присутствует 30 секундная перезарядка
+		'''
+	/* SetBonusEffect:
+		'''
+		After striking an enemy {0} times with true melee you will enter a blood frenzy for {1} seconds
+		During this you will gain {2}% increased melee damage, critical strike chance, and {3}% reduced contact damage
+		This effect has a {4} second cooldown
+		{$BloodflareBodyArmor.CommonSetBonus}
+		''' */
+}
+
+BloodflareHeadRanged: {
+	DisplayName: Рогатый Шлем Кровавой Вспышки
+	Tooltip: +10% урона в дальнем бою и шанса критического удара
+	SetBonus:
+		'''
+		Нажмите {0}, чтобы выпустить забытые души Полтергаста и уничтожить ваших противников
+		У этого эффекта есть 30 секундная перезарядка
+		Оружие дальнего боя стреляет сферами кровавой вспышки каждые 2.5 секунды
+		'''
+	/* SetBonusEffect:
+		'''
+		{0} to unleash the lost souls of polterghast to destroy your enemies
+		This effect has a {1} second cooldown
+		Ranged weapons fire bloodsplosion orbs every {2} seconds
+		{$BloodflareBodyArmor.CommonSetBonus}
+		''' */
+}
+
+BloodflareHeadRogue: {
+	DisplayName: Маска Беса Кровавой Вспышки
+	Tooltip:
+		'''
+		+10% урона метательного оружия и шанса критического удара
+		+5% скорости движения
+		'''
+	SetBonus:
+		'''
+		+120 максимальной скрытности
+		Если у вас более 80% здоровья: +30 защиты и +5% шанс критического удара метательным оружием
+		Если у вас менее 80% здоровья: +10% метательного урона
+		Критические удары метательным оружием лечат вас
+		'''
+	/* SetBonusEffect:
+		'''
+		Grants {0} defense when above {1}% life
+		Rogue critical strikes have lifesteal
+		{$BloodflareBodyArmor.CommonSetBonus}
+		''' */
+}
+
+BloodflareHeadSummon: {
+	DisplayName: Шлем Виверны Кровавой Вспышки
+	Tooltip: +5% урона призванных существ
+	SetBonus:
+		'''
+		+50% урона призванных существ и +3 слотов призванных существ
+		Вокруг вас призываются кружащие мины Полтергаста
+		Если у вас более 90% здоровья: +10% урона призванных существ
+		Если у вас менее 50% здоровья: +20 защиты и +1 ОЗ/с регенерации жизни
+		'''
+	/* SetBonusEffect:
+		'''
+		Summons polterghast mines to circle you
+		Grants {0} defense when below {1}% life
+		{$BloodflareBodyArmor.CommonSetBonus}
+		''' */
+}
+
+DemonshadeBreastplate: {
+	DisplayName: Нагрудник Дьявольской Тени
+	Tooltip:
+		'''
+		+25% скорости атаки в ближнем бою, +15% урона и шанса критического удара
+		Касающиеся вас противники получают безбожное количество урона
+		+200 максимальной жизни и маны
+		Стоя на месте, вы поглощаете тени и экспоненциально ускоряете регенерацию жизни
+		'''
+}
+
+DemonshadeGreaves: {
+	DisplayName: Поножи Дьявольской Тени
+	Tooltip: Скорость Тени
+}
+
+DemonshadeHelm: {
+	DisplayName: Шлем Дьявольской Тени
+	Tooltip: +30% урона и +15% шанса критического удара
+	SetBonus:
+		'''
+		+100% урона призванных существ и +10 слотов призванных существ
+		При получении урона выстреливаются теневые лучи и демонические косы
+		За вами следует дружественный красный дьявол
+		Нажмите {0}, чтобы разъярить ближайших противников на 10 секунд при помощи темного магического заклинания
+		Этот эффект заставляет их получать в 2.25x больше урона, но взамен они будут наносить вам в 1.25x больше урона
+		'''
+}
+
+EmpyreanCloak: {
+	DisplayName: Эмпирейский Плащ
+	Tooltip:
+		'''
+		+20 максимального здоровья
+		+7% урона метательного оружия и шанса критического удара
+		'Броня Космоса'
+		'''
+}
+
+EmpyreanCuisses: {
+	DisplayName: Эмпирейские Набедренники
+	Tooltip:
+		'''
+		+5% урона метательного оружия и шанса критического удара
+		+15% скорости движения
+		'''
+}
+
+EmpyreanMask: {
+	DisplayName: Эмпирейская Маска
+	Tooltip:
+		'''
+		+11% урона метательного оружия и шанса критического удара
+		+5% скорости движения
+		'''
+	SetBonus:
+		'''
+		+9% урона и скорости полета метательного оружия
+		+115 максимальной скрытности
+		Метательное оружие имеет особые эффекты при попадании
+		При получении урона, вы пропитываетесь космическим гневом и яростью
+		'''
+}
+
+FearmongerGreathelm: {
+	// DisplayName: Fearmonger Greathelm
+	/* Tooltip:
+		'''
+		Pure terror radiates from your eyes
+		+60 max mana and 10% reduced mana usage
+		10% increased summon damage
+		''' */
+	/* SetBonus:
+		'''
+		20% increased summon damage and +2 max minions
+		Minions no longer deal less damage while wielding non-summoner weapons
+		Immunity to all but the strongest forms of frost and flame
+		Minion attacks grant +3.5 HP/s life regen and massively accelerate life regen
+		15% increased damage reduction during the Pumpkin and Frost Moons
+		This extra damage reduction ignores the soft cap
+		''' */
+}
+
+FearmongerGreaves: {
+	DisplayName: Поножи Разжигателя Страха
+	Tooltip:
+		'''
+		+6% урона
+		+50% отдачи призванных существ
+		+10% скорости движения
+		При получении урона: +40% скорости движения на 4 секунды
+		'''
+}
+
+FearmongerPlateMail: {
+	DisplayName: Латы Разжигателя Страха
+	Tooltip:
+		'''
+		+100 максимального здоровья и +8% уменьшения входящего урона
+		+5% урона и шанса критического удара
+		'''
+}
+
+GemTechBodyArmor: {
+	DisplayName: Броня Самоцветной Технологии
+	Tooltip: "'Ты не бойся вдруг оказаться на безысходном дне, может там она.'"
+}
+
+GemTechHeadgear: {
+	DisplayName: Наголовник Самоцветной Технологии
+	Tooltip: "'Дьявол сказал: «Наслаждайся своей победой; Ты заслужил свое проклятие, собирай вещи и уходи.»'"
+	AbilityBrief: Силовые Самоцветы - Вокруг вас кружат шесть фрагментов самоцветов. Один на каждый класс и один базовый
+	AbilityDescription:
+		'''
+		Каждый активный самоцвет дает бонус своему классу, в то время как охранный самоцвет дает усиления защите
+		Сильные удары противников могут выбить самоцветы, отправляя их в ближайшего противника и нанося огромный урон
+		Потерянные самоцветы через некоторое время восстанавливаются
+		Потерянный самоцвет будет такого же класса, как и оружие, которое вы используете. Так что готовьте свои руки - придется шустро менять оружие!
+		'''
+	GeneralGemInfo:
+		'''
+		Самоцвет теряется, если вы получаете более {0} урона за один удар.
+		Тип потерянного самоцвета такой же, как и класс недавно использованного оружия
+		Если такой самоцвет уже потерян, то вместо него исчезает охранный самоцвет
+		Когда самоцвет теряется, он отламывается и летит в ближайшего противника или босса, нанося при этом базовые {1} урона
+		У самоцветов имеется {2} секундная задержка, перед тем, как они восстановятся
+		'''
+	RedGemInfo: "[i:Ruby] Красный самоцвет увеличивает характеристики метателя, дает +{0} максимальной скрытности и не позволяет ничему ее тратить, кроме оружия"
+	YellowGemInfo: "[i:Topaz] Желтый самоцвет увеличивает характеристики ближнего боя, а также заставляет такие удары выпускать осколки на небольшой перезарядке. Эта перезарядка короче при ударах в настоящем ближнем бою"
+	GreenGemInfo: "[i:Emerald] Зеленый самоцвет увеличивает характеристики дальнего боя и создает флешетки, которые быстро наводятся на пораженные снарядом дальнего боя цели"
+	BlueGemInfo: "[i:Sapphire] Синий самоцвет дарует +{0} слотов призванных существ, увеличивает их урон и убирает штраф на призывательное оружие, если вы используете оружие другого класса"
+	PurpleGemInfo: "[i:Amethyst] Фиолетовый самоцвет увеличивает магические характеристики, дает +{0} максимальной маны и быстро ее регенерирует, если вы держите немагическое оружие"
+	PinkGemInfo: "[i:Diamond] Розовый охранный самоцвет дает +{0} защиты, больше уменьшения урона, скорости движения, скорости прыжка, и +{1} ОЗ/с регенерации жизни"
+	GemBonusInfo:
+		'''
+		Когда все самоцветы существуют одновременно, попадания по цели любым оружием дарует вам +{0} ОЗ/с регенерации жизни на {1} секунд
+		Это увеличивается до +{2} ОЗ/с регенерации жизни, если в этот {1} секундный период вы начнете использовать оружие другого класса более {3} секунд под ряд
+		'''
+}
+
+GemTechSchynbaulds: {
+	DisplayName: Шинбальды Самоцветной Технологии
+	Tooltip: "'Око за око, зуб за зуб.'"
+}
+
+GodSlayerChestplate: {
+	DisplayName: Кираса Богоубийцы
+	Tooltip:
+		'''
+		+60 максимального здоровья
+		Касающиеся вас противники получают урон
+		+11% урона и +6% шанса критического удара
+		'''
+	CommonSetBonus:
+		'''
+		Позволяет вам совершить рывок на умопомрачительную дистанцию в любом из 8 направлений
+		Нажмите {0}, пока вы удерживаете кнопки движения в нужном вам направлении, чтобы сделать рывок
+		Противники, через которых вы прорываетесь, получают огромный урон
+		Во время рывка вы неуязвимы к урону и большинству вредных эффектов
+		У рывка присутствует {1} секундная перезарядка
+		'''
+}
+
+GodSlayerHeadMelee: {
+	DisplayName: Рогатый Топфхельм Богоубийцы
+	Tooltip:
+		'''
+		+14% урона в ближнем бою
+		+7% шанса критического удара в ближнем бою
+		'''
+	SetBonus:
+		'''
+		+20% скорости атаки в ближнем бою
+		Противники будут предпочитать атаковать вас
+		При получении более 80 урона за один удар вы выпустите рой дротиков богоубийцы с высоким уроном
+		Касающиеся вас противники получают много урона
+		'''
+	/* SetBonusEffect:
+		'''
+		Releases a swarm of god killer darts when taking over {0} damage in one hit
+		{$GodSlayerChestplate.CommonSetBonus@1}
+		''' */
+}
+
+GodSlayerHeadRanged: {
+	DisplayName: Шлем Богоубийцы
+	Tooltip: +14% урона в дальнем бою и шанса критического удара
+	SetBonus: Вы выстреливаете шрапнельным патроном богоубийцы каждые 2.5 секунды, пока используете оружие дальнего боя
+	/* SetBonusEffect:
+		'''
+		Ranged weapons fire a god killer shrapnel round every {0} seconds
+		{$GodSlayerChestplate.CommonSetBonus@1}
+		''' */
+}
+
+GodSlayerHeadRogue: {
+	DisplayName: Маска Богоубийцы
+	Tooltip:
+		'''
+		+14% урона метательного оружия и шанса критического удара
+		+5% скорости движения
+		'''
+	SetBonus:
+		'''
+		+120 максимальной скрытности
+		Пока вы на полном здоровье, все характеристики метателя усилены на 10%
+		При получении более 80 урона за один удар, вы получите дополнительные кадры иммунитета
+		'''
+	/* SetBonusEffect:
+		'''
+		{0}% increased rogue damage, critical strike chance, and velocity when at full health
+		Increased length of invincibility when taking over {1} damage in one hit
+		{$GodSlayerChestplate.CommonSetBonus@2}
+		''' */
+}
+
+GodSlayerLeggings: {
+	DisplayName: Поножи Богоубийцы
+	Tooltip:
+		'''
+		+5% скорости движения
+		+10% урона и шанса критического удара
+		'''
+}
+
+OmegaBlueChestplate: {
+	DisplayName: Кираса Синей Омеги
+	Tooltip:
+		'''
+		+12% урона и +8% шанса критического удара
+		Ваши атаки накладывают Давление Глубин
+		У вас пропадает положительная регенерация жизни
+		'''
+}
+
+OmegaBlueHelmet: {
+	DisplayName: Шлем Синей Омеги
+	Tooltip:
+		'''
+		Вы можете свободно двигаться сквозь жидкости
+		+12% урона и +8% шанса критического удара
+		'''
+	SetBonus:
+		'''
+		+15 пробития защиты
+		+10% урона и шанса критического удара и +2 слотов призванных существ
+		Вы приобретаете короткие щупальца, которые лечат вас засчет высасывания жизни из противников
+		Нажмите {0}, чтобы активировать Абиссальное Безумие на 5 секунд
+		Абиссальное Безумие увеличивает урон, шанс критического удара, размер щупалец и их агрессию
+		У этого эффекта присутствует 25 секундная перезарядка
+		'''
+}
+
+OmegaBlueTentacles: {
+	DisplayName: Щупальца Синей Омеги
+	Tooltip:
+		'''
+		+12% скорости движения
+		+12% урона и шанса критического удара
+		'''
+}
+
+PrismaticGreaves: {
+	DisplayName: Призматические Поножи
+	Tooltip:
+		'''
+		+10% магического урона и +12% шанса критического удара магией
+		-20% немагического урона
+		+10% время полета и +2% скорости прыжка
+		'''
+}
+
+PrismaticHelmet: {
+	DisplayName: Призматический Шлем
+	Tooltip:
+		'''
+		+18% магического урона и +12% шанса критического удара магией
+		-20% немагического урона
+		Противники, у которых менее 500 максимального здоровья не наносят контактного урона
+		Этот эффект пропадает, пока жив босс
+		'''
+	SetBonus:
+		'''
+		+40 максимальной маны и -15% потребления маны
+		Ускоренная регенерация маны
+		Нажмите {0}, чтобы выпустить 5 секундный натиск лазеров смерти на положении курсора
+		У этого эффекта присутствует 30 секундная перезарядка
+		'''
+}
+
+PrismaticRegalia: {
+	DisplayName: Призматические Облачения
+	Tooltip:
+		'''
+		+12% магического урона и +15% шанса критического удара магией
+		-20% немагического урона
+		+20 максимального здоровья и +40 максимальной маны
+		Магические атаки иногда выпускают пару наводящихся ракет
+		'''
+}
+
+SilvaArmor: {
+	DisplayName: Броня Сильвы
+	Tooltip:
+		'''
+		+80 максимального здоровья
+		+12% урона и +8% шанса критического удара
+		'''
+	CommonSetBonus:
+		'''
+		Все снаряды порождают лечащие лиственные сферы при попадания в противников
+		+5% максимальной скорости и ускорения движения
+		Если ваше здоровье падает до 1 ОЗ, то в течение следующих 8 секунд вы не сможете умереть от какой-либо формы урона
+		У этого эффекта присутствует 5 минутная перезарядка. Во время событий или битвы с боссом этот эффект - одноразовый
+		'''
+}
+
+SilvaHeadMagic: {
+	DisplayName: Колпак и Маска Сильвы
+	Tooltip:
+		'''
+		+23% магического урона и +13% шанса критического удара магией
+		+100 максимальной маны и -19% потребления маны
+		'''
+	SetBonus: Магические снаряды без пронзания иногда создают мощные всплески природной энергии
+	/* SetBonusEffect:
+		'''
+		Magic projectiles which cannot pierce will occasionally set off potent blasts of nature energy
+		{$SilvaArmor.CommonSetBonus}
+		''' */
+}
+
+SilvaHeadSummon: {
+	DisplayName: Рогатый Плащ Сильвы
+	Tooltip: +10% урона призванных существ
+	SetBonus:
+		'''
+		+65% урона призванных существ и +5 слотов призванных существ
+		Призывает древнюю лиственную призму, которая будет подрывать ваших врагов энергией жизни
+		'''
+	/* SetBonusEffect:
+		'''
+		Summons an ancient leaf prism to blast your enemies with life energy
+		{$SilvaArmor.CommonSetBonus}
+		''' */
+}
+
+SilvaLeggings: {
+	DisplayName: Поножи Сильвы
+	Tooltip:
+		'''
+		+10% скорости движения
+		+12% урона и шанса критического удара
+		'''
+}
+
+TarragonBreastplate: {
+	DisplayName: Таррагоновый Нагрудник
+	Tooltip:
+		'''
+		+10% урона и +5% шанса критического удара
+		+1.5 ОЗ/с регенерации жизни и +40 максимального здоровья
+		'''
+	CommonSetBonus:
+		'''
+		Уменьшает скорость появления врагов
+		Увеличивает область сбора сердец
+		У противников есть шанс создать дополнительные сердца при смерти
+		'''
+}
+
+TarragonHeadMagic: {
+	DisplayName: Таррагоновая Маска
+	Tooltip:
+		'''
+		+15% магического урона и +10% шанса критического удара магией
+		+10% уменьшения входящего урона, +100 максимальной маны и -15% потребления маны
+		'''
+	SetBonus:
+		'''
+		Каждый пятый критический удар позволяет вам выстрелить лиственной бурей
+		Магические снаряды лечат вас при попадании в противников
+		Количество лечения зависит от урона снаряда
+		'''
+	/* SetBonusEffect:
+		'''
+		On every 5th critical strike you will fire a leaf storm
+		{$TarragonBreastplate.CommonSetBonus}
+		''' */
+}
+
+TarragonHeadMelee: {
+	DisplayName: Таррагоновый Шлем
+	Tooltip:
+		'''
+		+12% урона в ближнем бою и +10% шанса критического удара в ближнем бою
+		+10% уменьшения входящего урона
+		'''
+	SetBonus:
+		'''
+		+15% скорости атаки в ближнем бою
+		Противники будут предпочитать атаковать вас
+		При получении урона вам дается эффект Тарра-Регенерации, который дарует +1.5 ОЗ/с регенерации жизни
+		Нажмите {0}, чтобы облачить себя энергией жизни, которая на следующие 10 секунд сильно уменьшает контактный урон врагов
+		У этого эффекта присутствует 30 секундная перезарядка
+		'''
+	/* SetBonusEffect:
+		'''
+		Taking damage gives [cbuff:CalamityMod/TarraLifeRegen], which grants +{0} HP/s life regen
+		{1} to cloak yourself in life energy that heavily reduces enemy contact damage for {2} seconds
+		This has a {3} second cooldown
+		{$TarragonBreastplate.CommonSetBonus}
+		''' */
+}
+
+TarragonHeadRanged: {
+	DisplayName: Таррагоновый Лик
+	Tooltip:
+		'''
+		+10% урона в дальнем бою и шанса критического удара
+		+10% уменьшения входящего урона
+		'''
+	SetBonus: Снаряды дальнего боя раскалываются при исчезновении на наводящуюся энергию жизни и листья
+	/* SetBonusEffect:
+		'''
+		Ranged projectiles spawn homing life energy and leaves on enemy hits
+		{$TarragonBreastplate.CommonSetBonus}
+		''' */
+}
+
+TarragonHeadRogue: {
+	DisplayName: Таррагоновый Наголовник
+	Tooltip:
+		'''
+		+10% урона метательного оружия и шанса критического удара
+		+10% уменьшения входящего урона и +5% скорости движения
+		'''
+	SetBonus:
+		'''
+		+115 максимальной скрытности
+		Каждый 50-ый критический удар метательным оружием дает вам 2.5 секунды иммунитета к урону
+		У этого эффекта 25 секундная перезарядка
+		Если вы подвержены вредному эффекту, вы получаете +10% урона метательного оружия
+		'''
+	/* SetBonusEffect:
+		'''
+		After every {0} rogue critical hits you will gain {1} seconds of damage immunity
+		This effect has a cooldown of {2} seconds
+		While under the effects of a debuff you gain {3}% increased rogue damage
+		{$TarragonBreastplate.CommonSetBonus}
+		''' */
+}
+
+TarragonHeadSummon: {
+	DisplayName: Таррагоновый Рогатый Шлем
+	Tooltip: +10% уменьшения входящего урона и +5% урона призванных существ
+	SetBonus:
+		'''
+		+50% урона призванных существ и +3 слотов призванных существ
+		Призывает вокруг вас ауру жизни, которая наносит урон ближайшим противникам
+		'''
+	/* SetBonusEffect:
+		'''
+		Summons a life aura around you that damages nearby enemies
+		{$TarragonBreastplate.CommonSetBonus}
+		''' */
+}
+
+TarragonLeggings: {
+	DisplayName: Таррагоновые Поножи
+	Tooltip:
+		'''
+		+10% скорости движения
+		+8% урона и шанса критического удара
+		'''
+}
+
+AuricTeslaHeadRanged: {
+	// DisplayName: Auric Tesla Hooded Facemask
+	/* Tooltip:
+		'''
+		{$CommonItemTooltip.PercentIncreasedRangedDamage} and {$CommonItemTooltip.PercentIncreasedRangedCritChance@1}
+		{$CommonItemTooltip.PercentChanceToSaveAmmo@2}
+		''' */
+	/* SetBonus:
+		'''
+		Ranged Tarragon, Bloodflare and God Slayer armor effects
+		Hold Shift to view these set bonus details and press Shift repeatedly to cycle through them
+		''' */
+	/* SetBonus1:
+		'''
+		Inherited Tarragon Set Bonus:
+		{$TarragonHeadRanged.SetBonusEffect}
+		''' */
+	/* SetBonus2:
+		'''
+		Inherited Bloodflare Set Bonus:
+		{$BloodflareHeadRanged.SetBonusEffect}
+		''' */
+	/* SetBonus3:
+		'''
+		Inherited God Slayer Set Bonus:
+		{$GodSlayerHeadRanged.SetBonusEffect}
+		''' */
+}
+
+AuricTeslaHeadRogue: {
+	// DisplayName: Auric Tesla Plumed Helm
+	/* Tooltip:
+		'''
+		{$Common.RogueDamage} and {$Common.RogueCrit@1}
+		{$CommonItemTooltip.PercentIncreasedMovementSpeed@2}
+		''' */
+	/* SetBonus:
+		'''
+		{$Common.RogueStealth}
+		Rogue Tarragon, Bloodflare and God Slayer armor effects
+		Hold Shift to view these set bonus details and press Shift repeatedly to cycle through them
+		''' */
+	/* SetBonus1:
+		'''
+		Inherited Tarragon Set Bonus:
+		{$TarragonHeadRogue.SetBonusEffect}
+		''' */
+	/* SetBonus2:
+		'''
+		Inherited Bloodflare Set Bonus:
+		{$BloodflareHeadRogue.SetBonusEffect}
+		''' */
+	/* SetBonus3:
+		'''
+		Inherited God Slayer Set Bonus:
+		{$GodSlayerHeadRogue.SetBonusEffect}
+		''' */
+}
+
+AuricTeslaHeadMelee: {
+	// DisplayName: Auric Tesla Royal Helm
+	/* Tooltip:
+		'''
+		{$CommonItemTooltip.PercentIncreasedMeleeDamage}
+		{$CommonItemTooltip.PercentIncreasedMeleeSpeed@1}
+		''' */
+	/* SetBonus:
+		'''
+		{$Common.AggroBoost}
+		Melee Tarragon, Bloodflare and God Slayer effects
+		Hold Shift to view these set bonus details and press Shift repeatedly to cycle through them
+		''' */
+	/* SetBonus1:
+		'''
+		Inherited Tarragon Set Bonus:
+		{$TarragonHeadMelee.SetBonusEffect}
+		''' */
+	/* SetBonus2:
+		'''
+		Inherited Bloodflare Set Bonus:
+		{$BloodflareHeadMelee.SetBonusEffect}
+		''' */
+	/* SetBonus3:
+		'''
+		Inherited God Slayer Set Bonus:
+		{$GodSlayerHeadMelee.SetBonusEffect}
+		''' */
+}
+
+AuricTeslaHeadSummon: {
+	// DisplayName: Auric Tesla Space Helmet
+	/* Tooltip:
+		'''
+		{$CommonItemTooltip.IncreasesMaxMinionsBy}
+		{$CommonItemTooltip.PercentIncreasedSummonDamage@1}
+		''' */
+	/* SetBonus:
+		'''
+		{$CommonItemTooltip.IncreasesMaxMinionsBy}
+		{$CommonItemTooltip.PercentIncreasedSummonDamage@1}
+		Summoner Tarragon, Bloodflare and Silva armor effects
+		Hold Shift to view these set bonus details and press Shift repeatedly to cycle through them
+		''' */
+	/* SetBonus1:
+		'''
+		Inherited Tarragon Set Bonus:
+		{$TarragonHeadSummon.SetBonusEffect}
+		''' */
+	/* SetBonus2:
+		'''
+		Inherited Bloodflare Set Bonus:
+		{$BloodflareHeadSummon.SetBonusEffect}
+		''' */
+	/* SetBonus3:
+		'''
+		Inherited Silva Set Bonus:
+		{$SilvaHeadSummon.SetBonusEffect}
+		''' */
+}
+
+AuricTeslaHeadMagic: {
+	// DisplayName: Auric Tesla Wire-Hemmed Visage
+	/* Tooltip:
+		'''
+		{$CommonItemTooltip.IncreasesMaxManaBy} and {$CommonItemTooltip.PercentReducedManaCost@1}
+		{$CommonItemTooltip.PercentIncreasedMagicDamage@2} and {$CommonItemTooltip.PercentIncreasedMagicCritChance@3}
+		''' */
+	/* SetBonus:
+		'''
+		Magic Tarragon, Bloodflare and Silva armor effects
+		Hold Shift to view these set bonus details and press Shift repeatedly to cycle through them
+		''' */
+	/* SetBonus1:
+		'''
+		Inherited Tarragon Set Bonus:
+		{$TarragonHeadMagic.SetBonusEffect}
+		''' */
+	/* SetBonus2:
+		'''
+		Inherited Bloodflare Set Bonus:
+		{$BloodflareHeadMagic.SetBonusEffect}
+		''' */
+	/* SetBonus3:
+		'''
+		Inherited Silva Set Bonus:
+		{$SilvaHeadMagic.SetBonusEffect}
+		''' */
+}

@@ -1,0 +1,6 @@
+AverageDamageClass.DisplayName: усредненный урон
+MeleeRangedHybridDamageClass.DisplayName: урон в ближнем/дальнем бою
+RogueDamageClass.DisplayName: метательный урон
+StealthDamageClass.DisplayName: урон скрытностью
+TrueMeleeDamageClass.DisplayName: урон в настоящем ближнем бою
+TrueMeleeNoSpeedDamageClass.DisplayName: урон в настоящем ближнем бою

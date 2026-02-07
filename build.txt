@@ -1,0 +1,6 @@
+displayName = Calamity - Русская Локализация
+author = Times Old Роман
+version = 1.5
+modReferences = CalamityMod
+sortAfter = <CalamityMod>
+translationMod=true

@@ -1,0 +1,174 @@
+// Boss Bags
+AquaticScourgeBag: {
+	DisplayName: Мешок с Сокровищами (Водный Бич)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+AstrumAureusBag: {
+	DisplayName: Мешок с Сокровищами (Аструм Ауреус)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+AstrumDeusBag: {
+	DisplayName: Мешок с Сокровищами (Аструм Деус)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+BrimstoneWaifuBag: {
+	DisplayName: Мешок с Сокровищами (Элементаль Серы)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+CalamitasCloneBag: {
+	DisplayName: Мешок с Сокровищами (Доппельгангер Каламитас)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+CalamitasCoffer: {
+	DisplayName: Ларекц с Сокровищами (Каламитас)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+CeaselessVoidBag: {
+	DisplayName: Мешок с Сокровищами (Ненасытная Пустота)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+CrabulonBag: {
+	DisplayName: Мешок с Сокровищами (Крабулон)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+CryogenBag: {
+	DisplayName: Мешок с Сокровищами (Криоген)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+DesertScourgeBag: {
+	DisplayName: Мешок с Сокровищами (Бич Пустыни)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+DevourerofGodsBag: {
+	DisplayName: Мешок с Сокровищами (Пожиратель Богов)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+DraedonBag: {
+	DisplayName: Ящик с Сокровищами (Экзо-Мехи)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+DragonfollyBag: {
+	DisplayName: Мешок с Сокровищами (Драконическая Причуда)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+HiveMindBag: {
+	DisplayName: Мешок с Сокровищами (Роевое Сознание)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+LeviathanBag: {
+	DisplayName: Мешок с Сокровищами (Левиафан и Анахита)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+OldDukeBag: {
+	DisplayName: Мешок с Сокровищами (Древний Герцог)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+PerforatorBag: {
+	DisplayName: Мешок с Сокровищами (Перфораторы)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+PlaguebringerGoliathBag: {
+	DisplayName: Мешок с Сокровищами (Чумоносец Голиаф)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+PolterghastBag: {
+	DisplayName: Мешок с Сокровищами (Полтергаст)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+ProvidenceBag: {
+	DisplayName: Мешок с Сокровищами (Провиденция, Скверная Богиня)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+RavagerBag: {
+	DisplayName: Мешок с Сокровищами (Опустошитель)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+SignusBag: {
+	DisplayName: Мешок с Сокровищами (Сигнус, Посол Пожирателя)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+SlimeGodBag: {
+	DisplayName: Мешок с Сокровищами (Слизневый Бог)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+StormWeaverBag: {
+	DisplayName: Мешок с Сокровищами (Ткач Штормов)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+YharonBag: {
+	DisplayName: Мешок с Сокровищами (Ярон)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+// Miscellaneous Bags
+AbyssalTreasure: {
+	DisplayName: Абиссальное Сокровище
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+BleachedAnglingKit: {
+	DisplayName: Выбеленный Набор для Рыбалки
+	Tooltip:
+		'''
+		Имеет шанс содержать различные рыболовные инструменты
+		{$CommonItemTooltip.RightClickToOpen}
+		'''
+}
+
+FleshyGeode: {
+	DisplayName: Мясистая Жеода
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+NecromanticGeode: {
+	DisplayName: Некромантическая Жеода
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+SandyAnglingKit: {
+	DisplayName: Песчаный Набор для Рыбалки
+	Tooltip:
+		'''
+		Имеет шанс содержать различные рыболовные инструменты
+		{$CommonItemTooltip.RightClickToOpen}
+		'''
+}
+
+StarterBag: {
+	DisplayName: Набор для Начинающих
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+SulphuricTreasure: {
+	DisplayName: Сернистое Сокровище
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+BrimstoneElementalBag: {
+	// DisplayName: Treasure Bag (Brimstone Elemental)
+	// Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}

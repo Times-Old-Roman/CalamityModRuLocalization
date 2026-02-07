@@ -1,0 +1,239 @@
+AerialiteDye: {
+	DisplayName: Аэралитовая Краска
+	Tooltip: ""
+}
+
+AstralBlueDye: {
+	DisplayName: Астрально-Синяя Краска
+	Tooltip: ""
+}
+
+AstralDye: {
+	DisplayName: Краска Астральной Плоти
+	Tooltip: ""
+}
+
+AstralOrangeDye: {
+	DisplayName: Астрально-Оранжевая Краска
+	Tooltip: ""
+}
+
+AstralSwirlDye: {
+	DisplayName: Краска Астральных Завихрений
+	Tooltip: ""
+}
+
+AuricDye: {
+	DisplayName: Ауритовая Краска
+	Tooltip: ""
+}
+
+BloodflareDye: {
+	DisplayName: Краска Кровавого Огня
+	Tooltip: ""
+}
+
+BlueCosmicFlameDye: {
+	DisplayName: Синяя Краска Космического Огня
+	Tooltip: ""
+}
+
+BlueStatigelDye: {
+	DisplayName: Синяя Статигелевая Краска
+	Tooltip: ""
+}
+
+BrimflameDye: {
+	DisplayName: Краска Пламени Серы
+	Tooltip: ""
+}
+
+CalamitousDye: {
+	DisplayName: Бедственная Краска
+	Tooltip: ""
+}
+
+CeaselessDye: {
+	DisplayName: Ненасытная Краска
+	Tooltip: ""
+}
+
+CosmiliteDye: {
+	DisplayName: Космилитовая Краска
+	Tooltip: ""
+}
+
+CryonicDye: {
+	DisplayName: Крионитовая Краска
+	Tooltip: ""
+}
+
+DefiledFlameDye: {
+	DisplayName: Краска Оскверненнго Огня
+	Tooltip: ""
+}
+
+DragonSoulDye: {
+	DisplayName: Краска из Драконьей Эссенции
+	Tooltip: ""
+}
+
+ElementalDye: {
+	DisplayName: Элементальная Краска
+	Tooltip: ""
+}
+
+EndothermicDye: {
+	DisplayName: Эндотермальная Краска
+	Tooltip: ""
+}
+
+ExoDye: {
+	DisplayName: Экзо-Краска
+	Tooltip: ""
+}
+
+AdrenalineHairDye: {
+	DisplayName: Краска для Волос - Адреналин
+	Tooltip: ""
+}
+
+RageHairDye: {
+	DisplayName: Краска для Волос - Буйство
+	Tooltip: ""
+}
+
+StealthHairDye: {
+	DisplayName: Краска для Волос - Скрытность
+	Tooltip: ""
+}
+
+WingTimeHairDye: {
+	DisplayName: Краска для Волос - Время Полета Крыльев
+	Tooltip: ""
+}
+
+NecroplasmicDye: {
+	DisplayName: Некроплазменная Краска
+	Tooltip: ""
+}
+
+NightmareDye: {
+	DisplayName: Кошмарная Краска
+	Tooltip: ""
+}
+
+PinkCosmicFlameDye: {
+	DisplayName: Розовая Краска Космического Пламени
+	Tooltip: ""
+}
+
+PinkStatigelDye: {
+	DisplayName: Розовая Статигелевая Краска
+	Tooltip: ""
+}
+
+ProfanedFlameDye: {
+	DisplayName: Краска Скверного Пламени
+	Tooltip: ""
+}
+
+ProfanedMoonlightDye: {
+	DisplayName: Краска Скверного Лунного Света
+	Tooltip: ""
+}
+
+ReaverDye: {
+	DisplayName: Краска Разорителя
+	Tooltip: ""
+}
+
+ShadowspecDye: {
+	DisplayName: Тенефазовая Краска
+	Tooltip: ""
+}
+
+SlimeGodDye: {
+	DisplayName: Краска Слизневого Бога
+	Tooltip: ""
+}
+
+StratusDye: {
+	DisplayName: Стратусовая Краска
+	Tooltip: ""
+}
+
+SwirlingCosmicFlameDye: {
+	DisplayName: Краска Кружащих Космических Огней
+	Tooltip: ""
+}
+
+AcidRainDye: {
+	// DisplayName: Acid Rain Dye
+	// Tooltip: ""
+}
+
+DaedalusDye: {
+	// DisplayName: Daedalus Dye
+	// Tooltip: ""
+}
+
+InvisibleDye: {
+	// DisplayName: Invisible Dye
+	// Tooltip: ""
+}
+
+LivingShardDye: {
+	// DisplayName: Living Shard Dye
+	// Tooltip: ""
+}
+
+MeldDye: {
+	// DisplayName: Meld Dye
+	// Tooltip: ""
+}
+
+NecromanticDye: {
+	// DisplayName: Necromantic Dye
+	// Tooltip: ""
+}
+
+PlagueGooDye: {
+	// DisplayName: Plague Goo Dye
+	// Tooltip: ""
+}
+
+PlaguePlateDye: {
+	// DisplayName: Plague Plate Dye
+	// Tooltip: ""
+}
+
+ProfanedCrystalDye: {
+	// DisplayName: Profaned Crystal Dye
+	// Tooltip: ""
+}
+
+ProfanedRockDye: {
+	// DisplayName: Profaned Rock Dye
+	// Tooltip: ""
+}
+
+ScoriaDye: {
+	// DisplayName: Scoria Dye
+	// Tooltip: ""
+}
+
+SilvaDye: {
+	// DisplayName: Silva Dye
+	// Tooltip: ""
+}
+
+TarragonDye: {
+	// DisplayName: Tarragon Dye
+	// Tooltip: ""
+}
+
+WulfrumDye: {
+	// DisplayName: Wulfrum Dye
+	// Tooltip: ""
+}

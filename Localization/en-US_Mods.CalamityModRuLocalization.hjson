@@ -1,0 +1,338 @@
+CommonTooltips: {
+	Campfire: Mods.CalamityRuTranslate.CommonTooltips.Campfire
+	Tombstone: Mods.CalamityRuTranslate.CommonTooltips.Tombstone
+	NotConsumable: Mods.CalamityRuTranslate.CommonTooltips.NotConsumable
+	AbyssLightSmall: Mods.CalamityRuTranslate.CommonTooltips.AbyssLightSmall
+	AbyssLightMedium: Mods.CalamityRuTranslate.CommonTooltips.AbyssLightMedium
+	AbyssLightHigh: Mods.CalamityRuTranslate.CommonTooltips.AbyssLightHigh
+	AbyssBreathMedium: Mods.CalamityRuTranslate.CommonTooltips.AbyssBreathMedium
+	AbyssBreathHigh: Mods.CalamityRuTranslate.CommonTooltips.AbyssBreathHigh
+	CobaltWeapons: Mods.CalamityRuTranslate.CommonTooltips.CobaltWeapons
+	PalladiumWeapons: Mods.CalamityRuTranslate.CommonTooltips.PalladiumWeapons
+	MythrilWeapons: Mods.CalamityRuTranslate.CommonTooltips.MythrilWeapons
+	OrichalcumWeapons: Mods.CalamityRuTranslate.CommonTooltips.OrichalcumWeapons
+	AdamantiteWeapons: Mods.CalamityRuTranslate.CommonTooltips.AdamantiteWeapons
+	TitaniumWeapons: Mods.CalamityRuTranslate.CommonTooltips.TitaniumWeapons
+	HallowedWeapons: Mods.CalamityRuTranslate.CommonTooltips.HallowedWeapons
+	ZenithRogue: Mods.CalamityRuTranslate.CommonTooltips.ZenithRogue
+	Zenithrogue: Mods.CalamityRuTranslate.CommonTooltips.Zenithrogue
+	GoldTierPickaxe: Mods.CalamityRuTranslate.CommonTooltips.GoldTierPickaxe
+	LunarTierPickaxeDrill: Mods.CalamityRuTranslate.CommonTooltips.LunarTierPickaxeDrill
+	FleshKnucklesHP: Mods.CalamityRuTranslate.CommonTooltips.FleshKnucklesHP
+	PutsShell: Mods.CalamityRuTranslate.CommonTooltips.PutsShell
+	ZoomVisibility: Mods.CalamityRuTranslate.CommonTooltips.ZoomVisibility
+	TitanGloveEffect: Mods.CalamityRuTranslate.CommonTooltips.TitanGloveEffect
+	YoyoAdd: Mods.CalamityRuTranslate.CommonTooltips.YoyoAdd
+	IronArmor: Mods.CalamityRuTranslate.CommonTooltips.IronArmor
+	LeadArmor: Mods.CalamityRuTranslate.CommonTooltips.LeadArmor
+	GoldHelmet: Mods.CalamityRuTranslate.CommonTooltips.GoldHelmet
+	ImmunityToFireBlocksChange: Mods.CalamityRuTranslate.CommonTooltips.ImmunityToFireBlocksChange
+	FlasksMeleeSummonRogue: Mods.CalamityRuTranslate.CommonTooltips.FlasksMeleeSummonRogue
+	AlcoholVanilla: Mods.CalamityRuTranslate.CommonTooltips.AlcoholVanilla
+	ChristmasWeapons: Mods.CalamityRuTranslate.CommonTooltips.ChristmasWeapons
+	TotalDefenseIgnore: Mods.CalamityRuTranslate.CommonTooltips.TotalDefenseIgnore
+	HalfDefenseIgnore: Mods.CalamityRuTranslate.CommonTooltips.HalfDefenseIgnore
+	SlimeFireBuff: Mods.CalamityRuTranslate.CommonTooltips.SlimeFireBuff
+	AltarBreaker: Mods.CalamityRuTranslate.CommonTooltips.AltarBreaker
+	WingsVertSpeedaverage: Mods.CalamityRuTranslate.CommonTooltips.WingsVertSpeedaverage
+	WingsVertSpeedgood: Mods.CalamityRuTranslate.CommonTooltips.WingsVertSpeedgood
+	WingsVertSpeedgreat: Mods.CalamityRuTranslate.CommonTooltips.WingsVertSpeedgreat
+	WingsVertSpeedexcellent: Mods.CalamityRuTranslate.CommonTooltips.WingsVertSpeedexcellent
+	WingsStats: Mods.CalamityRuTranslate.CommonTooltips.WingsStats
+	HookStats: Mods.CalamityRuTranslate.CommonTooltips.HookStats
+	DodgeReworkTooltip: Mods.CalamityRuTranslate.CommonTooltips.DodgeReworkTooltip
+	WingsVertSpeedbad: Mods.CalamityRuTranslate.CommonTooltips.WingsVertSpeedbad
+}
+
+Misc: {
+	OrRev: Mods.CalamityRuTranslate.Misc.OrRev
+	DevItem: Mods.CalamityRuTranslate.Misc.DevItem
+	DonorItem: Mods.CalamityRuTranslate.Misc.DonorItem
+	PointBlankShot: Mods.CalamityRuTranslate.Misc.PointBlankShot
+	DraedonCharge: Mods.CalamityRuTranslate.Misc.DraedonCharge
+	DamageReductionPercent: Mods.CalamityRuTranslate.Misc.DamageReductionPercent
+	LuckValue: Mods.CalamityRuTranslate.Misc.LuckValue
+	RodofDiscord: Mods.CalamityRuTranslate.Misc.RodofDiscord
+	GoldenFishingRod: Mods.CalamityRuTranslate.Misc.GoldenFishingRod
+	Picksaw: Mods.CalamityRuTranslate.Misc.Picksaw
+	HeartLantern: Mods.CalamityRuTranslate.Misc.HeartLantern
+}
+
+VanillaAccs: {
+	ObsidianSkull: Mods.CalamityRuTranslate.VanillaAccs.ObsidianSkull
+	ObsidianSkullRose: Mods.CalamityRuTranslate.VanillaAccs.ObsidianSkullRose
+	MoltenCharm: Mods.CalamityRuTranslate.VanillaAccs.MoltenCharm
+	ObsidianHorseshoe: Mods.CalamityRuTranslate.VanillaAccs.ObsidianHorseshoe
+	ObsidianShield: Mods.CalamityRuTranslate.VanillaAccs.ObsidianShield
+	ObsidianWaterWalkingBoots: Mods.CalamityRuTranslate.VanillaAccs.ObsidianWaterWalkingBoots
+	LavaWaders: Mods.CalamityRuTranslate.VanillaAccs.LavaWaders
+	LavaSkull: Mods.CalamityRuTranslate.VanillaAccs.LavaSkull
+	MoltenSkullRose: Mods.CalamityRuTranslate.VanillaAccs.MoltenSkullRose
+	AnkhShield: Mods.CalamityRuTranslate.VanillaAccs.AnkhShield
+	ShinyStone: Mods.CalamityRuTranslate.VanillaAccs.ShinyStone
+	BandofRegeneration: Mods.CalamityRuTranslate.VanillaAccs.BandofRegeneration
+	CharmofMyths: Mods.CalamityRuTranslate.VanillaAccs.CharmofMyths
+	FlameWakerBoots: Mods.CalamityRuTranslate.VanillaAccs.FlameWakerBoots
+	HellfireTreads: Mods.CalamityRuTranslate.VanillaAccs.HellfireTreads
+	FairyBoots: Mods.CalamityRuTranslate.VanillaAccs.FairyBoots
+	FrozenTurtleShell: Mods.CalamityRuTranslate.VanillaAccs.FrozenTurtleShell
+	FrozenShield: Mods.CalamityRuTranslate.VanillaAccs.FrozenShield
+	NeptunesShell: Mods.CalamityRuTranslate.VanillaAccs.NeptunesShell
+	MoonShell: Mods.CalamityRuTranslate.VanillaAccs.MoonShell
+	MoonStone: Mods.CalamityRuTranslate.VanillaAccs.MoonStone
+	SunStone: Mods.CalamityRuTranslate.VanillaAccs.SunStone
+	CelestialStone: Mods.CalamityRuTranslate.VanillaAccs.CelestialStone
+	CelestialShell: Mods.CalamityRuTranslate.VanillaAccs.CelestialShell
+	MagnetFlower: Mods.CalamityRuTranslate.VanillaAccs.MagnetFlower
+	ArcaneFlower: Mods.CalamityRuTranslate.VanillaAccs.ArcaneFlower
+	ManaCloak: Mods.CalamityRuTranslate.VanillaAccs.ManaCloak
+
+	Magiluminescence: {
+		$parentVal: Mods.CalamityRuTranslate.VanillaAccs.Magiluminescence
+		AbyssLightChange: Mods.CalamityRuTranslate.VanillaAccs.Magiluminescence.AbyssLightChange
+		Other: Mods.CalamityRuTranslate.VanillaAccs.Magiluminescence.Other
+	}
+
+	EmpressFlightBooster: Mods.CalamityRuTranslate.VanillaAccs.EmpressFlightBooster
+	RifleScope: Mods.CalamityRuTranslate.VanillaAccs.RifleScope
+
+	SniperScope: {
+		Visibility: Mods.CalamityRuTranslate.VanillaAccs.SniperScope.Visibility
+		Other: Mods.CalamityRuTranslate.VanillaAccs.SniperScope.Other
+	}
+
+	ReconScope: Mods.CalamityRuTranslate.VanillaAccs.ReconScope
+	MagicQuiver: Mods.CalamityRuTranslate.VanillaAccs.MagicQuiver
+
+	MoltenQuiver: {
+		HellfireChange: Mods.CalamityRuTranslate.VanillaAccs.MoltenQuiver.HellfireChange
+		Other: Mods.CalamityRuTranslate.VanillaAccs.MoltenQuiver.Other
+	}
+
+	FleshKnuckles: Mods.CalamityRuTranslate.VanillaAccs.FleshKnuckles
+	HeroShield: Mods.CalamityRuTranslate.VanillaAccs.HeroShield
+	TitanGlove: Mods.CalamityRuTranslate.VanillaAccs.TitanGlove
+	PowerGlove: Mods.CalamityRuTranslate.VanillaAccs.PowerGlove
+
+	BerserkerGlove: {
+		BuffTitanGlove: Mods.CalamityRuTranslate.VanillaAccs.BerserkerGlove.BuffTitanGlove
+		BuffFleshKnuckles: Mods.CalamityRuTranslate.VanillaAccs.BerserkerGlove.BuffFleshKnuckles
+	}
+
+	MechanicalGlove: Mods.CalamityRuTranslate.VanillaAccs.MechanicalGlove
+
+	FireGauntlet: {
+		HellfireChange: Mods.CalamityRuTranslate.VanillaAccs.FireGauntlet.HellfireChange
+		Other: Mods.CalamityRuTranslate.VanillaAccs.FireGauntlet.Other
+	}
+
+	YoYoGlove: Mods.CalamityRuTranslate.VanillaAccs.YoYoGlove
+	YoyoBag: Mods.CalamityRuTranslate.VanillaAccs.YoyoBag
+	TerrasparkBoots: Mods.CalamityRuTranslate.VanillaAccs.TerrasparkBoots
+	HandWarmer: Mods.CalamityRuTranslate.VanillaAccs.HandWarmer
+	JellyfishNecklace: Mods.CalamityRuTranslate.VanillaAccs.JellyfishNecklace
+	JellyfishDivingGear: Mods.CalamityRuTranslate.VanillaAccs.JellyfishDivingGear
+	DivingHelmt: Mods.CalamityRuTranslate.VanillaAccs.DivingHelmt
+	ArcticDivingGear: Mods.CalamityRuTranslate.VanillaAccs.ArcticDivingGear
+	DivingHelmet: Mods.CalamityRuTranslate.VanillaAccs.DivingHelmet
+}
+
+VanillaArmor: {
+	MagicHat: Mods.CalamityRuTranslate.VanillaArmor.MagicHat
+	Gi: Mods.CalamityRuTranslate.VanillaArmor.Gi
+	CopperHelmet: Mods.CalamityRuTranslate.VanillaArmor.CopperHelmet
+	CopperChainmail: Mods.CalamityRuTranslate.VanillaArmor.CopperChainmail
+	CopperGreaves: Mods.CalamityRuTranslate.VanillaArmor.CopperGreaves
+	TinHelmet: Mods.CalamityRuTranslate.VanillaArmor.TinHelmet
+	TinChainmail: Mods.CalamityRuTranslate.VanillaArmor.TinChainmail
+	TinGreaves: Mods.CalamityRuTranslate.VanillaArmor.TinGreaves
+	IronHelmet: Mods.CalamityRuTranslate.VanillaArmor.IronHelmet
+	AncientIronHelmet: Mods.CalamityRuTranslate.VanillaArmor.AncientIronHelmet
+	IronChainmail: Mods.CalamityRuTranslate.VanillaArmor.IronChainmail
+	IronGreaves: Mods.CalamityRuTranslate.VanillaArmor.IronGreaves
+	LeadHelmet: Mods.CalamityRuTranslate.VanillaArmor.LeadHelmet
+	LeadChainmail: Mods.CalamityRuTranslate.VanillaArmor.LeadChainmail
+	LeadGreaves: Mods.CalamityRuTranslate.VanillaArmor.LeadGreaves
+	SilverHelmet: Mods.CalamityRuTranslate.VanillaArmor.SilverHelmet
+	SilverChainmail: Mods.CalamityRuTranslate.VanillaArmor.SilverChainmail
+	SilverGreaves: Mods.CalamityRuTranslate.VanillaArmor.SilverGreaves
+	TungstenHelmet: Mods.CalamityRuTranslate.VanillaArmor.TungstenHelmet
+	TungstenChainmail: Mods.CalamityRuTranslate.VanillaArmor.TungstenChainmail
+	TungstenGreaves: Mods.CalamityRuTranslate.VanillaArmor.TungstenGreaves
+	GoldHelmet: Mods.CalamityRuTranslate.VanillaArmor.GoldHelmet
+	AncientGoldHelmet: Mods.CalamityRuTranslate.VanillaArmor.AncientGoldHelmet
+	GoldChainmail: Mods.CalamityRuTranslate.VanillaArmor.GoldChainmail
+	GoldGreaves: Mods.CalamityRuTranslate.VanillaArmor.GoldGreaves
+	PlatinumHelmet: Mods.CalamityRuTranslate.VanillaArmor.PlatinumHelmet
+	PlatinumChainmail: Mods.CalamityRuTranslate.VanillaArmor.PlatinumChainmail
+	PlatinumGreaves: Mods.CalamityRuTranslate.VanillaArmor.PlatinumGreaves
+	CrimsonHelmet: Mods.CalamityRuTranslate.VanillaArmor.CrimsonHelmet
+	CrimsonScalemail: Mods.CalamityRuTranslate.VanillaArmor.CrimsonScalemail
+	CrimsonGreaves: Mods.CalamityRuTranslate.VanillaArmor.CrimsonGreaves
+	CobaltHat: Mods.CalamityRuTranslate.VanillaArmor.CobaltHat
+	PalladiumBreastplate: Mods.CalamityRuTranslate.VanillaArmor.PalladiumBreastplate
+	PalladiumLeggings: Mods.CalamityRuTranslate.VanillaArmor.PalladiumLeggings
+	MythrilHood: Mods.CalamityRuTranslate.VanillaArmor.MythrilHood
+	OrichalcumBreastplate: Mods.CalamityRuTranslate.VanillaArmor.OrichalcumBreastplate
+	AdamantiteHeadgear: Mods.CalamityRuTranslate.VanillaArmor.AdamantiteHeadgear
+	SquireGreatHelm: Mods.CalamityRuTranslate.VanillaArmor.SquireGreatHelm
+	SquirePlating: Mods.CalamityRuTranslate.VanillaArmor.SquirePlating
+	SquireGreaves: Mods.CalamityRuTranslate.VanillaArmor.SquireGreaves
+	MonkBrows: Mods.CalamityRuTranslate.VanillaArmor.MonkBrows
+	MonkShirt: Mods.CalamityRuTranslate.VanillaArmor.MonkShirt
+	MonkPants: Mods.CalamityRuTranslate.VanillaArmor.MonkPants
+	HuntressJerkin: Mods.CalamityRuTranslate.VanillaArmor.HuntressJerkin
+	ApprenticeTrousers: Mods.CalamityRuTranslate.VanillaArmor.ApprenticeTrousers
+	SquireAltShirt: Mods.CalamityRuTranslate.VanillaArmor.SquireAltShirt
+	SquireAltPants: Mods.CalamityRuTranslate.VanillaArmor.SquireAltPants
+	MonkAltHead: Mods.CalamityRuTranslate.VanillaArmor.MonkAltHead
+	MonkAltShirt: Mods.CalamityRuTranslate.VanillaArmor.MonkAltShirt
+	MonkAltPants: Mods.CalamityRuTranslate.VanillaArmor.MonkAltPants
+	HuntressAltShirt: Mods.CalamityRuTranslate.VanillaArmor.HuntressAltShirt
+	ApprenticeAltPants: Mods.CalamityRuTranslate.VanillaArmor.ApprenticeAltPants
+	ForbiddenArmor: Mods.CalamityRuTranslate.VanillaArmor.ForbiddenArmor
+	GladiatorHelmet: Mods.CalamityRuTranslate.VanillaArmor.GladiatorHelmet
+	GladiatorBreastplate: Mods.CalamityRuTranslate.VanillaArmor.GladiatorBreastplate
+	GladiatorLeggings: Mods.CalamityRuTranslate.VanillaArmor.GladiatorLeggings
+	SolarFlareHelmet: Mods.CalamityRuTranslate.VanillaArmor.SolarFlareHelmet
+	SolarFlareBreastplate: Mods.CalamityRuTranslate.VanillaArmor.SolarFlareBreastplate
+	SolarFlareLeggings: Mods.CalamityRuTranslate.VanillaArmor.SolarFlareLeggings
+	MiningHelmet: Mods.CalamityRuTranslate.VanillaArmor.MiningHelmet
+	UltrabrightHelmet: Mods.CalamityRuTranslate.VanillaArmor.UltrabrightHelmet
+	ForbiddenArmorBonus: Mods.CalamityRuTranslate.VanillaArmor.ForbiddenArmorBonus
+}
+
+VanillaItems: {
+	TruffleWorm: Mods.CalamityRuTranslate.VanillaItems.TruffleWorm
+	Abeemination: Mods.CalamityRuTranslate.VanillaItems.Abeemination
+	BloodySpine: Mods.CalamityRuTranslate.VanillaItems.BloodySpine
+	ClothierVoodooDoll: Mods.CalamityRuTranslate.VanillaItems.ClothierVoodooDoll
+	DeerThing: Mods.CalamityRuTranslate.VanillaItems.DeerThing
+	GuideVoodooDoll: Mods.CalamityRuTranslate.VanillaItems.GuideVoodooDoll
+	LihzahrdPowerCell: Mods.CalamityRuTranslate.VanillaItems.LihzahrdPowerCell
+	MechanicalWorm: Mods.CalamityRuTranslate.VanillaItems.MechanicalWorm
+	MechanicalEye: Mods.CalamityRuTranslate.VanillaItems.MechanicalEye
+	MechanicalSkull: Mods.CalamityRuTranslate.VanillaItems.MechanicalSkull
+	QueenSlimeCrystal: Mods.CalamityRuTranslate.VanillaItems.QueenSlimeCrystal
+	WormFood: Mods.CalamityRuTranslate.VanillaItems.WormFood
+	AegisCrystal: Mods.CalamityRuTranslate.VanillaItems.AegisCrystal
+	DD2ElderCrystal: Mods.CalamityRuTranslate.VanillaItems.DD2ElderCrystal
+	Pwnhammer: Mods.CalamityRuTranslate.VanillaItems.Pwnhammer
+	Hammush: Mods.CalamityRuTranslate.VanillaItems.Hammush
+	GoldPickaxe: Mods.CalamityRuTranslate.VanillaItems.GoldPickaxe
+	PlatinumPickaxe: Mods.CalamityRuTranslate.VanillaItems.PlatinumPickaxe
+	SolarFlarePickaxe: Mods.CalamityRuTranslate.VanillaItems.SolarFlarePickaxe
+	VortexPickaxe: Mods.CalamityRuTranslate.VanillaItems.VortexPickaxe
+	NebulaPickaxe: Mods.CalamityRuTranslate.VanillaItems.NebulaPickaxe
+	StardustPickaxe: Mods.CalamityRuTranslate.VanillaItems.StardustPickaxe
+	SolarFlareDrill: Mods.CalamityRuTranslate.VanillaItems.SolarFlareDrill
+	VortexDrill: Mods.CalamityRuTranslate.VanillaItems.VortexDrill
+	NebulaDrill: Mods.CalamityRuTranslate.VanillaItems.NebulaDrill
+	StardustDrill: Mods.CalamityRuTranslate.VanillaItems.StardustDrill
+	ShadowOrb: Mods.CalamityRuTranslate.VanillaItems.ShadowOrb
+	CrimsonHeart: Mods.CalamityRuTranslate.VanillaItems.CrimsonHeart
+	MagicLantern: Mods.CalamityRuTranslate.VanillaItems.MagicLantern
+	FairyBell: Mods.CalamityRuTranslate.VanillaItems.FairyBell
+	DD2PetGhost: Mods.CalamityRuTranslate.VanillaItems.DD2PetGhost
+	WispinaBottle: Mods.CalamityRuTranslate.VanillaItems.WispinaBottle
+	SuspiciousLookingTentacle: Mods.CalamityRuTranslate.VanillaItems.SuspiciousLookingTentacle
+	GolemPetItem: Mods.CalamityRuTranslate.VanillaItems.GolemPetItem
+	FairyQueenPetItem: Mods.CalamityRuTranslate.VanillaItems.FairyQueenPetItem
+	PumpkingPetItem: Mods.CalamityRuTranslate.VanillaItems.PumpkingPetItem
+}
+
+VanillaPotions: {
+	BottledHoney: Mods.CalamityRuTranslate.VanillaPotions.BottledHoney
+	RegenerationPotion: Mods.CalamityRuTranslate.VanillaPotions.RegenerationPotion
+	WarmthPotion: Mods.CalamityRuTranslate.VanillaPotions.WarmthPotion
+	IronskinPotion: Mods.CalamityRuTranslate.VanillaPotions.IronskinPotion
+	ArcheryPotion: Mods.CalamityRuTranslate.VanillaPotions.ArcheryPotion
+	SwiftnessPotion: Mods.CalamityRuTranslate.VanillaPotions.SwiftnessPotion
+	GillsPotion: Mods.CalamityRuTranslate.VanillaPotions.GillsPotion
+	ShinePotion: Mods.CalamityRuTranslate.VanillaPotions.ShinePotion
+	MagicPowerPotion: Mods.CalamityRuTranslate.VanillaPotions.MagicPowerPotion
+	FeatherfallPotion: Mods.CalamityRuTranslate.VanillaPotions.FeatherfallPotion
+	HealingPotions: Mods.CalamityRuTranslate.VanillaPotions.HealingPotions
+	Ale: Mods.CalamityRuTranslate.VanillaPotions.Ale
+	Sake: Mods.CalamityRuTranslate.VanillaPotions.Sake
+	FlaskofPoison: Mods.CalamityRuTranslate.VanillaPotions.FlaskofPoison
+	FlaskofFire: Mods.CalamityRuTranslate.VanillaPotions.FlaskofFire
+	FlaskofParty: Mods.CalamityRuTranslate.VanillaPotions.FlaskofParty
+	FlaskofGold: Mods.CalamityRuTranslate.VanillaPotions.FlaskofGold
+	FlaskofCursedFlames: Mods.CalamityRuTranslate.VanillaPotions.FlaskofCursedFlames
+	FlaskofIchor: Mods.CalamityRuTranslate.VanillaPotions.FlaskofIchor
+	FlaskofNanites: Mods.CalamityRuTranslate.VanillaPotions.FlaskofNanites
+	FlaskofVenom: Mods.CalamityRuTranslate.VanillaPotions.FlaskofVenom
+}
+
+VanillaWeapons: {
+	SlimeGun: Mods.CalamityRuTranslate.VanillaWeapons.SlimeGun
+	GelBalloon: Mods.CalamityRuTranslate.VanillaWeapons.GelBalloon
+	SoulDrain: Mods.CalamityRuTranslate.VanillaWeapons.SoulDrain
+	HamBat: Mods.CalamityRuTranslate.VanillaWeapons.HamBat
+	DD2BetsyBow: Mods.CalamityRuTranslate.VanillaWeapons.DD2BetsyBow
+	DeathSickle: Mods.CalamityRuTranslate.VanillaWeapons.DeathSickle
+	CobaltSword: Mods.CalamityRuTranslate.VanillaWeapons.CobaltSword
+	CobaltNaginata: Mods.CalamityRuTranslate.VanillaWeapons.CobaltNaginata
+	PalladiumSword: Mods.CalamityRuTranslate.VanillaWeapons.PalladiumSword
+	PalladiumPike: Mods.CalamityRuTranslate.VanillaWeapons.PalladiumPike
+	MythrilSword: Mods.CalamityRuTranslate.VanillaWeapons.MythrilSword
+	MythrilHalberd: Mods.CalamityRuTranslate.VanillaWeapons.MythrilHalberd
+	OrichalcumSword: Mods.CalamityRuTranslate.VanillaWeapons.OrichalcumSword
+	OrichalcumHalberd: Mods.CalamityRuTranslate.VanillaWeapons.OrichalcumHalberd
+	AdamantiteSword: Mods.CalamityRuTranslate.VanillaWeapons.AdamantiteSword
+	AdamantiteGlaive: Mods.CalamityRuTranslate.VanillaWeapons.AdamantiteGlaive
+	TitaniumSword: Mods.CalamityRuTranslate.VanillaWeapons.TitaniumSword
+	TitaniumTrident: Mods.CalamityRuTranslate.VanillaWeapons.TitaniumTrident
+	Excalibur: Mods.CalamityRuTranslate.VanillaWeapons.Excalibur
+	Gungnir: Mods.CalamityRuTranslate.VanillaWeapons.Gungnir
+	TrueExcalibur: Mods.CalamityRuTranslate.VanillaWeapons.TrueExcalibur
+	CandyCaneSword: Mods.CalamityRuTranslate.VanillaWeapons.CandyCaneSword
+	FruitcakeChakram: Mods.CalamityRuTranslate.VanillaWeapons.FruitcakeChakram
+	StylistKilLaKillScissorsIWish: Mods.CalamityRuTranslate.VanillaWeapons.StylistKilLaKillScissorsIWish
+	BluePhaseblade: Mods.CalamityRuTranslate.VanillaWeapons.BluePhaseblade
+	RedPhaseblade: Mods.CalamityRuTranslate.VanillaWeapons.RedPhaseblade
+	GreenPhaseblade: Mods.CalamityRuTranslate.VanillaWeapons.GreenPhaseblade
+	PurplePhaseblade: Mods.CalamityRuTranslate.VanillaWeapons.PurplePhaseblade
+	WhitePhaseblade: Mods.CalamityRuTranslate.VanillaWeapons.WhitePhaseblade
+	YellowPhaseblade: Mods.CalamityRuTranslate.VanillaWeapons.YellowPhaseblade
+	OrangePhaseblade: Mods.CalamityRuTranslate.VanillaWeapons.OrangePhaseblade
+	BluePhasesaber: Mods.CalamityRuTranslate.VanillaWeapons.BluePhasesaber
+	RedPhasesaber: Mods.CalamityRuTranslate.VanillaWeapons.RedPhasesaber
+	GreenPhasesaber: Mods.CalamityRuTranslate.VanillaWeapons.GreenPhasesaber
+	PurplePhasesaber: Mods.CalamityRuTranslate.VanillaWeapons.PurplePhasesaber
+	WhitePhasesaber: Mods.CalamityRuTranslate.VanillaWeapons.WhitePhasesaber
+	YellowPhasesaber: Mods.CalamityRuTranslate.VanillaWeapons.YellowPhasesaber
+	OrangePhasesaber: Mods.CalamityRuTranslate.VanillaWeapons.OrangePhasesaber
+	AntlionClaw: Mods.CalamityRuTranslate.VanillaWeapons.AntlionClaw
+	BoneSword: Mods.CalamityRuTranslate.VanillaWeapons.BoneSword
+	BreakerBlade: Mods.CalamityRuTranslate.VanillaWeapons.BreakerBlade
+	FalconBlade: Mods.CalamityRuTranslate.VanillaWeapons.FalconBlade
+}
+
+VanillaWings: {
+	AngelWings: Mods.CalamityRuTranslate.VanillaWings.AngelWings
+	DemonWings: Mods.CalamityRuTranslate.VanillaWings.DemonWings
+	FairyWings: Mods.CalamityRuTranslate.VanillaWings.FairyWings
+	FinWings: Mods.CalamityRuTranslate.VanillaWings.FinWings
+	ButterflyWings: Mods.CalamityRuTranslate.VanillaWings.ButterflyWings
+	HarpyWings: Mods.CalamityRuTranslate.VanillaWings.HarpyWings
+	FlameWings: Mods.CalamityRuTranslate.VanillaWings.FlameWings
+	FrozenWings: Mods.CalamityRuTranslate.VanillaWings.FrozenWings
+	BatWings: Mods.CalamityRuTranslate.VanillaWings.BatWings
+	BeeWings: Mods.CalamityRuTranslate.VanillaWings.BeeWings
+	BoneWings: Mods.CalamityRuTranslate.VanillaWings.BoneWings
+	GhostWings: Mods.CalamityRuTranslate.VanillaWings.GhostWings
+	LeafWings: Mods.CalamityRuTranslate.VanillaWings.LeafWings
+	Hoverboard: Mods.CalamityRuTranslate.VanillaWings.Hoverboard
+	MothronWings: Mods.CalamityRuTranslate.VanillaWings.MothronWings
+	BeetleWings: Mods.CalamityRuTranslate.VanillaWings.BeetleWings
+	SteampunkWings: Mods.CalamityRuTranslate.VanillaWings.SteampunkWings
+	TatteredFairyWings: Mods.CalamityRuTranslate.VanillaWings.TatteredFairyWings
+	SpookyWings: Mods.CalamityRuTranslate.VanillaWings.SpookyWings
+	FestiveWings: Mods.CalamityRuTranslate.VanillaWings.FestiveWings
+	WingsSolar: Mods.CalamityRuTranslate.VanillaWings.WingsSolar
+	WingsVortex: Mods.CalamityRuTranslate.VanillaWings.WingsVortex
+	WingsNebula: Mods.CalamityRuTranslate.VanillaWings.WingsNebula
+	WingsStardust: Mods.CalamityRuTranslate.VanillaWings.WingsStardust
+}

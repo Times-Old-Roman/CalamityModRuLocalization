@@ -1,0 +1,50 @@
+SlimeGun: "{$Mods.CalamityModRuLocalization.CommonTooltips.SlimeFireBuff}"
+GelBalloon:
+	'''
+	Метните микстуру блестящих кристаллов и геля
+	{$Mods.CalamityModRuLocalization.CommonTooltips.SlimeFireBuff}
+	'''
+DD2BetsyBow: Стреляет расщепляющимися стрелами
+CobaltSword: "{$Mods.CalamityModRuLocalization.CommonTooltips.CobaltWeapons}"
+CobaltNaginata: "{$Mods.CalamityModRuLocalization.CommonTooltips.CobaltWeapons}"
+PalladiumSword: "{$Mods.CalamityModRuLocalization.CommonTooltips.PalladiumWeapons}"
+PalladiumPike: "{$Mods.CalamityModRuLocalization.CommonTooltips.PalladiumWeapons}"
+MythrilSword: "{$Mods.CalamityModRuLocalization.CommonTooltips.MythrilWeapons}"
+MythrilHalberd: "{$Mods.CalamityModRuLocalization.CommonTooltips.MythrilWeapons}"
+OrichalcumSword: "{$Mods.CalamityModRuLocalization.CommonTooltips.OrichalcumWeapons}"
+OrichalcumHalberd: "{$Mods.CalamityModRuLocalization.CommonTooltips.OrichalcumWeapons}"
+AdamantiteSword: "{$Mods.CalamityModRuLocalization.CommonTooltips.AdamantiteWeapons}"
+AdamantiteGlaive: "{$Mods.CalamityModRuLocalization.CommonTooltips.AdamantiteWeapons}"
+TitaniumSword: "{$Mods.CalamityModRuLocalization.CommonTooltips.TitaniumWeapons}"
+TitaniumTrident: "{$Mods.CalamityModRuLocalization.CommonTooltips.TitaniumWeapons}"
+Excalibur: "{$Mods.CalamityModRuLocalization.CommonTooltips.HallowedWeapons}"
+Gungnir: "{$Mods.CalamityModRuLocalization.CommonTooltips.HallowedWeapons}"
+TrueExcalibur: "{$Mods.CalamityModRuLocalization.CommonTooltips.HallowedWeapons}"
+CandyCaneSword: "{$Mods.CalamityModRuLocalization.CommonTooltips.ChristmasWeapons}"
+FruitcakeChakram: "{$Mods.CalamityModRuLocalization.CommonTooltips.ChristmasWeapons}"
+StylistKilLaKillScissorsIWish: "{$Mods.CalamityModRuLocalization.CommonTooltips.TotalDefenseIgnore}"
+BluePhaseblade: "{$Mods.CalamityModRuLocalization.CommonTooltips.TotalDefenseIgnore}"
+RedPhaseblade: "{$Mods.CalamityModRuLocalization.CommonTooltips.TotalDefenseIgnore}"
+GreenPhaseblade: "{$Mods.CalamityModRuLocalization.CommonTooltips.TotalDefenseIgnore}"
+PurplePhaseblade: "{$Mods.CalamityModRuLocalization.CommonTooltips.TotalDefenseIgnore}"
+WhitePhaseblade: "{$Mods.CalamityModRuLocalization.CommonTooltips.TotalDefenseIgnore}"
+YellowPhaseblade: "{$Mods.CalamityModRuLocalization.CommonTooltips.TotalDefenseIgnore}"
+OrangePhaseblade: "{$Mods.CalamityModRuLocalization.CommonTooltips.TotalDefenseIgnore}"
+BluePhasesaber: "{$Mods.CalamityModRuLocalization.CommonTooltips.TotalDefenseIgnore}"
+RedPhasesaber: "{$Mods.CalamityModRuLocalization.CommonTooltips.TotalDefenseIgnore}"
+GreenPhasesaber: "{$Mods.CalamityModRuLocalization.CommonTooltips.TotalDefenseIgnore}"
+PurplePhasesaber: "{$Mods.CalamityModRuLocalization.CommonTooltips.TotalDefenseIgnore}"
+WhitePhasesaber: "{$Mods.CalamityModRuLocalization.CommonTooltips.TotalDefenseIgnore}"
+YellowPhasesaber: "{$Mods.CalamityModRuLocalization.CommonTooltips.TotalDefenseIgnore}"
+OrangePhasesaber: "{$Mods.CalamityModRuLocalization.CommonTooltips.TotalDefenseIgnore}"
+AntlionClaw: "{$Mods.CalamityModRuLocalization.CommonTooltips.HalfDefenseIgnore}"
+BoneSword: "{$Mods.CalamityModRuLocalization.CommonTooltips.HalfDefenseIgnore}"
+BreakerBlade: "{$Mods.CalamityModRuLocalization.CommonTooltips.HalfDefenseIgnore}"
+FalconBlade: "Удерживая этот предмет: +20% скорости движения"
+DeathSickle: Накладывает Шепчущую Смерть при попадании
+SoulDrain:
+	'''
+	Дарует +1.5 ОЗ/с регенерации жизни и ускоряет естественную регенерацию жизни
+	Сила эффекта зависит от количества пораженных противников
+	'''
+HamBat: Дарует +3 ОЗ/с регенерации жизни при убийстве противника

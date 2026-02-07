@@ -1,0 +1,56 @@
+AcidRain: Кислотный Дождь
+AcidRainStart: В морях серных пустошь начался Кислотный Дождь!
+AcidRainEnd: Серные небеса начинают проясняться...
+BossRush: Босс-раш
+// Boss Rush Xeroc Dialogue
+// Intro text
+BossRushStartText_1: ...Сколько же времени прошло? Века? Может даже тысячелетия?
+BossRushStartText_2: Я утопил мой артефакт в глубочайшем ущелье мира, чтобы его больше никто никогда не использовал.
+BossRushStartText_3: Мало кто даже знает о его существовании. А те кто слышали?
+BossRushStartText_4: Они знают, что его однажды безграничной силой больше не воспользоваться.
+BossRushStartText_5: Меня очень потрясает, что нашелся кто-то с такой отвагой, чтобы броситься в самую пучину этого мира и вернуть этот артефакт.
+BossRushStartText_6: Так это еще и смертный на этот раз! Как интересно...
+BossRushStartText_7: Что же заставило тебя отступиться так далеко от своего пути, чтобы заполучить ничего более, чем ветхую каменную табличку?
+BossRushStartText_8: ...Пожалуй это возможность. Получить такую реликвию - немалое дело, и я замечал некоторые триумфы твоих приключений.
+BossRushStartText_9: Ты. Смертный, кто на своем пути закончить одну эру заполучил артефакт, прервавший другую...
+// Extra text based on defeated bosses
+// You should see all of these if you are at the right progression point for Boss Rush
+BossRushStartText_DoG: Кто сразил Безымянного Змея...
+BossRushStartText_Yharon: Кто даже поборол Феникса - моего старого друга...
+BossRushStartText_DraedonSCal: Чья сила ровня единственному смертному, который заставил меня засомневаться в своей...
+// Further intro text
+BossRushStartText_10: Я желаю испытать твою силу. Я воспользуюсь фрагментами моего Первозданного Света, чтобы сотворить твоих прошлых соперников.
+BossRushStartText_11: Это задание будет непростое, но если ты докажешь, что поистине могуч, то у меня будет для тебя предложение.
+BossRushStartText_12: Веришь ли, что способен покорить такое испытание?
+// Shortened intro text for repeat attempts
+BossRushStartText_Repeat: Желаешь ли ты покорить мое испытание?
+// Player responses. Death is if you somehow die while Xeroc is waiting
+BossRushStartText_Decline: Хорошо. Возможно, я ошибался, поверив в тебя. Всего хорошего.
+BossRushStartText_Accept: Отлично. Да начнется испытание!
+BossRushStartText_Death: ...Не уже ли я вернулся сюда ради вот этого вот?
+// Sequential text at the end of Boss Rush Tier 1
+BossRushTierOneEndText_1: Приличное зрелище, но еще очень далеко от того, чтобы достичь моих ожиданий.
+BossRushTierOneEndText_2: Подготовь свое тело и душу к тому, что тебя ждет.
+// Sequential text at the end of Boss Rush Tier 2
+BossRushTierTwoEndText_1: Я не ошибся. Ты действительно восхитительный воин.
+BossRushTierTwoEndText_2: Но, все же, ты еще не достаточно показал. Поднимем градус бойни?
+// Sequential text at the end of Boss Rush Tier 3
+BossRushTierThreeEndText_1: Твоя решительность и желание стать сильнее... Это напоминает мне себя, когда я еще был смертным.
+BossRushTierThreeEndText_2: Но самое сложное испытание еще только предстоит. Не расслабляйся, даже на момент.
+// Sequential text at the end of Boss Rush Tier 4
+BossRushTierFourEndText_1: Испытание скоро достигнет своей кульминации.
+BossRushTierFourEndText_2: Настало время показать свое убеждение и высшую степень силы и воли.
+BossRushTierFourEndText_3: Докажи, что ты способен преодолеть даже самого себя!
+// Victory text
+BossRushEndText_1: Поистине чудесное зрелище. Я был прав! Ты на самом деле заслуживаешь звание одного из самых сильных воинов этого мира. Но, однако...
+BossRushEndText_2: Видимо даже такая сила... ее не хватает. Боюсь, поделиться своим предложением я не могу.
+BossRushEndText_3: Правда, в качестве приза за участие, я бы хотел, чтобы ты взял этот древний камень, который я вырезал из Гнездовья.
+BossRushEndText_4: Я его долгое время хранил как... памятный подарок, или что-то вроде того.
+BossRushEndText_5: Ты может и не справился с моими требованиями, но я не думаю, что это будет нашей последней встречей!
+BossRushEndText_6: Ищи все большую силу, и возможно, когда мы вновь столкнемся, ты станешь достаточно могущественным, чтобы быть достойным.
+BossRushEndText_7: А сейчас, мне пора заняться своими делами.
+BossRushEndText_8: Желаю тебе всего наилучшего.
+// Shortened victory text for repeat attempts
+BossRushEndText_Repeat: Ты доказал, что являешься могущественным воином, но этого недостаточно. Ищи новые высоты сил, чтобы в один день стать достойным.
+// Dying during Xeroc's victory monologue gives you this
+BossRushEndText_Death: ...Хм. Возможно, я был прав, полагая, что этот мир и за себя постоять не может, а тем более за меня.

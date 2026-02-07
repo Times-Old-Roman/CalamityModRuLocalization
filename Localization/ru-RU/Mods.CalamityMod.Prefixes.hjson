@@ -1,0 +1,31 @@
+Accessory: {
+	Cloaked.DisplayName: (Замаскированный)
+	Silent.DisplayName: (Беззвучный)
+	// New modifier effects (this is only positive)
+	StealthGenTooltip: +{0}% генерации скрытности
+	// Invigorating.DisplayName: Invigorating
+	// Dauntless.DisplayName: Dauntless
+	// LifeRegenTooltip: +{0} HP/s life regen
+	// MaxLifeBoostTooltip: +{0} max life
+}
+
+Weapon: {
+	Atrocious.DisplayName: (Отвратительный)
+	Blunt.DisplayName: (Тупой)
+	Feathered.DisplayName: (Оперенный)
+	Flawless.DisplayName: (Идеальный)
+	Flimsy.DisplayName: (Хлипкий)
+	Glorious.DisplayName: (Славный)
+	Hefty.DisplayName: (Тяжелый)
+	Lethal.DisplayName: (Летальный)
+	Mighty.DisplayName: (Могучий)
+	Pointy.DisplayName: (Заостренный)
+	Radical.DisplayName: (Радикальный)
+	Serrated.DisplayName: (Зазубренный)
+	Sharp.DisplayName: (Заточенный)
+	Sleek.DisplayName: (Обтекающий)
+	Unbalanced.DisplayName: (Несбалансированный)
+	Vicious.DisplayName: (Свирепый)
+	// New modifier effects (plus sign added in-code)
+	StealthDamageTooltip: "{0}% урона от скрытых ударов"
+}

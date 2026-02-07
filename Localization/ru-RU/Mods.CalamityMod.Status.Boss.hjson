@@ -1,0 +1,146 @@
+// Slime God
+SlimeGodRun: Слизневый Бог сбегает, дабы вновь сразиться в другой день...
+// Cryogen
+CryogenBossText: Криоген начинает дурить!
+PyrogenBossText: Пироген начинает дурить!
+// Calamitas Clone
+CalamitasBossText: Ты недооцениваешь мою силу...
+CalamitasBossText2: Восстаньте, братья.
+CalamitasBossText3: Впечатляюще, дитя. Очень впечатляюще...
+// Great Sand Shark
+SandSharkText: Что-то шевелится в теплых пустынных песках...
+SandSharkText2: Титанический хищник уже приближается...
+// Plaguebringer Goliath
+PlagueBossText: >> КРИТИЧЕСКАЯ ОШИБКА! >> escalate_NukePrep(cmdCond, trgts); logmsg: "ЗАГРАДИТЕЛЬНЫЙ ЯДЕРНЫЙ ОГОНЬ ГОТОВ. ОЖИДАЕТСЯ КОМАНДА ПУСКА!!!"
+PlagueBossText2: >> ПРЕДУПРЕЖДЕНИЕ! >> missleLaunch(launchPrcdr, trgts); logmsg: "РАКЕТЫ ЗАПУСКАЮТСЯ. ИНИЦИИРОВАНА ПРОЦЕДУРА НАВЕДЕНИЯ!!!"
+// Astrum Deus
+DeusAltarRejectNightText: Бог звезд отвергает ваше подношение. Ритуал можно провести только ночью.
+// Providence
+ProfanedBossText: Святое пламя обжигает ваши крылья...
+// Polterghast
+GhostBossText2: Вой разносится эхом по ветхим коридорам темницы...
+GhostBossText3: Давно умершие узники жаждут своей ревностной мести...
+// Devourer of Gods
+EdgyBossText: Мелюзга, смотри не дерзай!
+EdgyBossText2: Фатальная ошибка! Не умеешь уклоняться?
+EdgyBossText3: Восхитительно...
+EdgyBossText4: Что такое? Больно, да?
+EdgyBossText5: Мы тут еще не закончили, подонок!
+EdgyBossText6: БОГ НЕ БОИТСЯ СМЕРТИ!
+EdgyBossText7: Ты может и не Бог... но я все равно наслажусь твоей эссенцией!
+EdgyBossText8: Ты серьезно думаешь...что можешь удалить...МЕНЯ!?
+// Yharon
+FlameText: Воздух накаляется.
+// Draedon (introduction)
+DraedonIntroductionText1: Я долго ждал этого момента.
+DraedonIntroductionText2: Ваша природа меня восхищает, ибо я ее не понимаю.
+DraedonIntroductionText3: Вы столкнетесь лицом к лицу с моими творениями, которые превзошли богов.
+DraedonIntroductionText4: Через сражение вы покажете мне свою натуру.
+DraedonIntroductionText5: Итак, выбирайте.
+DraedonResummonText: Выбирайте.
+DraedonBossRushText: Выбирайте. У Вас 20 секунд. Отсутствие выбора приведет к вызову случайной машины
+// Draedon (Exo Mechs mid-battle dialogue)
+DraedonExoPhase1Text1: Суть моей работы - непрерывное улучшение и знания.
+DraedonExoPhase1Text2: Других методов, которые бы привели меня к идеалу, не существует.
+DraedonExoPhase2Text1: Ваша результативность четко находится в области ошибки.
+DraedonExoPhase2Text2: Удовлетворительно. Переходим к следующей фазе теста.
+DraedonExoPhase3Text1: С того момента, как меня привлекло ваше присутствие, я обрабатывал статистику о ваших битвах, чтобы улучшать свои машины.
+DraedonExoPhase3Text2: Даже в данный момент я исследую ваши действия. Ничто не избежит моих вычислений.
+DraedonExoPhase4Text1: Любопытно. Очень любопытно.
+DraedonExoPhase4Text2: Вы будете постепенно встречать более и более сложные испытания.
+DraedonExoPhase5Text1: Ваша природа остается неизвестной мне. Такое не годится.
+DraedonExoPhase5Text2: ...я стремился к идеалу. Видимо судьбе нравится ирония, ведь это, скорее всего, и стало моей первой ошибкой.
+DraedonExoPhase6Text1: Абсурд.
+DraedonExoPhase6Text2: Нет, с этого момента я больше не дам моим вычислениям мешать наблюдению за этой битвой.
+DraedonExoPhase6Text3: Я покажу вам полную мощь моей финальной машины.
+DraedonAresEnrageText: Побега нет. Вы совершаете ошибку.
+// Draedon (ending)
+DraedonEndText1: Неизвестный фактор... нет, катализатор! Вот что вы такое!
+DraedonEndText2: Почти также далеки от этих земель и их истории, как и я!
+DraedonEndText3: ...Извиняюсь за интроспекцию. Мне нужно собрать мысли после такого зрелища.
+DraedonEndText4: Эти земли затонули в крови, пролитой до этого момента, и запеклись ею.
+DraedonEndText5: Вы тоже пролили кровь, но, возможно, она откроет новую эру... Чего именно - я понятия не имею. Но я буду с нетерпением ждать этого момента.
+DraedonEndText6: Так. Вы желаете найти Тирана. Боюсь в этом помочь я не смогу.
+DraedonEndText7: Не поймите меня не правильно - это не из-за вредности. Я готов на что угодно ради того, чтобы узреть такой конфликт.
+DraedonEndText8: Но вы преодолевали препятствия раньше. Я уверен, что вы и в дальнейшем справитесь.
+DraedonEndText9: Я признаю ваш триумф. Однако теперь, мне пора вернуться к своим машинам.
+DraedonEndKillAttemptText: ...Это было лишнее.
+// Draedon (GFB)
+DraedonMechdusaBeginText: ...Сдохни.
+DraedonMechdusaEndText1: Стоп что как?
+DraedonMechdusaEndText2: да нет всмысле
+// SCal (First Battle)
+SCalSummonText: Тебе хочется пройти сквозь ад?
+SCalStartText: Тебе просто стоило умереть...
+SCalBH2Text: Лишь совсем недавно ты еле-еле поборол моего доппельгангера. Еще то убожество, не так ли?
+SCalBH3Text: Со временем, ты обуздал великую силу, но все еще используешь ее исключительно для себя.
+SCalBrothersText: Не хочешь ли познакомиться с моей семьей? Они кошмарны, не так ли?
+SCalPhase2Text: За это ты будешь страдать.
+SCalBH4Text: Даже думать отступать глупо. Пока ты жив - ты будешь страдать.
+SCalSeekerRingText: Ты - выскочка, которая безрассудно воровала и убивал ради своего могущества. Интересно, о ком это мне напоминает...?
+SCalBH5Text: Ты никак не повлияешь на исход этой битвы. Никто тебе слова не давал!
+SCalSepulcher2Text: Когда пыль осядет и останется лишь один победитель, то какой был смысл от всего этого вздора?!
+SCalDesparationText1: Прекрати!
+SCalDesparationText2: Если я буду повержена, то у меня не будет будущего.
+SCalDesparationText3: Но если ты меня победишь - у тебя будет лишь один путь вперед.
+SCalDesparationText4: И у этого пути... тоже не будет будущего.
+SCalAcceptanceText1: Даже если тот тиран и отверг всех остальных, его сила все еще присутствует.
+SCalAcceptanceText2: У меня не осталось сил ненавидеть его, или тебя...
+SCalAcceptanceText3: Все что произойдет далее будет находиться в твоих руках. Я признаю поражение...
+// SCal (Rematch)
+SCalSummonTextRematch: Если вы ищите способ заработать ожоги четвертой степени, то вы обратились по адресу.
+SCalStartTextRematch: Когда придет время, не хочется ли тебе присоединиться к моему творению?
+SCalBH2TextRematch: Тебе все равно придется потрудиться за победу.
+SCalBH3TextRematch: Такого интересного манекена для тренировки магии у меня уже давно не было.
+SCalBrothersTextRematch: Только посмотри на них. Всего лишь пустые оболочки своих прежней формы. Я честно думаю, что в них даже лоскутика души не осталось.
+SCalPhase2TextRematch: Ну, поехали.
+SCalBH4TextRematch: Интересно, тебе уже снились кошмары с вот этим ужасом после нашей первой битвы?
+SCalSeekerRingTextRematch: А твои навыки совсем не упали.
+SCalBH5TextRematch: Это так весело, не так ли?
+SCalSepulcher2TextRematch: А вот и вышла погулять трясущаяся гробница в свой последний раз.
+SCalDesparationText1Rematch: Захватывающее зрелище! Пожалуй, уступлю тебе победу в этом сражении.
+SCalDesparationText2Rematch: Ты, конечно, еще встретишь соперников даже посильнее меня.
+SCalDesparationText3Rematch: Но я доверюсь тебе в том, что ты не совершишь таких же ошибок, как и он.
+SCalDesparationText4Rematch: Только подумать, что же тебя ждет в будущем...
+// Permafrost (GFB)
+PermafrostSummonText: Готов встретить самый Сизифов труд твоей жизни?
+PermafrostBirbSwarmText: Те сердца ну уж слишком брутальны, мне как-то не по вкусу. Как насчет милых пташек, а?
+PermafrostBH2Text: Устаешь от битвы, искатель приключений? Голоден? Как насчет моего фирменного Вкусного Мясца?
+PermafrostBH3Text: Удивлен, как я держусь в этом противостоянии, да? Ну, я же, все-таки, тренировал саму Каламитас!
+PermafrostDoGText: ЗМЕЙ!? Как!? Какого черта ОН тут делает!? Ты опять пришел меня мучить, да!? Искатель приключений, убей его!
+PermafrostPhase2Text: Хах! Видимо градус этой дуэли поднимается! Понял шутку?
+PermafrostBH4Text: Хочешь отдохнуть? Ух, не уж-то тебе труднее, чем какому-то старикашке?
+PermafrostHallowBossSpamText: Ты действительно стал очень сильным! К счастью, я с Каламитас сотворили вот это в помощь мне.
+PermafrostBH5Text: Ох, прошло много времени, перед тем, как у меня вновь появился повод использовать эту магию!
+PermafrostSecondBirbSwarmText: Должен сказать, те пташки в начале битвы были очень даже милыми! Почему бы еще раз не поглазеть на них?
+PermafrostNonchalantText: Признаюсь, я уже не тот маг, которым был раньше. Моему старому телу становится трудновато...
+PermafrostBruhText: Ахаха! Шучу! Смотри что происходит, когда я использую заклинание, которое я четко знаю!
+PermafrostGiveUpText: Ой! Кажется, я потянул мышцу! Уф, ну, что ж... Видимо мне суждено отдать победу тебе. Великолепная битва!
+// April Fools
+AprilFools: ПАВЕЛИТЕЛЬ уже идет...
+AprilFoolsGFB: это он...
+// Devourer of Gods
+// DoGSpawn: You are no god... but I shall feast upon your essence regardless!
+// DoGSubphase1: You've done better than most, but don't get cocky!
+// DoGPhase2: It's not over yet, kid!
+// DoGPhase3: A GOD DOES NOT FEAR DEATH!
+// DoGHead1: Fall to your knees, worm!
+// DoGHead2: Let's see how much longer you'll last...
+// DoGHead3: Getting tired yet?
+// DoGHead4: You'll fall, just like the others!
+// DoGHead5: Give up! It'll be easier for both of us!
+// DoGHead6: Let me end you already!
+// DoGHead7: This is starting to get ridiculous...!
+// DoGHead8: How are you doing this?!
+// DoGHead9: Are you playing me for a fool?!
+// DoGHead10: Why won't you DIE?!
+// DoGHead11: FALL!
+// DoGHead12: BEGONE!
+// DoGHead13: DIE!
+// DoGHeadDeath1: Tasteless slop.
+// DoGHeadDeath2: Delicious... A feast worthy of a god!
+// DoGHeadDeath3: And STAY dead!
+// DoGHeadDeath4: WEAK.
+// DoGHeadDeath5: PATHETIC. ALL THAT RUNNING JUST TO DIE TO A SINGLE TOUCH?!
+// DoGHeadRunning: You can't run forever!
+// DoGHeadRunning2: WHAT'S THE PROBLEM?! CAN'T RUN ANYMORE?!

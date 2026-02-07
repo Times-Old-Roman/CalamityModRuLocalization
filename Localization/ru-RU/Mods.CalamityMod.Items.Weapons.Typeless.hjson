@@ -1,0 +1,98 @@
+Aestheticus: {
+	DisplayName: Эстетикус
+	Tooltip:
+		'''
+		Стреляет замедляющими взрывными кристаллами
+		Сила этого оружия увеличивается со всеми типа урона одновременно
+		'''
+}
+
+EyeofMagnus: {
+	DisplayName: Глаз Магнуса
+	Tooltip:
+		'''
+		Стреляет наводящимися лучами, которые уменьшают защиту противников
+		При попадании восстанавливает ману и здоровье
+		Сила этого оружия увеличивается со всеми типа урона одновременно
+		'''
+}
+
+LunicEye: {
+	DisplayName: Лунный Глаз
+	Tooltip:
+		'''
+		Стреляет наводящимися лунными лучами, которые уменьшают защиту противников
+		Сила этого оружия увеличивается со всеми типа урона одновременно
+		'''
+}
+
+RelicOfDeliverance: {
+	DisplayName: Реликвия Избавления
+	Tooltip:
+		'''
+		Нажмите <left>, чтобы подготовить рывковую атаку копьем
+		Нажмите <left> опять, чтобы совершить рывок в сторону курсора
+		Удерживайте <left> во время полета, чтобы перенаправить рывок в новое положение
+		Смена на любое другое оружие отменяет рывок
+		'''
+}
+
+RelicOfResilience: {
+	DisplayName: Реликвия Стойкости
+	Tooltip:
+		'''
+		Призывает артефакт на положении курсора
+		Артефакт могут повредить как противники, так и любые снаряды
+		При уничтожении, артефакт разрывается на облако вращающихся осколков
+		Если противник расположен в области осколков, то его следующая атака будет на 45% слабее
+		У этого эффекта имеется время перезарядки
+		После 5 секунд, осколки собираются вместе и воссоздают исходный артефакт
+		Такое восстановление может произойти до 3 раз, перед тем как артефакт придется призвать вновь
+		Вы можете призвать артефакт только раз в 5 секунд
+		Если артефакт уже существует, то повторное использование этого предмета перенесет его к курсору
+		'''
+}
+
+Skynamite: {
+	DisplayName: Небомит
+	Tooltip:
+		'''
+		Бросьте парящую взрывчатку, которая отрицает гравитацию
+		'Тебе не понадобится диплом по аэродинамике, чтобы использовать эту вещь...'
+		'''
+}
+
+StarStruckWater: {
+	DisplayName: Звездная Вода
+	Tooltip: Распространяет Астральную Инфекцию на небольшое количество блоков
+}
+
+ClaretCannon: {
+	// DisplayName: Claret Cannon
+	/* Tooltip:
+		'''
+		Fires a hypercondensed claret round
+		The round explodes upon striking an enemy and releases blood orbs
+		The explosion shreds enemies, inflicting [cbuff:CalamityMod/Laceration] and dramatically reducing their defense
+		Picking up the blood orbs will reduce [cbuff:PotionSickness] when possible
+		If you do not have [cbuff:PotionSickness], your natural regeneration will be enhanced
+		Can only fire once every 10 seconds
+		''' */
+}
+
+ColdheartIcicle: {
+	// DisplayName: Coldheart Icicle
+	// Tooltip: "'N(ice) work'"
+}
+
+StratusSphere: {
+	// DisplayName: Stratus Sphere
+	/* Tooltip:
+		'''
+		Launches a singularity which exerts influence on all entities in a large area around it
+		Influenced players gain Starbursts over time, while enemies instead take damage
+		<right> to cause Starbursts to form a barrier, causing you to lose Starbursts instead of health
+		Launching the singularity deactivates the barrier, and creating a barrier deactivates the singularity
+		'Channeling souls into stars, an inane concept'
+		''' */
+}

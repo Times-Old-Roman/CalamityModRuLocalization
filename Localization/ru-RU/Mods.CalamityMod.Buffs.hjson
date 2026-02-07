@@ -1,0 +1,1743 @@
+AlcoholPoisoning: {
+	DisplayName: Алкогольное Отравление
+	Description: Вы слишком много выпили и теперь вы умираете
+}
+
+BloodyMaryBuff: {
+	DisplayName: Кровавая Мэри
+	Description: Урон и скорость движения увеличены во время Кровавой Луны, но уменьшены регенерация жизни и защита
+}
+
+CaribbeanRumBuff: {
+	DisplayName: Карибский Ром
+	Description: Регенерация жизни, скорость движения и время полета крыльев увеличены, но вы парите, а защита уменьшена
+}
+
+CinnamonRollBuff: {
+	DisplayName: «Корицевый Ролл»
+	Description: Регенерация маны и урон от огненных эффектов увеличены, но защита уменьшена
+}
+
+EverclearBuff: {
+	DisplayName: «Эверклир»
+	Description: Урон увеличен, но уменьшены регенерация жизни и защита
+}
+
+EvergreenGinBuff: {
+	DisplayName: Джин «Эвергрин»
+	Description: Урон от болезнетворных и водных эффектов увеличен, но уменьшена регенерация жизни
+}
+
+FireballBuff: {
+	DisplayName: «Фаербол»
+	Description: Урон от огненных эффектов увеличен, но уменьшена регенерация жизни
+}
+
+GrapeBeerBuff: {
+	DisplayName: Виноградное Пиво
+	Description: Уменьшена защита
+}
+
+MargaritaBuff: {
+	DisplayName: Маргарита
+	Description: Длительность большинства отрицательных эффектов уменьшена, но уменьшены регенерация жизни и защита
+}
+
+MoonshineBuff: {
+	DisplayName: Самогон
+	Description: Защита и уменьшение входящего урона увеличены, но уменьшена регенерация жизни
+}
+
+MoscowMuleBuff: {
+	DisplayName: «Московский Мул»
+	Description: Урон, шанс критического удара и отдача увеличены, но уменьшена регенерация жизни
+}
+
+OldFashionedBuff: {
+	DisplayName: «Олд Фешен»
+	Description: урон от аксессуаров и бонусов брони преумножен, но уменьшен урон
+}
+
+PurpleHazeBuff: {
+	DisplayName: Розовый Туман
+	Description: Урон увеличен и даются дополнительные кадры иммунитета, но уменьшена защита
+}
+
+RedWineBuff: {
+	DisplayName: Красное Вино
+	Description: Уменьшена регенерация жизни
+}
+
+RumBuff: {
+	DisplayName: Ром
+	Description: Скорость движения и регенерация жизни увеличена, но уменьшена защита
+}
+
+ScrewdriverBuff: {
+	DisplayName: «Отвертка»
+	Description: Урон пронзающих снарядов увеличен, но уменьшена регенерация жизни
+}
+
+StarBeamRyeBuff: {
+	DisplayName: Ржаной «Стар Бим»
+	Description: Максимальная мана и магический урон увеличены, а потребление маны понижено, но уменьшены регенерация жизни и защита
+}
+
+TequilaBuff: {
+	DisplayName: Текила
+	Description: Шанс критического удара, защита и отдача увеличены днем, но уменьшена регенерация жизни
+}
+
+TequilaSunriseBuff: {
+	DisplayName: «Текила Санрайз»
+	Description: Шанс критического удара, защита и отдача сильно увеличены днем, но уменьшена регенерация жизни
+}
+
+Trippy: {
+	DisplayName: Накурен
+	Description: Вы познали нирвану, вселенскую истину и т.п.... а также у вас +50% урона
+}
+
+VodkaBuff: {
+	DisplayName: Водка
+	Description: Урон и шанс критического удара увеличены, но уменьшены регенерация жизни и защита
+}
+
+WhiskeyBuff: {
+	DisplayName: Виски
+	Description: Урон, шанс критического удара и отдача увеличены, но уменьшена защита
+}
+
+WhiteWineBuff: {
+	DisplayName: Белое Вино
+	Description: Магический урон увеличен, но уменьшены регенерация жизни и защита
+}
+
+Withered: {
+	DisplayName: Иссушен
+	Description: Удерживание иссушающего оружия приносит вам страдание, но делает ваши атаки сильными
+}
+
+AstralInfectionDebuff: {
+	DisplayName: Астральная Инфекция
+	Description: Ваша плоть стекает с ваших костей
+	// ItemTooltip: Sickness - 37.5 DPS
+}
+
+BanishingFire: {
+	DisplayName: Пламя Изгнания
+	Description: Вам нет прощения за грехи
+	// ItemTooltip: Heat - Deals DPS equal to 0.1% of max HP or 2000, whichever is greater
+}
+
+BrimstoneFlames: {
+	DisplayName: Пламя Серы
+	Description: Обжигает ваше тело и дух
+	// ItemTooltip: Heat - 30 DPS
+}
+
+BurningBlood: {
+	DisplayName: Горящая Кровь
+	Description: Ваша кровь вполне буквально горит
+	// ItemTooltip: Sickness - 20 DPS
+}
+
+BrainRot: {
+	DisplayName: Гниение Мозга
+	Description: Ваши нейроны перегорают, как лампочки на гирлянде
+	// ItemTooltip: Sickness - 20 DPS
+}
+
+ElementalMix: {
+	DisplayName: Элементальный Микс
+	Description: Вас заживо потрошит чудесная симфония элементов
+	// ItemTooltip: Typeless - 200 DPS
+}
+
+CrushDepth: {
+	DisplayName: Глубинное Давление
+	Description: Вас крушит давление воды
+	// ItemTooltip: Water - 50 DPS
+}
+
+RiptideDebuff: {
+	DisplayName: Разрывное Течение
+	Description: Вас хлещут сильные потоки воды
+	// ItemTooltip: Water - 15 DPS
+}
+
+Dragonfire: {
+	DisplayName: Драконий Огонь
+	Description: Вы поглощены ревущим пламенем
+	// ItemTooltip: Heat - 480 DPS
+}
+
+GodSlayerInferno: {
+	DisplayName: Инферно Богоубийцы
+	Description: Ваша плоть горит
+	// ItemTooltip: Heat - 250 DPS
+}
+
+HeavyBleeding: {
+	DisplayName: Тяжелое Кровотечение
+	Description: Ух, тут понадобятся швы
+	// ItemTooltip: Typeless - 40 DPS
+}
+
+HolyFlames: {
+	DisplayName: Святое Пламя
+	Description: Вы растворяетесь в лучах священного света
+	// ItemTooltip: Heat - 150 DPS
+}
+
+HolyInferno: {
+	DisplayName: Святое Инферно
+	Description: Вы отошли слишком далеко от Скверной Богини!
+}
+
+Laceration: {
+	DisplayName: Рваные Раны
+	Description: Вы - кровавое месиво
+	// ItemTooltip: Typeless - 200 DPS
+}
+
+ManaBurn: {
+	DisplayName: Горение Маны
+	Description: Избыток маны поджигает ваше тело и сознание
+	/* ItemTooltip:
+		'''
+		Typeless
+		Every 100 negative mana reduces your life regen by 4 HP/s, but burns enemies for 3% of dealt damage
+		''' */
+}
+
+MiracleBlight: {
+	DisplayName: Чудо-Пагубь
+	Description: Экзотический резонанс кромсает вашу физическую форму
+	// ItemTooltip: Typeless - 1500 DPS
+}
+
+Nightwither: {
+	DisplayName: Ночное Иссушение
+	Description: Вы горите лунными лучами
+	// ItemTooltip: Cold - 100 DPS
+}
+
+Plague: {
+	DisplayName: Чума
+	Description: Вы гниете изнутри
+	// ItemTooltip: Sickness - 50 DPS
+}
+
+SagePoison: {
+	DisplayName: Яд Флоры
+	Description: Вы отравлены
+	// ItemTooltip: Sickness - DPS scales with summoned Viral Sprout amount
+}
+
+SearingLava: {
+	DisplayName: Обжигающая Лава
+	Description: Серная лава обжигает вашу плоть
+}
+
+ShellfishClaps: {
+	DisplayName: Схлопнувшиеся Устрицы
+	Description: Устрицы страшно
+}
+
+Shred: {
+	DisplayName: Шинковка
+	Description: Кто-то накопил десять Трехгранных Кинжалов...
+	// ItemTooltip: ""
+}
+
+SnapClamDebuff: {
+	DisplayName: Заустрицен
+	Description: Вас прихлопнули Устрицы
+}
+
+SulphuricPoisoning: {
+	DisplayName: Отравление Серой
+	Description: Кислотные воды разъедают вашу кожу
+	// ItemTooltip: Sickness - 120 DPS
+}
+
+Vaporfied: {
+	DisplayName: Испарен
+	Description: Парево
+	/* ItemTooltip:
+		'''
+		Typeless - 15 DPS
+		Slows enemies
+		''' */
+}
+
+VulnerabilityHex: {
+	DisplayName: Чары Уязвимости
+	Description: Сила твоей души угасла
+	/* ItemTooltip:
+		'''
+		Heat - 1332 DPS
+		Slows enemies
+		''' */
+}
+
+WeakBrimstoneFlames: {
+	DisplayName: Легкое Пламя Серы
+	Description: Использование силы Великой Ведьмы приносит вам страдание, но делает ваши атаки сильными
+}
+
+AndromedaBuff: {
+	DisplayName: Андромеда
+	Description: Вы управляете кусочком истории
+}
+
+AndromedaSmallBuff: {
+	DisplayName: Андромеда
+	Description: Вы управляете маленьким кусочком истории
+}
+
+BrimroseMount: {
+	DisplayName: Ездовая Серная Роза
+	Description: У него сиденье с подогревом. На этом у меня все
+}
+
+BumbledogeMount: {
+	DisplayName: Шмелепесель
+	Description: Так, стоп, нет, погоди. Тут что-то не так...
+}
+
+DraedonGamerChairBuff: {
+	DisplayName: Экзо-Стул
+	Description: Вы оседлали ломающее физику геймерское кресло
+}
+
+GazeOfCrysthamyrBuff: {
+	DisplayName: Взор Кристамира
+	Description: Вы оседлали теневого дракона
+}
+
+MarniteLiftBuff: {
+	DisplayName: Мранитный Лифт
+	Description: Do you even..?
+}
+
+OnyxExcavatorBuff: {
+	DisplayName: Ониксовый Экскаватор
+	Description: Хаха дрель делает брррррр
+}
+
+RimehoundBuff: {
+	DisplayName: Морозная Гончая
+	Description: Вы оседлали очень злую собаку
+}
+
+SquishyBeanBuff: {
+	DisplayName: Мягкий Боб
+	Description: ЭТО БОБ. БОБ ЧЕЛ ЭТО ОН Б  О Б А ЭА А  Б О Б  О Н ЗД Е С Ь
+}
+
+TheCartofGodsBuff: {
+	DisplayName: Вагонетка Богов
+	Description: В едете на космическом ужасе
+}
+
+AkatoBuff: {
+	DisplayName: Акато
+	Description: Видимо, теперь тебе придется о нем заботиться
+}
+
+ArcherofLunamoon: {
+	DisplayName: Арчер Лунамун
+	Description: У вас теперь есть личный наводчик
+}
+
+AstrophageBuff: {
+	DisplayName: Астрофаг
+	Description: Маленький Астральный жучок
+}
+
+BabyGhostBellBuff: {
+	DisplayName: Молодой Призрачный Колокольчик
+	Description: Будьте аккуратны - не лопните пузырь
+}
+
+BearBuff: {
+	DisplayName: Бер
+	Description: За вами следует ангелочек-хранитель
+}
+
+BloodBound: {
+	DisplayName: Кровавый Комок
+	Description: Чувак, тебе реально так отчаянно нужна компания?
+}
+
+BrimlingBuff: {
+	DisplayName: Серный Малыш
+	Description: Оберегай ее, иначе будешь страдать в агонии
+}
+
+ChibiiDoGBuff: {
+	DisplayName: Чиби-Пожиратель
+	Description: Что? Вы кого-то другого ожидали увидеть?
+}
+
+ClassicSCalPetBuff: {
+	DisplayName: Классическая Великая Каламитас
+	Description: Ее великие силы мы никогда не забудем
+}
+
+DannyDevito: {
+	DisplayName: Дэнни Де Вито
+	Description: Мусорынй Чел следует за вами
+}
+
+Dreamfog: {
+	DisplayName: Туман Снов
+	Description: Он верит в вас
+}
+
+EidolonSnailBuff: {
+	DisplayName: Улитка Эскарголодон
+	Description: Какая же это глупенькая маленькая доисторическая улитка
+}
+
+ElectricTroublemaker: {
+	DisplayName: Электрический Хулиган
+	Description: Молния в одно и то же место дважды не бьет
+}
+
+FlakHermitBuff: {
+	DisplayName: Зенитный Рак-Отшельник
+	Description: Маленький кислотный жучок
+}
+
+FoxPetBuff: {
+	DisplayName: Питомец Лиса
+	Description: Питомец лиса? Г Л А Д И Т Ь  ЛИСА
+}
+
+FurtasticDuoBuff: {
+	DisplayName: Мохнастическое Дуо
+	Description: Да, они так и сделали! Это Мохнастическое Дуо составим вам компанию!
+}
+
+GoldieBuff: {
+	DisplayName: Золотушка
+	Description: И всё золото, что блестит
+}
+
+Kendra: {
+	DisplayName: Кендра
+	Description: Вам составит компанию верный друг
+}
+
+LadBuff: {
+	DisplayName: Отец
+	Description: Отец многих мушек будет следовать за вами
+}
+
+LeviBuff: {
+	DisplayName: Леви
+	Description: Маленький и милый
+}
+
+LittleLightBuff: {
+	DisplayName: Маленький Свет
+	Description: Как мило
+}
+
+MiniMindBuff: {
+	DisplayName: Мини-Сознание
+	Description: Оно знает все
+}
+
+OceanSpiritBuff: {
+	DisplayName: Дух Океана
+	Description: Маленький и милый
+}
+
+PineappleBuff: {
+	DisplayName: Ананас
+	Description: Пахнет пиццей...
+}
+
+PlaguebringerBabBuff: {
+	DisplayName: Чумоносик
+	Description: Маленький чумоносик воспринимает тебя как королеву
+}
+
+RadiatorBuff: {
+	DisplayName: Радиатор
+	Description: Радиоактивен, но умилительный
+}
+
+ReaverOrbBuff: {
+	DisplayName: Сфера Разорителя
+	Description: Сфера Разорителя осветит вам дорогу
+}
+
+SparksBuff: {
+	DisplayName: Спаркс
+	Description: Ест бабочек
+}
+
+ThirdSageBuff: {
+	DisplayName: Третий Мудрец
+	Description: Ах? Ну не может быть, что он Они
+}
+
+YharonSonBuff: {
+	DisplayName: Сын Ярона
+	Description: Только попробуй съесть его обед
+}
+
+BlueCandleBuff: {
+	DisplayName: Подвижность
+	Description: Тот парящий огонь поднял сам ваш дух
+}
+
+ChaosCandleBuff: {
+	DisplayName: Свеча Хаоса
+	Description: Скорость появления вокруг свечи сильно поднято!
+}
+
+CorruptionEffigyBuff: {
+	DisplayName: Тотем Искажения
+	Description: Искажение дает вам силу
+}
+
+CrimsonEffigyBuff: {
+	DisplayName: Тотем Багрянца
+	Description: Багрянец дает вам силу
+}
+
+EffigyOfDecayBuff: {
+	DisplayName: Тотем Разложения
+	Description: Серные воды дают вам силу
+}
+
+PinkCandleBuff: {
+	DisplayName: Воодушевление
+	Description: Тот замечательный свет пропитывает вас надеждой
+}
+
+PurpleCandleBuff: {
+	DisplayName: Стойкость
+	Description: Ни дождь, ни ветер не потушат ваше неугасаемое пламя
+}
+
+TranquilityCandleBuff: {
+	DisplayName: Свеча Безмятежности
+	Description: Скорость появления вокруг свечи сильно убавлены!
+}
+
+YellowCandleBuff: {
+	DisplayName: Ненависть
+	Description: Тот злорадствующий, дрожащий свет подпитывает вашу ярость
+}
+
+PopoBuff: {
+	DisplayName: Попо
+	Description: Вы теперь снеговик!
+}
+
+PopoNoselessBuff: {
+	DisplayName: Безносый Попо
+	Description: Ваш нос украли!
+}
+
+AnechoicCoatingBuff: {
+	DisplayName: Безэховое Покрытие
+	Description: Область детекции существ Бездны уменьшена
+}
+
+AstralInjectionBuff: {
+	DisplayName: Астральная Инъекция
+	Description: Экстремальная регенерация маны
+}
+
+BaguetteBuff: {
+	DisplayName: Багет
+	Description: Хорошо идет с Красным Вином
+}
+
+BloodfinBoost: {
+	DisplayName: Усиление Кровеперки
+	Description: Смотри, не дай крови затмить свой разум
+}
+
+BoundingBuff: {
+	DisplayName: Отскок
+	Description: Высота прыжка, скорость прыжка и сопротивление урону от падения увеличены
+}
+
+CalciumBuff: {
+	DisplayName: Кальций
+	Description: У вас иммунитет к урону от падения
+}
+
+CeaselessHunger: {
+	DisplayName: Ненасытный Голод
+	Description: Вы всасываете все предметы в мире
+}
+
+GravityNormalizerBuff: {
+	DisplayName: Нормализация Гравитации
+	Description: Гравитация в космосе больше не ослаблена, иммунитет к искажению гравитации
+}
+
+Omniscience: {
+	DisplayName: Всезнание
+	Description: Вы видите все
+}
+
+PhotosynthesisBuff: {
+	DisplayName: Фотосинтез
+	Description: Регенерация здоровья усилена, причем она еще больше днем, а сердца лечат больше ОЗ
+}
+
+ShadowBuff: {
+	DisplayName: Тень
+	Description:
+		'''
+		Теперь вы тень
+		Метательное оружие порождает снаряды при попадании
+		+8% генерации скрытности
+		'''
+}
+
+Soaring: {
+	DisplayName: Парение
+	Description:
+		'''
+		+10% времени и скорости полета крыльев
+		Удары в ударах истинного ближнего боя восстанавливают немного времени полета
+		'''
+}
+
+SulphurskinBuff: {
+	DisplayName: Серная Кожа
+	Description: Эффект серных воды уменьшен на вас
+}
+
+TeslaBuff: {
+	DisplayName: Электричество Теслы
+	Description: Вокруг вас аура электричество
+}
+
+WeaponImbueBrimstone: {
+	DisplayName: Накачка Оружия: Сера
+	Description: Атаки в ближнем бою, кнутами, и метательным оружием зажигают врагов пламенем серы
+}
+
+WeaponImbueCrumbling: {
+	DisplayName: Накачка Оружия: Крошение
+	Description: Атаки в ближнем бою, кнутами, и метательным оружием ослабляют уменьшение входящего урона врагов
+}
+
+WeaponImbueHolyFlames: {
+	DisplayName: Накачка Оружия: Святое Пламя
+	Description: Атаки в ближнем бою, кнутами, и метательным оружием растворяют врагов святым огнем
+}
+
+Zen: {
+	DisplayName: Дзен
+	Description: Скорость появления врагов сильно уменьшена
+}
+
+Zerg: {
+	DisplayName: Зерг
+	Description: Скорость появления врагов сильно увеличена
+}
+
+RancorBurn: {
+	DisplayName: Горение от «Злопамятства»
+	Description: Вы горите
+}
+
+AbyssalDivingSuitBuff: {
+	DisplayName: Абиссальный Набор для Дайвинга
+	Description: Вы покрыты металлом
+}
+
+AbyssalDivingSuitPlates: {
+	DisplayName: Пластины Абиссального Костюма для Дайвинга
+	Description: +15% уменьшения входящего урона
+}
+
+AbyssalMadness: {
+	DisplayName: Абиссальное Безумие
+	Description: Урон, шанс критического удара и агрессия и дистанция щупалец увеличены
+}
+
+AdrenalineMode: {
+	DisplayName: Адреналин
+	Description: Весь урон умножен на 2.5x. Каждый усиливающий предмет дает еще +0.2x, вплоть до 3.1x
+}
+
+Afflicted: {
+	DisplayName: Одержим
+	Description: Вы усилены потусторонними духами
+}
+
+AmidiasBlessing: {
+	DisplayName: Благословение Амидиаса
+	Description:
+		'''
+		Вас благословил Амидиас
+		Позволяет вам дышать под водой, даже в Бездне!
+		Только старайтесь не получать урон...
+		'''
+}
+
+AquaticHeartBuff: {
+	DisplayName: Элементаль Воды
+	Description: Вы теперь элементаль воды
+}
+
+AquaticHeartWaterSpeed: {
+	DisplayName: Благословение Океана
+	Description: +15% максимальной скорости движения и ускорения
+}
+
+AvertorBonus: {
+	DisplayName: Бонус Отвратителя
+	Description: Урон и регенерация жизни увеличены
+}
+
+BloodflareBloodFrenzy: {
+	DisplayName: Кровавое Исступление
+	Description: Входящий контактный урон уменьшен, а характеристики в ближнем бою сильно увеличены
+}
+
+BossEffects: {
+	DisplayName: Битва с Боссом
+	Description:
+		'''
+		Ближайший босс:
+		Цена лечения у медсестры увеличена на 400%
+		Хитбоксы у всех видов манекенов отключены
+		'''
+	ZenDescription: Скорость появления врагов сильно уменьшена
+}
+
+BrimflameFrenzyBuff: {
+	DisplayName: Ярость Пламени Серы
+	Description: Темная магия усиливает ваши атаки взамен на вашу жизнь
+}
+
+BrutalCarnage: {
+	DisplayName: Брутальная Резня
+	Description: +20% урона в ближнем бою
+}
+
+ChiBuff: {
+	DisplayName: Ки
+	Description: Вы более стойки
+}
+
+ChiRegenBuff: {
+	DisplayName: Ки
+	Description: Регенерация жизни увеличена
+}
+
+CoralSymbiosis: {
+	DisplayName: Коралловый Симбиоз
+	Description: Коралловый Фонтан заряжается быстрее и наносит +2 урона
+}
+
+CosmicFreeze: {
+	DisplayName: Космическая Заморозка
+	Description: Вы чувствуете, что вы так же холодны, как и пустые просторы космоса
+	// ItemTooltip: Increases regeneration, especially when standing still, and freezes nearby enemies
+}
+
+DivineBless: {
+	DisplayName: Святое Благословение
+	Description: Регенерация жизни увеличена, а призванные существа накладывают Изгоняющее Пламя
+}
+
+EmpyreanRage: {
+	DisplayName: Эмпирейская Ярость
+	Description: Ярость космоса
+}
+
+EmpyreanWrath: {
+	DisplayName: Эмпирейский Гнев
+	Description: Гнев космоса
+}
+
+Encased: {
+	DisplayName: Закован
+	Description: +30 защиты и +30% уменьшения входящего урона, но...
+}
+
+GraxBoost: {
+	DisplayName: Усиление Гракса
+	Description: Ваша защита и мышцы стали могучими
+}
+
+HallowedRuneDefense: {
+	DisplayName: Крепость Освящения
+	Description: +8 защиты и +4% уменьшения входящего урона
+}
+
+HallowedRunePower: {
+	DisplayName: Усиление Освящения
+	Description: +10% урона призванных существ
+}
+
+HallowedRuneRegeneration: {
+	DisplayName: Восстановление Освящения
+	Description: Регенерация жизни увеличена
+}
+
+Haste: {
+	DisplayName: Спешка
+	Description: Скорость и ускорение движения увеличены
+}
+
+IceShieldBuff: {
+	DisplayName: Ледяной Щит
+	Description: Поглощает 20% урона от следующего удара по вам, а затем раскалывается
+}
+
+Mushy: {
+	DisplayName: Грибное Покрытие
+	Description: +6 защиты и +1 ОЗ/с регенерации жизни
+	// ItemTooltip: Increases defense and life regeneration
+}
+
+PhantomicEmpowerment: {
+	DisplayName: Усиление Фантомов
+	Description: +10% урона призванных существ
+}
+
+PhantomicRegen: {
+	DisplayName: Восстановление Фантомов
+	Description: Регенерация жизни увеличена
+}
+
+PhantomicShield: {
+	DisplayName: Щит Фантомов
+	Description:
+		'''
+		+10 защиты и +5% уменьшения входящего урона
+		Вас прикрывает эфемерный бастион
+		'''
+}
+
+ProfanedCrystalBuff: {
+	DisplayName: Служение
+	Description: Теперь вы прислуга Скверной Богини!
+	Offense: "{0} усиливает ваши атакующие способности"
+	Lava: Жар лавы
+	Day: Свет дня
+	Defense: "{0} ваше пламя, усиливая ваши защитные способности"
+	Water: Вода окатывает
+	Honey: Мед остужает
+	Night: Тьма ночи охлаждает
+	Enrage: В отсутствие тепла дня, ваши огни горят сильнее
+	Empowered:
+		'''
+		Отвергнув помощь от любых других призванных существ, вы выпустили на волю свой истинный потенциал
+		[c/F05A5A:Вы теперь последний козырь в потерянном рукаве этой кампании.]
+		'''
+	LockedSlots: Ваша скверная душа сковывается недостатком силы призыва
+	LockedExos: Эссенция в этом кристалле испорчена подавляющими энергетическими волнами грозных машин
+	LockedSCal: Эссенция в этом кристалле испорчена могучей магией великой ведьмы
+}
+
+ProfanedCrystalWhipDebuff: {
+	DisplayName: Ослабление от Кнута из Кристаллов Скверны
+	Description: Ваша плоть была порвана на куски кристаллическим кнутом скверны!
+}
+
+ProfanedCrystalWhipBuff: {
+	DisplayName: Усиление от Кнута из Кристаллов Скверны
+	Description: Защитники были усилены вашим кнутом из кристаллов скверны!
+	Empowered: Их полный потенциал был раскрыт, и теперь никому не будет спасения от их ярости
+}
+
+RageMode: {
+	DisplayName: Буйство
+	Description: Весь урон умножен на 1.35x
+}
+
+ReaverRage: {
+	DisplayName: Злость Разорителя
+	Description: Вы разозлились
+	// ItemTooltip: Increased defense and damage
+}
+
+SilvaRevival: {
+	DisplayName: Иммунитет Сильвы
+	Description: Вы неубиваемы и иммунны к большей части отрицательных эффектов
+}
+
+SpiritDefense: {
+	DisplayName: Крепость Духа
+	Description: +6 защиты и +3% уменьшения входящего урона
+}
+
+SpiritPower: {
+	DisplayName: Сила Духа
+	Description: +10% урона призванных существ
+}
+
+SpiritRegen: {
+	DisplayName: Восстановление Духа
+	Description: Регенерация жизни увеличена
+}
+
+TarragonCloak: {
+	DisplayName: Плащ Таррагона
+	Description: -50% входящего контактного урона
+}
+
+TarragonImmunity: {
+	DisplayName: Иммунитет Таррагона
+	Description: Вы иммунны
+}
+
+TarraLifeRegen: {
+	DisplayName: Тарра-Регенерация
+	Description: Быстрая регенерация жизни
+	// ItemTooltip: ""
+}
+
+AndromedaCripple: {
+	DisplayName: Неудачная Высадка из Андромеды
+	Description: Вы замедлены
+}
+
+ArmorCrunch: {
+	DisplayName: Пробитие Брони
+	Description: Ваша броня покромсана
+	// ItemTooltip: Damage Reduction is 15% less effective
+}
+
+Crumbling: {
+	DisplayName: Крошение
+	Description: Ваша броня повреждена
+	// ItemTooltip: Damage Reduction is 8% less effective
+}
+
+Clamity: {
+	DisplayName: Clamity
+	Description: Моллюски были разозлены!
+}
+
+DoGExtremeGravity: {
+	DisplayName: Экстремальная Гравитация
+	Description:
+		'''
+		-25% времени полета
+		Неограниченный полет отключен
+		'''
+}
+
+Enraged: {
+	DisplayName: Разъярен
+	Description: Весь урон умножен на 2.25x, но вы получаете на 1.25x больше урона
+}
+
+Eutrophication: {
+	DisplayName: Эвтрофикация
+	Description: Нехватка кислорода в вашем теле препятствуют движению
+	// ItemTooltip: Slows enemies
+}
+
+ExoFreeze: {
+	DisplayName: Экзо-Заморозка
+	Description: Вы не можете двигаться
+}
+
+FishAlert: {
+	DisplayName: ВНИМАНИЕ: РЫБЫ!
+	Description: Абиссальные существа заметили вас!
+}
+
+FrozenLungs: {
+	DisplayName: Промерзшие Легкие
+	Description: Ледяные воды мешают вам дышать
+}
+
+GalvanicCorrosion: {
+	DisplayName: Электрохимическая Коррозия
+	Description: Ваши конечности начали корродировать
+	// ItemTooltip: Slows enemies
+}
+
+GlacialState: {
+	DisplayName: Оледеневшее Состояние
+	Description: Вы не можете двигаться
+	// ItemTooltip: Freezes enemies
+}
+
+IcarusFolly: {
+	DisplayName: Проклятье Икара
+	Description:
+		'''
+		-33% времени полета крыльев
+		Неограниченный полет отключен
+		'''
+}
+
+Irradiated: {
+	DisplayName: Облучение
+	Description: Ваша кожа горит
+	/* ItemTooltip:
+		'''
+		Typeless - 10 DPS
+		Increases damage taken from Sickness debuffs
+		''' */
+}
+
+MarkedforDeath: {
+	DisplayName: Метка на Смерть
+	Description: Уменьшение входящего урона ослаблено
+	// ItemTooltip: Damage reduction is 50% less effective
+}
+
+PearlAura: {
+	DisplayName: Аура Жемчужины
+	Description: Вы замедлены
+}
+
+ProfanedWeakness: {
+	DisplayName: Слабость Скверны
+	Description: Вы наносите меньше урона
+}
+
+TemporalSadness: {
+	DisplayName: Временная Грусть
+	Description: Вы плачете
+	// ItemTooltip: Freezes enemies
+}
+
+TimeDistortion: {
+	DisplayName: Искажение Времени
+	Description: Время замедлено
+	// ItemTooltip: Slows enemies
+}
+
+Warped: {
+	DisplayName: Искривление
+	Description: Ваше движение искривляется
+}
+
+WeakPetrification: {
+	DisplayName: Слабое Окаменение
+	Description: Ваше вертикальное движение ослаблено
+}
+
+WhisperingDeath: {
+	DisplayName: Шепчущая Смерть
+	Description: Урон и регенерация жизни уменьшены; [c/660066:Надвигается смерть...]
+	// ItemTooltip: Reduced contact damage
+}
+
+WitherDebuff: {
+	DisplayName: Иссушение
+	Description:
+		'''
+		Вы иссушены...
+		-20 защиты
+		'''
+}
+
+AbandonedSlimeBuff: {
+	DisplayName: Астральная Желешка
+	Description: Вернулся с небес исключительно для того, чтобы защитить вас!
+}
+
+AncientMineralSharkBuff: {
+	DisplayName: Древняя Минеральная Акула
+	Description: Такая древняя, но все равно сильная
+}
+
+AquaticStar: {
+	DisplayName: Водная Звезда
+	Description: Водная Звезда защищает вас
+}
+
+AstralProbeBuff: {
+	DisplayName: Астральный Зонд
+	Description: Астральный Зонд защищает вас
+}
+
+BabyBloodCrawlerBuff: {
+	DisplayName: Молодой Кровяной Ползун
+	Description: Молодой Кровяной Ползун защищает вас
+}
+
+BabySlimeGodBuff: {
+	DisplayName: Молодой Слизневый Бог
+	Description: Молодой Слизневый Бог защищает вас
+}
+
+BabyStormlionBuff: {
+	DisplayName: Молодой Штормовой Лев
+	Description: Молодой Штормовой Лев защищает вас
+}
+
+BelladonnaSpiritBuff: {
+	DisplayName: Дух Белладонны
+	Description: Милый лесной дух следует за вами
+}
+
+BlackHawkBuff: {
+	DisplayName: Черный Ястреб
+	Description: Истребитель защищает вас
+}
+
+BrimseekerBuff: {
+	DisplayName: Серный Искатель
+	Description: Он чего-то хочет от тебя?
+}
+
+BrimstoneWaifu: {
+	DisplayName: Элементаль Серы
+	Description: Элементаль Серы защищает вас
+}
+
+BrittleStar: {
+	DisplayName: Хрупкая Морская Звезда
+	Description: Хрупкая Морская Звезда защищает вас
+}
+
+CalamarisLamentBuff: {
+	DisplayName: Кальмар
+	Description: Время отправить всех твоих противников в тюрягу для тупых кальмаров!
+}
+
+CausticStaffBuff: {
+	DisplayName: Едкий Дракончик
+	Description: Джунглевый дракончик следует за вами
+}
+
+CinderBlossomBuff: {
+	DisplayName: Пепельный Цветок
+	Description: Горячий, обжигающий цветок парит до дискомфорта близко рядом с вами
+}
+
+CloudyWaifu: {
+	DisplayName: Элементаль Облаков
+	Description: Элементаль Облаков защищает вас
+}
+
+GlacialEmbraceBuff: {
+	DisplayName: Ледяные Объятия
+	Description: Магия древнего ледяного дворца будет помогать вам
+}
+
+Corroslime: {
+	DisplayName: Искаженный Слизень
+	Description: Искаженный Слизень защищает вас
+}
+
+CorvidHarbringerBuff: {
+	DisplayName: Ворон
+	Description: Сильный Ворон защищает вас
+}
+
+CosmicEnergy: {
+	DisplayName: Космическая Энергия
+	Description: Космическая Энергия защищает вас
+}
+
+CosmicViperEngineBuff: {
+	DisplayName: «Космическая Гадюка»
+	Description: Космический Истребитель защищает вас
+}
+
+CosmilampBuff: {
+	DisplayName: Космическая Лампада
+	Description: Космическая Лампада защищает вас
+}
+
+Crimslime: {
+	DisplayName: Багрянцевый Слизень
+	Description: Багрянцевый Слизень защищает вас
+}
+
+DaedalusCrystalBuff: {
+	DisplayName: Кристалл Дедала
+	Description: Кристалл Дедала защищает вас
+}
+
+DaedalusGolemBuff: {
+	DisplayName: Голем Дедала
+	Description: Кристаллический голем следует за вами
+}
+
+DankCreeperBuff: {
+	DisplayName: Текущий Ползун
+	Description: Текущий Ползун защищает вас
+}
+
+DazzlingStabberBuff: {
+	DisplayName: Ослепляющий Кол
+	Description: Защищайтесь!
+}
+
+DemonshadeSetDevilBuff: {
+	DisplayName: Красный Дьявол
+	Description: Красный Дьявол защищает вас
+}
+
+ElementalAxeBuff: {
+	DisplayName: Элементальный Топор
+	Description: Элементальный Топор защищает вас
+}
+
+EndoCooperBuff: {
+	DisplayName: Эндо-Купер
+	Description: Возвышенный Купер защищает вас
+}
+
+EndoHydraBuff: {
+	DisplayName: Эндо-Гидра
+	Description: Эндо-Гидра защищает вас... зачем-то
+}
+
+EntropysVigilBuff: {
+	DisplayName: Бдение Энтропии
+	Description: Некромантические клоны защищают вас с бессмертной бдительностью
+}
+
+ExoskeletonCannons: {
+	DisplayName: Пушки Ареса
+	Description: Пульсовая Пушка не включена
+}
+
+EyeOfNightBuff: {
+	DisplayName: Глаз Ночи
+	Description: Он жутко наблюдает
+}
+
+FieryDraconidBuff: {
+	DisplayName: Огненный Драконид
+	Description: Огненный Драконид защищает вас
+}
+
+FleshBallBuff: {
+	DisplayName: Ком Плоти
+	Description: Умоляю, скажи мне, зачем ты его призвал? Почему оно следует за тобой?
+}
+
+FlowersOfMortalityBuff: {
+	DisplayName: Цветы Смертности
+	Description: Небесные Цветы окружают вас
+}
+
+FrostBlossomBuff: {
+	DisplayName: Ледяной Цветок
+	Description: Холодный, колкий цветок парит до дискомфорта близко рядом с вами
+}
+
+FungalClumpBuff: {
+	DisplayName: Грибной Комок
+	Description: Грибной Комок защищает вас
+}
+
+GammaHydraBuff: {
+	DisplayName: Гамма-Гидра
+	Description: Не смотри так на меня, у меня тоже слов нет...
+}
+
+GastricAberrationBuff: {
+	DisplayName: Гастрическое Порождение
+	Description: Гастрическое Порождение защищает вас
+}
+
+HauntedDishesBuff: {
+	DisplayName: Одержимая Посуда
+	Description: Одержимая Посуда защищает вас
+}
+
+HermitCrab: {
+	DisplayName: Краб-Отшельник
+	Description: Краб-Отшельник защищает вас
+}
+
+Herring: {
+	DisplayName: Сельдь
+	Description: Сельдь защищает вас
+}
+
+HotE: {
+	DisplayName: Сердце Элементов
+	Description: Все Элементали защищают вас
+}
+
+HowlTrio: {
+	DisplayName: Сердце Хаула
+	Description: Хаул защищает вас, Кальцифер освещает путь, а Пугало-репка преследует вас
+}
+
+HydrothermicVentBuff: {
+	DisplayName: Гидротермальный Источник
+	Description: Гидротермальный Источник защищает вас
+}
+
+IceClasperBuff: {
+	DisplayName: Ледяной Капкан
+	Description: Ледяной Капкан защищает вас
+}
+
+IgneousExaltationBuff: {
+	DisplayName: Магматический Меч
+	Description: Меч кружит вокруг вас
+}
+
+KalandraMirrorBuff: {
+	DisplayName: Зеркало Каландры
+	Description: Пять древних оружий аннигилируют ваших противников
+}
+
+KingofConstellationsBuff: {
+	DisplayName: Небесный Драконы
+	Description: Небесный Драконы защищают вас
+}
+
+LilPlaguebringerBuff: {
+	DisplayName: Маленький Чумоносец
+	Description: Чумоносец защищает вас
+}
+
+LordeBuff: {
+	DisplayName: павелитель но только совсем маленький блиин
+	Description: Вжухвжухвжухвжух
+}
+
+MagicHatBuff: {
+	DisplayName: Магическая Шляпа
+	Description: Эта шляпа хранит вашу душу, связана с вами контрактом
+}
+
+Mechworm: {
+	DisplayName: Мехчервь
+	Description: Мехчервь защищает вас
+}
+
+MidnightSunBuff: {
+	DisplayName: НЛО Полуночного СОолнца
+	Description: Странное НЛО наблюдает за вами, и это доставляет вам большой дискомфорт
+}
+
+MiniatureEyeofCthulhu: {
+	DisplayName: Миниатюрный Глаз Ктулху
+	Description: Он убийственно пялится на вас
+}
+
+MutatedTruffleBuff: {
+	DisplayName: Маленький Бумер
+	Description: Мутировавший Рыбокрыл хорошенько протравит ваших врагов
+}
+
+MiniPlaguebringerBuff: {
+	DisplayName: Мини-Чумоносец
+	Description: Маленькая чумная пчела следует за вами
+}
+
+MoonFistBuff: {
+	DisplayName: Лунный Кулак
+	Description: Лови кулаком по морде
+}
+
+MountedScannerBuff: {
+	DisplayName: Монтируемый Сканер
+	Description: Сильные машины окружают вас
+}
+
+NOU: {
+	DisplayName: NO U
+	Description: Экипировка отключена
+}
+
+PerditionBuff: {
+	DisplayName: Погибель
+	Description: Очень жаль
+}
+
+Phantom: {
+	DisplayName: Фантом
+	Description: Фантом защищает вас
+}
+
+PlantationStaffBuff: {
+	DisplayName: Флора
+	Description: Миниатюрная Плантера защищает вас
+}
+
+PoleWarperBuff: {
+	DisplayName: Искажатель Полей
+	Description: Владеющие разумом магниты притягиваются к вам
+}
+
+ProfanedSoulGuardians: {
+	DisplayName: Скверная Душа
+	Description: Скверные Защитники Души будут сражаться за вас и защищать от противников!
+	VanityDescription: Скверные Защитники Души составят вам компанию!
+}
+
+PuffWarriorBuff: {
+	DisplayName: Вздутый Воин
+	Description: Он уверенно и оживленно защищает вас
+}
+
+ResurrectionButterflyBuff: {
+	DisplayName: Бабочка Воскресения
+	Description: Спи меж цветов Сакуры, Красно-Белая Бабочка
+}
+
+SageSpiritBuff: {
+	DisplayName: Шалфейный Дух
+	Description: Он ОЧЕНЬ близко кружит, даже мне уже за вас становится неудобно
+}
+
+Sandnado: {
+	DisplayName: Песконадо
+	Description: Песконадо защищает вас
+}
+
+SandyHealingWaifu: {
+	DisplayName: Редкий Элементаль Песка
+	Description: Редкий Элементаль Песка лечит вас
+}
+
+SandyWaifu: {
+	DisplayName: Элементаль Песка
+	Description: Элементаль Песка защищает вас
+}
+
+SarosPossessionBuff: {
+	DisplayName: Саросово Владение
+	Description: Лучезарная аура оберегает вас
+}
+
+SeaSnailBuff: {
+	DisplayName: Морская Улитка
+	Description: Мяу?
+}
+
+SepulcherMinionBuff: {
+	DisplayName: Могила
+	Description: Она далеко не доброжелательна
+}
+
+ShellfishBuff: {
+	DisplayName: Устрицы
+	Description: Устрицы защищают вас
+}
+
+SilvaCrystalBuff: {
+	DisplayName: Кристалл Сильвы
+	Description: Кристалл защищает вас
+}
+
+SiriusBuff: {
+	DisplayName: Сириус
+	Description: Возможно, излишне яркий, но помощь есть помощь
+}
+
+SkeletalDragonsBuff: {
+	DisplayName: Драконы-Скелеты
+	Description: Большая радостная семья
+}
+
+SmallSkeletonBuff: {
+	DisplayName: Маленький Скелет
+	Description: Скелет наблюдает за вами
+}
+
+SnakeEyesBuff: {
+	DisplayName: Змеиные Глаза
+	Description: Всегда смотрят...
+}
+
+SolarGodSpiritBuff: {
+	DisplayName: Мстительный Дух Солнца
+	Description: Мстительный Дух Солнца готов защищать вас
+}
+
+SolarSpirit: {
+	DisplayName: Дух Солнца
+	Description: Дух Солнца защищает вас
+}
+
+SoulSeekerBuff: {
+	DisplayName: Искатель Душ
+	Description: Он точно чего-то хочет от вас
+}
+
+StarSwallowerBuff: {
+	DisplayName: «Звездоглот»
+	Description: Хмммм, мдаам
+}
+
+StellarTorusBuff: {
+	DisplayName: Звездный Тор
+	Description: Тороидальный Портал готов поджарить ваших врагов
+}
+
+TacticalPlagueEngineBuff: {
+	DisplayName: Тактический Чумной Привод
+	Description: Гигантский чумной истребитель следует за вами
+}
+
+TundraFlameBlossomsBuff: {
+	DisplayName: Цветок Тундрового Пламени
+	Description: Идеальное единство баланса и красоты
+}
+
+ValkyrieBuff: {
+	DisplayName: Валькирия
+	Description: Валькирия защищает вас
+}
+
+VileFeederBuff: {
+	DisplayName: Гнусный Кормилец
+	Description: Молодой Пожиратель Душ защищает вас
+}
+
+ViridVanguardBuff: {
+	DisplayName: Изумрудный Авангард
+	Description: Идеальный акт единства окружает вас
+}
+
+ViriliBuff: {
+	DisplayName: Вирилия
+	Description: К сожалению для вас, она чертовски заразительна
+}
+
+VoidConcentrationBuff: {
+	DisplayName: Концентрированная Пустота
+	Description: Бесконечная пустота жаждет больше...
+}
+
+WaterWaifu: {
+	DisplayName: Анахита
+	Description: Анахита защищает вас
+}
+
+WitherBlossomsBuff: {
+	DisplayName: Увядающий Цветок
+	Description: Зараза окружает вас
+}
+
+WulfrumDroidBuff: {
+	DisplayName: Вульфрумовый Дроид
+	Description: Вульфрумовый Дроид защищает вас
+}
+
+PinkJellyRegen: {
+	DisplayName: Регенерация от Розового Желатина
+	Description: Сила жижи обновляет ваши силы, +2 ОЗ/с регенерации жизни
+}
+
+GreenJellyRegen: {
+	DisplayName: Регенерация от Зеленого Желатина
+	Description: Регенеративная жижа усиливает вас, +2.5 ОЗ/с регенерации жизни
+}
+
+AbsorberRegen: {
+	DisplayName: Регенерага
+	Description:
+		'''
+		Вы благословлены кульминацией природных сил
+		+3 ОЗ/с регенерации жизни, +8% урона, +5% уменьшение входящего урона
+		'''
+	// ItemTooltip: Increases life regeneration, damage, and damage reduction
+}
+
+AbsorberAffliction: {
+	DisplayName: Недуг Поглотителя
+	Description: Емае, природа, ты страшная!
+	// ItemTooltip: Sickness - 200 DPS
+}
+
+YoungDukeBuff: {
+	DisplayName: Маленький Бумер
+	Description: Мутировавший Рыбокрыл хорошенько протравит ваших противников
+}
+
+LiliesOfFinalityBuff: {
+	DisplayName: Финальность
+	Description: Помни наше обещание
+}
+
+ManhattanBuff: {
+	// DisplayName: Manhattan
+	// Description: Cold debuff damage increased, water debuff damage reduced
+}
+
+AuricRebuke: {
+	// DisplayName: Auric Rebuke
+	// Description: Your cells are violently bouncing off each other
+	// ItemTooltip: Electric - 100 DPS. Deals 4x damage against moving targets
+}
+
+DemonicFlames: {
+	// DisplayName: Demonic Flames
+	// Description: Immolating flames sear your soul
+	// ItemTooltip: Heat - DPS depends on inflicting item
+}
+
+StaticDischarge: {
+	// DisplayName: Static Discharge
+	// Description: Shocked by static electricity
+	// ItemTooltip: Electric - 2.5 DPS. 4x damage to moving targets
+}
+
+TrueVulnerabilityHex: {
+	// DisplayName: True Vulnerability Hex
+	// Description: The end has come
+	/* ItemTooltip:
+		'''
+		Heat - 1998 DPS
+		Increases damage taken from all sources
+		Slows enemies
+		''' */
+}
+
+VermillionFlux: {
+	// DisplayName: Vermillion Flux
+	// Description: Sharp arcs of scarlet course through you
+	// ItemTooltip: Electric - 50 DPS. Deals 4x damage against moving targets
+}
+
+Voidfrost: {
+	// DisplayName: Voidfrost
+	// Description: The emptiness of space devours all warmth and life
+	// ItemTooltip: Cold - 200 DPS
+}
+
+ExoTankBuff: {
+	// DisplayName: Rainbow Road Roller
+	// Description: Your foes shall fall within your calculations
+}
+
+FrostyBatBuff: {
+	// DisplayName: Frosty Bat Friend
+	// Description: A frosty bat flits about
+}
+
+ToastyBatBuff: {
+	// DisplayName: Toasty Bat Friend
+	// Description: A fiery bat flutters at your shoulder
+}
+
+AeolianEarthBuff: {
+	// DisplayName: Aeolian Earth
+	/* Description:
+		'''
+		You are strengthened by primordial powers
+		Damage reduction increased by {0}%, damage increased by {1}%, and massively buffed mana regen
+		''' */
+}
+
+SandsWindBuff: {
+	// DisplayName: Sand's Wind
+	/* Description:
+		'''
+		You are strengthened by the powers of sand
+		Defense increased by {0}, damage increased by {1}%, and greatly buffed mana regen 
+		''' */
+}
+
+HadopelagicPressure: {
+	// DisplayName: Hadopelagic Pressure
+	// Description: Rapidly sinking to a watery grave
+	// ItemTooltip: Water - 200 DPS
+}
+
+AmphibiansGuitarBuff: {
+	// DisplayName: Amphibian's Guitars
+	// Description: Worthless human...
+}
+
+AqueousHunterDroneBuff: {
+	// DisplayName: Aqueous Hunter Drone Buff
+	// Description: Unfortunately incapable of producing fried rice
+}
+
+BrimstoneElemental: {
+	// DisplayName: Brimstone Elemental
+	// Description: The Brimstone Elemental will protect you
+}
+
+BurrowerBuff: {
+	// DisplayName: Burrower
+	// Description: A friendly burrower answered your call
+}
+
+CloudElemental: {
+	// DisplayName: Cloud Elemental
+	// Description: The Cloud Elemental will protect you
+}
+
+EnchantedKnifeStaffBuff: {
+	// DisplayName: Enchanted Knife
+	// Description: Junk knives not included
+}
+
+LegionofCelestiaBuff: {
+	// DisplayName: Celestial Axe
+	// Description: If only it was this good at chopping trees...
+}
+
+VoidEaterMarionetteBuff: {
+	// DisplayName: Void Eater Marionette
+	// Description: The power to control the Devourer is yours
+}
+
+RareSandElemental: {
+	// DisplayName: Rare Sand Elemental
+	// Description: The Sand Elemental will heal you
+}
+
+SandElemental: {
+	// DisplayName: Sand Elemental
+	// Description: The Sand Elemental will protect you
+}
+
+WaterElemental: {
+	// DisplayName: Anahita
+	// Description: Anahita will protect you
+}
+
+// Misc
+
+HyperiusCollapse: {
+	// DisplayName: Hyperius Collapse
+	// Description: You should never see this...
+}
+
+Daybroken: {
+	// DisplayName: Daybroken
+	// ItemTooltip: Heat - 100 DPS
+}
+
+Shadowflame: {
+	// DisplayName: Shadowflame
+	// ItemTooltip: Heat - 30 DPS
+}
+
+ForbiddenStealthSummonTagBuff: {
+	// DisplayName: Forbidden Stealth Summon Tag Buff
+	// Description: If you're seeing this, something went horribly wrong
+}
+
+SeaKingsAssurance: {
+	// DisplayName: Sea King's Assurance
+	// Description: If you're seeing this, something assuredly went horribly wrong
+}
+
+CnidarianSummonTagBuff: {
+	// DisplayName: Cnidarian Summon Tag Buff
+	// Description: you are not seeing this
+}

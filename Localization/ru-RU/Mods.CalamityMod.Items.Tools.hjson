@@ -1,0 +1,443 @@
+AbyssalWarhammer: {
+	DisplayName: Абиссальный Боевой Молот
+	Tooltip: ""
+}
+
+AerialHamaxe: {
+	DisplayName: Воздушный Молототопор
+	Tooltip: ""
+}
+
+AstralHamaxe: {
+	DisplayName: Астральный Молототопор
+	Tooltip: ""
+}
+
+AstralPickaxe: {
+	DisplayName: Астральная Кирка
+	Tooltip: ""
+}
+
+AxeofPurity: {
+	DisplayName: Топор Чистоты
+	Tooltip:
+		'''
+		Нажмите ЛКМ, чтобы использовать, как инструмент
+		Нажмите ПКМ, чтобы очищать мир от зла
+		'''
+}
+
+BeastialPickaxe: {
+	DisplayName: Зверская Кирка
+	Tooltip: ""
+}
+
+BerserkerWaraxe: {
+	DisplayName: Боевой Топор Берсерка
+	Tooltip: ""
+}
+
+BlossomPickaxe: {
+	DisplayName: Кирка Цветения
+	Tooltip: Может копать Ауритовую Руду
+}
+
+BobbitHook: {
+	DisplayName: Крюк-Червь Боббита
+	Tooltip:
+		'''
+		Дистанция: 40 фут
+		Скорость Запуска: 25 фут/сек
+		Скорость Возвращения: 28 фут/сек
+		Скорость Притяжения: 24 фут/сек
+		Сокращается после цепляния за блок с экстремальной скоростью
+		'''
+}
+
+AridArtifact: {
+	DisplayName: Пустынный Артефакт
+	Tooltip:
+		'''
+		Призывает Песчаную Бурю
+		Шторм произойдет скоро после использования предмета
+		Если использовать во время Бури, то она прекратится через некоторое время.
+		'''
+}
+
+Cosmolight: {
+	DisplayName: Космический Свет
+	Tooltip:
+		'''
+		Передвигает время до следующего рассвета, полдня, заката или полночи.
+		Не работает во время битвы с босом
+		'''
+}
+
+TorrentialTear: {
+	DisplayName: Слеза Ливня
+	Tooltip:
+		'''
+		Призывает Дождь
+		Дождь произойдет скоро после использования предмета
+		Если использовать во время Дождя, то он прекратится через некоторое время.
+		'''
+}
+
+CrystylCrusher: {
+	DisplayName: Кристильный Крушитель
+	Tooltip:
+		'''
+		Зажмите <right>, чтобы создать луч, который разрушает практически все
+		'Надо копать, надо идти глубже'
+		'''
+}
+
+FellerofEvergreens: {
+	DisplayName: Хвойный Лесоруб
+	Tooltip: ""
+}
+
+Gelpick: {
+	DisplayName: Гелевая Кирка
+	Tooltip: ""
+}
+
+GenesisPickaxe: {
+	DisplayName: Кирка Генезиса
+	Tooltip: Может копать уэлицветовую руду
+}
+
+Grax: {
+	DisplayName: Гракс
+	Tooltip:
+		'''
+		Удар по противнику сильно увеличивает ваш урон в ближнем бою, защиту и уменьшение входящего урона на короткий промежуток времени
+		Нажмите <right>, чтобы использовать без удара молотком по стенам или рубки деревьев
+		'''
+}
+
+GreatbayPickaxe: {
+	DisplayName: Кирка Великого Залива
+	Tooltip: Может копать демонит, багротан, метеорит, морские призмы и кристаллы морской призмы
+}
+
+InfernaCutter: {
+	DisplayName: Резак из Преисподни
+	Tooltip:
+		'''
+		Критические удары клинком создают маленькие взрывы
+		Создает большое количество маленьких искр при взмахах
+		'''
+}
+
+MarniteDeconstructor: {
+	DisplayName: Мранитный Деконструктор
+	Tooltip:
+		'''
+		Его двигатель генерирует лучи жесткого света, способные выкапывать стены с далекой дистанции
+		Игнорирует 10 защиты
+		'''
+}
+
+MarniteObliterator: {
+	DisplayName: Мранитный Уничтожитель
+	Tooltip:
+		'''
+		Использует алмазную линзу, чтобы проецировать копающий луч света на далекой дистанции
+		Игнорирует 5 защиты
+		'''
+}
+
+ReefclawHamaxe: {
+	DisplayName: Рифовый Молототопор
+	Tooltip: ""
+}
+
+SeismicHampick: {
+	DisplayName: Сейсмическая Молотокирка
+	Tooltip:
+		'''
+		Способна выкапывать кирпичи ящщеров
+		Нажмите <left>, чтобы использовать как кирку
+		Нажмите <right>, чтобы использовать как молот
+		'''
+}
+
+ShardlightPickaxe: {
+	DisplayName: Кирка Дробленого Света
+	Tooltip: ""
+}
+
+SkyfringePickaxe: {
+	DisplayName: Кирка Горизонта
+	Tooltip: Способна копать адский камень
+}
+
+TectonicTruncator: {
+	DisplayName: Тектонический Обрубатель
+	Tooltip: ""
+}
+
+WulfrumDiggingTurtle: {
+	DisplayName: Вульфрумовая Копающая Черепаха
+	Tooltip:
+		'''
+		Бросьте хлипкий копающий механизм, который будет копать маленький туннель шириной в 3 блока
+		В случае катастрофы, нажмите <right>, чтобы мгновенно сдетонировать всех черепах
+		'''
+}
+
+WulfrumDrill: {
+	DisplayName: Вульфрумовая Дрель
+	Tooltip: ""
+}
+
+WulfrumScaffoldKit: {
+	DisplayName: Вульфрумовый Набор для Строительства Подмостки
+	Tooltip:
+		'''
+		Размещает на время металлический подмосток. Использует один кусок вульфрумового металлолома за каждые 40 блоков
+		Подмостки должны быть близко к твердым блокам, чтобы быть размещенными
+		'Для тех моментов, когда вам нужно что-то по-быстрому построить и не особо важно, сколько оно простоит.'
+		'''
+}
+
+WulfrumTreasurePinger: {
+	DisplayName: Вульфрумовый Искатель Сокровищ
+	Tooltip:
+		'''
+		Ищет и подсвечивает ближайший металл, который, скрестим пальцы, будет ну хоть немного ценнее чем вульфрум
+		Этот механизм невероятно хлипкий. [c/FC4903:Рано или поздно он точно сломается]
+		'''
+}
+
+AcidwoodAxe: {
+	// DisplayName: Acidwood Axe
+	// Tooltip: ""
+}
+
+AcidwoodHammer: {
+	// DisplayName: Acidwood Hammer
+	// Tooltip: ""
+}
+
+AcidwoodPickaxe: {
+	// DisplayName: Acidwood Pickaxe
+	// Tooltip: ""
+}
+
+AntiCystOintment: {
+	// DisplayName: Anti-Cyst Ointment
+	/* Tooltip:
+		'''
+		Toggle this item to prevent hive cysts from spawning near you
+		Press <right> to toggle
+		[STATE]
+		''' */
+}
+
+AntiTumorOintment: {
+	// DisplayName: Anti-Tumor Ointment
+	/* Tooltip:
+		'''
+		Toggle this item to prevent hive tumors from spawning near you
+		Press <right> to toggle
+		[STATE]
+		''' */
+}
+
+Bakidon: {
+	// DisplayName: Bakidon
+	/* Tooltip:
+		'''
+		A lost artifact said to pin the heavens in place
+		<left> to freeze the passage of day and night temporarily
+		This does not work during celestial anomalies
+		The time freeze recharges while not in use
+		''' */
+}
+
+BallAndChain: {
+	// DisplayName: Ball and Chain
+	/* Tooltip:
+		'''
+		Toggle this item to disable any dashes granted by equipment
+		<right> to toggle
+		[STATE]
+		'So heavy...'
+		''' */
+	// This is "backwards" because enabling this disables dashes
+	// TooltipEnabled: Dashes are currently disabled
+	// TooltipDisabled: Dashes are currently enabled
+}
+
+BleachBall: {
+	// DisplayName: Bleach Ball
+	/* Tooltip:
+		'''
+		Toggle this item to prevent Aquatic Scourge from spawning
+		Press <right> to toggle
+		[STATE]
+		''' */
+}
+
+BrimstoneLocus: {
+	// DisplayName: Brimstone Locus
+	/* Tooltip:
+		'''
+		[c/C61B40:'Not only can I enhance your equipment with potent magic,]
+		[c/C61B40:I can also transcend some of your weaponry to entirely new forms.]
+		[c/C61B40:Such items are revealed while this item is in your inventory.']
+		''' */
+}
+
+BrokenWaterFilter: {
+	// DisplayName: Broken Water Filter
+	/* Tooltip:
+		'''
+		Toggle this item to prevent Acid Rain from occurring
+		Press <right> to toggle
+		[STATE]
+		''' */
+}
+
+DisgustingMeat: {
+	// DisplayName: Disgusting Meat
+	/* Tooltip:
+		'''
+		<left> will remove health and mana upgrades, use with no Calamity upgrades to remove vanilla upgrades
+		<right> will remove rage and adrenaline upgrades, plus other miscellaneous boosters
+		Removed boosters will be vomited out of you as items
+		''' */
+}
+
+DriftwoodAxe: {
+	// DisplayName: Driftwood Axe
+	// Tooltip: Improved efficiency while you are wet
+}
+
+DriftwoodHammer: {
+	// DisplayName: Driftwood Hammer
+	// Tooltip: Improved efficiency while you are wet
+}
+
+DriftwoodPickaxe: {
+	// DisplayName: Driftwood Pickaxe
+	// Tooltip: Improved efficiency while you are wet
+}
+
+MomentumCapacitor: {
+	// DisplayName: Momentum Capacitor
+	// GFBName: Burden Breaker
+	// Tooltip: "[GFB]"
+	/* TooltipNormal:
+		'''
+		While using the Momentum Capacitor,
+		your top speed will continuously and uncontrollably increase
+		This effect only works if there are no bosses alive
+		''' */
+	/* TooltipGFB:
+		'''
+		The good time
+		Go fast
+		WARNING: May have disastrous results
+		Only works if there are no bosses alive
+		''' */
+}
+
+MonolithAxe: {
+	// DisplayName: Monolith Axe
+	// Tooltip: ""
+}
+
+MonolithHammer: {
+	// DisplayName: Monolith Hammer
+	// Tooltip: ""
+}
+
+MonolithPickaxe: {
+	// DisplayName: Monolith Pickaxe
+	// Tooltip: ""
+}
+
+NormalityRelocator: {
+	// DisplayName: Normality Relocator
+	/* Tooltip:
+		'''
+		Press [KEY] to teleport to the position of the mouse
+		Fall speed is doubled for 0.5 seconds after teleporting
+		Teleportation is disabled while Chaos State is active
+		Works while in the inventory
+		'I'll be there in the blink of an eye'
+		''' */
+}
+
+RelicOfConvergence: {
+	// DisplayName: Relic of Convergence
+	/* Tooltip:
+		'''
+		Creates a profaned crystal at the cursor that channels a healing aura before shattering
+		All players within the area of effect are healed for {0} HP
+		Allies gain 50% extra healing
+		Holding out the crystal reduces the damage of all summons, decreases defense, and increases incoming damage
+		[c/FF8C00:Never once had I known kindness. Neither my peers or family had a shred of compassion for me.]
+		[c/FF8C00:I wished for someone I could confide. A presence that cleansed me of anxiety.]
+		[c/FF8C00:And when I saw Her radiant smile when we met, I knew I had finally found it.]
+		''' */
+}
+
+RelicOfResilience: {
+	// DisplayName: Relic of Resilience
+	/* Tooltip:
+		'''
+		Holding this item creates orbiting rock shards around you and nearby allies
+		While they orbit you, your minimum defense is set to 150 and minimum damage reduction to 10%
+		Taking a hit or pressing <right> will pull in the shards, then blast them outward, crippling hit enemies
+		This effect has a 10 second cooldown after taking a hit
+		Holding out the shield heavily reduces the damage of all summons while rocks are active, only for you
+		[c/FF8C00:I saw a massacre and did nothing to stop it. My vow broken, I was shunned.]
+		[c/FF8C00:My will to forge ahead vanished. My final wish was simply to not die alone.]
+		[c/FF8C00:But when She put faith in my shield, I would never again let it falter.]
+		''' */
+}
+
+SirenproofEarMuffs: {
+	// DisplayName: Sirenproof Earmuffs
+	/* Tooltip:
+		'''
+		Toggle this item to prevent Anahita from spawning
+		Press <right> to toggle
+		[STATE]
+		''' */
+}
+
+SulphurousSeaWorldSideChanger: {
+	// DisplayName: Sulphurous Sea World Side Changer
+	/* Tooltip:
+		'''
+		Spawn and use this if your regular ocean counts as a Sulphurous Sea
+		This will also fix the Abyss if it is broken
+		''' */
+}
+
+SuperDummy: {
+	// DisplayName: Super Dummy
+	/* Tooltip:
+		'''
+		Creates a super dummy
+		Regenerates 1 million life per second
+		Will not die when taking damage over time from debuffs
+		<right> to kill all super dummies
+		Can only spawn 50 super dummies at once
+		''' */
+}
+
+VoodooDemonVoodooDoll: {
+	// DisplayName: Voodoo Demon Voodoo Doll
+	/* Tooltip:
+		'''
+		Toggle this item to prevent voodoo demons from spawning near you
+		Press <right> to toggle
+		[STATE]
+		''' */
+}

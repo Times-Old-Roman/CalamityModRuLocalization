@@ -1,0 +1,426 @@
+// Buff Descriptions
+BuffDescription: {
+	Banner: У вас увеличена защита от и урон против следующих существ:
+	BeetleMight: Урон и скорость атаки в ближнем бою увеличены на {0}% и {1}% соответственно
+	ChaosState: Телепортация Жезла Раздора не работает
+	LeafCrystal: Излучает сильные пульсы жизни в ближайших противников
+	WarmthExtra: Уменьшена длительность Охлаждения, Заморозки, и Ледяного Состояния
+	WeaponImbueConfetti: Все атаки взрываются конфетти
+	WeaponImbueCursedFlames: Атаки в ближнем бою, кнуты и метательное оружие поджигают противников проклятым пламенем
+	WeaponImbueFire: Атаки в ближнем бою, кнуты и метательное оружие поджигают противников огнем
+	WeaponImbueGold: Атаки в ближнем бою, кнуты и метательное оружие заставляют противников ронять больше золота
+	WeaponImbueIchor: Атаки в ближнем бою, кнуты и метательное оружие уменьшают защиту противников
+	WeaponImbueNanites: Атаки в ближнем бою, кнуты и метательное оружие запутывают противников
+	WeaponImbuePoison: Атаки в ближнем бою, кнуты и метательное оружие отравляют противников
+	WeaponImbueVenom: Атаки в ближнем бою, кнуты и метательное оружие поражают ядом ваших противников
+	// Rabies: Decreased life regen, Causes status effects
+}
+
+// Vanilla NPC dialogues added by Calamity
+AnglerChat.SeaKing: Кто-нибудь скажите уже {0}у, чтобы он перестал пытаться вышвырнуть меня из города, у него это все равно не получится.
+
+ArmsDealerChat: {
+	MentionQuadBarrel: Тот старикан оставил после смерти старую пушечку. Сечешь мысль?
+	HasQuadBarrel: Ахаха! Да только взгляни на этот ржавый дробовичок, а? Прямо как из 70-ых!
+	DoGDefeated: Мне кажется, или у тебя винтовки становятся все больше и больше в размере? Компенсируешь?
+	Eclipse: Э, мотыльки же летят на свет, какого черта этот тут делает?! Чую нам понадобится что-то побольше, чем просто обрез, чтобы убить эту мерзость!
+}
+
+ClothierChat: {
+	PolterghastDefeated: Голоса пропали... Я не хочу даже думать, что ты там наделал, но большое тебе спасибо.
+	MoonLordDefeated1: Кому вы позвоните?
+	MoonLordDefeated2: Эти крики... Я не знаю почему, но у меня будто проснулся неописуемый страх в сердце.
+	MoonLordDefeated3: Голоса, которые я вечно слышал в Темнице, вернулись... На них есть какая-то причина, я то уж точно знаю, когда это просто в моей голове проблемы.
+	MoonLordPresent: Хьюстон, у нас проблема.
+}
+
+CyborgChat: {
+	MoonLordDefeated1: Всегда меться на луну! Это явно раньше срабатывало.
+	MoonLordDefeated2: Драедон? Чел, который меня улучшал, вечно болтал о том, как ему хочется перебороть того. Мне, честно, было плевать, мне лишь надо было стрелять лазерами из глаз.
+	MentionPlague: Те громадные зеленые тараканы в Джунглях мне не угрожают, но вот животным, которых они ассимилируют... Прошу, сделайте мне одолжение и защитите их.
+	Rain: Все эти мгновения затеряются во времени, как... слёзы в дожде.
+}
+
+DemolitionistChat: {
+	DoGDefeated: Динамит Богоубийцы? Черт, а звучит хорошо, мне нравится!
+	// MentionSkynamite: Tired of blowing your legs off with dynamite? Not my problem, but if you aren't fond of it you could try throwing them into a Sky Mill to see if they fly.
+}
+
+DryadChat: {
+	DarksunEclipse: Из этих мотыльков лучится темная солнечная энергия. Как странно, почему мотыльки будто бы растут в силе вместе с тобой?
+	Hardmode: Эта звездная болезнь покрывает эти земли, словно ветрянка. Да сколько же еще темных силы зла существует в мирах за этими пределами?
+	Mushroom: Ах, я тут просто так! Подбираю грибочки на, ээ, потом.
+	SulphurSea: Моя Богиня покоится в глубинах этого моря. Пожалуйста, позвольте мне побыть одной и отдать ей дань уважения.
+}
+
+DyeTraderChat: {
+	Normal: Вы видели этих самоцветных существ в пещерах? О, их цвета просто захватывают дух!
+	Archmage: Как думаете, Архмаг {0} слыхал о выражении 'отпусти и забудь?'
+}
+
+GoblinTinkererChat: {
+	Bandit: Эй, мне кажется, или мои карманы стали немного полегче? У нас в городе теперь есть {0}, и с этого момента я стал замечать это. Совпадение может быть...
+	MoonLordDefeated: Знаешь... а у нас уже давно не было вторжений...
+}
+
+GuideChat: {
+	ProvidenceDefeated1: Убив Богиню, вы очевидно прольете ее эссенцию в эти земли, так что вам, наверное, стоит использовать останки ее сил, чтобы сделать еще более сильные вещи!
+	ProvidenceDefeated2: Я слыхал, что Драконий Культ что-то запер в Темнице, что усиливает их чары. По всей видимости оно может отправить вас в другой мир, если как-то это разозлить...
+	MoonLordDefeated: Я стал видеть членов Драконьего Культа вне Темницы намного чаще, чем обычно... Думаю, вам стоит проверить - что могло бы вызвать их беспокойство.
+	Hardmode1: Будьте добры, могли бы вы пожалуйста, ах... проверить ад для меня...? Я там оставил кое-кого, о ком я волнуюсь.
+	Hardmode2: Это землетрясение не естественное, его что-то вызвало... Будьте осторожны в своих приключениях, ведь виной ему могло быть сильное существо, которое, может быть, даже не из нашего мира.
+}
+
+HerbTooltips: {
+	Daybloom: "[C/FFEB8A:Радостное растение, которое цветет под солнечным светом]"
+	Moonglow: "[C/8AFFFF:Лучащееся растение, которое цветет под лунным светом]"
+	Waterleaf: "[C/8AFFAF:Упорное растение, которое цветет под дождем]"
+	Blinkroot: "[C/FFC28A:Капризное растение, которое цветет непредсказуемо]"
+	Shiverthorn: "[C/AADEFA:Холодное растение, которое цветет медленно, но навечно]"
+	Deathweed: "[C/A98AFF:Дурное растение, которое цветет под полной или кровавой луной]"
+	Fireblossom: "[C/FF8063:Трепещущее растение, которое цветет в часы зари]"
+}
+
+MechanicChat: {
+	MoonLordDefeated: В смысле, вам своих ловушек не хватает? Не смотрите так на меня!
+	Eclipse: Эээм... может ночник стоит включить?
+	AcidRain: Возможно мне стоило гидроизолировать свои механизмы... Они начинают корродировать.
+	// HasPortalGun: Just what is that contraption? It makes my Teleporters look like child's play!
+}
+
+MerchantChat: {
+	MoonLordDefeated: Каждая ночь становится более напряженной, чем прошлая. Ух, чую, за нами наблюдают неописуемые кошмары.
+	Eclipse: Вы с ума сошли?! Гасите лампы!
+	AcidRain: Если такой кислотный дождь будет и дальше лить, то у нас вскоре не будет хватать земляных блоков!
+	Bandit: У меня тут завалялось достаточно много ангельских статуй, настоящий раритет! Хотите?
+}
+
+NurseChat.HealNotAllowed: Вот только не сейчас!
+
+PainterChat: {
+	Corruption: Какой-то простуды не хватит, чтобы остановить мою карьеру художника!
+	Crimson: Эти места на удивление красочны. Ужасающее, жуткое чувство. Оно меня вдохновляет!
+	Archmage: Думаешь {0} дал бы мне нарисовать его как тех французских девушек?!
+	Tundra: Я не совсем привык к такой холодной погоде. Но, все-равно, тут красиво.
+	Desert: Я ненавижу песок. Он шершавый, грубый и он постоянно засоряют мою краску.
+	Hallow: Как думаешь, кровь единорога годится в качестве пигмента или смолы? Нет, я выяснять это сам не собираюсь.
+	Space: Не, в таком окружении я не могу работать. Краска просто берет и улетает.
+	Jungle: Рисовать натюрморт с черепахами не особо хорошо получается.
+	Astral: Знаешь, рисовать натюрморт на удивление сложно, если фрукт берет, отращивает ноги и убегает прочь.
+	Underworld1: На холсте страсти, бывают, очень накаляются. Прямо как и мир здесь!
+	Underworld2: Извиняюсь, акварель кончилась. Она вся испарилась.
+	Crags: Розы, серьезно? Боже, такой банальный цветок для картины.
+	SulphurSea: Интересный факт! Сера когда-то использовалась, в качестве пигмента! Так стоп, или это киноварь?
+	Abyss: Легчайший пейзаж моей жизни.
+}
+
+PartyGirlChat: {
+	Eclipse1: Ой, мое световое шоу случайно превратилось в электрическую ловушку для насекомых. Ну, хотя бы монстрам оно нравится.
+	Eclipse2: Уууу! Обожаю вечеринки, на которых все носят страшные костюмы!
+}
+
+PirateChat: {
+	PreLeviathan: Ага, слыхал о легендарном монстре в океане, который поет влекущим голосом. Смотри в оба, когда рыбачишь там.
+	WetScourgeDefeated: Ох, мне стоит тебя поблагодарить за сражение того морского змея. Или это другой...
+	SeaKing: Помню легенды слагали об этом {0}е. Правда, он немного не такой, как говорилось в историях.
+	Ocean: А вот это уже пейзаж, которому я всегда буду рад! Есть, конечно, чувство, что за мной кто-то наблюдает.
+	SulphurSea1: Не особое зрелище, но в этих водах все равно есть достаточно жизни.
+	SulphurSea2: Тысячи чертей! У меня корабль затонет от этой кислоты.
+}
+
+SeedTooltips: {
+	Daybloom: "[C/FFEB8A:Сажается в обычной траве]"
+	Moonglow: "[C/8AFFFF:Сажается в джунглевой траве]"
+	Waterleaf: "[C/8AFFAF:Сажается в песке]"
+	Blinkroot: "[C/FFC28A:Сажается в земле или грязи]"
+	Shiverthorn: "[C/AADEFA:Сажается в снегу или льду]"
+	Deathweed: "[C/A98AFF:Сажается в злой траве или камне]"
+	Fireblossom: "[C/FF8063:Сажается в пепле]"
+}
+
+SkeletonMerchantChat.Normal: Что покупаем?
+
+SteampunkerChat: {
+	HasPortalGun: Да что это за портальная штукенция такая? Мои телепортаторы кажутся детской игрушкой, по сравнению с ней!
+	MoonLordDefeated: Все! Теперь я думаю еще стать космическим пиратом.
+	Astral: Некоторые мои машины сходят с ума от этой Астральной Инфекции. Возможно, не стоило их тут строить.
+	Hallow: Извиняюсь, у меня нет единорогостойкой технологии, вы тут сами за себя.
+}
+
+StylistChat: {
+	Hardmode: Умоляю, не подхвати там космический вшей каких-нибудь. {0} болеет вшой, смотри и от него не подхвати. Да и в принципе никаких не подхватывай.
+	ProfanedSoulCrystal1: Оно выглядит так мило, но я все равно чувствую их невероятную силу просто находясь рядом. Что ты такое?
+	ProfanedSoulCrystal2: Не хотелось бы быть вестником плохих новостей, но, дорогуша, у тебя ни волос, ни стиля.
+	ProfanedDonuts: Ууу, они такие милые, у них есть имя?
+}
+
+TavernkeepChat.FullMoon: Не хотите чутка самогона под полную луну?
+
+TaxCollectorChat: {
+	DoGDefeated: Пожиратель чего, простите? Пожиратель Капитала по всей видимости, если так посмотреть на его дорогущий вид!
+	PreBrimmy: Значит эта шпана в Азафюре думает, что они могут бесплатно жить на моих землях? Знаешь что, сделай там мое дело, и я дам бонус.
+	HasSlickCane: Святые угодники! Ваша трость просто невероятна!
+	Has500Plat: Да откуда и как вы получаете столько денег?!
+	Has100Plat: ГАХ! Я, кажется, больше ни гроша не соберу с такого погрязшего в долгах города!
+}
+
+TruffleChat.Normal: Я не чувствую себя в особой безопасности; Мне кажется, тут свиньи преследуют меня, и это очень страшно.
+
+WitchDoctorChat: {
+	BloodMoon: Мой совет - сейчас идеальное время собирать самые лучшие ингредиенты для зелий.
+	PrePlantera: Я, помню, ведал о некоторых поселенцах, которые пытались создать монстра для защиты своей деревни. Хмм, может быть, их магия вам пригодится?
+	Jungle: Ох, бывает интересно, как поживают мои братья и сестры... В последний раз они были очень заняты восхвалением... Солнца, вроде.
+}
+
+WizardChat: {
+	Hardmode: Мне кажется, космос только что стал слишком близок для комфорта.
+	MentionRoD: Я как-то видывал в Освящении розовые телепортирующиеся призраки. Если вы дадите мне дом неподалеку от них, то, я думаю, я смогу направить их магию в особый посох для вас.
+}
+
+// DashKey: Press {0} while facing a direction
+/* DodgeInfo:
+	'''
+	Grants the ability to dodge attacks
+	Attacks that deal less than 5% of your max life in damage will not be dodged
+	The dodge has a cooldown that ranges between {0} and {1} seconds depending on the dodged attack's damage
+	The cooldown is shared with all other dodges and reflects
+	''' */
+
+AddedTooltip: {
+	/*
+	Accessories
+	*/
+	// TitanGloveLine: 10% increased true melee damage
+	// YoyoGlove: Secondary yoyos will do 50% less damage
+	// Also used by Sniper Scope
+	// EyeoftheGolem: 15% increased critical strike damage
+	// RifleScope: The scope effect can be toggled with visibility
+	// ArcaneFlower: 5% increased magic damage
+	/* HellfireTreads:
+		'''
+		50% increased Heat debuff damage, does not stack with downgrades
+		All attacks inflict Hellfire
+		''' */
+	/* FairyBoots:
+		'''
+		Fairies can spawn at any time on the surface and spawn far more frequently
+		Nearby fairies grant +2 HP/s life regen, 6 defense and 10% movement speed
+		Fairies are immune to damage and will no longer flee
+		''' */
+	// FleshKnucklesLine: Max life increased by 25
+	// HandWarmer: Provides a regeneration boost while wearing the Snow armor
+	/*
+	Others
+	*/
+	/* TruffleWorm:
+		'''
+		Summons Duke Fishron if used as bait in the Ocean
+		Enrages outside the Ocean
+		''' */
+	// SlimeGun: Slimed enemies take more damage from fire-based debuffs
+	// RodofDiscord: Teleportation is disabled while Chaos State is active
+	/* Pwnhammer:
+		'''
+		Demon Altars now drop Souls of Night instead of generating ores when destroyed
+		Hardmode ores now generate after defeating Mechanical Bosses for the first time
+		''' */
+	// Life Drain
+	/* SoulDrain:
+		'''
+		This grants +1.5 HP/s life regen and accelerates natural life regen
+		Life drain stacks based on the number of enemies being hit
+		''' */
+	// GoldenFishingRod: Its fishing line will never break
+	/* Tombstones:
+		'''
+		13 of any tombstone turns the surrounding area into a graveyard
+		Graveyards have various new item sales and recipes
+		''' */
+	// FeatherfallPotion: Disables all airborne flight recovery
+	// CrimsonArmorPieces: +0.5 HP/s life regen
+	// Picksaw: Can mine Scoria Ore located in the Abyss
+}
+
+PrefixTooltip: {
+	/* ArcaneBuffStat:
+		'''
+		+{0} max mana
+		+{1}% magic damage
+		-{2}% mana cost
+		''' */
+	// ArmorPenStat: +{0} armor penetration
+	// CritStat: +{0}% critical strike chance
+	// DamageStat: +{0}% damage
+	// DefenseStat: +{0} defense
+	// DRStat: +{0}% damage reduction
+	// LuckStat: +{0} luck
+	// MeleeSpeedStat: +{0}% melee speed
+	// SpeedStat: +{0}% movement speed
+}
+
+EditedTooltip: {
+	/*
+	Boss Summons
+	*/
+	/* Abeemination:
+		'''
+		Summons the Queen Bee when used in the Jungle
+		Enrages outside the Underground Jungle
+		''' */
+	/* BloodySpine:
+		'''
+		Summons the Brain of Cthulhu when used in the Crimson
+		Despawns outside the Crimson
+		''' */
+	/* ClothierVoodooDoll:
+		'''
+		While equipped, summons Skeletron when the Clothier is killed during nighttime
+		Enrages during the day
+		'You are a terrible person'
+		''' */
+	// DeerThing: Summons Deerclops when used in the Snow or Ice biome
+	/* GuideVoodooDoll:
+		'''
+		Summons the Wall of Flesh if thrown into lava in the underworld while the Guide is alive
+		'You are a terrible person'
+		''' */
+	/* LihzahrdPowerCell:
+		'''
+		Summons the Golem when used at the Lihzahrd Altar
+		Enrages outside the Jungle Temple
+		''' */
+	// MechanicalEye: Summons The Twins when used during nighttime
+	/* MechanicalSkull:
+		'''
+		Summons Skeletron Prime when used during nighttime
+		Enrages during the day
+		''' */
+	// MechanicalWorm: Summons The Destroyer when used during nighttime
+	// QueenSlimeCrystal: Summons Queen Slime when used in the Hallow
+	// SuspiciousLookingEye: Summons the Eye of Cthulhu when used during nighttime
+	/* WormFood:
+		'''
+		Summons the Eater of Worlds when used in the Corruption
+		Despawns outside the Corruption
+		''' */
+	/*
+	Life Regen
+	*/
+	// Campfires: Life regen is increased by 0.5 HP/s when near a campfire
+	// HeartLantern: Grants +1 HP/s life regeneration when placed nearby
+	/* BottledHoney:
+		'''
+		Grants +1 HP/s life regen for a short time
+		Grants an additional +1 HP/s life regen while inflicted with a damaging debuff
+		''' */
+	// ShinyStone: Grants +2 HP/s life regen and accelerates natural life regen when not moving
+	// BandofRegeneration: Grants +1 HP/s life regeneration
+	// CharmofMyths: Grants +1 HP/s life regeneration and reduces the cooldown of healing potions by 25%
+	// RegenerationPotion: Provides +2 HP/s life regeneration
+	// HamBat: Defeating enemies temporarily grants +3 HP/s life regen
+	// Vital Crystal
+	// AegisCrystal: Permanently boosts natural life regeneration
+	/*
+	OOA armors
+	*/
+	// ApprenticeHat: Increases your max number of sentries by 1, 10% reduced mana cost
+	// ApprenticeRobe: 15% increased summon damage and magic damage
+	// ApprenticeTrousers: 10% increased summon damage, 15% increased magic critical strike chance, 20% increased movement speed
+	// SquireGreatHelm: Increases your max number of sentries by 1 and grants +2 HP/s life regen
+	// SquireGreaves: 10% increased summon damage, 15% increased melee critical strike chance and movement speed
+	// MonkBrows: Increases your max number of sentries by 1 and increases rogue velocity by 15%
+	// MonkShirt: 15% increased summon and rogue damage
+	// MonkPants: 15% increased rogue critical strike chance and 20% increased movement speed
+	// Valhalla Knight
+	// SquireAltShirt: 30% increased summon damage and grants +4 HP/s life regen
+	// Shinobi Infiltrator
+	// MonkAltHead: Increases your max number of sentries by 2 and increases summon & rogue damage by 20%
+	// MonkAltShirt0: 20% increased summon damage and rogue velocity
+	// MonkAltShirt1: 5% increased rogue critical strike chance
+	// MonkAltPants: 10% increased summon damage and rogue critical strike chance
+	/*
+	Accessories
+	*/
+	// SunMoonStones: critical strike chance, life regeneration,
+	// CelestialStoneShell: Minor increase to damage,
+	// PowerGlove: 10% increased melee speed, does not stack with downgrades
+	// BerserkerGlove: 10% increased true melee damage
+	/* MechanicalGlove:
+		'''
+		12% increased melee damage
+		12% increased melee speed, does not stack with downgrades
+		''' */
+	// FireGauntlet1: Increases melee knockback and melee attacks inflict Hellfire
+	/* FireGauntlet2:
+		'''
+		14% increased melee damage
+		14% increased melee speed, does not stack with downgrades
+		''' */
+	// MoltenQuiver: Lights wooden arrows ablaze and all arrows inflict Hellfire
+	// RifleScope1: Increase view range for guns (<right> to zoom out)
+	// RifleScope2: The scope effect can be toggled with visibility
+	// SniperScope: 12% increased ranged critical strike chance
+	/* Magiluminescence:
+		'''
+		Increases movement acceleration and deceleration by 1.75x
+		Increases movement speed by 1.15x. This bonus applies to running boot accessories
+		''' */
+	// FrogLeg: Increases jump speed by {0}% and allows auto-jump
+	// Soaring Insignia
+	// EmpressFlightBooster1: Increases wing flight time by 33%
+	// EmpressFlightBooster2: Increases movement speed by 7.5%, jump speed by 10%, and acceleration by 1.25x
+	/* GravityGlobe:
+		'''
+		Provides 32% increased jump speed and increased fall speed
+		Provides a gravitational boost jump, which recharges whenever gravity is flipped
+		Slightly improves wingless air movement speed
+		Press {$Key.UP} to change gravity
+		Press {$Key.DOWN} to fall faster
+		''' */
+	/* FlameWakerBoots:
+		'''
+		25% increased Heat debuff damage
+		All attacks light enemies on fire
+		'Never get cold feet again'
+		''' */
+	/*
+	Armor
+	*/
+	// MagicHat: 6% increased magic critical strike chance
+	// Gi: 10% increased movement and jump speed
+	// SolarFlarePieces: Grants +1 HP/s life regeneration
+	/*
+	Potions
+	*/
+	// ArcheryPotion: 5% increased arrow damage and 20% increased arrow speed
+	/* AleSake:
+		'''
+		Increases melee weapon scale by 15%, but decreases melee speed by 10%
+		Counts as an alcohol for Alcohol Poisoning
+		{$Common.AlcoholWarning}
+		''' */
+	// FlaskofCursedFlames: Melee, Whip, and Rogue attacks inflict enemies with cursed flames
+	// FlaskofFire: Melee, Whip, and Rogue attacks set enemies on fire
+	// FlaskofGold: Melee, Whip, and Rogue attacks make enemies drop more gold
+	// FlaskofIchor: Melee, Whip, and Rogue attacks decrease enemies defense
+	// FlaskofNanites: Melee, Whip, and Rogue attacks confuse enemies
+	// FlaskofParty: All attacks cause confetti to appear
+	// FlaskofPoison: Melee, Whip, and Rogue attacks poison enemies
+	// FlaskofVenom: Melee, Whip, and Rogue attacks inflict Acid Venom on enemies
+	/*
+	Others
+	*/
+	// Aerial Bane
+	// DD2BetsyBow: Shoots a tight spread of 6 splitting arrows
+	// GoldPickaxe: Can mine Demonite, Crimtane, Meteorite, Sea Prisms, and Sea Prism Crystals
+	// MasterExclusive: Master or Revengeance
+	// Sparkle Slime Balloon
+	/* GelBalloon:
+		'''
+		Throws a mixture of slime and sparkling crystals
+		Slimed enemies take more damage from fire-based debuffs
+		''' */
+	// Ancient Manipulator
+	// LunarCraftingStation: Used to craft items from Lunar Fragments, Luminite, and Astral Bars
+	// AnkhShield: Grants immunity to most debuffs, including Mighty Wind
+}

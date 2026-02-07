@@ -1,0 +1,279 @@
+AcesApronOfAffection: {
+	DisplayName: Фартук Ласки Аса
+	Tooltip: "'Идеален для обнимашек!'"
+}
+
+AnahitaMask: {
+	DisplayName: Маска Анахиты
+	Tooltip: ""
+}
+
+AncientGodSlayerChestplate: {
+	DisplayName: Древний Нагрудник Богоубийцы
+	Tooltip: ""
+}
+
+AncientGodSlayerHelm: {
+	DisplayName: Древний Шлем Богоубийцы
+	Tooltip: ""
+}
+
+AncientGodSlayerLeggings: {
+	DisplayName: Древние Поножи Богоубийцы
+	Tooltip: ""
+}
+
+ApolloMask: {
+	DisplayName: Маска Аполлона
+	Tooltip: ""
+}
+
+AquaticScourgeMask: {
+	DisplayName: Маска Водного Бича
+	Tooltip: ""
+}
+
+AresMask: {
+	DisplayName: Маска Ареса
+	Tooltip: ""
+}
+
+ArtemisMask: {
+	DisplayName: Маска Артемиды
+	Tooltip: ""
+}
+
+AshenHorns: {
+	DisplayName: Пепельные Рожки
+	Tooltip: ""
+}
+
+AstrumAureusMask: {
+	DisplayName: Маска Аструм Ауреуса
+	Tooltip: ""
+}
+
+AstrumDeusMask: {
+	DisplayName: Маска Аструм Деуса
+	Tooltip: ""
+}
+
+BrimstoneWaifuMask: {
+	DisplayName: Маска Элементаля Серы
+	Tooltip: ""
+}
+
+BumblefuckMask: {
+	DisplayName: Маска Драконической Причуды
+	Tooltip: ""
+}
+
+CalamitasCloneMask: {
+	DisplayName: Маска Доппельгангера Каламитас
+	Tooltip: ""
+}
+
+CeaselessVoidMask: {
+	DisplayName: Маска Ненасытной Пустоты
+	Tooltip: ""
+}
+
+CrabulonMask: {
+	DisplayName: Маска Крабулона
+	Tooltip: ""
+}
+
+CryogenMask: {
+	DisplayName: Маска Криогена
+	Tooltip: ""
+}
+
+DesertScourgeMask: {
+	DisplayName: Маска Бича Пустыни
+	Tooltip: ""
+}
+
+DevourerofGodsMask: {
+	DisplayName: Маска Пожирателя Богов
+	Tooltip: ""
+}
+
+DraedonMask: {
+	DisplayName: Маска Драедона
+	Tooltip: ""
+}
+
+GodSlayerHornedHelm: {
+	DisplayName: Рогатый Шлем Богоубийцы
+	Tooltip: ""
+}
+
+GodSlayerVisage: {
+	DisplayName: Лик Богоубийцы
+	Tooltip: ""
+}
+
+HiveMindMask: {
+	DisplayName: Маска Роевого Сознания
+	Tooltip: ""
+}
+
+HoodOfCalamity: {
+	DisplayName: Капюшон Бедствия
+	Tooltip: ""
+}
+
+LeviathanMask: {
+	DisplayName: Маска Левиафана
+	Tooltip: ""
+}
+
+OldDukeMask: {
+	DisplayName: Маска Древнего Герцога
+	Tooltip: ""
+}
+
+OldHunterHat: {
+	DisplayName: Старая Охотничья Шляпа
+	Tooltip: "'Наряд, изготовленный по виду и подобию охотников их далеких земель'"
+}
+
+OldHunterPants: {
+	DisplayName: Старые Охотничьи Штаны
+	Tooltip: "'Наряд, изготовленный по виду и подобию охотников их далеких земель'"
+}
+
+OldHunterShirt: {
+	DisplayName: Старая Охотничья Рубашка
+	Tooltip: "'Наряд, изготовленный по виду и подобию охотников их далеких земель'"
+}
+
+PerforatorMask: {
+	DisplayName: Маска Перфораторов
+	Tooltip: ""
+}
+
+PlaguebringerGoliathMask: {
+	DisplayName: Маска Чумоносца Голифаа
+	Tooltip: ""
+}
+
+PolterghastMask: {
+	DisplayName: Маска Полтергаста
+	Tooltip: ""
+}
+
+ProfanedGuardianMask: {
+	DisplayName: Маска Скверных Защитников
+	Tooltip: ""
+}
+
+ProvidenceMask: {
+	DisplayName: Маска Провиденции
+	Tooltip: ""
+}
+
+RavagerMask: {
+	DisplayName: Маска Опустошителя
+	Tooltip: ""
+}
+
+RobesOfCalamity: {
+	DisplayName: Робы Бедствия
+	Tooltip: ""
+}
+
+SCalBoots: {
+	DisplayName: Бедственные Ботинки
+	Tooltip: ""
+}
+
+SCalMask: {
+	DisplayName: Бедственный Капюшон
+	Tooltip: ""
+}
+
+SCalRobes: {
+	DisplayName: Бедственные Робы
+	Tooltip: ""
+}
+
+SignusMask: {
+	DisplayName: Маска Сигнуса
+	Tooltip: ""
+}
+
+SilvaHelm: {
+	DisplayName: Шлем Сильвы
+	Tooltip: ""
+}
+
+SilvaHornedHelm: {
+	DisplayName: Рогатый Шлем Сильвы
+	Tooltip: ""
+}
+
+SilvaMask: {
+	DisplayName: Маска Сильвы
+	Tooltip: ""
+}
+
+SlimeGodMask: {
+	DisplayName: Багрянцевая Маска Слизневого Бога
+	Tooltip: ""
+}
+
+SlimeGodMask2: {
+	DisplayName: Искаженная Маска Слизневого Бога
+	Tooltip: ""
+}
+
+StormWeaverMask: {
+	DisplayName: Маска Ткача Штормов
+	Tooltip: ""
+}
+
+ThanatosMask: {
+	DisplayName: Маска Танатоса
+	Tooltip: ""
+}
+
+YharonMask: {
+	DisplayName: Маска Ярона
+	Tooltip: ""
+}
+
+BrimstoneElementalMask: {
+	// DisplayName: Brimstone Elemental Mask
+	// Tooltip: ""
+}
+
+LucisBoots: {
+	// DisplayName: Luci's Boots
+	// Tooltip: "'One small step a time, you can do this.'"
+}
+
+LucisHairstyle: {
+	// DisplayName: Luci's Hairstyle
+	// Tooltip: "'Hero of Light, Luci Skyshot.'"
+}
+
+LucisMilitaryUniform: {
+	// DisplayName: Luci's Military Uniform
+	// Tooltip: "'Bearing the iconic Liberation Army insignia of freedom.'"
+}
+
+TheCommandersCap: {
+	// DisplayName: The Commanders Cap
+	// Tooltip: Part of The High-Flying Finery
+}
+
+TheFormalFootwear: {
+	// DisplayName: The Formal Footwear
+	// Tooltip: Part of The High-Flying Finery
+}
+
+TheGrandGarment: {
+	// DisplayName: The Grand Garment
+	// Tooltip: Part of The High-Flying Finery
+}

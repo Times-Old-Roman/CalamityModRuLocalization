@@ -1,0 +1,191 @@
+ApolloChargeTelegraph.DisplayName: Траектория Рывка Аполлона
+ApolloFireball.DisplayName: Летучий Плазменный Сгусток
+ApolloRocket.DisplayName: Взрывчатая Плазменная Ракета
+AresDeathBeamStart.DisplayName: Лучевая Рубка
+AresDeathBeamTelegraph.DisplayName: Траектория Экзо-Перегрузки
+AresGaussNukeProjectile.DisplayName: Ядерная Бомба Гаусса
+AresGaussNukeProjectileBoom.DisplayName: Ядерный Взрыв Бомбы Гаусса
+AresGaussNukeProjectileSpark.DisplayName: Искра Бомбы Гаусса
+AresLaserBeamStart.DisplayName: Экзотермальный Лазер
+AresPlasmaBolt.DisplayName: Экзоплазменный Болт
+AresPlasmaFireball.DisplayName: Летучий Плазменный Сгусток
+AresTeslaOrb.DisplayName: Тесла-Сфера
+ArtemisChargeTelegraph.DisplayName: Траектория Рывка Артемиды
+ArtemisDeathrayTelegraph.DisplayName: Траектория Экзотермального Луча Артемиды
+ArtemisLaser.DisplayName: Лазер Экзо-Пульса
+ArtemisSpinLaserbeam.DisplayName: Ohio Луч
+AstralFlame.DisplayName: Астральный Наводящийся Огонек
+AstralGodRay.DisplayName: Астральный Божественный Луч
+AstralLaser.DisplayName: Залп Астральных Лазеров
+AstralShot2.DisplayName: Астральный Лазер
+BigFlare.DisplayName: Большая Вспышка
+BigFlare2.DisplayName: Большая Вспышка
+BirbAura.DisplayName: Драконическая Аура
+BirbAuraFlare.DisplayName: Вспышка Драконической Ауры
+BloodGeyser.DisplayName: Кровавый Гейзер
+BrimstoneBall.DisplayName: Серный Огненный Шар
+BrimstoneBarrage.DisplayName: Серный Дротик
+BrimstoneFire.DisplayName: Серный Огонь
+BrimstoneHellblast.DisplayName: Адский Серный Взрыв
+BrimstoneHellblast2.DisplayName: Адский Серный Взрыв
+BrimstoneHellfireball.DisplayName: Адский Серный Огненный Шар
+BrimstoneMonster.DisplayName: Шепчущий Водоворот
+BrimstoneRay.DisplayName: Луч Серы
+BrimstoneTargetRay.DisplayName: Направленный Луч Серы
+BrimstoneWave.DisplayName: Серный Пламенный Череп
+BrokenApolloLens.DisplayName: Линза
+BrokenArtemisLens.DisplayName: Линза
+CirrusBlast.DisplayName: Грибной Взрыв Цирруса
+CirrusBlaster.DisplayName: Гриб Цирруса
+CirrusPhotonRipperPrismTooth.DisplayName: Зубцы Фотонного Разрывателя Цирруса
+CirrusPhotonRipperProjectile.DisplayName: Фотонный Разрыватель Цирруса
+CirrusVolatileVodkaBottle.DisplayName: Взрывоопасная Бутылка Воды
+DarkEnergyBall.DisplayName: Темная Энергия
+DarkEnergyBall2.DisplayName: Темная Энергия
+DarkOrb.DisplayName: Темная Сфера
+DesertScourgeDiveSplash.DisplayName: Всплеск от Прыжка Бича Пустыни
+DesertScourgeSpit.DisplayName: Плевок Бича
+DestroyerCursedLaser.DisplayName: Проклятый Лазер
+DestroyerElectricLaser.DisplayName: Электрический Лазер
+DeusMine.DisplayName: Астральная Мина
+DeusRitualDrama.DisplayName: Ритуальная Драма Деуса
+DoGBeam.DisplayName: Портальный Лазер
+DoGBeamPortal.DisplayName: Лучевой Портал
+DoGDeath.DisplayName: Луч Смерти
+DoGDeathBoom.DisplayName: Космический Взрыв
+DoGFire.DisplayName: Инферно Богоубийцы
+DoGP1EndPortal.DisplayName: Портал
+DoGTeleportRift.DisplayName: Разрыв
+DraedonSummonLaser.DisplayName: Гигантский Злоебучий Луч Смерти и Погибели
+DyingSun.DisplayName: Умирающее Солнце
+EssenceDust.DisplayName: Космическая Пыль
+Flare.DisplayName: Вспышка
+FlareBomb.DisplayName: Огненная Бомба
+FlareDust.DisplayName: Огненная Пыль
+FlareDust2.DisplayName: Пламенная Бомба
+Flarenado.DisplayName: Пламенадо
+FrostMist.DisplayName: Ледяной Туман
+GooglyEye.DisplayName: Глаза
+GreatSandBlast.DisplayName: Большой Песчаный Взрыв
+HealOrbProv.DisplayName: Лечение
+HellfireExplosion.DisplayName: Взрыв Серного Огня
+HiveBombGoliath.DisplayName: Бомба Улья
+HolyAura.DisplayName: Святая Аура
+HolyBlast.DisplayName: Святая Вспышка
+HolyBomb.DisplayName: Святая Бомба
+HolyBurnOrb.DisplayName: Святая Сфера
+HolyExplosionBoom.DisplayName: Святой Взрыв
+HolyFire.DisplayName: Святой Огонь
+HolyFire2.DisplayName: Святой Огонь
+HolyFlare.DisplayName: Святое Пламя
+HolyLight.DisplayName: Святой Свет
+HolySpear.DisplayName: Святое Копье
+HomingGasBulb.DisplayName: Наводящийся Газовый Бутон
+HomingGasBulbSporeGas.DisplayName: Споровый Газ Наводящегося Газового Бутона
+IceBlast.DisplayName: Ледяной Взрыв
+IceBomb.DisplayName: Ледяная Бомба
+IceRain.DisplayName: Ледяной Дождь
+IchorBlob.DisplayName: Ихоровый Сгусток
+IchorShot.DisplayName: Ихоровый Плевок
+Infernado.DisplayName: Инфернадо
+Infernado2.DisplayName: Инфернадо
+InfernadoRevenge.DisplayName: Инфернадо
+JewelProjectile.DisplayName: Рубиновый Болт
+LeviathanBomb.DisplayName: Меторный Плевок
+LeviathanSpawner.DisplayName: Призыватель
+MajesticSparkle.DisplayName: Величественный Блеск
+MoltenBlast.DisplayName: Литой Взрыв
+MoltenBlob.DisplayName: Литой Сгусток
+MushBomb.DisplayName: Грибной Выстрел
+MushBombFall.DisplayName: Падающий Грибок
+OldDukeGore.DisplayName: Сернистые Ошметки
+OldDukeSummonDrop.DisplayName: Кислота
+OldDukeToothBallSpike.DisplayName: Шип
+OldDukeVortex.DisplayName: Серный Водоворот
+OverlyDramaticDukeSummoner.DisplayName: Призыватель Древнего Герцога
+PeanutRocket.DisplayName: Взрывоопасная Ореховая Скорлупа
+PhantomBlast.DisplayName: Фантомный Взрыв
+PhantomBlast2.DisplayName: Сильный Фантомный Взрыв
+PhantomGhostShot.DisplayName: Сильный Выстрел Фантомного Духа
+PhantomHookShot.DisplayName: Выстрел Фантомного Крюка
+PhantomMine.DisplayName: Фантомная Мина
+PhantomShot.DisplayName: Фантомный Выстрел
+PhantomShot2.DisplayName: Сильный Фантомный Выстрел
+PlagueExplosion.DisplayName: Взрыв Чумного Жала
+PlagueStingerGoliath.DisplayName: Чумное Наводящееся Жало
+PlagueStingerGoliathV2.DisplayName: Взрывное Чумное Жало
+ProfanedSpear.DisplayName: Копье Скверны
+ProvidenceCrystal.DisplayName: Святой Кристалл
+ProvidenceCrystalShard.DisplayName: Осколок Святого Кристалла
+ProvidenceHolyRay.DisplayName: Святой Луч
+RavagerBlast.DisplayName: Опустошающий Лазер
+RavagerBlaster.DisplayName: Бластер Опустошителя
+RavagerFlame.DisplayName: Синее Пламя
+RedLightning.DisplayName: Красная Молния
+RedLightningFeather.DisplayName: Молниеносное Перо
+SandBlast.DisplayName: Песчаный Взрыв
+SandPoisonCloud.DisplayName: Токсичное Облако
+SandPoisonCloudOldDuke.DisplayName: Токсичное Облако
+SandTooth.DisplayName: Песчаный Зуб
+SCalBrimstoneFireblast.DisplayName: Взрыв Пламени Серы
+SCalBrimstoneGigablast.DisplayName: Гигавзрыв Пламени Серы
+SCalRitualDrama.DisplayName: Каламитасная Ритуальная Драма
+ScavengerLaser.DisplayName: Наводящийся Дротик
+ScavengerNuke.DisplayName: Наводящаяся Бомба
+ShadeNimbusHostile.DisplayName: Теневая Туча
+ShaderainHostile.DisplayName: Теневой Дождь
+ShadowflameFireball.DisplayName: Огненный Шар Теневого Пламени
+Shadowflamethrower.DisplayName: Дыхание Теневого Пламени
+SignusScythe.DisplayName: Коса
+SirenSong.DisplayName: Музыкальная Нота
+SkyFlare.DisplayName: Небесная Вспышка
+SkyFlareRevenge.DisplayName: Небесная Вспышка
+SporeGasPlantera.DisplayName: Споровый Газ
+StormWeaverFrostWaveTelegraph.DisplayName: Траектория Ледяной Волны
+SupremeCataclysmFist.DisplayName: Кулак Ярости
+SupremeCatastropheSlash.DisplayName: Взмах Резонанса
+SwirlingFire.DisplayName: Огонь
+ThanatosBeamStart.DisplayName: Луч Танатоса
+ThanatosBeamTelegraph.DisplayName: Траектория Гамма-Луча Дезинтеграции
+ThanatosLaser.DisplayName: Лазер Экзо-Пульса
+ThornBallSpike.DisplayName: Шип Колючего Компа
+ToxicCloud.DisplayName: Токсичное Облако
+UnstableCrimulanGlob.DisplayName: Нестабильный Сгусток Кримуляна
+UnstableEbonianGlob.DisplayName: Нестабильный Сгусток Эбониана
+VileClot.DisplayName: Гнусная Бляшка
+WaterSpear.DisplayName: Водяное Копье
+YharonBulletHellVortex.DisplayName: Вихрь Пулевого Ада
+YharonFireball.DisplayName: Драконий Огненный Шар
+YharonFireball2.DisplayName: Драконий Огненный Шар
+THanosSideLaser.DisplayName: Сторонний Лазер Танатоса
+PermafrostAbsoluteZeroProjectile.DisplayName: Абсолютный Ультра Ноль
+PermafrostBlast.DisplayName: Гигавзрыв Мерзлоты
+PermafrostBlaster.DisplayName: Взрыв Безлимитного Кондиционирования
+PermafrostColdheartIcicle.DisplayName: Сосулька Холодного Сердца
+PermafrostMeat.DisplayName: Холодное Мясо
+// AnahitaTelegraph.DisplayName: Anahita Telegraph
+// BloodScythe.DisplayName: Blood Scythe
+// BurningBolt.DisplayName: Burning Bolt
+// BurningFireblast.DisplayName: Burning Fireblast
+// BurningGigablast.DisplayName: Burning Gigablast
+// CalamitousDart.DisplayName: Calamitous Dart
+// CalamitousExplosion.DisplayName: Calamitous Explosion
+// CalamitousFireball.DisplayName: Calamitous Fireball
+// CataclysmicFlame.DisplayName: Cataclysmic Flame
+// CatastrophicCinder.DisplayName: Catastrophic Cinder
+// CirclingBloodScythe.DisplayName: Circling Blood Scythe
+// CrimsonEye.DisplayName: Crimson Eye
+// CursedFire.DisplayName: Eye Fire
+// DoGLaserWalls.DisplayName: God's Bane Doombeam Array
+// DoGLaserWallsBigBeam.DisplayName: Hyperdeath Rift Ripper
+// DoGRiftCrack.DisplayName: DoG Distortion Crack
+// FriendlyLaserWallBeam.DisplayName: God's Bane Doombeam
+// GolemInfernoBolt.DisplayName: Golem Fire Bolt
+// GolemInfernoBlast.DisplayName: Golem Fire Blast
+// IchorShower.DisplayName: Ichor Shower
+// MushBombGround.DisplayName: Mushroom Shot
+// RavagerNuke.DisplayName: Homing Nuke
+// HomingLaserDart.DisplayName: Homing Dart
+// HyperdeathRiftScepterBeam.DisplayName: Hyperdeath Rift Ripper
+// TelekineticEnemyGrab.DisplayName: Telekinetic Enemy Grab
+// TelekineticBlast.DisplayName: Telekinetic Blast

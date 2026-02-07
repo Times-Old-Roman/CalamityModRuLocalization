@@ -1,0 +1,137 @@
+// Recipe Groups
+RecipeGroup: {
+	HardmodeAnvil: Любая хардмодная наковальня
+	HardmodeForge: Любая хардмодная кузня
+	AnyLargeGem: Любой большой самоцвет
+	AnyFood: Любая еда
+	AnyEvilBar: Любой слиток зла
+	AnyEvilPowder: Любой порошок зла
+	Boss2Material: Теневая чешуя или образец ткани
+	CursedFlameIchor: Проклятые огни или ихор
+	AnyEvilWater: Любая вода зла
+	AnyEvilFlask: Любая фляга со злом
+	AnyEvilBlock: Любой блок зла
+	AnyGoodBlock: Любой не злой блок
+	LunarPickaxe: Любая лунная кирка
+	LunarHamaxe: Любой лунный молототопор
+	AnyQuiver: Любой колчан
+	AnyWings: Любые крылья
+}
+
+// Status
+WikiStatus1: "[i:Book] [c/EE4939:Примечание: Википедия на Fandom больше не поддерживается Calamity.] [i:Book]"
+WikiStatus2: "[i:Book] [c/EE4939:Зайдите на Официальную Википедию Calamity Mod через ][c/3989FF:calamitymod.wiki.gg][c/EE4939:!] [i:Book]"
+GimmeSwagPlushieCampaign: "[i:GreenPresent] [c/3BE022:ТЕПЕРЬ В ПРОДАЖЕ! Плюшевый Ярон!] [c/3989FF:calamitymod.com/plush] [i:GreenPresent]"
+// Recipe Conditions
+Tier1ArsenalRecipeCondition: Просмотрите незашифрованную схему из лаборатории рядом с Затонувшим Морем
+Tier2ArsenalRecipeCondition: Расшифруйте схем из лаборатории в большом планетоиде на небесах
+Tier3ArsenalRecipeCondition: Расшифруйте схем из лаборатории глубоко в джунглях
+Tier4ArsenalRecipeCondition: Расшифруйте схем из лаборатории на одном из краев ада
+Tier5ArsenalRecipeCondition: Расшифруйте схем из лаборатории глубоко в морозных пещерах
+SunkenSeaSchematicRecipeCondition: Поместите схему из лаборатории рядом с Затонувшим Морем в ваш инвентарь хотя бы раз
+PlanetoidSchematicRecipeCondition: Поместите схему из лаборатории в большом планетоиде в ваш инвентарь хотя бы раз
+JungleSchematicRecipeCondition: Поместите схему из лаборатории в глубинах джунглей в ваш инвентарь хотя бы раз
+UnderworldSchematicRecipeCondition: Поместите схему из лаборатории рядом с краем ада в ваш инвентарь хотя бы раз
+IceSchematicRecipeCondition: Поместите схему из лаборатории в морозных пещерах в ваш инвентарь хотя бы раз
+// Other CombatText uses and Item Messages
+ShiftToExpand: Зажмите SHIFT, чтобы увидеть расширенное описание
+LearnedSchematic: Вы научились делать новые вещи!
+CragmawVibeCheck: Вайб чек.
+AutocannonHot: АЙ! ГОРЯЧО!
+NoComputer: Не установлен компьютер для дешифрации
+ArkParry: Парирование!
+ClockworkTick: Тик
+ClockworkTock: Так
+SevensJackpot: ДЖЕКПОТ!!!
+SevensBust: Проигрыш!
+SevensDoubles: Двойки!
+SevensTriples: Тройки!
+StylishHammerHit: Стильно!
+GenericConsumedText: "[c/8A8A8A:Вы уже использовали этот предмет]"
+BloodOrangeText: Вы уже съели Кровавый Апельсин. Ваша кровь свернется и перестанет течь, если съесть еще один.
+MiracleFruitText: Вы уже съели Чудо-Фрукт. Еще один, и понадобится чудо, чтобы собрать вас воедино.
+ElderberryText: Вы уже съели Бузину Древнюю. Ваше тело превратится в прах, если съедите еще одну.
+DragonfruitText: Вы уже съели Драконий Фрукт. Больше драконьей силы, и ваше тело выйдет из под контроля.
+CometShardText: Вы уже приняли Осколок Кометы. Еще один, и ваши нейроны сгорят разом.
+EtherealCoreText: Вы уже приняли Эфирное Ядро. Посмейте принять еще одно, и ваш мозг покинет эту физическую оболочку.
+PhantomHeartText: Вы уже приняли Фантомное Сердце. Голоса говорят, что принимать еще один было бы ошибкой.
+SulphurSwitchLeft: Серное Море теперь на левой стороне мира.
+SulphurSwitchRight: Серное Море теперь на правой стороне мира.
+// VCMMStatus: "[i:MusicBoxMartians] [c/67F567:Check out the Vanilla Calamity Music Mod at ][c/3898FF:calamitymod.com/downloadvanillamusic][c/67F567:!] [i:MusicBoxMartians]"
+// Schematic Knowledge tooltips
+// SchematicKnowledgeTooltip: You don't have sufficient knowledge to create this yet
+// SchematicKnowledgeTooltip2: A specific schematic must be deciphered first
+// Tier1KnowledgeTooltip: The Sunken Sea schematic must be deciphered first
+// Tier2KnowledgeTooltip: The Planetoid schematic must be deciphered first
+// Tier3KnowledgeTooltip: The Jungle schematic must be deciphered first
+// Tier4KnowledgeTooltip: The Underworld schematic must be deciphered first
+// Tier5KnowledgeTooltip: The Ice biome schematic must be deciphered first
+// AltExpand: Hold {0} to see buff information
+// AltExpandUnset: Set a keybind to see debuff information
+// BurningSeaBurn: It burns...
+// LightsWarning: I've gotta give you a flashing lights warning on this one
+// NotSafe: Y O U  A R E  N O T  S A F E
+// HecBoop: boop!
+// CelestialOnionText: You have already consumed a Celestial Onion. Consuming another would distort you.
+// SanguineTangerineText: You have already consumed a Sanguine Tangerine. Eating any more would make your blood too thick to flow.
+// TaintedCloudberryText: You have already consumed a Tainted Cloudberry. Your body would become dust if you ate more than one.
+// SacredStrawberryText: You have already consumed a Sacred Strawberry. Any more draconic power and you'd be rejected.
+// Polaris0: Too much love...
+// Polaris1: You give Polaris belly rubs
+// Polaris2: You give Polaris a small treat
+// Polaris3: You tell Polaris she's a good girl
+// Polaris4: You let Polaris cuddle your arm
+// Polaris5: You pet Polaris
+// Empress1: A fine day for mana consumption.
+// Empress2: That's quite enough mana...
+// Empress3: OH GREAT HEAVENS!
+// Empress4: A
+// SwineSecret0: Hey
+// SwineSecret1: You know, swine like us tend to keep our secrets.
+// SwineSecret2: I once drank a gallon of molten pig iron.
+// SwineSecret3: Pay me 10 Ozzacoins and I'll hack in some Miracle Matter for ya, c'mon trust me!
+// SwineSecret4: I've heard tales of a palace somewhere...
+// SwineSecret5: Swine.
+// SwineSecret6: There once was a duke who was old, he sat on a throne made of gold, he ate up a treat, gave his kids spoiled meat, and sang tales of great swine never told.
+// SwineSecret7: WAIT WAIT A GOLDEN CRITTER JUST SPAWNE- aww you missed it...
+// SwineSecret8: Fishrons? Who calls them that?
+// SwineSecret9: Why the hell is everything always blowing up?! You're gonna start a fire you know, and I'm not a fan of flames!
+// SwineSecret10: HELP ME
+// SwineSecret11: Saying that someone 'eats babies' is stereotypically evil, but I'm a good guy and I eat babies! I mean surely it's not THAT bad. People who don't eat babies are just wusses.
+// SwineSecret12: Phalostion ale bonei wha treaites gon bardo galan ale gorve frus frum galibon!
+// SwineSecret13: My soul is made of jade, it's unbreakable! Just like the palace. You should go there sometime.
+// SwineSecret14: CAAAAAAARRRRLLLL! You must finish your work Carl.
+// SwineSecret15: Before gods quarreled or stars wept, it was the Old Duke's hunger that tore the first wound in the deep.
+// SwineSecret16: When the Third Moon drowned, the Old Duke wept salt into the jade chalice, and the coral gates first bled.
+// SwineSecret17: The Old Duke's hunger was not for flesh, but for the silence between tides that he called the Eel Hour.
+// SwineSecret18: The jade palace does not sink, it re-aligns beneath the fins of royal shame.
+// SwineSecret19: The duke never died. He just changed tides.
+// SwineSecret20: The Old Duke struck the reefclock thrice, and time drowned in brine-glass. Since then, no hour has been true.
+// SwineSecret21: There were once seven Duke-Born. then there were six, then there were five, then there were four, then there were three, then there were two, then there was one...
+// SwineSecret22: No one built the jade palace, the world simply uncoiled its seventh spine.
+// SwineSecret23: When the true fishron arises, the glorious jade palace shall rise once more from the sea and the ocean will kneel.
+// SwineSecret24: What mortals call the Old Duke is a mere echo of the pristine swine, the sovereign who ruled the sulphuric seas.
+// SwineSecret25: Gods speak in radiance. But the Old Duke? He chewed on their syllables and spat out storms.
+// SwineSecret26: Those who enter the Old Duke's stomach will learn what it means to be truly erased from samsara.
+// SwineSecret27: The great jade swine once whispered into Polterghast's ear, and that is why the moon forgot its face.
+// SwineSecret28: They say the Old Duke had no lungs. That's wrong, he had five.
+// SwineSecret29: The palace still sinks. It has not stopped sinking since the first sin.
+// SwineSecret30: The village people saw the fishron trade his draconic roar for silence. It was louder this way.
+// SwineSecret31: @everyone Please do not announce to the sever when you are going to fight Old Duke. This has been a recurring issue...
+// SwineSecret32: No, I have never played Undertale.
+// SwineSecret33: These sprites look like they were drawn by a four-year-old with the talents of Pablo Picasso in his prime. Which is what I would have said if I liked the sprites.      Which I do.      Not.
+// SwineSecret34: Who are you dressed as... your OC? That's cringe.
+// SwineSecret35: Watch out for Polymorphine, that stuff sucks. Trust me I know.
+// SwineSecret36: Many say to keep the greatest swine secret on the down low. I disagree, We cannot shh it.
+// SwineSecret37: Let me know when it's 7 PM, I've got to tweak something before some poor soul falls off of it!
+// SwineSecret38: Thank Xeroc I don't have any of that 'Pathfinding' garbage, whatever the hell that is.
+// SwineSecret39: If you think the Sulphur Sea smells bad, you're not close enough to me!
+// SwineSecret40: Did you know there's 40 of these damn things?
+// Charge
+// Charge: Current Charge: {0}%
+//GFB Rogue Keys
+// GFBRogueUppercase: Rogue
+// GFBRougeUppercase: Rouge
+// GFBRogueLowercase: rogue
+// GFBRougeLowercase: rouge
+// HotkeyNotBound: "[None]"

@@ -1,0 +1,1118 @@
+AbyssalTome: {
+	DisplayName: Фолиант Бездны
+	Tooltip:
+		'''
+		Сотворяет медленный, пронзающий шар темной энергии
+		Шар взрывается, если пронзает два раза
+		'''
+}
+
+AbyssShocker: {
+	DisplayName: Шокер Бездны
+	Tooltip: Стреляет хаотичной молнией, которая прыгает от противника к противнику
+}
+
+AcidGun: {
+	DisplayName: Кислотная Пушка
+	Tooltip: Стреляет тремя струями кислоты
+}
+
+AetherfluxCannon: {
+	DisplayName: Эфирофлюсная Пушка
+	Tooltip: Стреляет сфокусированной спиралью фотонов, которая проходит сквозь все
+}
+
+AethersWhisper: {
+	DisplayName: Шепот Эфира
+	Tooltip:
+		'''
+		Накладывает на долгое время Теневое Пламя и раскалывается при попадании по блокам
+		Снаряды набирают урон со временем полета
+		'''
+}
+
+AlulaAustralis: {
+	DisplayName: Алула Астралис
+	Tooltip: Стреляет прекрасным северным сиянием, за которым следует звездный дождь
+}
+
+AnahitasArpeggio: {
+	DisplayName: Арпеджио Анахиты
+	Tooltip: Сотворяет медленный скрипичный ключ, который путает противников
+	/* TooltipNormal:
+		'''
+		Holding <left> casts up to 6 treble clefs that orbit the player
+		Releasing <left> causes the treble clefs to converge at the cursor
+		After converging, treble clefs seek your cursor
+		''' */
+	/* TooltipGFB:
+		'''
+		"NOOOOOOOO! You're supposed to obey me!!!!"
+		The seven treble clef souls:
+		''' */
+}
+
+ApoctosisArray: {
+	DisplayName: Матрица «Апоптоз»
+	Tooltip:
+		'''
+		Стреляет ионными сгустками, которые разгоняются и взрываются
+		Урон увеличивается с количеством вашей маны
+		Использование Астральной Инъекции уменьшает эффективность усиления от маны
+		'''
+}
+
+Apotheosis: {
+	DisplayName: Апофеоз
+	Tooltip:
+		'''
+		Выпускает на волю внепространственную магию проекции
+		'Жри червей'
+		'''
+}
+
+AquamarineStaff: {
+	DisplayName: Аквамариновый Посох
+	Tooltip: Стреляет двумя синими болтами
+}
+
+ArchAmaryllis: {
+	DisplayName: Арх Амариллис
+	Tooltip: Сотворяет лучащийся цветок, который разрывается на наводящиеся лепестки
+}
+
+ArcticBearPaw: {
+	DisplayName: Лапа Арктического Медведя
+	Tooltip:
+		'''
+		Стреляет спиритическими когтями, которые могут проходить сквозь стены
+		'Дикое растерзание, которое можно положить в свой карман'
+		'''
+}
+
+ArtAttack: {
+	DisplayName: Художественный Приступ
+	Tooltip:
+		'''
+		Сотворяет звезду, которая следует за вашим курсором и создает радужный след
+		Когда на экране след образует замкнутый контур, все противники внутри него получают урон пропорциональный времени рисовки
+		'Ииии толпа сходит с ума!'
+		'''
+}
+
+AsteroidStaff: {
+	DisplayName: Посох Астероидов
+	Tooltip: Обрушает астероиды с небес
+}
+
+AstralachneaStaff: {
+	DisplayName: Посох Астралахниды
+	Tooltip: Стреляет россыпью наводящихся хелицер астральных пауков
+}
+
+AstralStaff: {
+	DisplayName: Астральный Посох
+	Tooltip: Призывает с небес большой кристалл, у которого большой радиус взрыва
+}
+
+Atlantis: {
+	DisplayName: Атлантида
+	Tooltip: "[GFB]"
+	TooltipNormal: Сотворяет водяные копья, которые раскалываются во время полета
+	TooltipGFB: Космический Змей скрывает истинный потенциал этого оружия...
+	TooltipGFBDoG: Позаботься о моем оружии, иначе... -CIT
+}
+
+AuguroftheElements: {
+	DisplayName: Авгур Элементов
+	Tooltip: Сотворяет всплеск элементальных щупалец, которые будут пронзать ваших врагов
+}
+
+BelchingSaxophone: {
+	DisplayName: Желчный Саксофон
+	Tooltip:
+		'''
+		Стреляет различными грязными камышами, музыкальными нотами и сернистыми пузырьками
+		'Дууут'
+		'''
+}
+
+Biofusillade: {
+	DisplayName: Биозалп
+	Tooltip: Выпускает концентрированный луч энергии жизни
+}
+
+BlackAnurian: {
+	DisplayName: Черная Анурий
+	Tooltip: Плюется пузырями и наводящимся планктоном
+}
+
+BloodBath: {
+	DisplayName: Кровопролитие
+	Tooltip: Обливает ваших врагов кровью
+}
+
+BrimroseStaff: {
+	DisplayName: Посох Серной Розы
+	Tooltip: Стреляет россыпью серных лучей
+}
+
+BurningSea: {
+	DisplayName: Горящее Море
+	Tooltip: Стреляет отскакивающими серными огненными шарами, которые раскалываются на наводящиеся огоньки при столкновении с водой
+}
+
+ChronomancersScythe: {
+	DisplayName: Коса Хрономанта
+	Tooltip:
+		'''
+		Быстро стреляет ледяными осколками
+		Нажмите <right>, чтобы взмахнуть косой вокруг вас, создав круг из наводящихся осколков
+		Прямые попадания косой имеют шанс создать часики
+		Собирайте часы, чтобы увеличить скорость и ускорение движения на 5% за каждые
+		Этот бонус складывается до 3 раз, а каждый уровень исчезает через 5 секунд
+		'''
+}
+
+ClamorNoctus: {
+	DisplayName: Кламор Ноктус
+	Tooltip:
+		'''
+		Обрушает с небес ночные виверны и звезды, которые цепляются за противников и блоки и взрываются
+		'Так пусть же обрушится небо!'
+		'''
+}
+
+ClothiersWrath: {
+	DisplayName: Гнев Портного
+	Tooltip: Стреляет 3 черепами теневого пламени
+}
+
+CoralSpout: {
+	DisplayName: Коралловый Фонтан
+	Tooltip:
+		'''
+		Сотворяет выстрел коралловых осколков, словно дробовик
+		Удерживайте ЛКМ, чтобы сузить разброс
+		Полностью заряженная атака выпускает один, большой кусок коралла, который втыкается в противников
+		Если в подберете кусок коралла, когда он отцепится из противника, то восстановите 150 маны
+		Заряженный маной коралл также дает эффект, который увеличивает урон кораллов и скорость сужения разброса
+		[c/5C95A1:'Знание - сила, поэтому многие писари старого Морского Королевства старались оберегать его изо всех сил.]
+		[c/5C95A1:Их библиотеки были намного больше, чем у большинства царств, так как они были облачены водостойкими каменными плитами.']
+		'''
+}
+
+CosmicRainbow: {
+	DisplayName: Космическая Радуга
+	Tooltip: Выпускает натиск из радуг
+}
+
+Cryophobia: {
+	DisplayName: Криофобия
+	Tooltip:
+		'''
+		Стреляет ледяной волной, которая расщепляется несколько раз и разрывается на осколки
+		'Остынь'
+		'''
+}
+
+DarkSpark: {
+	DisplayName: Темная Искра
+	Tooltip:
+		'''
+		'Вся жизнь в гармонии Солнцем дана,
+		Но его затмевает Луна.'
+		'''
+}
+
+DeathhailStaff: {
+	DisplayName: Посох Града Смерти
+	Tooltip:
+		'''
+		Сотворяет с небес шторм туманных лазеров
+		'Обрушь смерть на ваших врагов!'
+		'''
+}
+
+DeathValleyDuster: {
+	DisplayName: Пыль Долины Смерти
+	Tooltip: Сотворяет облако пыли
+}
+
+Downpour: {
+	DisplayName: Ливень
+	Tooltip:
+		'''
+		Стреляет взрывным потоком песка, который падает, после удара по противнику
+		Взрыв происходит только в конце существования снаряда
+		'''
+}
+
+Effervescence: {
+	DisplayName: Вспенивание
+	Tooltip: Стреляет кучей пузырей
+}
+
+EidolicWail: {
+	DisplayName: Вой Эйдолона
+	Tooltip:
+		'''
+		Стреляет очередью отскакивающих звуковых волн, которые становятся сильнее со временем полета
+		Игроки с наушниками - я поставлю за вас свечку
+		'''
+}
+
+EidolonStaff: {
+	DisplayName: Посох Эйдолона
+	Tooltip: Стреляет россыпью древнего света и вращающимся комом льда
+}
+
+EldritchTome: {
+	DisplayName: Фолиант Ужасов
+	Tooltip: Создает щупальца ужаса, которые будут пронзать ваших противников
+}
+
+ElementalRay: {
+	DisplayName: Элементальный Луч
+	Tooltip:
+		'''
+		Сотворяет 4 небесных луча рядом с вами
+		Солнечные лучи взрываются огнем при попадании
+		Лучи Туманности постепенно меняют угол
+		Вихревые Лучи ведут себя, как быстрые молнии, и ударяют током противников
+		Лучи Звездной Пыли выпускают маленькие наводящиеся звезды при попадании
+		'''
+}
+
+Eternity: {
+	DisplayName: Вечность
+	// Color changes at the second line of tooltip via ModifyTooltips.
+	Tooltip:
+		'''
+		Заколдовывает ближайшего противника, охватывая чудесным зрелищем уничтожения
+		'В этой книге есть картинки пони'
+		'''
+}
+
+EventHorizon: {
+	DisplayName: Горизонт Событий
+	Tooltip:
+		'''
+		Создает расширяющееся кольцо наводящихся звезд
+		Звезды создают небольшие черные дыры при попадании
+		'Ничто, даже свет, оттуда не вернется'
+		'''
+}
+
+EvergladeSpray: {
+	DisplayName: Спрей Эверглейда
+	Tooltip: Стреляет струей горящего зеленого ихора
+}
+
+FaceMelter: {
+	DisplayName: Глюк
+	Tooltip:
+		'''
+		Стреляет музыкальными нотами
+		Нажмите <right>, чтобы призвать усилитель, который будет стрелять в сторону вашего курсора
+		'О-О-О! ФЭНТЕЗИ!'
+		'''
+}
+
+FatesReveal: {
+	DisplayName: Проявление Судьбы
+	Tooltip: Порождает призрачные огненные шары, которые следуют за игроком
+}
+
+FlareBolt: {
+	DisplayName: Пылающий Болт
+	Tooltip: Сотворяет медленный шар огня
+}
+
+ForbiddenSun: {
+	DisplayName: Запретное Солнце
+	Tooltip: Сотворяет сферу огня, которая создает гигантский взрыв при столкновении
+}
+
+FrigidflashBolt: {
+	DisplayName: Болт Морозной Вспышки
+	Tooltip: Сотворяет медленный шар замораживающей магмы
+}
+
+FrostBolt: {
+	DisplayName: Морозный Болт
+	Tooltip: Сотворяет медленный шар мороза
+}
+
+Genesis: {
+	DisplayName: Генезис
+	Tooltip:
+		'''
+		Стреляет кучей лазеров с увеличивающейся кучностью
+		Каждый шестой выстрел создает расщепляющийся луч генезиса и сбрасывает кучность пушки
+		Если луч поражает противника до того, как расколется, то он нанесет больше урона
+		'''
+}
+
+GhastlyVisage: {
+	DisplayName: Призрачный Лик
+	Tooltip: Стреляет наводящейся, взрывающейся призрачной энергией
+}
+
+GleamingMagnolia: {
+	DisplayName: Блестящая Магнолия
+	Tooltip: Сотворяет мерцающий цветок, который разрывается на лепестки
+}
+
+GloriousEnd: {
+	DisplayName: Славный Конец
+	Tooltip:
+		'''
+		Сотворяет звезду-метеор, на который вы начинаете двигаться в направлении курсора
+		Звезда взрывается при попадании в противника, стену или по истечению 6 секунд
+		Этот взрыв наносит урон как противникам, так и вам
+		Отпустив курсор до конца полета, вы предварительно взорвете звезду, что нанесет меньше урона
+		Ездовые существа отключены во время использования этого оружия
+		'''
+}
+
+GruesomeEminence: {
+	DisplayName: Грешное Вознесение
+	Tooltip:
+		'''
+		Призывает газообразное нагромождение душ в положении вашего курсора
+		В первые моменты души слабо поддаются контролю и будут атаковать [c/FF0000:все под ряд]
+		Однако, со временем они соберутся в единый контролируемый кошмар
+		[c/C61B40:'Души этой амальгамы так и не отправились в их заветный загробный мир,]
+		[c/C61B40:Грязные и слитые яростью.']
+		'''
+	/* Calamitas:
+		'''
+		'Many will tell you that Yharim fell from grace as his Crusade went on, but that's far from the truth.
+		Sure, he was a good man when he was killing assassins drunk on power, but even as he dethroned dictators, entire kingdoms were leveled alongside.
+		I wish more people could bear witness to this "Polterghast". Maybe then, they would understand the pain he caused for the world.'
+		''' */
+}
+
+HadalUrn: {
+	DisplayName: Урна Хадали
+	Tooltip:
+		'''
+		Стреляет случайным ассортиментом из океанических существ
+		'Никто не знает сколько она там пролежала... или что может в ней таиться'
+		'''
+}
+
+HeliumFlash: {
+	DisplayName: Гелиевая Вспышка
+	Tooltip:
+		'''
+		Запускает нестабильные звездные ядра, которые взрываются колоссальными вспышками синтеза
+		'Сила целой галактики, даже если и на момент'
+		'''
+}
+
+HellwingStaff: {
+	DisplayName: Адокрылый Посох
+	Tooltip: Сотворяет пламенных летучих мышей
+}
+
+Hematemesis: {
+	DisplayName: Гематемезис
+	Tooltip: Сотворяет кровавый гейзер под курсором
+}
+
+Heresy: {
+	DisplayName: Ересь
+	Tooltip:
+		'''
+		Выпускает вверх огонь и души из книги
+		Пока книга используется, их сила увеличивается
+		'''
+}
+
+HyphaeRod: {
+	DisplayName: Гифовый Жезл
+	Tooltip: Создает вокруг вас грибные споры
+}
+
+IceBarrage: {
+	DisplayName: Ледяной Шквал
+	Tooltip:
+		'''
+		Создает мощное, смертельное ледяное заклятье в положении курсора
+		Это заклятье цепляется за положения противников
+		Требует 2 руны крови за каждое сотворение
+		'О Боже, ты мертв!'
+		'''
+}
+
+IcicleStaff: {
+	DisplayName: Посох Сосулек
+	Tooltip: Обрушает сосульки с небес
+}
+
+IcicleTrident: {
+	DisplayName: Трезубец Сосулек
+	Tooltip: Стреляет пронзающими сосульками
+}
+
+InfernalRift: {
+	DisplayName: Инфернальный Разрыв
+	Tooltip: Призывает инфернальные лезвия, которые порождают еще больше лезвий при попадании в противника
+}
+
+IonBlaster: {
+	DisplayName: Ионный Бластер
+	Tooltip:
+		'''
+		Стреляет ионными сгустками, которые ускоряются и взрываются
+		Урон увеличивается с количеством вашей маны
+		Использование Астральной Инъекции уменьшает эффективность усиления от маны
+		'''
+}
+
+Keelhaul: {
+	DisplayName: Килевание
+	Tooltip:
+		'''
+		Призывает гейзер при попадании в противника или блок
+		'Скомкай их как бумагу'
+		'''
+}
+
+LashesofChaos: {
+	DisplayName: Плети Хаоса
+	Tooltip: "'Узри, как горит мир...'"
+}
+
+Lazhar: {
+	DisplayName: Лазхарр
+	Tooltip: Стреляет особо летучим концентрированным солнечным лучом
+}
+
+LightGodsBrilliance: {
+	DisplayName: Величие Бога Света
+	Tooltip: Сотворяет маленькие наводящиеся капли света и взрывные шары света
+}
+
+MadAlchemistsCocktailGlove: {
+	DisplayName: Коктейлевая Перчатка Безумного Алхимика
+	Tooltip:
+		'''
+		Разбрасывает на высокой скорости различные фляги
+		Нажмите <right>, чтобы бросить призматическую колбу, которая накладывает различные вредные эффекты
+		Красные фляги - особо взрывоопасны
+		Синие фляги содержат ядовитый газ
+		Зеленые флаги порождают лунные вспышки
+		Фиолетовые фляги разрываются на наводящуюся шрапнель
+		'''
+}
+
+MagneticMeltdown: {
+	DisplayName: Магнитное Плавление
+	Tooltip: Запускает крест из сверхнапряженных магнитных сфер
+}
+
+ManaRose: {
+	DisplayName: Роза Маны
+	Tooltip: Сотворяет цветок маны, который разрывается на лепестки
+}
+
+Miasma: {
+	DisplayName: Миазма
+	Tooltip: Стреляет россыпью газовых облаков, которые замедляются после удара по противнику
+}
+
+Mistlestorm: {
+	DisplayName: Омеловый Шквал
+	Tooltip: Сотворяет шквал из хвойных иголок и листьев
+}
+
+NanoPurge: {
+	DisplayName: Нано-чистка
+	Tooltip: Стреляет натиском нано-лазеров
+}
+
+NebulousCataclysm: {
+	DisplayName: Туманный Катаклизм
+	Tooltip: "'И вот теперь в ваших руках находится истинная сила мага туманности...'"
+}
+
+NightsRay: {
+	DisplayName: Луч Ночи
+	Tooltip:
+		'''
+		Стреляет лучом чистой, концентрированной тьмы
+		Пораженных противников бьют дополнительные лучи со всех сторон
+		'''
+}
+
+NuclearFury: {
+	DisplayName: Ядерное Буйство
+	Tooltip: Сотворяет шквал космических тайфунов
+}
+
+Omicron: {
+	DisplayName: Омикрон
+	Tooltip:
+		'''
+		Стреляет непрерывным натиском лазеров и призывает Пилота, которые парят около тебя и стреляют лазерами в сторону курсора
+		Нажмите <right>, пока стреляете, чтобы ударить омикрон-лучом, который расщепляется при попадании во врага
+		После выстрела омикрон-лучом, ваши Пилоты выпустят пару гранат
+		Попадание Омикрон-Лучом по противнику до расщепления пятикратно увеличит его урон, но не даст расколоться
+		'''
+}
+
+ParasiticSceptor: {
+	DisplayName: Скипетр Паразитов
+	Tooltip: Стреляет россыпью радиоактивных пиявок, которые вгрызаются в противников, увеличивая свой урон с их числом
+}
+
+PhantasmalFury: {
+	DisplayName: Фантомная Ярость
+	Tooltip: Сотворяет фантомный болт, который взрывается в еще большее число болтов
+}
+
+PhoenixFlameBarrage: {
+	DisplayName: Натиск Огня Феникса
+	Tooltip:
+		'''
+		Обрушает вал огня с небес
+		'Крещение огнем дракона'
+		'''
+}
+
+Photosynthesis: {
+	DisplayName: Фотосинтез
+	Tooltip:
+		'''
+		Сотворяет яркий луч, который растворяется на энергию при попадании в противника
+		Чем дальше был луч перед попаданием, тем больше создается энергии
+		'''
+}
+
+PlagueStaff: {
+	DisplayName: Чумной Посох
+	Tooltip: Стреляет кучной россыпью из 4 чумных клыков
+}
+
+PlasmaRifle: {
+	DisplayName: Плазменная Винтовка
+	Tooltip:
+		'''
+		Стреляет взрывным плазменным сгустком
+		Нажмите <right>, чтобы начать быструю стрельбу плазменных болтов
+		'''
+}
+
+PlasmaRod: {
+	DisplayName: Жезл Плазмы
+	Tooltip:
+		'''
+		Сотворяет плазменный луч с низким уроном
+		Попадание по блоку создаст несколько болтов с увеличенным уроном
+		Прямое попадание по противнику зажжет его Теневым Пламенем
+		'''
+}
+
+Poseidon: {
+	DisplayName: Посейдон
+	Tooltip: Сотворяет тайфун Посейдона
+}
+
+PrimordialAncient: {
+	DisplayName: Первозданная Реликвия
+	Tooltip: Сотворяет гигантское облако пыли
+}
+
+PrimordialEarth: {
+	DisplayName: Первозданная Земля
+	Tooltip: Сотворяет большое облако пыли
+}
+
+PurgeGuzzler: {
+	DisplayName: Голодающее Очищение
+	Tooltip: Излучает 3 луча святой энергии с высокой кучностью
+}
+
+RainbowPartyCannon: {
+	DisplayName: Радужная Пушка Вечеринки
+	// Color changes at the first line of tooltip via ModifyTooltips.
+	Tooltip: "'Видишь радугу - вспомни: только вместе будем мы сиять...'"
+}
+
+Rancor: {
+	DisplayName: Злопамятство
+	Tooltip:
+		'''
+		Сотворяет магический круг, который заряжает энергию и в итоге выпускает мощный лазерный всплеск пагубной магии
+		Лазер оставляет костяные руки и пылающую лаву на поверхностях, которые он коснется, которые наносят урон [c/FF0000:как противникам, так и вам]
+		[c/C61B40:'Прощение не может залечить все,]
+		[c/C61B40:тем более если виновник так и не смог сам себя простить.']
+		'''
+	/* Calamitas:
+		'''
+		'Yharim told me it was Otonilou who unleashed the Brimstone Elemental unto Azafure.
+		I believed him at the time, being a child looking for someone to blame for all her woes.
+		So I unleashed upon them all the fury and scorn I thought they deserved, and only once it was too late did I see through his lies.'
+		''' */
+}
+
+RecitationoftheBeast: {
+	DisplayName: Декламация Зверя
+	Tooltip: Призывает вокруг вас небольшой круг наводящихся кос зверя, а затем бросает их к курсору
+}
+
+RelicofRuin: {
+	DisplayName: Реликвия Руин
+	Tooltip: Сотворяет россыпь песчаных клинков
+}
+
+RougeSlash: {
+	DisplayName: Алый Разрез
+	Tooltip: Стреляет волной из 3 воздушных алых разрезов
+}
+
+SandstreamScepter: {
+	DisplayName: Скипетр Песчаного Потока
+	Tooltip:
+		'''
+		Стреляет взрывным потоком песка, который падает, после удара по противнику
+		Взрыв происходит только в конце существования снаряда
+		'''
+}
+
+SanguineFlare: {
+	DisplayName: Вспышка Крови
+	Tooltip: Стреляет всплеском кровавых вспышек, которые высасывают жизнь противника
+}
+
+SeethingDischarge: {
+	DisplayName: Кипящий Выброс
+	Tooltip: Стреляет натиском серных вспышек
+}
+
+Serpentine: {
+	DisplayName: Змей
+	Tooltip:
+		'''
+		Сотворяет водяного змея, который следует за курсором
+		Игнорирует 15 защиты
+		'''
+}
+
+ShadecrystalBarrage: {
+	DisplayName: Порыв Теневых Кристаллов
+	Tooltip: Призывает всплеск теневых кристаллов, которые наводятся на противника
+}
+
+ShaderainStaff: {
+	DisplayName: Посох Теневого Дождя
+	Tooltip: Стреляет спреем зловещих облаков и дождя
+}
+
+ShadowboltStaff: {
+	DisplayName: Посох Теневого Удара
+	Tooltip: Чем больше отскоков от поверхностей претерпел луч или чем больше он пронзил врагов, тем больше он наносит урона
+}
+
+ShiftingSands: {
+	DisplayName: Зыбкие Пески
+	Tooltip: Сотворяет песчаное лезвие, которое следует за курсором
+}
+
+SHPC: {
+	DisplayName: ПУСНП
+	Tooltip: "[GFB]"
+	TooltipNormal:
+		'''
+		Стреляет витающими, взрывными сферами плазмы
+		Нажмите <right>, чтобы начать стрелять сильными энергетическими лучами
+		'''
+	TooltipGFB: Она опять скейлится :)
+	// These are the soul effect descriptions, the number is the item ID of the soul
+	// NoSoul: "[c/808080:There is currently no soul type injected into the weapon]"
+	// SoulDesc520: "[c/F01DC4:Light-infused orbs create larger explosions]"
+	// SoulDesc521: "[c/7B1DDC:Night-infused orbs create longer lasting explosions]"
+	// SoulDesc575: "[c/6AF0FA:Flight-infused orbs travel faster and restore flight time on direct hits]"
+	// SoulDesc548: "[c/0433DE:Might-infused orbs apply mighty knockback to enemies]"
+	// SoulDesc549: "[c/4FFF7C:Sight-infused orbs seek out nearby enemies]"
+	// SoulDesc547: "[c/FF6014:Fright-infused orbs deal extra flat damage with their hatred]"
+	/* LegendaryText:
+		'''
+		'Though soul-powered machines were a near failure, potential remained in souls as a form of fuel.
+		To avoid my last experiments' main flaw, the Soul-Harnessing Plasma Cannon was designed to expel souls as projectiles before they exert control over the weapon.
+		Each soul type appears to react differently to the base plasma. Yet, lacking volunteers, obtaining potential ammunition is currently too difficult to undergo further testing.
+		A shame, for a weapon that could have practically unlimited ammunition in the battlefield. Perhaps some day, its potential can be truly tested.'
+		''' */
+}
+
+SkyGlaze: {
+	DisplayName: Небесная Глазурь
+	Tooltip: Обрушает с небес перья, которые втыкаются во врагов или блоки и взрываются
+}
+
+SlitheringEels: {
+	DisplayName: Ползущие Угри
+	Tooltip: Проецирует магического едкого угря, который выпускает во время движения капли кислоты
+}
+
+SnowstormStaff: {
+	DisplayName: Посох Бурана
+	Tooltip:
+		'''
+		Стреляет снежинками, которые следуют за курсором 
+		Снежинки раскалываются на ледяные звездочки при попадании в противника
+		'''
+}
+
+SoulPiercer: {
+	DisplayName: Пронзатель Душ
+	Tooltip: Сотворяет мощный луч, который призывает дополнительные при первом попадании
+}
+
+StaffofBlushie: {
+	DisplayName: Посох Блаши
+	Tooltip: Зажмите мышь, ждите, ждите, ждите, и положитесь на силу синей магии
+}
+
+StarShower: {
+	DisplayName: Звездный Дождь
+	Tooltip: Обрушает с небес астральные звезды, которые сходятся в положении курсора
+}
+
+SubsumingVortex: {
+	DisplayName: Поглощающая Воронка
+	Tooltip:
+		'''
+		Нажмите <left>, чтобы выпустить залп из вихрей, которые несутся к противникам 
+		Зажмите <right>, чтобы сотворить перед собой гигантскую воронку, слегка сдвинутую в сторону курсора
+		Если рядом с воронкой противники, она выпускает в их сторону несколько быстрых маленьких вихрей
+		Отпустите <right>, чтобы выстрелить воронкой в сторону курсора, если прошло достаточно времени
+		Урон увеличивается в зависимости от того, сколько удерживалась воронка
+		'''
+}
+
+Sylvestaff: {
+	DisplayName: Сильвипосох
+	Tooltip:
+		'''
+		Сотворяет отскакивающий луч, который расщепляется, если рядом с ним противники
+		'Также известен как Посох Кармы!'
+		'''
+}
+
+TacticiansTrumpCard: {
+	DisplayName: Козырная Карта Тактика
+	Tooltip:
+		'''
+		Стреляет лучом-клинком, который ударяет противников током
+		'Ваше сознание пересекают мутные воспоминания о Принцессе из будущего...'
+		'''
+}
+
+TearsofHeaven: {
+	DisplayName: Слезы Небес
+	Tooltip: Сотворяет медленные наводящиеся шары небесного света
+}
+
+Teslastaff: {
+	DisplayName: Посох Теслы
+	Tooltip:
+		'''
+		Стреляет потоковым лучом идеально-точной молнии
+		Луч имеет лимитированные способности разворота
+		Каждый последовательный удар по одному и тому же противнику увеличивает урон за удар
+		Урон увеличивается на 10% за удар вплоть до 500%
+		Этот урон быстро уменьшается, если вы не бьете противника противника 
+		'''
+}
+
+TheCauldron: {
+	DisplayName: Котел
+	Tooltip:
+		'''
+		Запускает лавовые бомбы, которые раскалываются на еще большее число
+		-80% потребления маны, если вы погружены в лаву или находитесь в Преисподней
+		'Поверишь или нет, но его первый владелец был всего-лишь несколько сантиметров ростом!'
+		'''
+}
+
+TheDanceofLight: {
+	DisplayName: Танец Света
+	Tooltip:
+		'''
+		Затмевает небеса градом лезвий света
+		'И во вспышке света - все пропало'
+		'''
+}
+
+ThePrince: {
+	DisplayName: Принц
+	Tooltip:
+		'''
+		Сотворяет шар святого огня, который разрывается на 6 огоньков
+		'Так, значит ты хочешь сказать, что принц взорвался и превратился в цветок?'
+		-Даин, друид-моряк
+		'''
+}
+
+TheSwarmer: {
+	DisplayName: Роевик
+	Tooltip: Выпускает рой пчел и ос
+}
+
+TheWand: {
+	DisplayName: Палочка
+	Tooltip: Самая сильная палочка
+}
+
+ThornBlossom: {
+	DisplayName: Колючее Цветение
+	Tooltip:
+		'''
+		Сотворяет лучащийся цветок, который разрывается на наводящиеся лепестки и смертоносную колючку
+		Стоит 3 HP за использование
+		'У каждой розы есть шипы'
+		'''
+}
+
+Thunderstorm: {
+	DisplayName: Гроза
+	Tooltip:
+		'''
+		Стреляет потоком взрывных зеленых плазменных пуль, которые обрушают еще больше плазмы с небес
+		'Кажется дождь собирается'
+		'''
+}
+
+TomeofFates: {
+	DisplayName: Фолиант Судеб
+	Tooltip:
+		'''
+		Сотворяет космические щупальца, которые будут пронзать ваших противников
+		Иногда выпускает красное щупальце, наносящее невероятный урон
+		'''
+}
+
+Tradewinds: {
+	DisplayName: Попутный Ветер
+	Tooltip: Сотворяет быстрые солнечные перья
+}
+
+UltraLiquidator: {
+	DisplayName: Ультра-Разжижатель
+	Tooltip: Призывает разжижающие лезвия, которые призывают еще больше копий при попадании во врага
+}
+
+UndinesRetribution: {
+	DisplayName: Возмездие Ундины
+	Tooltip: Сотворяет рой наводящихся копий
+}
+
+ValkyrieRay: {
+	DisplayName: Луч Валькирии
+	Tooltip: Сотворяет разрушительный луч святой силы
+}
+
+VeeringWind: {
+	DisplayName: Отклоняющийся Ветер
+	Tooltip:
+		'''
+		Сотворяет круг ветровых волн с высокой отдачей
+		Нажмите <right>, чтобы сотворить круг из морозных волн
+		'''
+}
+
+Vehemence: {
+	DisplayName: Страсть
+	Tooltip: Сотворяет мощные болты адской силы, которые разрываются на черепа
+}
+
+VenusianTrident: {
+	DisplayName: Трезубец Венеры
+	Tooltip: Сотворяет инфернальный трезубец, который извергается в гигантский взрыв огня и магматических осколков
+}
+
+Vesuvius: {
+	DisplayName: Везувий
+	Tooltip:
+		'''
+		Обрушает рой расплавленных астероидов
+		Нажмите <right>, чтобы выстрелить россыпью астероидов из посоха
+		'''
+}
+
+Viscera: {
+	DisplayName: Кровоизлияние
+	Tooltip:
+		'''
+		Стреляет быстрым очередью пронзающих и отскакивающих кровяных лучей, которые лечат вас при попадании в противника
+		Каждый последовательный удар очереди наносит больше урона
+		Последний луч очереди взрывается при попадании в противника
+		'''
+}
+
+VitriolicViper: {
+	DisplayName: Купоросная Гадюка
+	Tooltip: Выпускает залп ядовитых плевков и клыков
+}
+
+VividClarity: {
+	DisplayName: Прозрение Наяву
+	Tooltip:
+		'''
+		Стреляет очередью из 5 случайных лучей экзо-энергии в сторону курсора
+		При попадании во врагов или блоки, лучи либо взрываются большими вспышками,
+		либо призывают еще один лазер с небес, либо расщепляются на энергетические сферы
+		'Его величие рождает в голове несравненный гений'
+		'''
+}
+
+VoidVortex: {
+	DisplayName: Воронка Пустоты
+	Tooltip:
+		'''
+		Сотворяет вращающуюся воронку сверхнапряжённых магнитных сфер вокруг курсора,
+		которые затем разрываются на шторм наводящихся мини-сфер
+		'''
+}
+
+VoltaicClimax: {
+	DisplayName: Вольтаическая Кульминация
+	Tooltip: Сотворяет кольцо сверхнапряжённых магнитных сфер вокруг курсора
+}
+
+Waywasher: {
+	DisplayName: Размытие
+	Tooltip: Сотворяет потоп из неточных водяных болтов
+}
+
+Wingman: {
+	DisplayName: Пилот
+	Tooltip:
+		'''
+		Призывает два Пилота, которые вращаются вокруг вас и стреляют лазерами в сторону курсора
+		Нажмите <right>, пока стреляете, чтобы приказать Пилотам запустить гранаты
+		У гранат есть перезарядка, которая становится короче, если Пилоты были полностью разогнаны
+		'''
+}
+
+WintersFury: {
+	DisplayName: Буйство Зимы
+	Tooltip:
+		'''
+		Стреляет потоком морозных сфер и натиском ледяных в сторону курсора
+		'Ее страницы очень холодные на ощупь'
+		'''
+}
+
+WrathoftheAncients: {
+	DisplayName: Гнев Древних
+	Tooltip: Призывает энергетический пульс в положении курсора, который периодически создает наводящихся духов
+}
+
+WulfrumProsthesis: {
+	DisplayName: Вульфрумовый Протез
+	Tooltip:
+		'''
+		Сотворяет Вульфрумовый болт
+		Нажмите <right>, чтобы начать вытягивать ману из существ перед вами
+		[c/83B87E:'Технология и магия постоянно находятся в гонке вооружений для устрашения и запугивания.]
+		[c/83B87E:Однако иногда они работают рука об руку, как это можно заметить в некоторых простетических конечностях.']
+		'''
+}
+
+WyvernsCall: {
+	DisplayName: Зов Виверны
+	Tooltip:
+		'''
+		Обрушает с небес Виверн и цветные перья, которые цепляются за противников и блоки и взрываются
+		'Я взываю к легендарной Виверне, чтобы утопить эти земли ее милостью'
+		'''
+}
+
+YharimsCrystal: {
+	DisplayName: Кристалл Ярима
+	GFBName: кристл йерима
+	Tooltip: "[GFB]"
+	TooltipNormal: Стреляет драконическими лучами тотальной аннигиляции
+	TooltipGFB: ...брасет паку димита
+}
+
+AlphaDraconis: {
+	// DisplayName: Alpha Draconis
+	/* Tooltip:
+		'''
+		Calls down a meteor shower towards the cursor
+		Successful hits sometimes create Starbursts that can be picked up
+		<right> with enough Starbursts to summon Draco to protect you
+		Draco burns Starbursts over time, and can be disspelled with <right>
+		Draco inflicts [cbuff:CalamityMod/Voidfrost]
+		'An imitation of insanity'
+		''' */
+}
+
+Apathanull: {
+	// DisplayName: Apathanull
+	/* Tooltip:
+		'''
+		Casts a spread of dark cosmic tentacles to skewer your enemies
+		Tentacles will aim at your cursor and lash out three times before disappearing
+		''' */
+}
+
+AuguroftheVoid: {
+	// DisplayName: Augur of the Void
+	// Tooltip: Casts a burst of elemental tentacles to spear your enemies
+}
+
+HyperdeathRiftScepter: {
+	// DisplayName: Hyperdeath Rift Scepter
+	// Tooltip: Tears space in two with [c/ff00ff:Hyperdeath Rift Ripper]
+}
+
+Nucleosynthesis: {
+	// DisplayName: Nucleosynthesis
+	/* Tooltip:
+		'''
+		Casts four celestial beams near the player
+		Solar beams explode into fire on enemy hits
+		Nebula beams sweep a little bit over time
+		Vortex beams act like fast lightning and electrify enemies on hit
+		Stardust beams release small stars that home on enemy hits
+		''' */
+}
+
+UnstableCastersGauntlet: {
+	// DisplayName: Unstable Caster's Gauntlet
+	/* Tooltip:
+		'''
+		<left> to fire piercing needles
+		<right> to summon a ring of sigils, each representing a primordial element
+		Hold <left> with sigils available to consume random sigils, each unleashing an attack
+		<right> again while the elemental ring is out to replace all empty slots with [c/DD84E8:Warped] sigils
+		[c/DD84E8:Warped] sigils automatically fire barrages of inaccurate purple blasts
+		All actions require sufficient [c/EADAF5:Vis] to use
+		[c/EADAF5:Vis] is restored over time
+		''' */
+	/* HoldShiftTooltip:
+		'''
+		[c/DBD7CA:Ordo] sigils always land critical strikes and pierce infinitely
+		[c/ABB6D4:Perdito] sigils ignore 25 points of enemy defense
+		[c/E89B8E:Ignis] sigils inflict Daybroken
+		[c/8ECBE8:Aqua] sigils inflict Crush Depth
+		[c/E1E88E:Aer] sigils boast substantial knockback
+		[c/ACCF9F:Terra] sigils split into sharp rocks
+		''' */
+}
+
+Volterion: {
+	// DisplayName: Volterion
+	/* Tooltip:
+		'''
+		Discharges a high-voltage stream which bursts into 5 balls of lightning on hit
+		Each ball lightning emits two additional lightning bolts before exploding
+		''' */
+}

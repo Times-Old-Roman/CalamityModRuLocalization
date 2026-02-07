@@ -1,0 +1,62 @@
+// Ambient Objects
+GiantBulb: Гигантский Бутон Плантеры
+Fossil: Окаменелость
+Column: Колонна
+Ribs: Ребра
+Stalagmite: Сталагмит
+Stalactite: Сталактит
+PirateCrate: Заброшенный Ящик
+// Basic Calamity Furniture
+Basin: Чаша
+LavaFountain: Лавовый Фонтан
+PipeOrgan: Орган
+Sconce: Подсвечник
+// Draedon Lab Furniture
+Console: Консоль
+ContainmentBox: Ящик Долгого Хранения
+Display: Дисплей
+ElectricPanel: Электрический Щиток
+ReinforcedCrate: Укрепленный Ящик
+Screen: Экран
+Server: Сервер
+Terminal: Терминал
+// Individual entries
+// Sulphurous Sea & Abyss
+SteamGeyser.MapEntry: Гейзер
+AbyssVent.MapEntry: Паровой Источник
+ThermalVent.MapEntry: Гидротермальный Источник
+// Brimstone Crag
+SpineSapling.MapEntry: Росток Хребта
+SpineTree.MapEntry: Гигантский Хребет
+// Draedon
+InactivePowerCellFactory.MapEntry: Выключенный Сборщик Энергетических Ячеек
+OnyxExcavatorTile.MapEntry: Ониксовый Экскаватор
+CodebreakerTile.MapEntry: Шифролом
+// Ores
+AerialiteOre.MapEntry: Аэралит
+AerialiteOreDisenchanted.MapEntry: Незачарованный Аэралит
+AstralOre.MapEntry: Астральная Руда
+AuricOre.MapEntry: Аурит
+CryonicOre.MapEntry: Крионит
+ExodiumOre.MapEntry: Экзодий
+HallowedOre.MapEntry: Освященная Руда
+InfernalSuevite.MapEntry: Инфернальный Зювит
+PerennialOre.MapEntry: Вечнозеленая Руда
+ScoriaOre.MapEntry: Скория
+UelibloomOre.MapEntry: Уэлицвет
+// Misc
+ArenaTile.MapEntry: Арена
+
+AshenChest: {
+	MapEntry0: "{$Mods.CalamityMod.Items.Placeables.AshenChest.DisplayName}"
+	MapEntry1: Закрытый {$Mods.CalamityMod.Items.Placeables.AshenChest.DisplayName}
+}
+
+AstralChestLocked: {
+	MapEntry0: "{$Mods.CalamityMod.Items.Placeables.AstralChest.DisplayName}"
+	MapEntry1: Закрытый {$Mods.CalamityMod.Items.Placeables.AstralChest.DisplayName}
+}
+
+PlaguedPlateBed.MapEntry: "'Кровать'"
+// BaroqueCello: Baroque Cello
+// Jukebox: Jukebox

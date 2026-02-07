@@ -1,0 +1,222 @@
+AbyssShellFossil: {
+	DisplayName: Абиссальная Окаменелая Раковина
+	Tooltip:
+		'''
+		Призывает питомца-Улитку Эскарголодона, которая будет следовать за вами
+		Слегка уменьшает вашу заметность в Бездне, если экипирована
+		'''
+}
+
+BearsEye: {
+	DisplayName: Глаз Бэра
+	Tooltip: Призывает питомца-ангела хранителя
+}
+
+BloodyVein: {
+	DisplayName: Кровавая Вена
+	Tooltip: Призывает амальгамированную кучу плоти
+}
+
+BrimstoneJewel: {
+	DisplayName: Самоцвет Серы
+	Tooltip:
+		'''
+		'Финальная награда за победу над такой бестией...
+		Кто ж знал, что она будет такой чертовски-милой!'
+		'''
+}
+
+CharredRelic: {
+	DisplayName: Обожженная Реликвия
+	Tooltip: Содержит небольшое количество серы
+}
+
+ChromaticOrb: {
+	DisplayName: Хроматическая Сфера
+	Tooltip:
+		'''
+		Призывает светового питомца-древнего дракона, который подсвечивает противников и источники опасности
+		Дает небольшое количество света в Бездне
+		'Она тепло светится в ваших руках'
+		'''
+}
+
+CosmicPlushie: {
+	DisplayName: Космическая Плюшевая Игрушка
+	Tooltip:
+		'''
+		Призывает пожирателя космоса...?
+		Подавляет дружественных красных дьяволов
+		'Возможно в наборе также включены острые объекты'
+		'''
+}
+
+EnchantedButterfly: {
+	DisplayName: Зачарованная Бабочка
+	Tooltip:
+		'''
+		Призывает светового питомца-загадочную бабочку
+		Дает небольшое количество света в Бездне
+		'Кормите его бабочками, чтобы он вырос большим и сильным!'
+		'''
+}
+
+ForgottenDragonEgg: {
+	DisplayName: Забытое Драконье Яйцо
+	Tooltip: Воззывает к Акато, сыну Ярона, чтобы он присоединился к вам
+}
+
+FoxDrive: {
+	DisplayName: Лисья Флешка
+	Tooltip:
+		'''
+		На ней 1 файл:
+		'Fox.cs'
+		'''
+}
+
+GeyserShell: {
+	DisplayName: Гейзерный Панцирь
+	Tooltip: Призывает небольшого зенитного краба-отшельника
+}
+
+HermitsBoxofOneHundredMedicines: {
+	DisplayName: Ларец Тысячи Лекарств Отшельника
+	Tooltip:
+		'''
+		Призывает Третьего Мудреца
+		'Как лёд тает в родниках
+		И волны омывают покрытые старым мхом волосы...
+		Спасибо тебе, прощай'
+		'''
+}
+
+JoyfulHeart: {
+	DisplayName: Радостное Сердце
+	Tooltip: На удивление теплое. Привлекает запретного
+}
+
+Levi: {
+	DisplayName: Леви
+	Tooltip: Призывает маленького питомца-Левиафана
+}
+
+LittleLight: {
+	DisplayName: Маленький Свет
+	Tooltip:
+		'''
+		Призывает небольшой конструкт, который следует за вами и дает большое количество света
+		Дает большое количество света в Бездне
+		'Он искал вас уже долгое время'
+		'''
+}
+
+McNuggets: {
+	DisplayName: McNuggets
+	Tooltip: "'Эти куриные наггетсы, вообще-то, не для вас!'"
+}
+
+PineapplePet: {
+	DisplayName: Ананас
+	Tooltip: Призывает ананас
+}
+
+PlagueCaller: {
+	DisplayName: Чумная Рация
+	Tooltip: Призывает маленького питомца-Чумоносца
+}
+
+PrimroseKeepsake: {
+	DisplayName: Подарочная Примула
+	Tooltip: Не уже ли они...
+}
+
+RadiatingCrystal: {
+	DisplayName: Радиоактивный Кристалл
+	Tooltip:
+		'''
+		Призывает светового питомца-радиатора
+		Дает небольшое количество света в Бездне
+		'Кристалл содержит следы голотурина'
+		'''
+}
+
+RomajedaOrchid: {
+	DisplayName: Орхидея Ромахеда
+	Tooltip: Призывает друга, которого мы никогда не забудем
+}
+
+RottingEyeball: {
+	DisplayName: Гниющее Глазное Яблоко
+	Tooltip: Призывает искаженный конгломерат
+}
+
+StrangeOrb: {
+	DisplayName: Странная Сфера
+	Tooltip:
+		'''
+		Призывает миниатюрного светового питомца-Духа Воды
+		Дает большое количество света под водой
+		'''
+}
+
+SuspiciousLookingNOU: {
+	DisplayName: Подозрительно Выглядящее NO U
+	Tooltip:
+		'''
+		Призывает малого ПАВЕЛИТЕЛЯ, который дает свет
+		'ОНО ЖИВЕТ!'
+		'''
+}
+
+TheEtomer: {
+	DisplayName: Тьлуп
+	Tooltip:
+		'''
+		Призывает электрического хулигана
+		К нему прицеплена небольшая записка:
+		'Спасибо, Алоя! Бен это очень ценит'
+		'''
+}
+
+ThiefsDime: {
+	DisplayName: Грош Бандита
+	Tooltip:
+		'''
+		Призывает Золотушку - бандитскую монетку, которая будет собирать ближайшие монеты и излучать свет
+		Дает небольшое количество света в Бездне
+		'Когда-то - мусор, а теперь - реликвия, олицетворяющая братство бандитов'
+		'''
+}
+
+TrashmanTrashcan: {
+	DisplayName: Мусорное Ведро
+	Tooltip: Призывает Мусорного Человека
+}
+
+BurrowerController: {
+	// DisplayName: Burrower Beacon
+	/* Tooltip:
+		'''
+		Requests a friendly burrower to follow you around and illuminate ores
+		Counts as a light pet
+		''' */
+}
+
+FrostyBatBottle: {
+	// DisplayName: Frosty Bat Bottle
+	/* Tooltip:
+		'''
+		Summons an icy bat to light your way that flies towards your cursor when you dash
+		[c/6ECAC3:'All the world's bats are prime to squeak!']
+		''' */
+}
+
+ToastyBatBottle: {
+	// DisplayName: Toasty Bat Bottle
+	/* Tooltip:
+		'''
+		Summons a fiery bat to light your way that leaves a trail of glowing embers
+		[c/CF6454:'Guaranteed to NOT knock you off your hellbridge']
+		''' */
+}

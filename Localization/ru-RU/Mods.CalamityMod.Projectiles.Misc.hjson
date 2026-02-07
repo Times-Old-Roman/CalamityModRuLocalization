@@ -1,0 +1,95 @@
+// Damageable
+MarniteRepulsionHitbox.DisplayName: Матрица Отражения
+ArtifactOfResilienceBulwark.DisplayName: Артефакт Стойкости
+// Draedon's Arsenal
+AnomalysNanogunHoldout.DisplayName: Нанопушка Аномалии
+AnomalysNanogunMPFBBoom.DisplayName: Взрыв MPFB
+AnomalysNanogunMPFBDevastator.DisplayName: Опустошитель MPFB
+AnomalysNanogunPlasmaBeam.DisplayName: Плазменный Луч
+FrequencyManipulatorEnergy.DisplayName: Пульсовая Энергия
+FrequencyManipulatorProjectile.DisplayName: Манипулятор Частот
+GatlingLaserShot.DisplayName: Лазер Гатлинга
+GaussEnergy.DisplayName: Энергия Гаусса
+GaussFlux.DisplayName: Поток Гаусса
+GaussPistolShot.DisplayName: Выстрел Гаусса
+GaussRifleBlast.DisplayName: Всплеск Гаусса
+GaussRifleExplosion.DisplayName: Взрыв Гаусса
+LaserRifleShot.DisplayName: Лазерная Винтовка
+MassivePlasmaExplosion.DisplayName: Плазменный Взрыв
+MountedScannerLaser.DisplayName: Луч Смерти
+MountedScannerSummon.DisplayName: Монтируемый Мусор
+PhaseslayerBeam.DisplayName: Фазовый Меч
+PlasmaCasterShot.DisplayName: Плазменный Болт
+PlasmaGrenadeProjectile.DisplayName: Плазменная Граната
+PlasmaGrenadeSmallExplosion.DisplayName: Плазменный Взрыв
+PoleWarperSummon.DisplayName: Искажатель Полюсов
+PulseDragonProjectile.DisplayName: Пульсовый Дракон
+PulsePistolShot.DisplayName: Пульсовый Болт
+PulseRifleShot.DisplayName: Пульсовый Болт
+PulseTurret.DisplayName: Пульсовая Турель
+PulseTurretShot.DisplayName: Пульсовый Болт
+SnakeEyesSummon.DisplayName: Змеиные Глаза
+SnakeEyesProjectile.DisplayName: Неизбегаемый Болт
+StarSwallowerAcid.DisplayName: Кислота
+StarSwallowerSummon.DisplayName: Лягухыч
+SystemBaneLightning.DisplayName: Молния
+SystemBaneProjectile.DisplayName: Системный Троян
+TaserHook.DisplayName: Тазер
+TeslaCannonShot.DisplayName: Луч Теслы
+TrackingDiskLaser.DisplayName: Лазер
+TrackingDiskProjectile.DisplayName: Отслеживающий Диск
+UnstableMatter.DisplayName: Нестабильная Материя
+VoltageStream.DisplayName: Поток Напряжения
+WavePounderBoom.DisplayName: Взрыв
+WavePounderProjectile.DisplayName: Волновой Колотун
+// Environmental
+AcidDrop.DisplayName: Кислота
+BrimstoneGeyser.DisplayName: Дым
+GeyserTelegraph.DisplayName: Гейзер
+HotSteam.DisplayName: Пар
+LavaChunk.DisplayName: Кусок Лавы
+MurkySteam.DisplayName: Пар
+SmokeTelegraph.DisplayName: Дым
+ThermalSteam.DisplayName: Пар
+// Turrets
+DraedonLaser.DisplayName: Лазер Драедона
+DraedonLaserBuffer.DisplayName: Лазер Драедона
+FireShot.DisplayName: Огненный Выстрел
+FireShotBuffer.DisplayName: Огненный Выстрел
+IceExplosion.DisplayName: Ледяной Газ
+IceShot.DisplayName: Ледяной Газ
+IceShotBuffer.DisplayName: Ледяной Снаряд
+LaserShot.DisplayName: Лазерный Выстрел
+LaserShotBuffer.DisplayName: Лазерный Выстрел
+OnyxShot.DisplayName: Ониксовая Дробь
+OnyxShotBuffer.DisplayName: Ониксовая Дробь
+PlagueExplosionGas.DisplayName: Чумной Газ
+PlagueShot.DisplayName: Чумной Газ
+PlagueShotBuffer.DisplayName: Чумной Снаряд
+WaterShot.DisplayName: Водяной Выстрел
+WaterShotBuffer.DisplayName: Водяной Выстрел
+// Draedon's Arsenal
+// AerialTrackerLaser.DisplayName: Laser
+// AerialTrackerProjectile.DisplayName: Aerial Tracker
+// AqueousHunterDroneSummon.DisplayName: Plasma Shrimp
+// AugerHoldout.DisplayName: P-GSS Auger
+// AugerSlash.DisplayName: Auger Slash
+// AugerPull.DisplayName: Auger Pull
+// CountermeasurePalmBlast.DisplayName: Palm Blast
+// ImmolationArrow.DisplayName: Immolation Arrow
+// ImmolationBurst.DisplayName: Immolation Burst
+// ImmolationSpray.DisplayName: Immolation Spray
+// NidhoggRailgunBigShot.DisplayName: Nidhogg Railgun
+// NidhoggRailgunBlast.DisplayName: Nidhogg Beam
+// NidhoggExplosion.DisplayName: Magnetic Implosion
+// PhalanxSurgeLance.DisplayName: Laser Lance
+// PhalanxSurgeLaser.DisplayName: Phalanx Laser
+// PulseGrenadeProjectile.DisplayName: Pulse Grenade
+// PulseGrenadeOrb.DisplayName: Pulse Orb
+// ShortCircuitHook.DisplayName: Short Circuit Hook
+// ShrimpPlasmaMissile.DisplayName: Plasma Shrimp Missile
+// VulcanProjectile.DisplayName: Vulcan Shot
+// VulcanSpear.DisplayName: Vulcan Harpoon
+// BarrelCactusProjectile.DisplayName: Barrel Cactus
+// Lilyglow.DisplayName: Lilyglow
+// WaterAlgae.DisplayName: Water Algae

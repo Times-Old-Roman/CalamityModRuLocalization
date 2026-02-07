@@ -1,0 +1,377 @@
+AerialiteBar: {
+	DisplayName: Аэралитовый Слиток
+	Tooltip: ""
+}
+
+AncientBoneDust: {
+	DisplayName: Древний Костяной Прах
+	Tooltip: ""
+}
+
+ArmoredShell: {
+	DisplayName: Бронированный Панцирь
+	Tooltip: ""
+}
+
+AscendantSpiritEssence: {
+	DisplayName: Эссенция Высших Духов
+	Tooltip: Катализатор наивысшей степени, сформированный слиянием сильных эссенций
+}
+
+AshesofAnnihilation: {
+	DisplayName: Пепел Аннигиляции
+	Tooltip: Тлеющая эссенция ярости Ведьмы
+}
+
+AshesofCalamity: {
+	DisplayName: Пепел Бедствия
+	Tooltip: ""
+}
+
+AstralBar: {
+	DisplayName: Астральный Слиток
+	Tooltip: ""
+}
+
+AuricBar: {
+	DisplayName: Ауритовый Слиток
+	Tooltip: Из этого металла изливается безграничная сила
+}
+
+BeetleJuice: {
+	DisplayName: Жучий Сок
+	Tooltip: ""
+}
+
+BlightedGel: {
+	DisplayName: Пагубный Гель
+	Tooltip: ""
+}
+
+BloodOrb: {
+	DisplayName: Сгусток Крови
+	Tooltip: ""
+}
+
+BloodSample: {
+	DisplayName: Образец Крови
+	Tooltip: ""
+}
+
+Bloodstone: {
+	DisplayName: Камень Крови
+	Tooltip: ""
+}
+
+BloodstoneCore: {
+	DisplayName: Звено Камня Крови
+	Tooltip: ""
+}
+
+CoreofCalamity: {
+	DisplayName: Сущность Бедствия
+	Tooltip: ""
+}
+
+CoreofEleum: {
+	DisplayName: Сущность Элеума
+	Tooltip: ""
+}
+
+CoreofHavoc: {
+	DisplayName: Сущность Хаоса
+	Tooltip: ""
+}
+
+CoreofSunlight: {
+	DisplayName: Сущность Солнца
+	Tooltip: ""
+}
+
+CorrodedFossil: {
+	DisplayName: Протравленная Окаменелость
+	Tooltip: Она очень твердая
+}
+
+CosmiliteBar: {
+	DisplayName: Космилитовый Слиток
+	Tooltip: Обломок твердой и очень гибкой космической стали
+}
+
+CryonicBar: {
+	DisplayName: Крионитовый Слиток
+	Tooltip: ""
+}
+
+DarkPlasma: {
+	DisplayName: Темная Плазма
+	Tooltip: ""
+}
+
+DarksunFragment: {
+	DisplayName: Фрагмент Черного Солнца
+	Tooltip: Загадочный кристалл, наполненный противоположными небесными энергиями
+}
+
+DemonicBoneAsh: {
+	DisplayName: Демонический Костяной Прах
+	Tooltip: ""
+}
+
+DepthCells: {
+	DisplayName: Глубинный Клетки
+	Tooltip: Клетки глубинных существ
+}
+
+DivineGeode: {
+	DisplayName: Священная Жеода
+	Tooltip: Кусок кристаллизовавшейся святой энергии
+}
+
+DubiousPlating: {
+	DisplayName: Замысловатая Пластина
+	Tooltip: ""
+}
+
+EffulgentFeather: {
+	DisplayName: Сияющее Перо
+	Tooltip: Оно вибрирует пышной золотистой энергией
+}
+
+EndothermicEnergy: {
+	DisplayName: Эндотермическая Энергия
+	Tooltip: Ее смертельный холод высасывает жизнь из окружения
+}
+
+EnergyCore: {
+	DisplayName: Энергетическое Ядро
+	Tooltip: Оно пульсирует энергией
+}
+
+EssenceofEleum: {
+	DisplayName: Эссенция Элеума
+	Tooltip: Эссенция морозных существ
+}
+
+EssenceofHavoc: {
+	DisplayName: Эссенция Хаоса
+	Tooltip: Эссенция опустошенных существ
+}
+
+EssenceofSunlight: {
+	DisplayName: Эссенция Солнца
+	Tooltip: Эссенция существ неба, света, и шторма
+}
+
+ExoPrism: {
+	DisplayName: Экзо-Призма
+	Tooltip: Фрактальные энергии мерцают по ее поверхности
+}
+
+GalacticaSingularity: {
+	DisplayName: Галактическая Сингулярность
+	Tooltip: Фрагмент Космоса
+}
+
+GrandScale: {
+	DisplayName: Величественная Чешуя
+	Tooltip: Большая чешуя высшего хищника
+}
+
+InfectedArmorPlating: {
+	DisplayName: Зараженная Броневая Обшивка
+	Tooltip: ""
+}
+
+LifeAlloy: {
+	DisplayName: Слиток Жизни
+	Tooltip: ""
+}
+
+LivingShard: {
+	DisplayName: Осколок Жизненной Силы
+	Tooltip: ""
+}
+
+Lumenyl: {
+	DisplayName: Люменил
+	Tooltip: Кристалл люминесцентной энергии
+}
+
+MeldBlob: {
+	DisplayName: Сгусток Мелда
+	Tooltip: ""
+}
+
+MeldConstruct: {
+	DisplayName: Конструкция Мелда
+	Tooltip: ""
+}
+
+MiracleMatter: {
+	DisplayName: Чудо-материя
+	Tooltip:
+		'''
+		Ее аморфная форма содержит неописуемый потенциал
+		Для каждого экзо-оружия нужен только один экземпляр
+		'''
+}
+
+MolluskHusk: {
+	DisplayName: Ракушка Моллюска
+	Tooltip: Останки убитого моллюска
+}
+
+MurkyPaste: {
+	DisplayName: Мутная Паста
+	Tooltip: ""
+}
+
+MysteriousCircuitry: {
+	DisplayName: Загадочная Плата
+	Tooltip: ""
+}
+
+Necroplasm: {
+	DisplayName: Некроплазма
+	Tooltip: Она течет и бурлит призрачной злобой
+}
+
+NightmareFuel: {
+	DisplayName: Топливо Кошмаров
+	Tooltip: Возможно вытянет ваше сознание
+}
+
+PearlShard: {
+	DisplayName: Жемчужный Осколок
+	Tooltip: ""
+}
+
+PerennialBar: {
+	DisplayName: Вечнозеленый Слиток
+	Tooltip: ""
+}
+
+PlagueCellCanister: {
+	DisplayName: Чумная Канистра
+	Tooltip: ""
+}
+
+PlasmaDriveCore: {
+	DisplayName: Прототип Ядра Плазменного Привода
+	Tooltip: Несмотря на все время, проведенное в хранилище, его печь все еще активна
+}
+
+PurifiedGel: {
+	DisplayName: Чистый Гель
+	Tooltip: ""
+}
+
+ReaperTooth: {
+	DisplayName: Зуб Жнеца
+	Tooltip: Достаточной острый, чтобы резать алмазы
+}
+
+RottenMatter: {
+	DisplayName: Гнилая Материя
+	Tooltip: ""
+}
+
+RuinousSoul: {
+	DisplayName: Гибельная Эссенция
+	Tooltip: Отголосок далекого прошлого
+}
+
+ScoriaBar: {
+	DisplayName: Слиток Скории
+	Tooltip: Ее дым теплый на ощупь
+}
+
+SeaRemains: {
+	DisplayName: Морские Останки
+	Tooltip: ""
+}
+
+ShadowspecBar: {
+	DisplayName: Тенефазовый Слиток
+	Tooltip: Омерзительный, черный металл. Он настолько ужасный и сильный, что избегает всех объяснений
+}
+
+SolarVeil: {
+	DisplayName: Солнечная Вуаль
+	Tooltip: Солнечный свет не способен пройти сквозь эту ткань
+}
+
+StarblightSoot: {
+	DisplayName: Зола Звездной Гнили
+	Tooltip: ""
+}
+
+StormlionMandible: {
+	DisplayName: Жвало Штормового Льва
+	Tooltip: ""
+}
+
+SulphuricScale: {
+	DisplayName: Сернистая Чешуя
+	Tooltip: ""
+}
+
+SuspiciousScrap: {
+	DisplayName: Подозрительный Металлолом
+	Tooltip: Кажется, он может быть частью большего механизма...
+}
+
+TitanHeart: {
+	DisplayName: Сердце Титана
+	Tooltip:
+		'''
+		Оно все еще бьется.
+		Можно принести в жертву на астральном маяке.
+		'''
+}
+
+TrapperBulb: {
+	DisplayName: Бутон Ловушечника
+	Tooltip: ""
+}
+
+TwistingNether: {
+	DisplayName: Сплетение Пустоты
+	Tooltip: ""
+}
+
+UelibloomBar: {
+	DisplayName: Слиток Уэлицвета
+	Tooltip: ""
+}
+
+UnholyCore: {
+	DisplayName: Ядро Нечисти
+	Tooltip: ""
+}
+
+UnholyEssence: {
+	DisplayName: Скверная Эссенция
+	Tooltip: Эссенция существ Скверны
+}
+
+WulfrumMetalScrap: {
+	DisplayName: Вульфрумовый Металлолом
+	Tooltip: ""
+}
+
+YharonSoulFragment: {
+	DisplayName: Фрагмент Эссенции Ярона
+	Tooltip: Частичка ауритовой эссенции дракона
+}
+
+AnodizedWulfrumMetal: {
+	// DisplayName: Anodized Wulfrum Metal
+	// Tooltip: ""
+}
+
+WillOWisp: {
+	// DisplayName: Will O Wisp
+	// Tooltip: ""
+}

@@ -1,0 +1,1135 @@
+CalamityConfig: {
+	DisplayName: Основная Конфигурация
+
+	Headers: {
+		ExpertMaster: Изменения режима Эксперта и Мастера
+		Gameplay: Общие изменения игрового процесса
+		Graphics: Изменения Графики
+		Revengeance: Изменения режима Мести
+		UI: Изменения интерфейса
+		BaseBoosts: Усиления базовых характеристик
+		MusicEvents: Музыкальные события
+	}
+
+	AdrenalineMeterPosX: {
+		Label: "[i:LaserRuler] X-координата счетчика Адреналина"
+		Tooltip:
+			'''
+			Горизонтальное положение счетчика Адреналина. Измеряется в % ширины экрана.
+			Счетчик можно передвинуть курсором мыши, если закрепление положений счетчиков отключено.
+			'''
+	}
+
+	AdrenalineMeterPosY: {
+		Label: "[i:LaserRuler] Y-координата счетчика Адреналина"
+		Tooltip:
+			'''
+			Вертикальное положение счетчика Адреналина. Измеряется в % высоты экрана.
+			Счетчик можно передвинуть курсором мыши, если закрепление положений счетчиков отключено.
+			'''
+	}
+
+	Afterimages: {
+		Label: "[i:SteampunkGoggles] След"
+		Tooltip:
+			'''
+			Включает след для НИПов, снарядов, и т.п. из Calamity
+			Отключите, чтобы улучшить производительность.
+			'''
+	}
+
+	BossesStopWeather: {
+		Label: "[i:CalamityMod/TorrentialTear] Боссы останавливают погоду"
+		Tooltip:
+			'''
+			Если включено, то многие поздние боссы будут прекращать все дожди и любые погодные события, после появления.
+			Включите, если у вас есть проблемы с производительностью во время сражения с поздними боссами.
+			'''
+	}
+
+	BossHealthBarExtraInfo: {
+		Label: "[i:CalamityMod/EncryptedSchematicPlanetoid] Дополнительная информация на плашке здоровья боссов"
+		Tooltip:
+			'''
+			Добавляет дополнительную информацию к Calamity-плашке со здоровьем боссов.
+			Это отобразит либо точное здоровье босса, либо число оставшихся сегментов или частей.
+			'''
+	}
+
+	BossHealthBoost: {
+		Label: "[i:LifeCrystal] Процент увеличения здоровья боссов"
+		Tooltip:
+			'''
+			Глобально увеличивает здоровье всех боссов на указанный %
+			Это складывается с увеличением здоровья от многопользовательской игры.
+			Не влияет на боссов, которые уже появились.
+			[c/F05A5A:Из опыта, эта опция сильно подвержена багам.]
+			[c/F05A5A:В многопользовательской игре, увеличение здоровья работает]
+			[c/F05A5A:только если у каждого игрока включено усиление на тот же %,]
+			[c/F05A5A:причем только после перезагрузки сервера с новым %.]
+			[c/F05A5A:Ожидайте проблем. Тестируйте заранее]
+			'''
+	}
+
+	DefaultDashEnabled: {
+		Label: "[i:Tabi] Рывок по-умолчанию"
+		Tooltip:
+			'''
+			Дает игроку очень слабенький встроенный рывок, который не требует какой-либо экипировки или вещей.
+			Этот рывок будет заменен любым другим рывком, включая те, которые из других модов.
+			'''
+	}
+
+	BossZen: {
+		Label: "[i:CalamityMod/ZenPotion] Боссы значительно уменьшают скорость появления противников"
+		Tooltip:
+			'''
+			Все боссы во время сражений будут сильно уменьшать скорость появления обычных противников.
+			Это также убирает возможность появления Слизневого Дождя во время битвы с боссом.
+			Calamity сбалансирован вокруг того, что эта опция включена.
+			'''
+	}
+
+	ChargeMeter: {
+		Label: "[i:CalamityMod/DraedonPowerCell] Отображение Счетчика Зарядки"
+		Tooltip:
+			'''
+			Включает интерфейс со счетчиком Зарядки, который отображает заряд оружия в руках игрока.
+			Счетчик Зарядки скрыт, если вы не используете оружие с зарядом.
+			'''
+	}
+
+	ChargeMeterPosX: {
+		Label: "[i:LaserRuler] X-координата счетчика Зарядки"
+		Tooltip:
+			'''
+			Горизонтальное положение счетчика Зарядки. Измеряется в % ширины экрана.
+			Счетчик можно передвинуть курсором мыши, если закрепление положений счетчиков отключено.
+			'''
+	}
+
+	ChargeMeterPosY: {
+		Label: "[i:LaserRuler] Y-координата счетчика Зарядки"
+		Tooltip:
+			'''
+			Вертикальное положение счетчика Зарядки. Измеряется в % высоты экрана.
+			Счетчик можно передвинуть курсором мыши, если закрепление положений счетчиков отключено.
+			'''
+	}
+
+	ChilledWaterRework: {
+		Label: "[i:ArcticDivingGear] Переработка холодной воды"
+		Tooltip: Если включено, то вода в Тундре будет быстро тратить дыхание игрока, вместо наложения Охлаждения.
+	}
+
+	CooldownDisplay: {
+		Label: "[i:CalamityMod/NebulousCore] Отображение Полки с Перезарядками"
+		Tooltip:
+			'''
+			Добавляет Полку с Перезарядками, которая отображает все важные перезарядки
+			под строкой полезных и вредных эффектов.
+			Установите на 1, чтобы отображать полку компактно. Установите на 0, чтобы полностью спрятать ее.
+			'''
+	}
+
+	DebuffDisplay: {
+		Label: "[i:FlaskofIchor] Отображение вредных эффектов на противниках"
+		Tooltip: Добавляет разные иконки вредных эффектов над всеми боссами и минибоссами.
+	}
+
+	DevourerofGodsEulogy: {
+		Label: "[i:CalamityModMusic/DevourerofGodsEulogyMusicBox] «Eulogy for The Ego»"
+		Tooltip: После поражения Пожирателя Богов, играет Calamity Mod OST - "Scourge of The Universe (Eulogy for The Ego)".
+	}
+
+	EarlyHardmodeProgressionRework: {
+		Label: "[i:Pwnhammer] Переработка прогрессии в раннем Хардмоде"
+		Tooltip:
+			'''
+			Демонические Алтари больше не порождают руды и блоки багрянца/искажения, если их сломать.
+			Стена плоти создает Кобальт и Палладий при своем первом поражении.
+			Первый мех-босс, с которым вы будете сражаться, имеет -20% (-10% в Эксперте и Мастере)
+			здоровья и урона и создает Мифрилову и Орихалковую руду при своем первом поражении.
+			У второго мех-босса будет -10% (-5% в Эксперте и Мастере)
+			здоровья и урона и создает Адамантитовую и Титановую руду при своем первом поражении.
+			Третий мех-босс создает Освященную Руду при своем первом поражении.
+			'''
+	}
+
+	FasterBaseSpeed: {
+		Label: "[i:HermesBoots] Увеличение базовой скорости движения"
+		Tooltip:
+			'''
+			Сильно увеличивает базовую скорость движения игрока (+50% скорости движения).
+			Эта опция ничего не делает, если у вас загружен мод Terraria Overhaul.
+			Calamity сбалансирован вокруг того, что эта опция включена.
+			'''
+	}
+
+	FasterFallHotkey: {
+		Label: "[i:CalamityMod/BallAndChain] Включение Быстрого Падения"
+		Tooltip:
+			'''
+			Если включено, вы можете зажать кнопку DOWN вниз, пока находитесь в воздухе, чтобы ускорить свое падение.
+			Эта конфигурация не увеличивает вашу максимальную скорость падения, а просто позволяет вам достигнуть ее быстрее.
+			Calamity сбалансирован вокруг того, что эта опция включена.
+			'''
+	}
+
+	FasterJumpSpeed: {
+		Label: "[i:FrogLeg] Увеличение базовой скорости прыжка"
+		Tooltip:
+			'''
+			Немного увеличивает базовую скорость прыжка игрока.
+			Calamity сбалансирован вокруг того, что эта опция включена.
+			'''
+	}
+
+	FasterTilePlacement: {
+		Label: "[i:ArchitectGizmoPack] Увеличение базовой скорости размещения"
+		Tooltip:
+			'''
+			Серьезно увеличивает то, насколько быстро вы можете расставлять блоки и стены.
+			Эта конфигурация складывается с Мастерком, Переносной Бетономешалкой и другими аксессуарами.
+			'''
+	}
+
+	FlightBar: {
+		Label: "[i:CalamityMod/StarlightWings] Отображение полоски Полета"
+		Tooltip:
+			'''
+			Включает полоску Полета, которая показывает вам оставшееся время полета крыльев.
+			Эта полоска также покажет, если максимальное время полета ограничено некими эффектами.
+			Если время полета - безлимитное, то полоска будет гореть ярко-голубым.
+			'''
+	}
+
+	FlightBarPosX: {
+		Label: "[i:LaserRuler] X-координата полоски Полета"
+		Tooltip:
+			'''
+			X-координата полоски Полета. Измеряется в % высоты экрана.
+			Счетчик можно передвинуть курсором мыши, если закрепление положений счетчиков отключено.
+			'''
+	}
+
+	FlightBarPosY: {
+		Label: "[i:LaserRuler] Y-координата полоски Полета"
+		Tooltip:
+			'''
+			Вертикальное положение полоски Полета. Измеряется в % высоты экрана..
+			Счетчик можно передвинуть курсором мыши, если закрепление положений счетчиков отключено.
+			'''
+	}
+
+	ForceTownSafety: {
+		Label: "[i:Sunflower] Форсировать безопасность города"
+		Tooltip:
+			'''
+			Противодействует режиму Эксперта и Мастера, которые позволяют противникам появляться рядом с городами.
+			Делается это за счет сильного убавления скорости появления монстров в принципе.
+			Это может иметь сторонний эффект - дружелюбные существа могут стать намного более редкими.
+			'''
+	}
+
+	HigherJumpHeight: {
+		Label: "[i:ShinyRedBalloon] Увеличение базовой высоты прыжка"
+		Tooltip:
+			'''
+			Увеличивает базовую высоту прыжка игрока на 10% (прыжок будет 7 блоков в высоту)
+			Calamity сбалансирован вокруг того, что эта опция включена.
+			'''
+	}
+
+	Interlude1: {
+		Label: "[i:CalamityModMusic/Interlude1MusicBox] «Interlude 1»"
+		Tooltip: После поражения Доппельгангера Каламитас, играет Calamity Mod OST - Interlude 1, "Silence before the storms".
+	}
+
+	Interlude2: {
+		Label: "[i:CalamityModMusic/Interlude2MusicBox] «Interlude 2»"
+		Tooltip: После поражения Лунного Лорда, играет Calamity Mod OST - Interlude 2, "Storms before the catastrophes".
+	}
+
+	Interlude3: {
+		Label: "[i:CalamityModMusic/Interlude3MusicBox] «Interlude 3»"
+		Tooltip: После поражения Ярона, играет Calamity Mod OST - Interlude 3, "Catastrophes before the calamity".
+	}
+
+	MeterPosLock: {
+		Label: "[i:GemLockTopaz] Закрепить положения счетчиков"
+		Tooltip:
+			'''
+			Отключает нажатия на различные счетчики Calamity.
+			Эта настройка также отключает возможность перетащить их мышью.
+			'''
+	}
+
+	MusicModReminderMessage: {
+		Label: "[i:MusicBoxMartians] Сообщение с напоминанием о Музыкальном Моде"
+		Tooltip:
+			'''
+			Включает или отключает статусное сообщение с напоминанием установить Calamity Music Mod.
+			Это сообщение появляется при входе в мир.
+			'''
+	}
+
+	NerfExpertDebuffs: {
+		Label: "[i:AnkhCharm] Удаление увеличенной длительности вредных эффектов"
+		Tooltip:
+			'''
+			Отключает удваивание длительности вредных эффектов на игроке на режиме Эксперта (и утраивание на Мастере).
+			Calamity сбалансирован вокруг того, что эта опция включена.
+			'''
+	}
+
+	NewVanillaTextures: {
+		Label: "[i:Paintbrush] Новые ванильные текстуры"
+		Tooltip:
+			'''
+			Включает или отключает новые ванильные текстуры.
+			Отключите для совместимости с вашими наборами текстур.
+			'''
+	}
+
+	ParticleLimit: {
+		Label: "[i:FragmentStardust] Максимальный лимит частиц"
+		Tooltip:
+			'''
+			Устанавливает максимальное число эффектов и частиц, которые могут существовать одномоментно.
+			Частицы существуют отдельно от пыли и кишок.
+			Уменьшите, чтобы улучшить производительность.
+			[c/F05A5A:Опуская это число менее 1000 вы рискуете тем, что некоторые вещи будут некорректно отображаться.]
+			'''
+	}
+
+	RageMeterPosX: {
+		Label: "[i:LaserRuler] X-координата счетчика Буйства"
+		Tooltip:
+			'''
+			Горизонтальное положение счетчика Буйства. Измеряется в % ширины экрана.
+			Счетчик можно передвинуть курсором мыши, если закрепление положений счетчиков отключено.
+			'''
+	}
+
+	RageMeterPosY: {
+		Label: "[i:LaserRuler] Y-координата счетчика Буйства"
+		Tooltip:
+			'''
+			Вертикальное положение счетчика Буйства. Измеряется в % высоты экрана.
+			Счетчик можно передвинуть курсором мыши, если закрепление положений счетчиков отключено.
+			'''
+	}
+
+	RemoveLavaDropsFromLavaSlimes: {
+		Label: "[i:LavaWaders] Отключить падение лавы из Лавовых Слизней"
+		Tooltip:
+			'''
+			Если включено, то Лавовые Слизни будут заменены дублером из мода,
+			у которых нет механики с выпадением лавы.
+			'''
+	}
+
+	RemoveReforgeRNG: {
+		Label: "[i:TinHammer] Удаление случайности перековок"
+		Tooltip:
+			'''
+			Удаляет случайность из перековок Гоблина Изобретателя как для оружия, так и для аксессуаров.
+			Отключите это, если используете моды,
+			которые как-либо меняют систему перековок, чтобы избежать конфликтов.
+			'''
+	}
+
+	RipperMeterShake: {
+		Label: "[i:CalamityMod/RedLightningContainer] Тряска Буйства и Адреналина"
+		Tooltip:
+			'''
+			Значение того, насколько сильно счетчики Буйства и Адреналина трясутся при активации.
+			Установите на 0, чтобы совсем убрать тряску счетчиков.
+			'''
+	}
+
+	ScreenshakePower: {
+		Label: "[i:CalamityMod/WavePounder] Сила тряски экрана"
+		Tooltip:
+			'''
+			Значение того, насколько интенсивны эффекты тряски экрана.
+			Установите на 0, чтобы совсем убрать тряску экрана.
+			[c/FF232C:Все визуальные эффекты тряски сбалансированы вокруг значения 1.]
+			[c/FF232C:Более высокие значения могут вызывать тошноту, или другие побочные эффекты у некоторых людей.]
+			'''
+	}
+
+	ShopNewAlert: {
+		Label: "[i:GoldChest] Предупреждения о новом инвентаре"
+		Tooltip: Добавляет иконку, которая появляется над головой Городских НИПов, когда у них новые предметы.
+	}
+
+	SpeedrunTimer: {
+		Label: "[i:Stopwatch] Отображение таймера спидрана"
+		Tooltip:
+			'''
+			Включает внутриигровой таймер спидрана, который замеряет время в игре вплоть до миллисекунды.
+			Вторая линия показывает время самого недавнего убийства босса.
+			Время отслеживается для каждого игрока индивидуально,
+			причем отсчет идет только тогда, когда вы полностью загружены в мире.
+			'''
+	}
+
+	SpeedrunTimerPosX: {
+		Label: "[i:LaserRuler] X-координата таймера спидрана"
+		Tooltip:
+			'''
+			Горизонтальное положение таймера спидрана. Измеряется в % ширины экрана.
+			Счетчик можно передвинуть курсором мыши, если закрепление положений счетчиков отключено.
+			'''
+	}
+
+	SpeedrunTimerPosY: {
+		Label: "[i:LaserRuler] Y-координата таймера спидрана"
+		Tooltip:
+			'''
+			Вертикальное положение таймера спидрана. Измеряется в % высоты экрана.
+			Счетчик можно передвинуть курсором мыши, если закрепление положений счетчиков отключено.
+			'''
+	}
+
+	StealthInvisibility: {
+		Label: "[i:CalamityMod/StealthHairDye] Невидимость при скрытности"
+		Tooltip:
+			'''
+			Постепенно делает игроков невидимыми с накоплением Скрытности Метателя.
+			Этот эффект визуально похож на скрытность от Грибнитовой Брони.
+			'''
+	}
+
+	StealthMeter: {
+		Label: "[i:CalamityMod/EclipseMirror] Отображение счетчика Скрытности"
+		Tooltip:
+			'''
+			Включает счетчик Скрытности.
+			Счетчик Скрытности скрыт, если вы не носите на себе полный набор брони для Метателя.
+			'''
+	}
+
+	StealthMeterPosX: {
+		Label: "[i:LaserRuler] X-координата счетчика Скрытности"
+		Tooltip:
+			'''
+			Горизонтальное положение счетчика Скрытности. Измеряется в % ширины экрана.
+			Счетчик можно передвинуть курсором мыши, если закрепление положений счетчиков отключено.
+			'''
+	}
+
+	StealthMeterPosY: {
+		Label: "[i:LaserRuler] Y-координата счетчика Скрытности"
+		Tooltip:
+			'''
+			Вертикальное положение счетчика Скрытности. Измеряется в % высоты экрана.
+			Счетчик можно передвинуть курсором мыши, если закрепление положений счетчиков отключено.
+			'''
+	}
+
+	SulphuricWaterMeterPosX: {
+		Label: "[i:LaserRuler] X-координата счетчика Отравления Серой"
+		Tooltip:
+			'''
+			Горизонтальное положение счетчика Отравления Серной Водой. Измеряется в % ширины экрана.
+			Счетчик можно передвинуть курсором мыши, если закрепление положений счетчиков отключено.
+			'''
+	}
+
+	SulphuricWaterMeterPosY: {
+		Label: "[i:LaserRuler] Y-координата счетчика Отравления Серой"
+		Tooltip:
+			'''
+			Вертикальное положение счетчика Отравления Серной Водой. Измеряется в % высоты экрана.
+			Счетчик можно передвинуть курсором мыши, если закрепление положений счетчиков отключено.
+			'''
+	}
+
+	PotionSelling: {
+		Label: "[i:SpelunkerPotion] Продажа зелий городскими НИПами"
+		Tooltip:
+			'''
+			Позволяет городским НИПам продавать различные зелья.
+			Некоторые зелья продаются только после победы над определенными боссами.
+			'''
+	}
+
+	PlayerRespawnTime_BossAlive: {
+		Label: "[i:Stopwatch] Время возрождения игрока во время битвы с боссом"
+		Tooltip:
+			'''
+			Устанавливает время возрождения игроков во время битвы с боссом. Измеряется в секундах.
+			Если нет активного босса, то игрок возродится через 3 секунды.
+			Это время работает одинаково как в одиночной игре, так и в многопользовательской.
+			[c/F05A5A:Эта настройка индивидуальная для каждого игрока.]
+			[c/F05A5A:Если Вы играете в многопользовательской игре -]
+			[c/F05A5A:согласовывайте времена вместе.]
+			'''
+	}
+
+	TownNPCSpawnRateMultiplier: {
+		Label: "[i:GuideVoodooDoll] Множитель скорости появления городских НИПов"
+		Tooltip:
+			'''
+			Напрямую умножает скорость возрождения и появления городских НИПов.
+			Это уменьшает время ожидания если босс или событие вычистит вам весь город.
+			'''
+	}
+
+	TownNPCsSpawnAtNight: {
+		Label: "[i:ClothierVoodooDoll] Городские НИПы появляются ночью"
+		Tooltip:
+			'''
+			Если включено, то городские НИПы могут появляться и возрождаться даже ночью.
+			Это также включает в себя и Старика.
+			'''
+	}
+
+	VanillaCooldownDisplay: {
+		Label: "[i:HealingPotion] Отображение ванильных перезарядок"
+		Tooltip:
+			'''
+			Добавляет перезарядки ванильных эффектов Послезельевой Болезни и Состояния Хаоса в полку перезарядок.
+			Эти эффекты все равно будут присутствовать в строке с эффектами, но эта опция сделает их более очевидными.
+			'''
+	}
+
+	WikiStatusMessage: {
+		Label: "[i:Book] Сообщение о статусе википедии мода"
+		Tooltip:
+			'''
+			Включает или отключает статусное сообщение с рекламой официальной википедии Calamity.
+			Это сообщение появляется при входе в мир.
+			'''
+	}
+}
+
+CalamityClientConfig: {
+	// DisplayName: Client Config
+
+	Headers: {
+		// Gameplay: General Gameplay Changes
+		// Graphics: Graphics Changes
+		// UI: UI Changes
+		// MeterPositions: Meter Positions
+		// MusicToggles: Music Toggles
+	}
+
+	AbyssLayer3Alt: {
+		// Label: "[i:CalamityModMusic/AbyssLayer3AltMusicBox] Abyss Layer 3 Alt"
+		// Tooltip: Plays Calamity Mod OST - "R'lyehian Depths", while in the Thermal Vents layer of the Abyss.
+	}
+
+	AdrenalineMeterPosX: {
+		// Label: "[i:LaserRuler] Adrenaline Meter X Position"
+		/* Tooltip:
+			'''
+			The X position of the Adrenaline Meter, measured as a % of your screen width.
+			The meter can be dragged with the mouse if Lock Meter Positions is disabled.
+			''' */
+	}
+
+	AdrenalineMeterPosY: {
+		// Label: "[i:LaserRuler] Adrenaline Meter Y Position"
+		/* Tooltip:
+			'''
+			The Y position of the Adrenaline Meter, measured as a % of your screen height.
+			The meter can be dragged with the mouse if Lock Meter Positions is disabled.
+			''' */
+	}
+
+	Afterimages: {
+		// Label: "[i:SteampunkGoggles] Afterimages"
+		/* Tooltip:
+			'''
+			Enables rendering afterimages for Calamity NPCs, projectiles, etc.
+			Disable to improve performance.
+			''' */
+	}
+
+	BossHealthBarExtraInfo: {
+		// Label: "[i:CalamityMod/EncryptedSchematicPlanetoid] Boss Health Bar Extra Info"
+		/* Tooltip:
+			'''
+			Adds extra info to Calamity's boss health bar.
+			This displays either the boss's exact health or number of remaining parts or segments.
+			''' */
+	}
+
+	ChargeMeter: {
+		// Label: "[i:CalamityMod/DraedonPowerCell] Display Charge Meter"
+		/* Tooltip:
+			'''
+			Enables the Charge Meter UI, which displays the current charge of the player's held weapon.
+			The Charge Meter is always hidden if not holding a weapon which requires charge.
+			''' */
+	}
+
+	ChargeMeterPosX: {
+		// Label: "[i:LaserRuler] Charge Meter X Position"
+		/* Tooltip:
+			'''
+			The X position of the Charge Meter, measured as a % of your screen width.
+			The meter can be dragged with the mouse if Lock Meter Positions is disabled.
+			''' */
+	}
+
+	ChargeMeterPosY: {
+		// Label: "[i:LaserRuler] Charge Meter Y Position"
+		/* Tooltip:
+			'''
+			The Y position of the Charge Meter, measured as a % of your screen height.
+			The meter can be dragged with the mouse if Lock Meter Positions is disabled.
+			''' */
+	}
+
+	CooldownDisplay: {
+		// Label: "[i:CalamityMod/NebulousCore] Cooldown Rack Display Mode"
+		// Tooltip: Adds the Cooldown Rack which displays all important cooldowns right underneath buffs and debuffs.
+	}
+
+	DebuffDisplay: {
+		// Label: "[i:FlaskofIchor] Display Enemy Debuffs"
+		// Tooltip: Adds an array of debuff icons above all bosses and minibosses.
+	}
+
+	DevourerofGodsEulogy: {
+		// Label: "[i:CalamityModMusic/DevourerofGodsEulogyMusicBox] Eulogy for the Ego"
+		// Tooltip: Plays Calamity Mod OST - "Scourge of the Universe (Eulogy for the Ego)", after the Devourer of Gods has been defeated.
+	}
+
+	DisableGravityScreenSwap: {
+		// Label: Disable Gravity Screen Flip
+		/* Tooltip:
+			'''
+			Disables vanilla's screen-flipping from changing gravity, flipping the player instead.
+			Enable this if the screen-flipping is distracting or induces motion sickness.
+			''' */
+	}
+
+	EnableVanillaTextureEdits: {
+		// Label: "[i:Paintbrush] Enable Vanilla Texture Edits"
+		/* Tooltip:
+			'''
+			Enables slight edits to vanilla boss textures to improve attack telegraphs.
+			Disable this for compatibility with texture packs.
+			''' */
+	}
+
+	EnergyShieldOpacity: {
+		// Label: "[i:CalamityMod/TheSponge] Energy Shield Opacity"
+		/* Tooltip:
+			'''
+			Set the opacity of energy shields rendered over the player.
+			Setting this to 0 disables energy shield visuals entirely.
+			''' */
+	}
+
+	FancyBackgroundVisuals: {
+		// Label: "[i:CalamityMod/BlueDistortedMonolith] Toggle Fancy Background Visuals"
+		/* Tooltip:
+			'''
+			Controls whether or not fancy background visuals will be displayed during certain parts of the game, such as boss fights.
+			When disabled, a simplified version of the main visual will be displayed in certain cases.
+			Recommended to have disabled if you struggle with visibility issues or low performance.
+			''' */
+	}
+
+	FasterFallHotkey: {
+		// Label: "[i:CalamityMod/BallAndChain] Enable Fast Falling"
+		/* Tooltip:
+			'''
+			When enabled, you can hold the {$Key.DOWN} key while in the air to accelerate downwards faster.
+			This config does not increase your maximum falling speed, just how quickly you accelerate to it.
+			Calamity is balanced around this setting being enabled.
+			''' */
+	}
+
+	FlightBar: {
+		// Label: "[i:AngelWings] Display Flight Bar"
+		/* Tooltip:
+			'''
+			Enables the Flight Bar UI, which shows the player's remaining wing flight time.
+			This bar will also indicate if maximum flight time is decreased by a debuff.
+			It glows bright blue if the player's maximum flight time is currently unlimited.
+			''' */
+	}
+
+	FlightBarPosX: {
+		// Label: "[i:LaserRuler] Flight Bar X Position"
+		/* Tooltip:
+			'''
+			The X position of the Flight Bar, measured as a % of your screen height.
+			The meter can be dragged with the mouse if Lock Meter Positions is disabled.
+			''' */
+	}
+
+	FlightBarPosY: {
+		// Label: "[i:LaserRuler] Flight Bar Y Position"
+		/* Tooltip:
+			'''
+			The Y position of the Flight Bar, measured as a % of your screen height.
+			The meter can be dragged with the mouse if Lock Meter Positions is disabled.
+			''' */
+	}
+
+	Interludes: {
+		// Label: "[i:CalamityModMusic/Interlude1MusicBox] Interludes"
+		/* Tooltip:
+			'''
+			Enables the playing of three interlude tracks in-game:
+			Plays Calamity Mod OST - "Silence before the storms", after Calamitas Clone has been defeated.
+			Plays Calamity Mod OST - "Storms before the catastrophes", after the Moon Lord has been defeated.
+			Plays Calamity Mod OST - "Catastrophes before the calamity", after Yharon has been defeated.
+			''' */
+	}
+
+	MeterPosLock: {
+		// Label: "[i:GemLockTopaz] Lock Meter Positions"
+		/* Tooltip:
+			'''
+			Prevents clicking on Calamity's various Meters on the screen.
+			This stops them from being dragged around with the mouse.
+			''' */
+	}
+
+	ParticleLimit: {
+		// Label: "[i:FragmentStardust] Max Particle Limit"
+		/* Tooltip:
+			'''
+			Sets the maximum of particle effects that can exist at once.
+			Particles are separate from dust and gores.
+			Turn down to improve performance.
+			[c/F05A5A:Turning this below 1000 may cause some things to not display correctly.]
+			''' */
+	}
+
+	Photosensitivity: {
+		// Label: "[i:DiscoBall] Photosensitivity Mode"
+		/* Tooltip:
+			'''
+			Reduces or disables the brightness and/or flashiness of certain visual effects.
+			Also disables all screenshake effects.
+			Highly recommended if you are photosensitive.
+			''' */
+	}
+
+	RageMeterPosX: {
+		// Label: "[i:LaserRuler] Rage Meter X Position"
+		/* Tooltip:
+			'''
+			The X position of the Rage Meter, measured as a % of your screen width.
+			The meter can be dragged with the mouse if Lock Meter Positions is disabled.
+			''' */
+	}
+
+	RageMeterPosY: {
+		// Label: "[i:LaserRuler] Rage Meter Y Position"
+		/* Tooltip:
+			'''
+			The Y position of the Rage Meter, measured as a % of your screen height.
+			The meter can be dragged with the mouse if Lock Meter Positions is disabled.
+			''' */
+	}
+
+	RipperMeterShake: {
+		// Label: "[i:CalamityMod/RedLightningContainer] Rage and Adrenaline Meter Shake"
+		/* Tooltip:
+			'''
+			How much the Rage and Adrenaline Meters shake while in use.
+			Set to zero to disable the shaking entirely.
+			''' */
+	}
+
+	ScreenshakePower: {
+		// Label: "[i:CalamityMod/WavePounder] Screenshake Power"
+		/* Tooltip:
+			'''
+			How intense screen-shaking effects are.
+			Set to zero to disable screen-shaking entirely.
+			[c/FF232C:All screen-shake visuals are balanced around a value of 1.]
+			[c/FF232C:Higher values may be nauseating or otherwise bad for some.]
+			''' */
+	}
+
+	SetBonusDoubleTap: {
+		// Label: "[i:VortexHelmet] Allow Double Tap for Armor Set Bonuses"
+		// Tooltip: Allows all armor set bonuses to be triggered by the vanilla double-tap {$Key.DOWN} hotkey (or {$Key.UP} depending on your settings).
+	}
+
+	ShopNewAlert: {
+		// Label: "[i:GoldChest] New Shop Inventory Alerts"
+		// Tooltip: Adds an icon that appears over Town NPCs when they have new items in their shops.
+	}
+
+	SpeedrunTimer: {
+		// Label: "[i:Stopwatch] Display Speedrun Timer"
+		/* Tooltip:
+			'''
+			Enables an in-game speedrun timer which shows in-game time down to the millisecond.
+			A second line displays the time of your most recent boss kill.
+			The time is tracked per player and only counts time while loaded into a world.
+			''' */
+	}
+
+	SpeedrunTimerPosX: {
+		// Label: "[i:LaserRuler] Speedrun Timer X Position"
+		/* Tooltip:
+			'''
+			The X position of the Speedrun Timer, measured as a % of your screen width.
+			The meter can be dragged with the mouse if Lock Meter Positions is disabled.
+			''' */
+	}
+
+	SpeedrunTimerPosY: {
+		// Label: "[i:LaserRuler] Speedrun Timer Y Position"
+		/* Tooltip:
+			'''
+			The Y position of the Speedrun Timer, measured as a % of your screen height.
+			The meter can be dragged with the mouse if Lock Meter Positions is disabled.
+			''' */
+	}
+
+	StealthInvisibility: {
+		// Label: "[i:CalamityMod/StealthHairDye] Stealth Invisibility"
+		/* Tooltip:
+			'''
+			Enables players gradually turning invisible as their Rogue Stealth increases.
+			This effect is visually similar to Shroomite armor's stealth.
+			''' */
+	}
+
+	StealthMeter: {
+		// Label: "[i:CalamityMod/EclipseMirror] Display Stealth Meter"
+		/* Tooltip:
+			'''
+			Enables the Stealth Meter UI, which shows the player's current stealth level.
+			The Stealth Meter is always hidden if not wearing Rogue armor.
+			''' */
+	}
+
+	StealthMeterPosX: {
+		// Label: "[i:LaserRuler] Stealth Meter X Position"
+		/* Tooltip:
+			'''
+			The X position of the Stealth Meter, measured as a % of your screen width.
+			The meter can be dragged with the mouse if Lock Meter Positions is disabled.
+			''' */
+	}
+
+	StealthMeterPosY: {
+		// Label: "[i:LaserRuler] Stealth Meter Y Position"
+		/* Tooltip:
+			'''
+			The Y position of the Stealth Meter, measured as a % of your screen height.
+			The meter can be dragged with the mouse if Lock Meter Positions is disabled.
+			''' */
+	}
+
+	StutterFix: {
+		// Label: "[i:TrifoldMap] Enable Stutter Fix"
+		/* Tooltip:
+			'''
+			When enabled, upon entering a world, the entire world will be loaded at once.
+			This config causes Terraria to stop responding while the world is being loaded, do NOT close the game while this is occurring.
+			Once the game starts responding again, you will enter the world and be able to play without random stutters.
+			This config option is only recommended for players who can't stand random stutters while playing.
+			''' */
+	}
+
+	SulphuricWaterMeterPosX: {
+		// Label: "[i:LaserRuler] Sulphuric Water Poison Meter X Position"
+		/* Tooltip:
+			'''
+			The X position of the Sulphuric Water Poison Meter, measured as a % of your screen width.
+			The meter can be dragged with the mouse if Lock Meter Positions is disabled.
+			''' */
+	}
+
+	SulphuricWaterMeterPosY: {
+		// Label: "[i:LaserRuler] Sulphuric Water Poison Meter Y Position"
+		/* Tooltip:
+			'''
+			The Y position of the Sulphuric Water Poison Meter, measured as a % of your screen height.
+			The meter can be dragged with the mouse if Lock Meter Positions is disabled.
+			''' */
+	}
+
+	SunkenSeaBackgroundDistortion: {
+		// Label: "[i:CalamityMod/SeaRemains] Sunken Sea Background Distortion"
+		/* Tooltip:
+			'''
+			Whether or not the Sunken Sea's custom backgrounds should have an additional distortion shader applied to them.
+			This will give the illusion of underwater distortion.
+			[c/FF232C:Note that this will ONLY work if your "Wave Quality" setting is turned off.]
+			''' */
+	}
+
+	TextEffects: {
+		// Label: "[i:LeinforsAccessory] Extra Text Effects"
+		/* Tooltip:
+			'''
+			When enabled, certain Calamity rarities will display extra visual effects within item names.
+			Disable if reduced visual clutter is desired.
+			''' */
+	}
+
+	TileTextureBlendingQuality: {
+		// Label: "[i:GlowPaint] Tile Merge Soft Blending"
+		// Tooltip: Changes the quality of the soft-blending renderer used when different types of tiles merge together.
+	}
+
+	VanillaCooldownDisplay: {
+		// Label: "[i:HealingPotion] Display Vanilla Cooldowns"
+		/* Tooltip:
+			'''
+			Adds the vanilla effects Potion Sickness, Chaos State, and Holy Protection to the Cooldown Rack.
+			The debuffs will still appear in the buffs array, but this may help make them more visible.
+			''' */
+	}
+
+	VCMMStatusMessage: {
+		// Label: "[i:MusicBoxMartians] VCMM Status Message"
+		// Tooltip: Enable or disable the status message promoting the Vanilla Calamity Music Mod that plays on world entry.
+	}
+
+	WikiStatusMessage: {
+		// Label: "[i:Book] Wiki Status Message"
+		// Tooltip: Enable or disable the status message promoting the Official Calamity Wiki that plays on world entry.
+	}
+}
+
+CalamityServerConfig: {
+	// DisplayName: Server Config
+	// Denied: You have no permission to change this config
+
+	Headers: {
+		// ExpertMaster: Expert and Master Mode Changes
+		// Gameplay: General Gameplay Changes
+		// BaseBoosts: Base Stat Boosts
+	}
+
+	BossesStopWeather: {
+		// Label: "[i:CalamityMod/TorrentialTear] Bosses Stop Weather"
+		/* Tooltip:
+			'''
+			When enabled, many late game bosses will stop all rain and related weather when spawned.
+			Enable if you have performance issues during late game boss fights.
+			''' */
+	}
+
+	BossHealthBoost: {
+		// Label: "[i:LifeCrystal] Boss Health Boost Percentage"
+		/* Tooltip:
+			'''
+			Globally boosts the health of all bosses by the specified percentage.
+			This stacks with multiplayer boss health boosts.
+			Does not affect bosses that are already spawned.
+			''' */
+	}
+
+	DefaultDashEnabled: {
+		// Label: "[i:Tabi] Default Dash"
+		/* Tooltip:
+			'''
+			Gives the player a very weak dash by default that requires no equipment or items to use.
+			This dash will be replaced by any other available dash, including those from other mods.
+			''' */
+	}
+
+	BossZen: {
+		// Label: "[i:CalamityMod/ZenPotion] Bosses Drastically Reduce Spawn Rates"
+		/* Tooltip:
+			'''
+			All living bosses will drastically reduce the spawn rates of regular enemies.
+			This also prevents Slime Rain from occurring while a boss is alive.
+			Calamity is balanced around this setting being enabled.
+			''' */
+	}
+
+	ChilledWaterRework: {
+		// Label: "[i:ArcticDivingGear] Chilled Water Rework"
+		// Tooltip: When enabled, water in the Snow and Ice biomes will rapidly drain the player's breath instead of inflicting Chilled.
+	}
+
+	EarlyHardmodeProgressionRework: {
+		// Label: "[i:Pwnhammer] Early Hardmode Progression Rework"
+		/* Tooltip:
+			'''
+			Demon Altars no longer spawn ores when broken.
+			Wall of Flesh spawns Cobalt and Palladium ore on first kill.
+			The first mech boss you fight has 20% (10% in Expert and Master) less HP and damage and spawns Mythril and Orichalcum ore on first kill.
+			The second mech boss you fight has 10% (5% in Expert and Master) less HP and damage and spawns Adamantite and Titanium ore on first kill.
+			The third mech boss spawns Hallowed Ore on first kill.
+			''' */
+	}
+
+	FasterBaseSpeed: {
+		// Label: "[i:HermesBoots] Increase Base Movement Speed"
+		/* Tooltip:
+			'''
+			Increases the player's base movement speed substantially by always giving them +50% movement speed.
+			This setting does nothing if the mod Terraria Overhaul is loaded.
+			Calamity is balanced around this setting being enabled.
+			''' */
+	}
+
+	FasterRopeClimbSpeed: {
+		// Label: "[i:Rope] Increase Rope Climb Speed"
+		/* Tooltip:
+			'''
+			Increases the player's rope climb speed substantially by increasing acceleration and deceleration while on a rope.
+			Calamity is balanced around this setting being enabled.
+			''' */
+	}
+
+	FasterJumpSpeed: {
+		// Label: "[i:FrogLeg] Increase Base Jump Speed"
+		/* Tooltip:
+			'''
+			Slightly increases the player's base jump speed.
+			Calamity is balanced around this setting being enabled.
+			''' */
+	}
+
+	FasterTilePlacement: {
+		// Label: "[i:ArchitectGizmoPack] Increase Base Building Speed"
+		/* Tooltip:
+			'''
+			Substantially increases how rapidly the player can place tiles and walls.
+			This config stacks with the Brick Layer, Portable Cement Mixer and other accessories.
+			''' */
+	}
+
+	ForceTownSafety: {
+		// Label: "[i:Sunflower] Force Town Safety"
+		/* Tooltip:
+			'''
+			Counteracts Expert and Master Mode allowing enemies to spawn near towns by vastly decreasing spawn rates.
+			This can have unintended side effects such as making critters difficult to find.
+			''' */
+	}
+
+	NerfExpertDebuffs: {
+		// Label: "[i:AnkhCharm] Remove Increased Debuff Duration"
+		/* Tooltip:
+			'''
+			Disables Expert Mode doubling (and Master Mode tripling) the duration of debuffs on the player.
+			Calamity is balanced around this setting being enabled.
+			''' */
+	}
+
+	RemoveLavaDropsFromLavaSlimes: {
+		// Label: "[i:LavaWaders] Remove Lava Drops From Lava Slimes"
+		// Tooltip: When enabled, Lava Slimes will be prevented from dropping lava in Expert Mode.
+	}
+
+	RemoveReforgeRNG: {
+		// Label: "[i:TinHammer] Remove Reforge RNG"
+		/* Tooltip:
+			'''
+			Removes randomness from the Goblin Tinkerer's reforges for both weapons and accessories.
+			Disable this if using mods that change reforging on their own to prevent conflicts.
+			''' */
+	}
+
+	PlayerRespawnTime_BossAlive: {
+		// Label: "[i:Stopwatch] Boss Fight Player Respawn Time"
+		/* Tooltip:
+			'''
+			Sets the respawn time for players when a boss is alive, in seconds. This applies equally in single player and multiplayer.
+			When no boss is alive, players will respawn in 3 seconds in both single player and multiplayer.
+			''' */
+	}
+
+	SimplifyAccessoryReforge: {
+		// Label: "[i:Autohammer] Simplify Accessory Reforging"
+		/* Tooltip:
+			'''
+			Makes accessory reforging simpler by restricting options to the following prefixes:
+			          - Warding, Menacing, Lucky, Quick, Violent, Arcane, Silent, Invigorating, Dauntless
+			''' */
+	}
+
+	TownNPCSpawnRateMultiplier: {
+		// Label: "[i:GuideVoodooDoll] Town NPC Spawn Rate Multiplier"
+		/* Tooltip:
+			'''
+			Directly multiply the rate at which town NPCs spawn and respawn.
+			This reduces waiting times if a boss or event wipes your whole town.
+			''' */
+	}
+
+	TownNPCsSpawnAtNight: {
+		// Label: "[i:ClothierVoodooDoll] Town NPCs Spawn at Night"
+		/* Tooltip:
+			'''
+			When enabled, town NPCs can spawn and respawn at night.
+			This includes the Old Man.
+			''' */
+	}
+}
+
+CooldownDisplayOptions: {
+	// Tooltip: ""
+
+	Full: {
+		// Label: Full
+		// Tooltip: Displays a circular bar around an icon which indicates cooldown duration
+	}
+
+	Compact: {
+		// Label: Compact
+		// Tooltip: Displays a gradient over an icon which indicates cooldown duration
+	}
+
+	Hidden: {
+		// Label: Hidden
+		// Tooltip: ""
+	}
+}
+
+SetBonusDoubleTapOptions: {
+	// Tooltip: ""
+
+	On: {
+		// Label: Always On
+		// Tooltip: Always enables double-tap. Can be used in conjunction with Calamity's {$Keybinds.ArmorSetBonus.DisplayName} hotkey.
+	}
+
+	Auto: {
+		// Label: Auto
+		// Tooltip: Automatically turns off double-tap as long as Calamity's {$Keybinds.ArmorSetBonus.DisplayName} hotkey is bound.
+	}
+
+	Off: {
+		// Label: Always Off
+		// Tooltip: Always disables double-tap. Can be used to completely disable set bonus activation.
+	}
+}
+
+TileBlendingQuality: {
+	// Tooltip: ""
+
+	Disable: {
+		// Label: Disabled
+		// Tooltip: Tile texture soft blending is disabled.
+	}
+
+	Normal: {
+		// Label: Enabled
+		// Tooltip: Tile texture soft blending is enabled.
+	}
+
+	High: {
+		// Label: Enabled + Slices
+		/* Tooltip:
+			'''
+			Tile texture soft blending is enabled and uses sliced rendering.
+			[c/F05A5A:Not recommended for low-end devices.]
+			''' */
+	}
+}
