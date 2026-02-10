@@ -73,21 +73,6 @@ CoreofCalamity: {
 	Tooltip: ""
 }
 
-CoreofEleum: {
-	DisplayName: Сущность Элеума
-	Tooltip: ""
-}
-
-CoreofHavoc: {
-	DisplayName: Сущность Хаоса
-	Tooltip: ""
-}
-
-CoreofSunlight: {
-	DisplayName: Сущность Солнца
-	Tooltip: ""
-}
-
 CorrodedFossil: {
 	DisplayName: Протравленная Окаменелость
 	Tooltip: Она очень твердая
@@ -367,11 +352,11 @@ YharonSoulFragment: {
 }
 
 AnodizedWulfrumMetal: {
-	// DisplayName: Anodized Wulfrum Metal
-	// Tooltip: ""
+	DisplayName: Анодизированный Вульфрумовый Металл
+	Tooltip: ""
 }
 
 WillOWisp: {
-	// DisplayName: Will O Wisp
-	// Tooltip: ""
+	DisplayName: Блуждающий Огонёк
+	Tooltip: ""
 }

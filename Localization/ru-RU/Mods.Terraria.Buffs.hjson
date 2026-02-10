@@ -1,24 +1,24 @@
-// Venom.ItemTooltip: Sickness - 30 DPS
-// BetsysCurse.ItemTooltip: -40 defense
-// CursedInferno.ItemTooltip: Heat - 24 DPS
-// Frostburn2.ItemTooltip: Cold - 50 DPS
-// Frostburn.ItemTooltip: Cold - 8 DPS
-// OnFire3.ItemTooltip: Heat - 15 DPS
-// OnFire.ItemTooltip: Heat - 6 DPS
-// Ichor.ItemTooltip: -10 defense
-/* Oiled.ItemTooltip:
+Venom.ItemTooltip: Болезнь - 30 УВС
+BetsysCurse.ItemTooltip: -40 защиты
+CursedInferno.ItemTooltip: Огонь - 24 УВС
+Frostburn2.ItemTooltip: Холод - 50 УВС
+Frostburn.ItemTooltip: Холод - 8 УВС
+OnFire3.ItemTooltip: Огонь - 15 УВС
+OnFire.ItemTooltip: Огонь - 6 УВС
+Ichor.ItemTooltip: -10 защиты
+Oiled.ItemTooltip:
 	'''
-	Heat - 25 DPS. Recieves 2x the effect from Heat multipliers
-	Only does damage when paired with another Heat debuff
-	''' */
-// Poisoned.ItemTooltip: Sickness - 6 DPS
-// PotionSickness.ItemTooltip: ""
-// Slimed.ItemTooltip: Enhances Heat debuff damage
-// Wet.ItemTooltip: Enhances Electric debuff damage
-// Electrified.ItemTooltip: Electric - 10.5 DPS. Deals 4x damage to moving targets
-/* Honey.ItemTooltip:
+	Огонь - 25 УВС. Получает удвоенный эффект от множителей огня
+	Наносит урон только если присутствует другой эффект огня
 	'''
-	Increases health regeneration by 1 HP/s
-	Increases natural regeneration acceleration by 300%
-	Reduces damage taken from DoT debuffs by 2 HP/s
-	''' */
+Poisoned.ItemTooltip: Болезнь - 6 УВс
+PotionSickness.ItemTooltip: ""
+Slimed.ItemTooltip: Усиливает урон от эффектов огня
+Wet.ItemTooltip: Усиливает урон от эффектов Электричества
+Electrified.ItemTooltip: Электричество - 10.5 УВС. Наносит 4x урона движущимся противникам
+Honey.ItemTooltip:
+	'''
+	+1 ОЗ/с регенерации жизни
+	+300% ускорения естественной регенерации жизни
+	Уменьшает урон от эффектов с уроном на время на 2 ОЗ/с
+	'''

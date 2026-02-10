@@ -318,57 +318,57 @@ YinYoDark.DisplayName: Темный Осколок
 YinYoLight.DisplayName: Светлый Осколок
 RespiteblockHoldout.DisplayName: Спокойня
 RespiteblockBlood.DisplayName: Кровь Спокойни
-// BladecrestOathswordThrownBlade.DisplayName: Bladecrest Oathsword Thrown Blade
-// BurningHolyBlast.DisplayName: Profaned Blast
-// CosmicSpiritBomb.DisplayName: Cosmic Bomb
-// DeathsAscensionRift.DisplayName: Rift
-// DevilsDevastationThrownBlade.DisplayName: Devils Devastation Thrown Blade
-// DragoonBigBolt.DisplayName: Dragoon Lightning
-// DragoonSmallBolt.DisplayName: Dragoon Bolt
-// EarthBoom.DisplayName: Earth's Judgement
-// EarthMeteor.DisplayName: Gaia Meteor
-// EarthenTides.DisplayName: Earthen Tides
-// EarthenTidesBeam.DisplayName: Earthen Projection
-// EarthenTidesBlast.DisplayName: Earthen Tides Blast
-// EarthenTidesBlastSpawner.DisplayName: Blast Spawner
-// EarthenTidesShockwave.DisplayName: Earthen Tides Shockwave
-// ExaltedOathbladeThrownBlade.DisplayName: Exalted Oathblade Thrown Blade
-// MawOfInfinityHoldout.DisplayName: Maw of Infinity
-// MawOfInfinityJaws.DisplayName: Divinity Devourer
-// FallenExplosionSmall.DisplayName: Fallen Hammer Blast
-// ForbiddenOathbladeThrownBlade.DisplayName: Forbidden Oathblade Thrown Blade
-// GalileoGladiusThrown.DisplayName: Galileo Gladius (Thrown)
-// GrandGuardianBoom.DisplayName: Cosmic Burst
-// GildedProboscisProj.DisplayName: Gilded Proboscis
-// HeavensMonolith.DisplayName: Heaven's Monolith
-// LightspeedDashHitbox.DisplayName: Lightspeed Rupture
-// LightspeedHoldout.DisplayName: Lightspeed
-// LightspeedM1Hitbox.DisplayName: Lightspeed Stab
-// LucreciaBolt.DisplayName: Lucrecia Bolt
-// LucreciaDNATrailCreator.DisplayName: Darklight Comet Trail
-// LucreciaHoldout.DisplayName: Lucrecia
-// MantisClawHoldout.DisplayName: Mantis Claw
-// MantisClawJet.DisplayName: Mantis Claw Jet
-// MantisClawSlash.DisplayName: Mantis Claw Slash
-// MirrorBladeProjectile.DisplayName: Mirror Blade
-// MirrorBladeSlash.DisplayName: Mirror Blade Slash
-// MirrorBladeSlashCreator.DisplayName: Mirror Blade Slash Creator
-// MutilatorSwordProj.DisplayName: The Mutilator
-// OrderbringerWaveProj.DisplayName: Order-bringing Wave
-// PhoenixsPrideFirewall.DisplayName: Phoenix's Pride Flame Pillar
-// PrismaticMagicCircle.DisplayName: Magic Circle
-// PrismaticRay.DisplayName: Prismatic Master Spark
-// PureClarity.DisplayName: Pure Clarity
-// RemsRevengeExplosion.DisplayName: Blood Explosion
-// ScorcherExplosion.DisplayName: Scorching Crystal Blast
-// ScorpiusConstellation.DisplayName: Scorpius Constellation
-// SeekingScorcherProj.DisplayName: Scorching Seeker
-// StarofJudgement.DisplayName: Star of Judgement
-// StarofOrder.DisplayName: Star of Order
-// StellarStrikerMeteor.DisplayName: Stellar Striker Meteor
-// SwordsmithsPrideAstralBomber.DisplayName: Swordsmith's Astral Bomber
-// SwordsmithsPrideAstralEnergy.DisplayName: Swordsmith's Astral Energy
-// SwordsmithsPrideMonolith.DisplayName: Swordsmiths Pride Monolith
-// TriactisHammerExplosion.DisplayName: The Great Collapse
-// TriactisHammerFlare.DisplayName: Prismatic Light Flare
-// TruePureClarity.DisplayName: Pure Clarity
+BladecrestOathswordThrownBlade.DisplayName: Брошенный Меч Клятвенного Меча Гребня Лезвий
+BurningHolyBlast.DisplayName: Взрыв Скверны
+CosmicSpiritBomb.DisplayName: Космическая Бомба
+DeathsAscensionRift.DisplayName: Разрыв
+DevilsDevastationThrownBlade.DisplayName: Брошенный Меч Дьявольского Разрушения
+DragoonBigBolt.DisplayName: Молния Драгуна
+DragoonSmallBolt.DisplayName: Сгусток Драгуна
+EarthBoom.DisplayName: Суждение Земли
+EarthMeteor.DisplayName: Метеорит Гайи
+EarthenTides.DisplayName: Тектонические Волны
+EarthenTidesBeam.DisplayName: Тектоническая Проекция
+EarthenTidesBlast.DisplayName: Взрыв Тектонических Волн
+EarthenTidesBlastSpawner.DisplayName: Спавнер Взрывов
+EarthenTidesShockwave.DisplayName: Ударная Волна Тектонических Волн
+ExaltedOathbladeThrownBlade.DisplayName: Брошенный Меч Величественного Клятвенного Меча
+MawOfInfinityHoldout.DisplayName: Челюсти Бесконечности
+MawOfInfinityJaws.DisplayName: Пожиратель Святости
+FallenExplosionSmall.DisplayName: Взрыв Падшего Молота
+ForbiddenOathbladeThrownBlade.DisplayName: Брошенный Меч Запретного Клятвенного Меча
+GalileoGladiusThrown.DisplayName: Гладиус Галилео (Брошенный)
+GrandGuardianBoom.DisplayName: Космический Всплеск
+GildedProboscisProj.DisplayName: Золотой Хоботок
+HeavensMonolith.DisplayName: Монолит Небес
+LightspeedDashHitbox.DisplayName: Разрыв Световой Скорости
+LightspeedHoldout.DisplayName: Световая Скорость
+LightspeedM1Hitbox.DisplayName: Укол Световой Скорости
+LucreciaBolt.DisplayName: Сгусток Люкрекции
+LucreciaDNATrailCreator.DisplayName: След Кометы Темного Света
+LucreciaHoldout.DisplayName: Люкреция
+MantisClawHoldout.DisplayName: Клешня Рака-Богомола
+MantisClawJet.DisplayName: Струя Клешни Рака-Богомола
+MantisClawSlash.DisplayName: Взмах Клешни Рака-Богомола
+MirrorBladeProjectile.DisplayName: Зеркальный Меч
+MirrorBladeSlash.DisplayName: Взмах Зеркального Меча
+MirrorBladeSlashCreator.DisplayName: Спавнер Взмахов Зеркального Меча
+MutilatorSwordProj.DisplayName: Калечатель
+OrderbringerWaveProj.DisplayName: Вершащая Порядок Волна
+PhoenixsPrideFirewall.DisplayName: Огненная Башня Гордости Феникса
+PrismaticMagicCircle.DisplayName: Магический Круг
+PrismaticRay.DisplayName: Главная Призматическая Искра
+PureClarity.DisplayName: Непорочная Чистота
+RemsRevengeExplosion.DisplayName: Взрыв Крови
+ScorcherExplosion.DisplayName: Обжигающий Кристаллический Взрыв
+ScorpiusConstellation.DisplayName: Созвездие Скорпиона
+SeekingScorcherProj.DisplayName: Преследующий Выжигатель
+StarofJudgement.DisplayName: Звезда Правосудия
+StarofOrder.DisplayName: Звезда Порядка
+StellarStrikerMeteor.DisplayName: Метеорит Звездного Ударника
+SwordsmithsPrideAstralBomber.DisplayName: Астральный Бомбардировщик Мечника
+SwordsmithsPrideAstralEnergy.DisplayName: Астральная Энергия Мечника
+SwordsmithsPrideMonolith.DisplayName: Монолит Гордости Мечника
+TriactisHammerExplosion.DisplayName: Большой Коллапс
+TriactisHammerFlare.DisplayName: Призматическая Вспышка Света
+TruePureClarity.DisplayName: Непорочная Чистота

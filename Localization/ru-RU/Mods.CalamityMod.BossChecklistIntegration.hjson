@@ -162,14 +162,14 @@ Polterghast: {
 }
 
 ProfanedGuardians: {
-	EntryName: Скверные Защитники
+	EntryName: Защитники Скверны
 	SpawnInfo: Используйте [i:CalamityMod/ProfanedShard] в Освящении или в Преисподней.
-	DespawnMessage: "[c/FFA500:Защитники были возвращены обратно к своей Богине.]"
+	DespawnMessage: "[c/FFA500:Защитники были отозваны обратно к своей Богине.]"
 }
 
 Providence: {
 	SpawnInfo: Используйте [i:CalamityMod/ProfanedCore] в Освящении или в Преисподней.
-	DespawnMessage: "[c/FFA500:Скверная Богиня укрылась очищающим огнем, оставив лишь только пепел...]"
+	DespawnMessage: "[c/FFA500:Богиня Скверны укрылась очищающим огнем, оставив лишь только пепел...]"
 }
 
 Ravager: {

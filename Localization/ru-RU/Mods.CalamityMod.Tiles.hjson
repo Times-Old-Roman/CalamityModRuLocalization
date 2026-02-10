@@ -58,5 +58,5 @@ AstralChestLocked: {
 }
 
 PlaguedPlateBed.MapEntry: "'Кровать'"
-// BaroqueCello: Baroque Cello
-// Jukebox: Jukebox
+BaroqueCello: Барокко Виолончель
+Jukebox: Магнитофон

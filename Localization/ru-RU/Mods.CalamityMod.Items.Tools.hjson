@@ -22,8 +22,8 @@ AxeofPurity: {
 	DisplayName: Топор Чистоты
 	Tooltip:
 		'''
-		Нажмите ЛКМ, чтобы использовать, как инструмент
-		Нажмите ПКМ, чтобы очищать мир от зла
+		Нажмите <left>, чтобы использовать, как инструмент
+		Нажмите <right>, чтобы очищать мир от зла
 		'''
 }
 
@@ -46,11 +46,8 @@ BobbitHook: {
 	DisplayName: Крюк-Червь Боббита
 	Tooltip:
 		'''
-		Дистанция: 40 фут
-		Скорость Запуска: 25 фут/сек
-		Скорость Возвращения: 28 фут/сек
-		Скорость Притяжения: 24 фут/сек
-		Сокращается после цепляния за блок с экстремальной скоростью
+		Если цепляется за блок, то сокращается с экстремальной скоростью
+		{$Common.GrappleStats}
 		'''
 }
 
@@ -68,8 +65,10 @@ Cosmolight: {
 	DisplayName: Космический Свет
 	Tooltip:
 		'''
-		Передвигает время до следующего рассвета, полдня, заката или полночи.
-		Не работает во время битвы с босом
+		Затерянный артефакт, вновь зажженный под воздействием чистейшим космически энергиям
+		Удерживайте <left>, чтобы сильно ускорить течение дня и ночи
+		Нажмите <right>, чтобы заморозить течение дня и ночи навсегда
+		Заморозка времени длится бесконечно и работает во время небесных аномалий
 		'''
 }
 
@@ -88,13 +87,13 @@ CrystylCrusher: {
 	Tooltip:
 		'''
 		Зажмите <right>, чтобы создать луч, который разрушает практически все
-		'Надо копать, надо идти глубже'
+		'Примитивное оружие из стародавней эры...'
 		'''
 }
 
 FellerofEvergreens: {
 	DisplayName: Хвойный Лесоруб
-	Tooltip: ""
+	Tooltip: Иногда выбивает дополнительные фрукты, если потрясти им дерево
 }
 
 Gelpick: {
@@ -104,7 +103,7 @@ Gelpick: {
 
 GenesisPickaxe: {
 	DisplayName: Кирка Генезиса
-	Tooltip: Может копать уэлицветовую руду
+	Tooltip: "{$Common.CanMineUelibloom}"
 }
 
 Grax: {
@@ -135,7 +134,7 @@ MarniteDeconstructor: {
 	Tooltip:
 		'''
 		Его двигатель генерирует лучи жесткого света, способные выкапывать стены с далекой дистанции
-		Игнорирует 10 защиты
+		{$Common.ArmorPenetration}
 		'''
 }
 
@@ -144,7 +143,7 @@ MarniteObliterator: {
 	Tooltip:
 		'''
 		Использует алмазную линзу, чтобы проецировать копающий луч света на далекой дистанции
-		Игнорирует 5 защиты
+		{$Common.ArmorPenetration}
 		'''
 }
 
@@ -212,232 +211,232 @@ WulfrumTreasurePinger: {
 }
 
 AcidwoodAxe: {
-	// DisplayName: Acidwood Axe
-	// Tooltip: ""
+	DisplayName: Топор из Кислотного Дерева
+	Tooltip: ""
 }
 
 AcidwoodHammer: {
-	// DisplayName: Acidwood Hammer
-	// Tooltip: ""
+	DisplayName: Молот из Кислотного Дерева
+	Tooltip: ""
 }
 
 AcidwoodPickaxe: {
-	// DisplayName: Acidwood Pickaxe
-	// Tooltip: ""
+	DisplayName: Кирка из Кислотного Дерева
+	Tooltip: ""
 }
 
 AntiCystOintment: {
-	// DisplayName: Anti-Cyst Ointment
-	/* Tooltip:
+	DisplayName: Противокистозная Мазь
+	Tooltip:
 		'''
-		Toggle this item to prevent hive cysts from spawning near you
-		Press <right> to toggle
+		Включите этот предмет, чтобы предотвратить появление кист улья рядом с вами
+		Нажмите <right>, чтобы переключить
 		[STATE]
-		''' */
+		'''
 }
 
 AntiTumorOintment: {
-	// DisplayName: Anti-Tumor Ointment
-	/* Tooltip:
+	DisplayName: Противоопухолевая Мазь
+	Tooltip:
 		'''
-		Toggle this item to prevent hive tumors from spawning near you
-		Press <right> to toggle
+		Включите этот предмет, чтобы предотвратить появление опухолей улья рядом с вами
+		Нажмите <right>, чтобы переключить
 		[STATE]
-		''' */
-}
-
-Bakidon: {
-	// DisplayName: Bakidon
-	/* Tooltip:
 		'''
-		A lost artifact said to pin the heavens in place
-		<left> to freeze the passage of day and night temporarily
-		This does not work during celestial anomalies
-		The time freeze recharges while not in use
-		''' */
 }
 
 BallAndChain: {
-	// DisplayName: Ball and Chain
-	/* Tooltip:
+	DisplayName: Оковы
+	Tooltip:
 		'''
-		Toggle this item to disable any dashes granted by equipment
-		<right> to toggle
+		Переключите этот предмет, чтобы отключить любые рывки
+		Нажмите <right>, чтобы переключить
 		[STATE]
-		'So heavy...'
-		''' */
-	// This is "backwards" because enabling this disables dashes
-	// TooltipEnabled: Dashes are currently disabled
-	// TooltipDisabled: Dashes are currently enabled
+		'Так тяжело...'
+		'''
+	TooltipEnabled: Рывки отключены
+	TooltipDisabled: Рывки включены
+}
+
+Bakidon: {
+	DisplayName: Бакидон
+	Tooltip:
+		'''
+		Затерянный артефакт, который, по слухам, закреплял небеса на месте
+		Нажмите <left>, чтобы на время остановить движение дня и ночи
+		Это не работает во время небесных аномалий
+		Заморозка времени пассивно восстанавливается, пока не используется
+		'''
 }
 
 BleachBall: {
-	// DisplayName: Bleach Ball
-	/* Tooltip:
+	DisplayName: Щелочная Пена
+	Tooltip:
 		'''
-		Toggle this item to prevent Aquatic Scourge from spawning
-		Press <right> to toggle
+		Включите этот предмет, чтобы предотвратить появление Водного Бича рядом с вами
+		Нажмите <right>, чтобы переключить
 		[STATE]
-		''' */
-}
-
-BrimstoneLocus: {
-	// DisplayName: Brimstone Locus
-	/* Tooltip:
 		'''
-		[c/C61B40:'Not only can I enhance your equipment with potent magic,]
-		[c/C61B40:I can also transcend some of your weaponry to entirely new forms.]
-		[c/C61B40:Such items are revealed while this item is in your inventory.']
-		''' */
 }
 
 BrokenWaterFilter: {
-	// DisplayName: Broken Water Filter
-	/* Tooltip:
+	DisplayName: Сломаный Водяной Фильтр
+	Tooltip:
 		'''
-		Toggle this item to prevent Acid Rain from occurring
-		Press <right> to toggle
+		Включите этот предмет, чтобы предотвратить появление Кислотного Дождя
+		Нажмите <right>, чтобы переключить
 		[STATE]
-		''' */
-}
-
-DisgustingMeat: {
-	// DisplayName: Disgusting Meat
-	/* Tooltip:
 		'''
-		<left> will remove health and mana upgrades, use with no Calamity upgrades to remove vanilla upgrades
-		<right> will remove rage and adrenaline upgrades, plus other miscellaneous boosters
-		Removed boosters will be vomited out of you as items
-		''' */
-}
-
-DriftwoodAxe: {
-	// DisplayName: Driftwood Axe
-	// Tooltip: Improved efficiency while you are wet
-}
-
-DriftwoodHammer: {
-	// DisplayName: Driftwood Hammer
-	// Tooltip: Improved efficiency while you are wet
-}
-
-DriftwoodPickaxe: {
-	// DisplayName: Driftwood Pickaxe
-	// Tooltip: Improved efficiency while you are wet
-}
-
-MomentumCapacitor: {
-	// DisplayName: Momentum Capacitor
-	// GFBName: Burden Breaker
-	// Tooltip: "[GFB]"
-	/* TooltipNormal:
-		'''
-		While using the Momentum Capacitor,
-		your top speed will continuously and uncontrollably increase
-		This effect only works if there are no bosses alive
-		''' */
-	/* TooltipGFB:
-		'''
-		The good time
-		Go fast
-		WARNING: May have disastrous results
-		Only works if there are no bosses alive
-		''' */
-}
-
-MonolithAxe: {
-	// DisplayName: Monolith Axe
-	// Tooltip: ""
-}
-
-MonolithHammer: {
-	// DisplayName: Monolith Hammer
-	// Tooltip: ""
-}
-
-MonolithPickaxe: {
-	// DisplayName: Monolith Pickaxe
-	// Tooltip: ""
-}
-
-NormalityRelocator: {
-	// DisplayName: Normality Relocator
-	/* Tooltip:
-		'''
-		Press [KEY] to teleport to the position of the mouse
-		Fall speed is doubled for 0.5 seconds after teleporting
-		Teleportation is disabled while Chaos State is active
-		Works while in the inventory
-		'I'll be there in the blink of an eye'
-		''' */
-}
-
-RelicOfConvergence: {
-	// DisplayName: Relic of Convergence
-	/* Tooltip:
-		'''
-		Creates a profaned crystal at the cursor that channels a healing aura before shattering
-		All players within the area of effect are healed for {0} HP
-		Allies gain 50% extra healing
-		Holding out the crystal reduces the damage of all summons, decreases defense, and increases incoming damage
-		[c/FF8C00:Never once had I known kindness. Neither my peers or family had a shred of compassion for me.]
-		[c/FF8C00:I wished for someone I could confide. A presence that cleansed me of anxiety.]
-		[c/FF8C00:And when I saw Her radiant smile when we met, I knew I had finally found it.]
-		''' */
-}
-
-RelicOfResilience: {
-	// DisplayName: Relic of Resilience
-	/* Tooltip:
-		'''
-		Holding this item creates orbiting rock shards around you and nearby allies
-		While they orbit you, your minimum defense is set to 150 and minimum damage reduction to 10%
-		Taking a hit or pressing <right> will pull in the shards, then blast them outward, crippling hit enemies
-		This effect has a 10 second cooldown after taking a hit
-		Holding out the shield heavily reduces the damage of all summons while rocks are active, only for you
-		[c/FF8C00:I saw a massacre and did nothing to stop it. My vow broken, I was shunned.]
-		[c/FF8C00:My will to forge ahead vanished. My final wish was simply to not die alone.]
-		[c/FF8C00:But when She put faith in my shield, I would never again let it falter.]
-		''' */
 }
 
 SirenproofEarMuffs: {
-	// DisplayName: Sirenproof Earmuffs
-	/* Tooltip:
+	DisplayName: Сиреноупорные Наушники
+	Tooltip:
 		'''
-		Toggle this item to prevent Anahita from spawning
-		Press <right> to toggle
+		Включите этот предмет, чтобы предотвратить появление Анахиты рядом с вами
+		Нажмите <right>, чтобы переключить
 		[STATE]
-		''' */
-}
-
-SulphurousSeaWorldSideChanger: {
-	// DisplayName: Sulphurous Sea World Side Changer
-	/* Tooltip:
 		'''
-		Spawn and use this if your regular ocean counts as a Sulphurous Sea
-		This will also fix the Abyss if it is broken
-		''' */
-}
-
-SuperDummy: {
-	// DisplayName: Super Dummy
-	/* Tooltip:
-		'''
-		Creates a super dummy
-		Regenerates 1 million life per second
-		Will not die when taking damage over time from debuffs
-		<right> to kill all super dummies
-		Can only spawn 50 super dummies at once
-		''' */
 }
 
 VoodooDemonVoodooDoll: {
-	// DisplayName: Voodoo Demon Voodoo Doll
-	/* Tooltip:
+	DisplayName: Кукла Вуду Вуду-Демона
+	Tooltip:
 		'''
-		Toggle this item to prevent voodoo demons from spawning near you
-		Press <right> to toggle
+		Включите этот предмет, чтобы предотвратить появление вуду-демонов рядом с вами
+		Нажмите <right>, чтобы переключить
 		[STATE]
-		''' */
+		'''
+}
+
+BrimstoneLocus: {
+	DisplayName: Серное Сплетение
+	Tooltip:
+		'''
+		[c/C61B40:'Я могу не только улучшить твое оружие могучей магией,]
+		[c/C61B40:но и возвысить некоторые вещи в совсем новые формы.]
+		[c/C61B40:Такие кандидаты будут подсвечиваться, пока этот предмет находится у тебя в инвентаре.']
+		'''
+}
+
+DisgustingMeat: {
+	DisplayName: Disgusting Meat
+	Tooltip:
+		'''
+		Нажмите <left>, чтобы удалить все улучшения здоровья и маны, а если использовать без улучшений Calamity, то оно удалит и ванильныеupgrades
+		Нажмите <right>, чтобы удалить улучшения буйства и адреналина, а также другие различные улучшения
+		Удаленные улучшения будут выплюнуты из вас в форме предметов
+		'''
+}
+
+DriftwoodAxe: {
+	DisplayName: Топор из Дрейфового Дерева
+	Tooltip: Увеличенная эффективность, пока вы мокрые
+}
+
+DriftwoodHammer: {
+	DisplayName: Молот из Дрейфового Дерева
+	Tooltip: Увеличенная эффективность, пока вы мокрые
+}
+
+DriftwoodPickaxe: {
+	DisplayName: Кирка из Дрейфового Дерева
+	Tooltip: Увеличенная эффективность, пока вы мокрые
+}
+
+MomentumCapacitor: {
+	DisplayName: Конденсатор Импульса
+	GFBName: Пролом Бремени
+	Tooltip: "[GFB]"
+	TooltipNormal:
+		'''
+		Пока вы используете Конденсатор Импульса, ваша максимальная скорость будет непрерывно и бесконтрольно расти
+		Этот эффект не работает, если есть активный босс
+		'''
+	TooltipGFB:
+		'''
+		Весела
+		Быстра
+		ПРЕДУПРЕЖДЕНИЕ: Может иметь катастрофические последствия
+		Этот эффект не работает, если есть активный босс
+		'''
+}
+
+MonolithAxe: {
+	DisplayName: Топор из Монолита
+	Tooltip: ""
+}
+
+MonolithHammer: {
+	DisplayName: Молот из Монолита
+	Tooltip: ""
+}
+
+MonolithPickaxe: {
+	DisplayName: Кирка из Монолита
+	Tooltip: ""
+}
+
+
+NormalityRelocator: {
+	DisplayName: Релокатор Нормального Состояния
+	Tooltip:
+		'''
+		Нажмите [KEY], чтобы телепортироваться на положение курсора
+		На 0.5 секунд после телепортации скорость падения удваивается
+		Если активно Состояние Хаоса, то телепортация отключена
+		Состояние Хаоса накладывается на большее время, чем от Жезла Раздора
+		Работает, если находится в инвентаре
+		'Я приду туда в мгновение ока'
+		'''
+}
+
+RelicOfConvergence: {
+	DisplayName:Реликвия Конвергенции
+	Tooltip:
+		'''
+		Создает кристалл скверны на курсоре, который призывает лечащую ауру перед тем, как расколоться
+		Все игроки в области эффекта излечены на {0} ОЗ
+		Союзники получают +50% лечения
+		Удерживание кристалла уменьшает урон всех призванных существ, уменьшает защиту и увеличивает входящий урон
+		[c/FF8C00:Я никогда в моей жизни не знал доброты. Ни мои сверстники, ни семья не проявляла ни капли сострадания ко мне.]
+		[c/FF8C00:Я лишь хотел, чтобы со мной был кто-то, кому я бы мог доверить. Присутствие, которое бы избавило меня от этой мучительной тревоги.]
+		[c/FF8C00:И когда я узрел Её лучащуюся улыбку на нашей первой встрече, я понял, что я наконец нашел, чего желал.]
+		'''
+}
+
+RelicOfResilience: {
+	DisplayName: Реликвия Стойкости
+	Tooltip:
+		'''
+		Удерживая этот предмет вы призываете вращающиеся осколки камней вокруг вас и союзников
+		Пока они вращаются вокруг вас, ваша минимальная защита установлена на 150, а минимальное уменьшение входящего урона - на 10%
+		Получение удара или нажатие <right> притянет осколки, а затем выстрелит ими вперед, калеча врагов
+		У этого эффекта есть 10 секундная перезарядка после получения урона
+		Удерживая щит, вы сильно уменьшите урон призванных существ, пока активны камни, но только для себя
+		[c/FF8C00:Я увидела, как разражалась резня, но ничего так и не сделала, чтобы остановить её. Моя клятва была сломана, я была изгнана.]
+		[c/FF8C00:Моё желание идти вперед исчезло. Моё последнее желание было просто не умереть одной.]
+		[c/FF8C00:Но когда Она возложила Свою веру на меня и мой щит, я дала слово, что я не дам ей затухнуть.]
+		'''
+}
+
+SulphurousSeaWorldSideChanger: {
+	DisplayName: Изменятель Стороны Мира с Серным Морем
+	Tooltip:
+		'''
+		Заспавните и используйте это, если каким-то образом ваш обычный океан считается Серным морем
+		Это также должно пофиксить Бездну, если она сломана
+		'''
+}
+
+SuperDummy: {
+	DisplayName: Супер-Манекен
+	Tooltip:
+		'''
+		Создает супер-манекен
+		Регенерирует 1 млн. ОЗ/с
+		Не умирает от наносящих урон эффектов
+		Нажмите <right>, чтобы уничтожить все супер-манекены
+		Можно призвать вплоть до 50 супер-манекенов
+		'''
 }

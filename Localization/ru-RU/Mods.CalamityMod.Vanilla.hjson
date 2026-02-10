@@ -13,7 +13,7 @@ BuffDescription: {
 	WeaponImbueNanites: Атаки в ближнем бою, кнуты и метательное оружие запутывают противников
 	WeaponImbuePoison: Атаки в ближнем бою, кнуты и метательное оружие отравляют противников
 	WeaponImbueVenom: Атаки в ближнем бою, кнуты и метательное оружие поражают ядом ваших противников
-	// Rabies: Decreased life regen, Causes status effects
+	Rabies: Уменьшенная регенерация жизни, провоцируются различные эффекты
 }
 
 // Vanilla NPC dialogues added by Calamity
@@ -43,7 +43,7 @@ CyborgChat: {
 
 DemolitionistChat: {
 	DoGDefeated: Динамит Богоубийцы? Черт, а звучит хорошо, мне нравится!
-	// MentionSkynamite: Tired of blowing your legs off with dynamite? Not my problem, but if you aren't fond of it you could try throwing them into a Sky Mill to see if they fly.
+	MentionSkynamite: Устали подрывать себе ноги своим же динамитом? Не мои проблемы, но если тебя это волнует, то можешь закинуть пару палок в Небесную Мельницу, чтобы заставить их летать.
 }
 
 DryadChat: {
@@ -85,7 +85,7 @@ MechanicChat: {
 	MoonLordDefeated: В смысле, вам своих ловушек не хватает? Не смотрите так на меня!
 	Eclipse: Эээм... может ночник стоит включить?
 	AcidRain: Возможно мне стоило гидроизолировать свои механизмы... Они начинают корродировать.
-	// HasPortalGun: Just what is that contraption? It makes my Teleporters look like child's play!
+	HasPortalGun: Да что это за портальная штука такая? Мои телепортаторы кажутся детской игрушкой, по сравнению с ней
 }
 
 MerchantChat: {
@@ -167,7 +167,7 @@ TaxCollectorChat: {
 TruffleChat.Normal: Я не чувствую себя в особой безопасности; Мне кажется, тут свиньи преследуют меня, и это очень страшно.
 
 WitchDoctorChat: {
-	BloodMoon: Мой совет - сейчас идеальное время собирать самые лучшие ингредиенты для зелий.
+	BloodMoon: Мой совет - сейчас такое же хорошее время для сбора самых лучших ингредиентов для зелий, как и в любой другой момент.
 	PrePlantera: Я, помню, ведал о некоторых поселенцах, которые пытались создать монстра для защиты своей деревни. Хмм, может быть, их магия вам пригодится?
 	Jungle: Ох, бывает интересно, как поживают мои братья и сестры... В последний раз они были очень заняты восхвалением... Солнца, вроде.
 }
@@ -177,250 +177,308 @@ WizardChat: {
 	MentionRoD: Я как-то видывал в Освящении розовые телепортирующиеся призраки. Если вы дадите мне дом неподалеку от них, то, я думаю, я смогу направить их магию в особый посох для вас.
 }
 
-// DashKey: Press {0} while facing a direction
-/* DodgeInfo:
+DashKey: Нажмите {0}, пока идете в какую-т сторону
+DodgeInfo:
 	'''
-	Grants the ability to dodge attacks
-	Attacks that deal less than 5% of your max life in damage will not be dodged
-	The dodge has a cooldown that ranges between {0} and {1} seconds depending on the dodged attack's damage
-	The cooldown is shared with all other dodges and reflects
-	''' */
+	Позволяет уклоняться от атак
+	Атаки, которые наносят менее 5% от максимального здоровья не спровоцируют уклонение
+	Уклонение имеет перезарядку, которая варьируется от {0} до {1} секунд, в зависимости от урона атаки, от которой вы уклонились
+	Перезарядка - общая, между всеми источниками уклонений и отражений
+	'''
 
 AddedTooltip: {
 	/*
 	Accessories
 	*/
-	// TitanGloveLine: 10% increased true melee damage
-	// YoyoGlove: Secondary yoyos will do 50% less damage
+	TitanGloveLine: +10% урона в истинном ближнем бою
+	YoyoGlove: Вторичные йо-йо наносят на 50% меньше урона
 	// Also used by Sniper Scope
-	// EyeoftheGolem: 15% increased critical strike damage
-	// RifleScope: The scope effect can be toggled with visibility
-	// ArcaneFlower: 5% increased magic damage
-	/* HellfireTreads:
+	EyeoftheGolem: +15% шанса критического удара
+	RifleScope: Эффект прицела можно отключить видимостью аксессуара
+	ArcaneFlower: +5% магического урона
+	HellfireTreads:
 		'''
-		50% increased Heat debuff damage, does not stack with downgrades
-		All attacks inflict Hellfire
-		''' */
-	/* FairyBoots:
+		+50% урона от эффектов огня, не складывается с более слабыми версяими
+		Все атаки накладывают Адское Пламя
 		'''
-		Fairies can spawn at any time on the surface and spawn far more frequently
-		Nearby fairies grant +2 HP/s life regen, 6 defense and 10% movement speed
-		Fairies are immune to damage and will no longer flee
-		''' */
-	// FleshKnucklesLine: Max life increased by 25
-	// HandWarmer: Provides a regeneration boost while wearing the Snow armor
+	FairyBoots:
+		'''
+		Феи теперь появляются более часто и в любое время на поверхности
+		Ближайшие феи дают +2 ОЗ/с регенерации жизни, +10 защиты и +10% скорости движения
+		Феи иммунны к урону и больше не сбегают
+		'''
+	FleshKnucklesLine: +25 ОЗ
+	HandWarmer: Усиливает регенерацию жизни, пока на вас надета Снежная Броня
 	/*
 	Others
 	*/
-	/* TruffleWorm:
+	TruffleWorm:
 		'''
-		Summons Duke Fishron if used as bait in the Ocean
-		Enrages outside the Ocean
-		''' */
-	// SlimeGun: Slimed enemies take more damage from fire-based debuffs
-	// RodofDiscord: Teleportation is disabled while Chaos State is active
-	/* Pwnhammer:
+		Призывает Герцога Рыбокрыла, если использовать в качестве наживки в Океане
+		Входит в ярость вне Океана
+		''' 
+	SlimeGun: Облитые слизью противники получают больше урона от эффектов огня
+	RodofDiscord: Телепортация отключена во время действия Состояния Хаоса
+	Pwnhammer:
 		'''
-		Demon Altars now drop Souls of Night instead of generating ores when destroyed
-		Hardmode ores now generate after defeating Mechanical Bosses for the first time
-		''' */
+		Теперь Демонические Алтари оставляют Эссенции Ночи при разрушении, вместо того, чтобы генерировать руды
+		Хардмодные руды теперь генерируются после первой победы над Механическими Боссоми
+		'''
 	// Life Drain
-	/* SoulDrain:
+	SoulDrain:
 		'''
-		This grants +1.5 HP/s life regen and accelerates natural life regen
-		Life drain stacks based on the number of enemies being hit
-		''' */
-	// GoldenFishingRod: Its fishing line will never break
-	/* Tombstones:
+		Дарует +1.5 ОЗ/с регенерации жизни и ускоряет естественную регенерацию жизни
+		Сила эффекта зависит от количества пораженных противников
 		'''
-		13 of any tombstone turns the surrounding area into a graveyard
-		Graveyards have various new item sales and recipes
-		''' */
-	// FeatherfallPotion: Disables all airborne flight recovery
-	// CrimsonArmorPieces: +0.5 HP/s life regen
-	// Picksaw: Can mine Scoria Ore located in the Abyss
+	GoldenFishingRod: Её леска никогда не сорвется
+	Tombstones:
+		'''
+		13 любых надгробий превращают область вокруг них в кладбище
+		Кладбища имеют уникальные рецепты и товары в магазинах
+		'''
+	FeatherfallPotion: Отключает восстановление полета, пока вы находитесь в воздухе
+	CrimsonArmorPieces: +0.5 ОЗ/с регенерации жизни
+	Picksaw: Может копать Скорию, которая расположена в Бездне
 }
 
 PrefixTooltip: {
-	/* ArcaneBuffStat:
+	ArcaneBuffStat:
 		'''
-		+{0} max mana
-		+{1}% magic damage
-		-{2}% mana cost
-		''' */
-	// ArmorPenStat: +{0} armor penetration
-	// CritStat: +{0}% critical strike chance
-	// DamageStat: +{0}% damage
-	// DefenseStat: +{0} defense
-	// DRStat: +{0}% damage reduction
-	// LuckStat: +{0} luck
-	// MeleeSpeedStat: +{0}% melee speed
-	// SpeedStat: +{0}% movement speed
+		+{0} маны
+		+{1}% магического урона
+		-{2}% потребления маны
+		'''
+	ArmorPenStat: +{0} пробития брони
+	CritStat: +{0}% шанса критического удара
+	DamageStat: +{0}% урона
+	DefenseStat: +{0} защиты
+	DRStat: +{0}% уменьшения входящего урона
+	LuckStat: +{0} удачи
+	MeleeSpeedStat: +{0}% скорости атаки в ближнем бою
+	SpeedStat: +{0}% скорости движения
 }
 
 EditedTooltip: {
 	/*
 	Boss Summons
 	*/
-	/* Abeemination:
+	Abeemination:
 		'''
-		Summons the Queen Bee when used in the Jungle
-		Enrages outside the Underground Jungle
-		''' */
-	/* BloodySpine:
+		Призывает Королеву Пчел, если использовать в Подземных Джунглях
+		Входит в ярость вне Подземных Джунглей
+		''' 
+	BloodySpine:
 		'''
-		Summons the Brain of Cthulhu when used in the Crimson
-		Despawns outside the Crimson
-		''' */
-	/* ClothierVoodooDoll:
+		Призывает Мозг Ктулху, если использовать в Подземном Багрянце
+	Входит в ярость вне Подземного Багрянца
 		'''
-		While equipped, summons Skeletron when the Clothier is killed during nighttime
-		Enrages during the day
-		'You are a terrible person'
-		''' */
-	// DeerThing: Summons Deerclops when used in the Snow or Ice biome
-	/* GuideVoodooDoll:
+	ClothierVoodooDoll:
 		'''
-		Summons the Wall of Flesh if thrown into lava in the underworld while the Guide is alive
-		'You are a terrible person'
-		''' */
-	/* LihzahrdPowerCell:
+		Пока экипировано: призывает Скелетрона, если убить Портного ночью
+		Входит в ярость днем
+		'Ты ужасный человек'
 		'''
-		Summons the Golem when used at the Lihzahrd Altar
-		Enrages outside the Jungle Temple
-		''' */
-	// MechanicalEye: Summons The Twins when used during nighttime
-	/* MechanicalSkull:
+	DeerThing: Призывает Циклопа-Оленя, если использовать в Тундре
+	GuideVoodooDoll:
 		'''
-		Summons Skeletron Prime when used during nighttime
-		Enrages during the day
-		''' */
-	// MechanicalWorm: Summons The Destroyer when used during nighttime
-	// QueenSlimeCrystal: Summons Queen Slime when used in the Hallow
-	// SuspiciousLookingEye: Summons the Eye of Cthulhu when used during nighttime
-	/* WormFood:
+		Призывает Стену Плоти, если бросить в лаву, пока Гид жив
+		'Ты ужасный человек'
 		'''
-		Summons the Eater of Worlds when used in the Corruption
-		Despawns outside the Corruption
-		''' */
+	LihzahrdPowerCell:
+		'''
+		Призывает Голема, если использовать на Алтаре Ящщеров
+		Приходит в ярость вне Храма Джунглей
+		'''
+	MechanicalEye: Призывает Близнецов, если использовать ночью
+	MechanicalSkull:
+		'''
+		Призывает Скелетрона Прайм, если использовать ночью
+		Приходит в ярость днем
+		'''
+	MechanicalWorm: Призывает Разрушителя, если использовать ночью
+	QueenSlimeCrystal: Призывает Королеву Слизней, если использовать в Освящении
+	SuspiciousLookingEye: Призывает Глаз Ктулху, если использовать ночью
+	WormFood:
+		'''
+		Призывает Пожирателя Миров, если использовать в Подземном Искажении
+		Входит в ярость вне Подземном Искажении
+		'''
 	/*
 	Life Regen
 	*/
-	// Campfires: Life regen is increased by 0.5 HP/s when near a campfire
-	// HeartLantern: Grants +1 HP/s life regeneration when placed nearby
-	/* BottledHoney:
+	Campfires: Дарует +0.5 ОЗ/с регенерации жизни, пока вы находитесь поблизости
+	HeartLantern: Дарует +1 ОЗ/с регенерации жизни, пока вы находитесь поблизости
+	BottledHoney:
 		'''
-		Grants +1 HP/s life regen for a short time
-		Grants an additional +1 HP/s life regen while inflicted with a damaging debuff
-		''' */
-	// ShinyStone: Grants +2 HP/s life regen and accelerates natural life regen when not moving
-	// BandofRegeneration: Grants +1 HP/s life regeneration
-	// CharmofMyths: Grants +1 HP/s life regeneration and reduces the cooldown of healing potions by 25%
-	// RegenerationPotion: Provides +2 HP/s life regeneration
-	// HamBat: Defeating enemies temporarily grants +3 HP/s life regen
+		Кратковременно дарует +1 ОЗ/с регенерации жизни
+		Дает еще +1 ОЗ/с регенерации жизни, пока вы подвержены наносящему урон отрицательному эффекту
+		'''
+	ShinyStone: Дарует +2 ОЗ/с регенерации жизни и ускоряет естественную регенерацию жизни, пока вы не двигаетесь
+	BandofRegeneration: Дарует +1 ОЗ/с регенерации жизни
+	CharmofMyths:
+		'''
+		Дарует +1 ОЗ/с регенерации жизни
+		-25% времени перезарядки лечащих зелий
+		'''
+	RegenerationPotion: Дарует +2 ОЗ/с регенерации жизни"
+	HamBat: Кратковременно дает +3 ОЗ/с регенерации жизни при убийстве противника
 	// Vital Crystal
-	// AegisCrystal: Permanently boosts natural life regeneration
+	AegisCrystal: Навсегда ускоряет естественную регенерацию жизни
 	/*
 	OOA armors
 	*/
-	// ApprenticeHat: Increases your max number of sentries by 1, 10% reduced mana cost
-	// ApprenticeRobe: 15% increased summon damage and magic damage
-	// ApprenticeTrousers: 10% increased summon damage, 15% increased magic critical strike chance, 20% increased movement speed
-	// SquireGreatHelm: Increases your max number of sentries by 1 and grants +2 HP/s life regen
-	// SquireGreaves: 10% increased summon damage, 15% increased melee critical strike chance and movement speed
-	// MonkBrows: Increases your max number of sentries by 1 and increases rogue velocity by 15%
-	// MonkShirt: 15% increased summon and rogue damage
-	// MonkPants: 15% increased rogue critical strike chance and 20% increased movement speed
+	ApprenticeHat:
+		'''
+		+1 слот стража
+		-10% потребление маны
+		'''
+	ApprenticeRobe:
+		'''
+		+15% урона призванных существ
+		+15% урона магией
+		'''
+	ApprenticeTrousers:
+		'''
+		+10% урона призванных существ
+		+15% шанса критического удара магией
+		+20% скорости движения
+		'''
+	SquireGreatHelm:
+		'''
+		+1 слот стража
+		+2 ОЗ/с регенерации жизни
+		'''
+	SquireGreaves:
+		'''
+		+10% урона призванных существ
+		+15% шанса критического удара в ближнем бою
+		+15% скорости движения
+		'''
+	MonkBrows:
+		'''
+		+1 слот стража
+		+15% скорости полета метательного оружия
+		'''
+	MonkShirt:
+		'''
+		+15% урона призванных существ
+		+15% урона метательным урожием
+		'''
+	MonkPants:
+		'''
+		+15% шанса критического удара в ближнем бою
+		+20% скорости движения
+		'''
 	// Valhalla Knight
-	// SquireAltShirt: 30% increased summon damage and grants +4 HP/s life regen
+	SquireAltShirt:
+		'''
+		+30% урона призванных существ
+		+4 ОЗ/с регенерации жизни
+		'''
 	// Shinobi Infiltrator
-	// MonkAltHead: Increases your max number of sentries by 2 and increases summon & rogue damage by 20%
-	// MonkAltShirt0: 20% increased summon damage and rogue velocity
-	// MonkAltShirt1: 5% increased rogue critical strike chance
-	// MonkAltPants: 10% increased summon damage and rogue critical strike chance
+	MonkAltHead:
+		'''
+		+2 слота стража
+		+20% урона призванных существ
+		+20% урона метательным оружием
+		'''
+	MonkAltShirt0:
+		'''
+		+20% урона призванных существ
+		+20% скорости полета метательным оружием
+		'''
+	MonkAltShirt1:
+		'''
+		+5% шанса критического удара метательным оружием
+		'''
+	MonkAltPants:
+		'''
+		+10% урона призванных существ
+		+10% шанса критического удара метательным оружием
+		'''
 	/*
 	Accessories
 	*/
-	// SunMoonStones: critical strike chance, life regeneration,
-	// CelestialStoneShell: Minor increase to damage,
-	// PowerGlove: 10% increased melee speed, does not stack with downgrades
-	// BerserkerGlove: 10% increased true melee damage
-	/* MechanicalGlove:
+	SunMoonStones: шанс критического удара, регенерацию жизни,
+	CelestialStoneShell: Малое увеличение урона,
+	PowerGlove: +10% скорости атаки в ближнем бою, не складывается с более слабыми версяими
+	BerserkerGlove: +10% урона в истинном ближнем бою
+	MechanicalGlove:
 		'''
-		12% increased melee damage
-		12% increased melee speed, does not stack with downgrades
-		''' */
-	// FireGauntlet1: Increases melee knockback and melee attacks inflict Hellfire
-	/* FireGauntlet2:
+		+12% урона в ближнем бою
+		+12% скорости атаки в ближнем бою, не складывается с более слабыми версяими
 		'''
-		14% increased melee damage
-		14% increased melee speed, does not stack with downgrades
-		''' */
-	// MoltenQuiver: Lights wooden arrows ablaze and all arrows inflict Hellfire
-	// RifleScope1: Increase view range for guns (<right> to zoom out)
-	// RifleScope2: The scope effect can be toggled with visibility
-	// SniperScope: 12% increased ranged critical strike chance
-	/* Magiluminescence:
+	FireGauntlet1: Увеличивает отбрасывание в ближнем бою, а атаки накладывают Адское Пламя
+	FireGauntlet2:
 		'''
-		Increases movement acceleration and deceleration by 1.75x
-		Increases movement speed by 1.15x. This bonus applies to running boot accessories
-		''' */
-	// FrogLeg: Increases jump speed by {0}% and allows auto-jump
+		+14% урона в ближнем бою
+		+14% скорости атаки в ближнем бою, не складывается с более слабыми версяими
+		'''
+	MoltenQuiver:Деревянные стрелы поджигаются и все стрелы накладывают Адское Пламя
+	RifleScope1: Увеличивает дальность обзора для огнестрельного оружия (<right>, чтобы отдалить)
+	RifleScope2: Эффект прицела можно отключить видимостью аксессуара
+	SniperScope: +12% шанса критического удара в дальнем бою
+	Magiluminescence:
+		'''
+		1.75x ускорения и замедления движения
+		1.15x скорости движения, причем этот бонус применяется и к ускорению ботинков
+		'''
+	FrogLeg: +{0}% скорости прыжка и позвояет совершать авто-прыжок
 	// Soaring Insignia
-	// EmpressFlightBooster1: Increases wing flight time by 33%
-	// EmpressFlightBooster2: Increases movement speed by 7.5%, jump speed by 10%, and acceleration by 1.25x
-	/* GravityGlobe:
+	EmpressFlightBooster1: +33% времени полета крыльев
+	EmpressFlightBooster2: +7.5% скорости движения, +10% скорости прыжка, 1.25x ускорения
+	GravityGlobe:
 		'''
-		Provides 32% increased jump speed and increased fall speed
-		Provides a gravitational boost jump, which recharges whenever gravity is flipped
-		Slightly improves wingless air movement speed
-		Press {$Key.UP} to change gravity
-		Press {$Key.DOWN} to fall faster
-		''' */
-	/* FlameWakerBoots:
+		+32% скорости прыжка и увеличивает скорость падения
+		Дарует гравитационно-усиленный прыжок, который перезаряжается при смене гравитации
+		Слегка улучшает скорость движения в воздухе без крыльев
+		Нажмите {$Key.UP}, чтобы сменить гравитацию
+		Нажмите {$Key.DOWN}, чтобы ускорить падение
 		'''
-		25% increased Heat debuff damage
-		All attacks light enemies on fire
-		'Never get cold feet again'
-		''' */
+	FlameWakerBoots:
+		'''
+		+25% урона от эффектов огня
+		Все атаки зажигают противников
+		'Теперь-то ноги точно не проморозишь'
+		'''
 	/*
 	Armor
 	*/
-	// MagicHat: 6% increased magic critical strike chance
-	// Gi: 10% increased movement and jump speed
-	// SolarFlarePieces: Grants +1 HP/s life regeneration
+	MagicHat: +6% шанса критического удара магией
+	Gi: +10% скорости движения и прыжка
+	SolarFlarePieces: +1 ОЗ/с регенерации жизни
 	/*
 	Potions
 	*/
-	// ArcheryPotion: 5% increased arrow damage and 20% increased arrow speed
-	/* AleSake:
+	ArcheryPotion: +5% урона стрел и +20% скорости полета стрел
+	AleSake:
 		'''
-		Increases melee weapon scale by 15%, but decreases melee speed by 10%
-		Counts as an alcohol for Alcohol Poisoning
+		+15% размера оружия в ближнем бою, но -10% скорости атаки
+		Считается за алкоголь для эффекта "Алкогольного Отравления"
 		{$Common.AlcoholWarning}
-		''' */
-	// FlaskofCursedFlames: Melee, Whip, and Rogue attacks inflict enemies with cursed flames
-	// FlaskofFire: Melee, Whip, and Rogue attacks set enemies on fire
-	// FlaskofGold: Melee, Whip, and Rogue attacks make enemies drop more gold
-	// FlaskofIchor: Melee, Whip, and Rogue attacks decrease enemies defense
-	// FlaskofNanites: Melee, Whip, and Rogue attacks confuse enemies
-	// FlaskofParty: All attacks cause confetti to appear
-	// FlaskofPoison: Melee, Whip, and Rogue attacks poison enemies
-	// FlaskofVenom: Melee, Whip, and Rogue attacks inflict Acid Venom on enemies
+		'''
+	FlaskofCursedFlames: Атаки в ближнем бою, кнутами или метательным оружием опаляют врагов Проклятым Пламенем
+	FlaskofFire: Атаки в ближнем бою, кнутами или метательным оружием поджигают противников
+	FlaskofGold: Атаки в ближнем бою, кнутами или метательным оружием выбивают монеты из противников
+	FlaskofIchor: Атаки в ближнем бою, кнутами или метательным оружием снижают защиту противника
+	FlaskofNanites: Атаки в ближнем бою, кнутами или метательным оружием запутывают противника
+	FlaskofParty: Все атаки разбрасывают конфетти
+	FlaskofPoison: Атаки в ближнем бою, кнутами или метательным оружием отравляют противника
+	FlaskofVenom: Атаки в ближнем бою, кнутами или метательным оружием отравляют противника Кислотным Ядом
 	/*
 	Others
 	*/
 	// Aerial Bane
-	// DD2BetsyBow: Shoots a tight spread of 6 splitting arrows
-	// GoldPickaxe: Can mine Demonite, Crimtane, Meteorite, Sea Prisms, and Sea Prism Crystals
-	// MasterExclusive: Master or Revengeance
+	DD2BetsyBow: Стреляет кучной россыпью из 6 расщепляющихся стрел
+	GoldPickaxe: Может копать демонит, багротан, метеорит, морские призмы и кристаллы морской призмы
+	MasterExclusive: Режим Мастера или «Месть»
 	// Sparkle Slime Balloon
-	/* GelBalloon:
+	GelBalloon:
 		'''
-		Throws a mixture of slime and sparkling crystals
-		Slimed enemies take more damage from fire-based debuffs
-		''' */
+		Бросьте микстуру из слизи и мерцающих кристаллов
+		Противники, облитые слизью, получают больше больше урона от эффектов огня
+		'''
 	// Ancient Manipulator
-	// LunarCraftingStation: Used to craft items from Lunar Fragments, Luminite, and Astral Bars
-	// AnkhShield: Grants immunity to most debuffs, including Mighty Wind
+	LunarCraftingStation: Используется, чтобы делать вещи из Лунных Фрагментов, Люминита и Астральных Слитков
+	AnkhShield: Дарует иммунитет к большинству эффектов, включая Могучий Ветер
 }

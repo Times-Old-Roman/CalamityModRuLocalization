@@ -2,20 +2,22 @@ AstralBreastplate: {
 	DisplayName: Астральный Нагрудник
 	Tooltip:
 		'''
-		+80 максимальной маны и +20 максимального здоровья
-		Детекция существ
+		{$CommonItemTooltip.IncreasesMaxManaBy}
+		{$CommonItemTooltip.PercentIncreasedDamage@1}
+		{$CommonItemTooltip.PercentChanceToSaveAmmo@2}
 		'''
 }
 
 AstralHelm: {
 	DisplayName: Астральный Шлем
-	Tooltip: Детекция Опасностей
+	Tooltip: "{$CommonItemTooltip.PercentIncreasedDamage} и {$CommonItemTooltip.PercentIncreasedCritChance@1}"
 	SetBonus:
 		'''
-		+5% скорости движения и +3 слотов призванных существ
-		+35% урона и +25% шанса критического удара
+		{$CommonItemTooltip.IncreasesMaxMinionsBy}
+		{$CommonItemTooltip.PercentIncreasedDamageCritChance@1}
+		Отмечает ближайших противников, вражеских снарядов, источников опасностей и сокровищ
 		Критические удары обрушают лавину из звезд
-		У этого эффекта 1 секундная перезарядка
+		У этого эффекта {2} секундная перезарядка
 		'''
 }
 
@@ -23,8 +25,8 @@ AstralLeggings: {
 	DisplayName: Астральные Поножи
 	Tooltip:
 		'''
-		+10% скорости движения
-		Детекция сокровищ и руд
+		{$CommonItemTooltip.PercentIncreasedDamage}
+		{$CommonItemTooltip.PercentIncreasedMovementSpeed@1}
 		'''
 }
 
@@ -32,70 +34,60 @@ BrimflameBoots: {
 	DisplayName: Ботинки Серного Пламени
 	Tooltip:
 		'''
-		+5% магического урона
-		+5% скорости движения
+		{$CommonItemTooltip.PercentIncreasedMagicDamage}
+		{$CommonItemTooltip.PercentIncreasedMovementSpeed@1}
+		'''
+}
+
+BrimflameCowl: {
+	DisplayName: Капюшон и Маска Серного Пламени
+	Tooltip:
+		'''
+		{$CommonItemTooltip.IncreasesMaxManaBy} и {$CommonItemTooltip.PercentReducedManaCost@1}
+		{$CommonItemTooltip.PercentIncreasedMagicDamageCritChance@2}
+		Иммунитет к следующим эффектам: [cbuff:OnFire], [cbuff:CalamityMod/BrimstoneFlames] и[cbuff:Frostburn]
+		'''
+	SetBonus:
+		'''
+		{$CommonItemTooltip.PercentIncreasedMagicDamageCritChance}
+		[c/{1}:Безумие Пламени Серы - {2} чтобы получить {$CommonItemTooltip.PercentIncreasedMagicDamage@4} на {3} {^3:секунду;секунды;секунд}]
+		[c/FF9173:Однако, за этот бонус вы быстро теряете здоровье и не восстанавливаете ману]
+		[c/FF9173:Это можно отключить, однако Безумие Пламени Серы имеет {5} секундную перезарядку]
 		'''
 }
 
 BrimflameRobes: {
 	DisplayName: Роба Серного Пламени
-	Tooltip: +5% магического урона и шанса критического удара магией
-}
-
-BrimflameScowl: {
-	DisplayName: Капюшон и Маска Серного Пламени
-	Tooltip:
-		'''
-		+5% магического урона и шанса критического удара магией
-		+70 максимальной маны и -10% потребления маны
-		Иммунитет к Горению, Пламени Серы и Ледяному Ожогу
-		'''
-	SetBonus:
-		'''
-		+15% магического урона и шанса критического удара магией
-		Нажмите {0}, чтобы активировать Безумие Пламени Серы
-		Пока этот эффект активен - вы получаете +40% магического урона
-		Однако, за этот бонус вы быстро теряете здоровье и не восстанавливаете ману
-		Это можно отключить, однако Безумие Пламени Серы имеет 30 секундную перезарядку
-		'''
+	Tooltip: "{$CommonItemTooltip.PercentIncreasedMagicDamageCritChance}"
 }
 
 DaedalusBreastplate: {
 	DisplayName: Нагрудник Дедала
-	Tooltip: +3% урона и шанса критического удара
+	Tooltip: "{$CommonItemTooltip.PercentIncreasedDamage}"
 }
 
 DaedalusHeadMagic: {
 	DisplayName: Капюшон Дедала
 	Tooltip:
 		'''
-		+13% магического урона и +7% шанса критического удара магией
-		-10% потребления маны и +60 максимальной маны
+		{$CommonItemTooltip.IncreasesMaxManaBy} и {$CommonItemTooltip.PercentReducedManaCost@1}
+		{$CommonItemTooltip.PercentIncreasedMagicDamage@2} и {$CommonItemTooltip.PercentIncreasedMagicCritChance@3}
 		'''
-	SetBonus:
-		'''
-		+5% магического урона
-		У вас есть 10% шанс поглотить физические атаки и снаряды, которые бы нанесли вам урон
-		Если вы поглотите атаку, то излечитесь на половину ее урона
-		'''
+	SetBonus: У вас есть {0}% шанс излечиться на {1}% от полученного урона
 }
 
 DaedalusHeadMelee: {
 	DisplayName: Шлем Дедала
 	Tooltip:
 		'''
-		+15% урона в ближнем бою
-		+10% шанса критического удара в ближнем бою
+		{$CommonItemTooltip.PercentIncreasedMeleeDamageCritChance}
+		{$CommonItemTooltip.PercentIncreasedMeleeSpeed@1}
 		'''
 	SetBonus:
 		'''
-		+10% скорости атаки в ближнем бою
-		Противники будут предпочитать атаковать вас
-		Вы отражаете снаряды обратно в противников
-		Отраженные снаряды наносят на 50% меньше урона
-		Снаряды с уроном, меньшим 5% вашего максимального здоровья, не будут отражаться
-		Отражение имеет перезарядку от 15 до 90 секунд, в зависимости от урона отраженного снаряда
-		Эта перезарядка - общая между всеми источниками уворотов и отражений
+		{$Common.AggroBoost}
+		Вы отражаете снаряды назад в противников, проигнорировав урон
+		{$Common.ReflectInformation}
 		'''
 }
 
@@ -103,38 +95,38 @@ DaedalusHeadRanged: {
 	DisplayName: Наголовник Дедала
 	Tooltip:
 		'''
-		+13% урона в дальнем бою и +7% шанса критического удара в дальнем бою
-		+20% шанс не использовать боеприпас
+		{$CommonItemTooltip.PercentIncreasedRangedDamage} и {$CommonItemTooltip.PercentIncreasedRangedCritChance@1}
+		{$CommonItemTooltip.PercentChanceToSaveAmmo@2}
 		'''
-	SetBonus:
-		'''
-		+5% урона в дальнем бою
-		При получении урона, вы выпускаете взрыв осколков кристаллов
-		'''
+	SetBonus: При получении урона, вы выпускаете взрыв осколков кристаллов
 }
 
 DaedalusHeadRogue: {
 	DisplayName: Защитная Маска Дедала
 	Tooltip:
 		'''
-		+13% метательного урона и +7% шанса критического удара метанием
-		+15% скорости полета метательного оружия и +5% скорости движения
+		{$Common.RogueDamage} и {$Common.RogueCrit@1}
+		{$Common.RogueVelocity@2} и {$CommonItemTooltip.PercentIncreasedMovementSpeed@3}
 		'''
 	SetBonus:
 		'''
-		+5% метательного урона
-		+105 максимальной скрытности
+		{$Common.RogueStealth}
 		Метательные снаряды осыпают противников осколками кристаллов во время полета
 		'''
 }
 
 DaedalusHeadSummon: {
 	DisplayName: Ритуальная Маска Дедала
-	Tooltip: +5% урона призванных существ
+	Tooltip:
+		'''
+		{$CommonItemTooltip.IncreasesMaxMinionsBy}
+		{$CommonItemTooltip.PercentIncreasedSummonDamage@1}
+		'''
 	SetBonus:
 		'''
-		+20% урона призванных существ и +2 слотов призванных существ
-		Призывается кристалл Дедала, который будет защищать вас
+		{$CommonItemTooltip.IncreasesMaxMinionsBy}
+		{$CommonItemTooltip.PercentIncreasedSummonDamage@1}
+		Над вами парит кристалл Дедала, который будет защищать вас
 		'''
 }
 
@@ -142,8 +134,8 @@ DaedalusLeggings: {
 	DisplayName: Поножи Дедала
 	Tooltip:
 		'''
-		+3% шанса критического удара
-		+10% скорости движения
+		{$CommonItemTooltip.PercentIncreasedCritChance}
+		{$CommonItemTooltip.PercentIncreasedMovementSpeed@1}
 		'''
 }
 
@@ -151,9 +143,9 @@ FathomSwarmerBoots: {
 	DisplayName: Поножи Глубинного Роевика
 	Tooltip:
 		'''
-		+8% урона призванных существ
+		{$CommonItemTooltip.PercentIncreasedSummonDamage}
 		Дает способность плавать
-		+40% скорости движения, пока вы находитесь в жидкости
+		{$CommonItemTooltip.PercentIncreasedMovementSpeed@1}, пока вы находитесь в жидкости
 		'''
 }
 
@@ -161,9 +153,8 @@ FathomSwarmerBreastplate: {
 	DisplayName: Нагрудник Глубинного Роевика
 	Tooltip:
 		'''
-		+6% уменьшения входящего урона
-		+1 слот призванных существ
-		+10% урона призванных существ
+		{$CommonItemTooltip.IncreasesMaxMinionsBy}
+		{$CommonItemTooltip.PercentIncreasedSummonDamage@1}
 		Ослабляет потерю защиты в Бездне
 		'''
 }
@@ -172,15 +163,17 @@ FathomSwarmerVisage: {
 	DisplayName: Лик Глубинного Роевика
 	Tooltip:
 		'''
-		+1 слот призванных существ
-		+8% урона призванных существ
+		{$CommonItemTooltip.IncreasesMaxMinionsBy}
+		{$CommonItemTooltip.PercentIncreasedSummonDamage@1}
 		Дает дыхание и свечение под водой
+		Сильно улучшает видимость в Бездне
 		'''
 	SetBonus:
 		'''
-		+10% урона призванных существ и +2 слотов призванных существ
+		{$CommonItemTooltip.IncreasesMaxMinionsBy}
+		{$CommonItemTooltip.PercentIncreasedSummonDamage@1}
 		Дает способность карабкаться по стенам
-		+20% урона призванных существ, +10 защиты и +2.5 ОЗ/с регенерации жизни, пока вы под водой
+		{$CommonItemTooltip.PercentIncreasedSummonDamage@2}, +10 защиты и +4 ОЗ/с регенерации жизни, пока вы под водой
 		Умеренно замедляет потерю воздуха в Бездне
 		Дает умеренное количество света в Бездне
 		'''
@@ -188,14 +181,15 @@ FathomSwarmerVisage: {
 
 ForbiddenCirclet: {
 	DisplayName: Запретный Венец
-	Tooltip: +10% урона призванных существ и +15% скорости полета метательного оружия
+	Tooltip: "{$CommonItemTooltip.PercentIncreasedSummonDamage} и {$Common.RogueVelocity@1}"
 	SetBonus:
 		'''
-		+40 максимальной скрытности
-		Нажмите {0}, чтобы создать древнюю бурю на позиции курсора
-		Древняя буря стоит {1} маны и получает бонус как от усилений призывательного оружия, так и от метательного
-		Скрытые удары метателя призывают наводящихся пожирателей при попадании
-		Атаки метательным и призывательным оружием будут улучшаться от характеристики с наибольшим усилением
+		{$Common.RogueStealth}
+		Нажмите {1}, чтобы создать древнюю бурю на позиции курсора
+		Древняя буря стоит {2} маны и получает бонус как от усилений призывательного оружия, так и от метательного
+		Скрытые удары метателя будут метить противников, призывая наводящихся пожирателей при попадании
+		Использование призывательного оружия больше не сбрасывает скрытность
+		Призванные существа больше не получают штраф на урон при использовании метательного оружия
 		'''
 }
 
@@ -203,12 +197,12 @@ HydrothermicArmor: {
 	DisplayName: Гидротермальная Броня
 	Tooltip:
 		'''
-		+20 максимального здоровья
-		+8% урона и +4% шанса критического удара
+		{$CommonItemTooltip.PercentIncreasedDamage}
+		Дарует иммунитет к лаве и эффекту "[cbuff:OnFire]"
 		'''
 	CommonSetBonus:
 		'''
-		Эффект Инферно, когда у вас менее 50% здоровья
+		Эффект Инферно, когда у вас менее {0}% здоровья
 		При получении урона, вы создаете пылающий взрыв
 		'''
 }
@@ -217,13 +211,13 @@ HydrothermicHeadMagic: {
 	DisplayName: Гидротермальная Маска
 	Tooltip:
 		'''
-		+12% магического урона, +100 максимальной маны и +10% шанса критического удара магией
-		Дарует иммунитет к огню и лаве
+		{$CommonItemTooltip.IncreasesMaxManaBy} и {$CommonItemTooltip.PercentReducedManaCost@1}
+		{$CommonItemTooltip.PercentIncreasedMagicDamage@2} и {$CommonItemTooltip.PercentIncreasedMagicCritChance@3}
 		'''
 	SetBonus:
 		'''
-		+5% магического урона и -15% потребления маны
 		Магические атаки призывают наносящие урон и лечащие вас огни
+		{$HydrothermicArmor.CommonSetBonus}
 		'''
 }
 
@@ -231,15 +225,14 @@ HydrothermicHeadMelee: {
 	DisplayName: Гидротермальный Шлем
 	Tooltip:
 		'''
-		+17% урона в ближнем бою и +10% шанса критического удара в ближнем бою
-		Атаки и снаряды ближнего боя объяты огнем
-		Дарует иммунитет к огню и лаве
+		{$CommonItemTooltip.PercentIncreasedMeleeDamage} и {$CommonItemTooltip.PercentIncreasedMeleeCritChance@1}
+		{$CommonItemTooltip.PercentIncreasedMeleeSpeed@2}
 		'''
 	SetBonus:
 		'''
-		+15% скорости атаки в ближнем бою
-		Противники будут предпочитать атаковать вас
+		{$Common.AggroBoost}
 		Атаки и снаряды ближнего боя создают извержения хаотического огня при попадании
+		{$HydrothermicArmor.CommonSetBonus}
 		'''
 }
 
@@ -247,14 +240,13 @@ HydrothermicHeadRanged: {
 	DisplayName: Гидротермальный Наголовник
 	Tooltip:
 		'''
-		+12% урона в дальнем бою и +10% шанса критического удара в дальнем бою
-		-25% потребления амуниции
-		Дарует иммунитет к огню и лаве
+		{$CommonItemTooltip.PercentIncreasedRangedDamage} и {$CommonItemTooltip.PercentIncreasedRangedCritChance@1}
+		{$CommonItemTooltip.PercentChanceToSaveAmmo@2}
 		'''
 	SetBonus:
 		'''
-		+5% урона в дальнем бою
-		Используя оружие дальнего боя, каждые 0.33 секунды вы выстреливаете наводящейся вспышкой хаотического огня
+		Используя оружие дальнего боя, каждые {0} секунды вы выстреливаете наводящейся вспышкой хаотического огня
+		{$HydrothermicArmor.CommonSetBonus@1}
 		'''
 }
 
@@ -262,15 +254,14 @@ HydrothermicHeadRogue: {
 	DisplayName: Гидротермальный Капюшон
 	Tooltip:
 		'''
-		+12% метательного урона и +10% шанса критического удара метанием
-		+50% шанс не использовать метательное оружие и +5% скорости движения
-		Дарует иммунитет к огню и лаве
+		{$Common.RogueDamage} и {$Common.RogueCrit@1}
+		{$CommonItemTooltip.PercentIncreasedMovementSpeed@2}
 		'''
 	SetBonus:
 		'''
-		+5% метательного урона
-		+110 максимальной скрытности
-		Метательное оружие выпускает вокруг игрока натиск наводящегося хаотического огня каждые 2 секунды
+		{$Common.RogueStealth}
+		Метательное оружие выпускает вокруг игрока натиск наводящегося хаотического огня каждые {1} секунды
+		{$HydrothermicArmor.CommonSetBonus@2}
 		'''
 }
 
@@ -278,14 +269,15 @@ HydrothermicHeadSummon: {
 	DisplayName: Гидротермальный Ритуальный Шлем
 	Tooltip:
 		'''
-		+5% урона призванных существ
-		Увеличивается отдача призванных существ
-		Дарует иммунитет к огню и лаве
+		{$CommonItemTooltip.IncreasesMaxMinionsBy}
+		{$CommonItemTooltip.PercentIncreasedSummonDamage@1}
 		'''
 	SetBonus:
 		'''
-		+40% урона призванных существ и +2 слотов призванных существ
+		{$CommonItemTooltip.IncreasesMaxMinionsBy}
+		{$CommonItemTooltip.PercentIncreasedSummonDamage@1}
 		Призывает гидротермальный источник, который будет защищать вас
+		{$HydrothermicArmor.CommonSetBonus@2
 		'''
 }
 
@@ -293,8 +285,8 @@ HydrothermicSubligar: {
 	DisplayName: Гидротермальные Поножи
 	Tooltip:
 		'''
-		+5% шанса критического удара
-		+10% скорости движения
+		{$CommonItemTooltip.PercentIncreasedCritChance}
+		{$CommonItemTooltip.PercentIncreasedMovementSpeed@1}
 		'''
 }
 
@@ -302,9 +294,8 @@ LunicCorpsBoots: {
 	DisplayName: Ботинки Лунного Отряда
 	Tooltip:
 		'''
-		+15% скорости движения
-		+4% шанса критического удара в дальнем бою
-		+10% скорости движения и ускорения
+		{$CommonItemTooltip.PercentIncreasedRangedCritChance}
+		+{1}% скорости движения и ускорения
 		'''
 }
 
@@ -312,30 +303,27 @@ LunicCorpsHelmet: {
 	DisplayName: Шлем Лунного Отряда
 	Tooltip:
 		'''
-		+12% урона в дальнем бою
-		Ночное зрение и детекция существ
+		+12% урона оружием, не являющимся лукоам
+		Улучшает зрение и показывает местоположение врагов
 		'''
 	SetBonus:
 		'''
-		Проецирует щит-оболочку, который поглощает до 50 урона {0}
-		Щит начинает заряжаться через 5 секунд после получения удара
-		Зарядка с нуля до полной мощности требует 2 секунд
-		Получение урона во время перезарядки сбрасывает таймер
-		+10% урона патронным оружием дальнего боя
-		+10% урон специализированным оружием дальнего боя
-		Это пусковые установки, ракетницы, дротиковое оружие, и подобное оружие, которое не стреляет стрелами или патронами
-		+20% скорости прыжка
+		+{0}% скорости прыжка
+		[c/{1}:Щит «MJOLNIR» - Проецирует щит-оболочку, который поглощает до {2} урона]{3}
+		[c/52CBDE:Щит начинает заряжаться через {4} {^4:секунду;секунды;секунд} после получения удара]
+		[c/52CBDE:Зарядка с нуля до полной мощности требует {5} {^5:секунду;секунды;секунд]
+		[c/52CBDE:Получение урона во время перезарядки сбрасывает таймер]
 		'Finish the fight'
 		'''
-	ShieldAdren: Уменьшает потерянный адреналин на половину, если щит полностью поглощает удар
+	ShieldAdren: "[c/52CBDE:Уменьшает потерянный адреналин на половину, если щит полностью поглощает удар]"
 }
 
 LunicCorpsVest: {
 	DisplayName: Бронежилет Лунного Отряда
 	Tooltip:
 		'''
-		+3% урона в дальнем бою
-		+11% шанса критического удара в дальнем бою
+		{$CommonItemTooltip.PercentIncreasedRangedDamageCritChance}
+		{$CommonItemTooltip.PercentChanceToSaveAmmo@1}
 		'''
 }
 
@@ -343,8 +331,8 @@ MolluskShelleggings: {
 	DisplayName: Поножи-Панцирь Моллюска
 	Tooltip:
 		'''
-		+12% урона и +4% шанса критического удара
-		-7% скорости движения
+		{$CommonItemTooltip.PercentIncreasedDamage} и {$CommonItemTooltip.PercentIncreasedCritChance@1}
+		Ваше горизонтальное движение замедлено
 		'''
 }
 
@@ -352,14 +340,14 @@ MolluskShellmet: {
 	DisplayName: Шлем-Панцирь Моллюска
 	Tooltip:
 		'''
-		+5% урона и +4% шанса критического удара
+		{$CommonItemTooltip.PercentIncreasedDamage} и {$CommonItemTooltip.PercentIncreasedCritChance@1}
 		Вы можете свободно двигаться сквозь жидкости
+		Ваше горизонтальное движение замедлено
 		'''
 	SetBonus:
 		'''
+		+{0}% уменьшения входящего урона
 		Вам в битве помогают две устрицы
-		+10% урона
-		Ваше горизонтальное движение замедлено
 		'''
 }
 
@@ -367,8 +355,8 @@ MolluskShellplate: {
 	DisplayName: Нагрудник-Панцирь Моллюска
 	Tooltip:
 		'''
-		+10% урона и +6% шанса критического удара
-		-15% скорости движения
+		{$CommonItemTooltip.PercentIncreasedDamage} и {$CommonItemTooltip.PercentIncreasedCritChance@1}
+		Ваше горизонтальное движение замедлено
 		'''
 }
 
@@ -376,9 +364,9 @@ PlaguebringerCarapace: {
 	DisplayName: Панцирь Чумоносца
 	Tooltip:
 		'''
-		Дарует иммунитет к Чуме
-		+15% урона призванных существ
-		Дружественные пчелы разносят Чуму
+		{$CommonItemTooltip.IncreasesMaxMinionsBy}
+		{$CommonItemTooltip.PercentIncreasedSummonDamage@1}
+		Дарует иммунитет к эффекту "[cbuff:CalamityMod/Plague]"
 		'''
 }
 
@@ -386,7 +374,8 @@ PlaguebringerPistons: {
 	DisplayName: Поршни Чумоносца
 	Tooltip:
 		'''
-		+15% урона призванных существ и +15% скорости движения
+		{$CommonItemTooltip.IncreasesMaxMinionsBy}
+		{$CommonItemTooltip.PercentIncreasedSummonDamage@1} и {$CommonItemTooltip.PercentIncreasedMovementSpeed@2}
 		На траве под вами растут цветы, а на земле без травы имеется шанс создать случайные красочные растения
 		'''
 }
@@ -395,27 +384,31 @@ PlaguebringerVisor: {
 	DisplayName: Лицевой Щит Чумоносца
 	Tooltip:
 		'''
-		+15% урона призванных существ
-		+20 максимального здоровья
+		{$CommonItemTooltip.IncreasesMaxMinionsBy}
+		{$CommonItemTooltip.PercentIncreasedSummonDamage@1}
 		'''
 	SetBonus:
 		'''
 		Дает чумной рывок, который позволяет таранить противников без получения урона
 		Призывает малого чумоносца, который подавляет ваших врагов чумными пчелами
-		+3 слотов призванных существ
+		Дружественные пчелы накладывают эффект [cbuff:CalamityMod/Plague]
 		'''
 }
 
 PlagueReaperMask: {
 	DisplayName: Маска Чумного Жнеца
-	Tooltip: +10% урона в дальнем бою и +8% шанса критического удара в дальнем бою
+	Tooltip:
+		'''
+		{$CommonItemTooltip.PercentIncreasedRangedDamage} и {$CommonItemTooltip.PercentIncreasedRangedCritChance@1}
+		{$CommonItemTooltip.PercentChanceToSaveAmmo@2}
+		'''
 	SetBonus:
 		'''
-		-25% потребления амуниции и +5% времени полета
-		Подверженные Чуме противники получают на 10% больше урона снарядами дальнего боя
-		Получение урона обрушает с небес чумные огоньки
-		Нажмите {0}, чтобы ослепить себя на 5 секунд и получить огромное усиление урона в дальнем бою
-		У этого эффекта 25 секундная перезарядка.
+		+{0}% времени полета
+		Подверженные Чуме противники получают в {1}x больше урона снарядами дальнего боя
+		[c/{2}: Затемнение Чумы - нажмите {3}, чтобы получить огромное усиление урона взамен на полную слепоту]
+		[c/009418:{$CommonItemTooltip.PercentIncreasedRangedDamage@4} и {$CommonItemTooltip.PercentIncreasedRangedCritChance@5} пока вы ослеплены]
+		[c/009418:Этот эффект длится {6} {^6:секунду;секунды;секунд} и имеет {7} секундную перезарядка]
 		'''
 }
 
@@ -423,8 +416,8 @@ PlagueReaperStriders: {
 	DisplayName: Ходуны Чумного Жнеца
 	Tooltip:
 		'''
-		+3% шанса критического удара в дальнем бою
-		+15% скорости движения
+		{$CommonItemTooltip.PercentIncreasedRangedCritChance}
+		{$CommonItemTooltip.PercentIncreasedMovementSpeed@1}
 		'''
 }
 
@@ -432,47 +425,44 @@ PlagueReaperVest: {
 	DisplayName: Бронежилет Чумного Жнеца
 	Tooltip:
 		'''
+		{$CommonItemTooltip.PercentIncreasedRangedDamage}
 		Дарует иммунитет к Чуме
-		+15% урона в дальнем бою и +5% шанса критического удара в дальнем бою
 		'''
 }
 
 ReaverCuisses: {
 	DisplayName: Набедренники Разорителя
-	Tooltip:
-		'''
-		+5% шанса критического удара
-		+12% скорости движения
-		'''
+	Tooltip: "{$CommonItemTooltip.PercentIncreasedMovementSpeed}"
 }
 
 ReaverHeadExplore: {
 	DisplayName: Наголовник Разорителя
 	Tooltip:
 		'''
-		+20% скорости копания и размещения блоков/стен
+		+{0}% скорости копания
+		+{1}% скорости размещения блоков/стен
 		Иммунитет к лаве и дает возможность свободно двигаться сквозь жидкости
 		'''
 	SetBonus:
 		'''
-		Подсвечивает сокровища поблизости
-		Увеличивается дистанция захвата предметов и размещения блоков
-		Пока вы под водой, выкапывание блоков восстанавливает дыхание
-		Призывает Сферу Разорителя, которая будет освещать вам путь
-		Уменьшает агрессию врагов, даже в Бездне
-		Дает небольшое количество света в Бездне
+		Излучает свет и подсвечивает сокровища и руды поблизости
+		{$Common.AggroReduction}
+		Вы можете дышать под водой
+		Сильно увеличивает видимость в Бездне
+		+{0} дальности инструментов и размещения блоков
+		Увеличивает дальность сбора предметов
 		'''
 }
 
 ReaverHeadMobility: {
 	DisplayName: Лицевой Щит Разорителя
-	Tooltip: +10% скорости прыжка и +15% скорости движения
+	Tooltip: "{$CommonItemTooltip.PercentIncreasedMovementSpeed} и +{1}% скорости прыжка"
 	SetBonus:
 		'''
 		Дарует иммунитет к урону от падения и способность непрерывно прыгать
-		+10% времени полета и горизонтальной скорости крыльев
-		Крюки вылетают и возвращаются на 10% быстрее
-		Уменьшает задержку между рывками
+		+{0}% времени полета и горизонтальной скорости крыльев
+		Крюки вылетают и возвращаются на {1}% быстрее
+		Уменьшает задержку между рывками на {2}%
 		'''
 }
 
@@ -481,57 +471,44 @@ ReaverHeadTank: {
 	Tooltip:
 		'''
 		+15% уменьшения входящего урона, но -30% урона
-		+50 максимального здоровья
-		Восстанавливает 1 ОЗ каждую секунду, что применяется отдельно от регенерации здоровья
+		+{0} максимального здоровья и +{1} ОЗ/с
 		'''
 	SetBonus:
 		'''
-		+10 защиты и +1.5 ОЗ/с регенерации жизни
-		Противники будут предпочитать атаковать вас
-		Уменьшает на 20% потерю регенерации здоровья из-за наносящих урон вредных эффектов
-		Все атаки высасывают жизнь и ускоряют регенерацию жизни
-		-30% скорости движения и времени полета
-		Удары противников отражаются и призывают колючий шип
-		При получении урона активируется эффект Гнев Разорителя
+		{$Common.AggroBoost}
+		Уменьшает на {0}% потерю регенерации здоровья от наносящих урон вредных эффектов
+		-{1}% скорости движения и времени полета
+		Получение урона дарует эффект [cbuff:CalamityMod/ReaverRage] на {2} {^2:секунду;секунды;секунд}
 		'''
 }
 
 ReaverScaleMail: {
 	DisplayName: Чешуя Разорителя
-	Tooltip:
-		'''
-		+9% урона и +4% шанса критического удара
-		+20 максимального здоровья
-		'''
+	Tooltip: "+{0}% уменьшения входящего урона"
 }
 
 TitanHeartBoots: {
 	DisplayName: Ботинки из Сердца Титана
-	Tooltip: +4% метательного урона, +10% скорости полета метательного оружия и +5% отдачи метательного оружия
+	Tooltip: "{$Common.RogueDamage}"
 }
 
 TitanHeartMantle: {
 	DisplayName: Мантия из Сердца Титана
-	Tooltip:
-		'''
-		+45% шанс не использовать метательное оружие
-		+5% отдачи метательного оружия, но -15% скорость метания
-		'''
+	Tooltip: "{$Common.RogueDamage} и +{1}% отбрасывания метательным оружием"
 }
 
 TitanHeartMask: {
 	DisplayName: Маска из Сердца Титана
 	Tooltip:
 		'''
-		+5% метательного урона и отдачи метательным оружием
-		Метательное оружие заражает противников Астральной Инфекцией
+		{$Common.RogueDamage} и {$Common.RogueVelocity@1}
+		Метательное оружие накладывает эффект [cbuff:CalamityMod/AstralInfectionDebuff]
 		'''
 	SetBonus:
 		'''
-		+15% метательного урона и отдачи метательным оружием
-		+100 максимальной скрытности
-		Скрытые удары имеют удвоенную отдачу и создают астральный взрыв
-		Дарует иммунитет к отдаче
+		{$Common.RogueStealth}
+		Скрытые удары имеют {1}x отбрасывания и создают астральный взрыв
+		{$Common.KnockbackImmunity}
 		'''
 }
 
@@ -539,17 +516,17 @@ UmbraphileBoots: {
 	DisplayName: Ботинки Умбрафила
 	Tooltip:
 		'''
-		+9% метательного урона и +6% шанса критического удара метанием
-		+20% скорости движения
+		{$Common.RogueDamage} и {$Common.RogueCrit@1}
+		{$CommonItemTooltip.PercentIncreasedMovementSpeed@2}
 		'''
 }
 
 UmbraphileHood: {
 	DisplayName: Капюшон Умбрафила
-	Tooltip: +8% метательного урона и +10% скорости полета метательного оружия
+	Tooltip: "{$Common.RogueDamage} и {$Common.RogueVelocity@1}"
 	SetBonus:
 		'''
-		+110 максимальной скрытности
+		{$Common.RogueStealth}
 		Метательное оружие имеет шанс создать взрыв при попадании
 		Скрытые удары всегда создают взрывы
 		'''
@@ -557,22 +534,5 @@ UmbraphileHood: {
 
 UmbraphileRegalia: {
 	DisplayName: Облачения Умбрафила
-	Tooltip: +10% метательного урона и +10% шанса критического удара метанием
-}
-
-BrimflameCowl: {
-	// DisplayName: Brimflame Cowl
-	/* Tooltip:
-		'''
-		{$CommonItemTooltip.IncreasesMaxManaBy} and {$CommonItemTooltip.PercentReducedManaCost@1}
-		{$CommonItemTooltip.PercentIncreasedMagicDamageCritChance@2}
-		Immunity to [cbuff:OnFire], [cbuff:CalamityMod/BrimstoneFlames] and [cbuff:Frostburn]
-		''' */
-	/* SetBonus:
-		'''
-		{$CommonItemTooltip.PercentIncreasedMagicDamageCritChance}
-		[c/{1}:Brimflame Frenzy - {2} for {3} {^3:second;seconds} of {$CommonItemTooltip.PercentIncreasedMagicDamage@4}]
-		[c/FF9173:However, this inflicts rapid life loss and disables mana regeneration and mana potions]
-		[c/FF9173:This effect can be toggled off and has a cooldown of {5} {^5:second;seconds}]
-		''' */
+	Tooltip: "{$Common.RogueDamageCrit}"
 }

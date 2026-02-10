@@ -253,40 +253,40 @@ WildfireBloomFlare.DisplayName: Вспышка Лесного Пожара
 WulfrumScrapBullet.DisplayName: Высокоскоростной Металлолом
 NitroShot.DisplayName: Патрон «Nitro»
 ChargedBlastSplit.DisplayName: Заряженный Взрывной Осколок
-// AcidRocket.DisplayName: Acid Rocket
-// BlissfulBombardierSplitProjectile.DisplayName: Profaned Mini-Rocket
-// ChromaticFire.DisplayName: Chromatic Fire
-// ChromaticFlare.DisplayName: Chromatic Flare
-// DragonsBreathBurst.DisplayName: Draconic Burst
-// FlashRoundFlash.DisplayName: Flash
-// HalleysStarburst.DisplayName: Halley's Starburst
-// HellbornProj.DisplayName: Hell-born Gunblast
-// HellbornShell.DisplayName: Hell's Shell
-// LeviatitanAberration.DisplayName: Leviatitan Aberration
-// LeviatitanExplosion.DisplayName: Leviatitan Explosion
-// LeviatitanMeteor.DisplayName: Leviatitan Meteor
-// M1GarandBulletCasing.DisplayName: M1 Garand Bullet Casing
-// M1GarandEmptyClip.DisplayName: M1 Garand Empty Clip
-// M1GarandShot.DisplayName: .30-06 Round
-// MegalodonShot.DisplayName: Megalodon Shot
-// NukeOfBliss.DisplayName: Profaned Nuke
-// NullFlash.DisplayName: Null Flash
-// OntologicalDespoilerBeam.DisplayName: Null-Annihilation Beam
-// OntoligicalDespoilerBurst.DisplayName: Disruption Blast
-// OntologicalDespoilerGrenade.DisplayName: Disruption Sphere
-// OntologicalDespoilerShot.DisplayName: Unreality Condensate
-// RubicoPrimeMag.DisplayName: Rubico Prime Mag
-// SandblasterBullet.DisplayName: Sandstorm
-// ShortCircuitExplosion.DisplayName: Short Circuit
-// ShortCircuitShot.DisplayName: Short Circuit Shot
-// Slagfire.DisplayName: Slagfire
-// SpectralFlare.DisplayName: Spectral Flare
-// StarfleetStar.DisplayName: Starfleet Star
-// StarmadaHitProj.DisplayName: Starmada
-// StarmadaStar.DisplayName: Starmada Star
-// SulphuricAcidCannonExplosion.DisplayName: Sulphuric Acid Cannon Explosion
-// SulphuricDrop.DisplayName: Sulphuric Drop
-// TauCannonBeam.DisplayName: Tau Cannon Beam
-// TauCannonBolt.DisplayName: Tau Cannon Bolt
-// TauCannonPortal.DisplayName: Tau Cannon Portal
-// TheStormLightningShot.DisplayName: Storm Bolt
+AcidRocket.DisplayName: Кислотная Ракета
+BlissfulBombardierSplitProjectile.DisplayName: Скверная Мини-ракета
+ChromaticFire.DisplayName: Хроматический Огонь
+ChromaticFlare.DisplayName: Хроматическая Вспышка
+DragonsBreathBurst.DisplayName: Драконический Всплеск
+FlashRoundFlash.DisplayName: Вспышка
+HalleysStarburst.DisplayName: Звездная Вспышка Галея
+HellbornProj.DisplayName: Патрон из Ада
+HellbornShell.DisplayName: Гильза из Ада
+LeviatitanAberration.DisplayName: Порождение Левиатитана
+LeviatitanExplosion.DisplayName: Взрыв Левиатитана
+LeviatitanMeteor.DisplayName: Метеор Левиатитана
+M1GarandBulletCasing.DisplayName: Гильза M1 Garand
+M1GarandEmptyClip.DisplayName: Пустой Магазин M1 Garand
+M1GarandShot.DisplayName: .30-06 Патрон
+MegalodonShot.DisplayName: Пуля Мегалодона
+NukeOfBliss.DisplayName: Бомба Скверны
+NullFlash.DisplayName: Пустотная Вспышка
+OntologicalDespoilerBeam.DisplayName: Пустотный-Аннигиляционный Луч
+OntoligicalDespoilerBurst.DisplayName: Всплеск Разрыва
+OntologicalDespoilerGrenade.DisplayName: Сфера Разрыва
+OntologicalDespoilerShot.DisplayName: Конденсат Нереальности
+RubicoPrimeMag.DisplayName: Магазин Рубико Прайм
+SandblasterBullet.DisplayName: Песчаная Буря
+ShortCircuitExplosion.DisplayName: Короткое Замыкание
+ShortCircuitShot.DisplayName: Патро Короткого Замыкания
+Slagfire.DisplayName: Шлаковый Огонь
+SpectralFlare.DisplayName: Спектральная Вспышка
+StarfleetStar.DisplayName: Звезда Звездного Флота
+StarmadaHitProj.DisplayName: Звездная Армада
+StarmadaStar.DisplayName: Звезда Звездной Армады
+SulphuricAcidCannonExplosion.DisplayName: Взрыв Сернокислотной Пушки
+SulphuricDrop.DisplayName: Серная Капля
+TauCannonBeam.DisplayName: Луч Тау-Пушки
+TauCannonBolt.DisplayName: Сгусток Тау-Пушки
+TauCannonPortal.DisplayName: Портал Тау-Пушки
+TheStormLightningShot.DisplayName: Громовой Разряд

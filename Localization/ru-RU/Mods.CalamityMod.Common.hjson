@@ -1,78 +1,78 @@
 // Plain stat boosts
-// RogueDamage: "{0}% increased rogue damage"
-// RogueCrit: "{0}% increased rogue critical strike chance"
-// RogueDamageCrit: "{0}% increased rogue damage and critical strike chance"
-// RogueVelocity: "{0}% increased rogue velocity"
-// RogueStealth: +{0} maximum stealth
+RogueDamage: "+{0}% метательного урона"
+RogueCrit: "+{0}% шанса критического удара метанием"
+RogueDamageCrit: "+{0}% метательного урона и шанса критического удара"
+RogueVelocity: "+{0}% скорости полета метательного оружия"
+RogueStealth: +{0} максимальной скрытности
 // Armor Set Bonus key states
-// BothArmorSetBonusKeys: Press {0} or Double tap {1}
-// NoArmorSetBonusKey: Press the Armor Set Bonus key
-// ArmorSetBonusKey: Press {0}
-// DoubleTapDown: Double tap {0}
+BothArmorSetBonusKeys: Нажмите {0} или дважды нажмите {1}
+NoArmorSetBonusKey: Нажмите кнопку Бонуса Набора Брони
+ArmorSetBonusKey: Нажмите {0}
+DoubleTapDown: Дважды нажмите {0}
 // Miscellaneous stats/info
-// AggroBoost: Enemies are more likely to target you
-// AggroReduction: Enemies are less likely to target you
-// KnockbackImmunity: Grants immunity to knockback
-// AbyssLightLevel: Reduces the darkness intensity of the abyss
-// AbyssFlashlight: Increases flashlight width in the abyss
-// AbyssGlow: Increases visibily range in the abyss
-// AbyssBreathLevel1: Slightly reduces breath loss in the abyss
-// AbyssBreathLevel2: Moderately reduces breath loss in the abyss
-// AbyssBreathLevel3: Greatly reduces breath loss in the abyss
-// AlcoholWarning: Drinking more than 3 different alcohols might not end well with your liver
-// ArmorPenetration: Ignores {0} points of enemy Defense
-// CanMineUelibloom: Can mine Uelibloom Ore
-// NotConsumable: Not consumable
-// SummonTagDamageFlat: "{0} summon tag damage"
-// SummonTagDamageMult: "{0}x summon tag damage"
-// SummonTagCrit: "{0}% summon tag critical strike chance"
-/* DodgeInformation:
+AggroBoost: Противники поблизости будут стараться атаковать вас
+AggroReduction: Противники поблизости будут избегать атаковать вас
+KnockbackImmunity: Дарует иммунитет к Отдаче
+AbyssLightLevel: Уменьшает интенсивность темноты в Бездне
+AbyssFlashlight: Уменьшает радиус просвета Бездне
+AbyssGlow: Увеличивает радиус видимости в Бездне
+AbyssBreathLevel1: Немного уменьшает потерю дыхания в Бездне
+AbyssBreathLevel2: Средне уменьшает потерю дыхания в Бездне
+AbyssBreathLevel3: Сильно уменьшает потерю дыхания в Бездне
+AlcoholWarning: Потребление более 3 видов алкоголей возможно нехорошо кончится для вашей печени
+ArmorPenetration: Игнорирует {0} очков защиты противника
+CanMineUelibloom: Может копать Руду Уэлицвета
+NotConsumable: Не расходуемо
+SummonTagDamageFlat: "+{0} призывательного урона от метки"
+SummonTagDamageMult: "{0}x призывательного урона от метки"
+SummonTagCrit: "+{0}% шанса призывательного критического удара от метки"
+DodgeInformation:
 	'''
-	Attacks that deal less than 5% of your max life in damage will not be dodged
-	The dodge has a cooldown that ranges between 20 and 90 seconds depending on the dodged attack's damage
-	This cooldown is shared with all other dodges and reflects
-	''' */
-/* ReflectInformation:
+	Атаки, которые наносят менее 5% вашего максимального здоровья, не спровоцируют уклонение 
+	Уклонение имеет перезарядку, которое варьируется от 20 до 90 секунд, в зависимости от урона атаки, от которой вы уклонились
+	Эта перезарядка - общая между всеми источниками уклонений и отражений
 	'''
-	Projectiles that deal less than 5% of your max life in damage will not be reflected
-	The reflect has a cooldown that ranges between 20 and 90 seconds depending on the reflected projectile's damage
-	This cooldown is shared with all other dodges and reflects
-	''' */
-/* GrappleStats:
+ReflectInformation:
 	'''
-	Reach: {0} tiles
-	Launch Velocity: {1}
-	Reelback Velocity: {2}
-	Pull Velocity: {3}
-	''' */
-/* WingStats:
+	Снаряды, которые наносят менее 5% вашего максимального здоровья, не спровоцируют отражение
+	Отражение имеет перезарядку, которое варьируется от 20 до 90 секунд, в зависимости от урона снаряда, который вы отразили
+	Эта перезарядка - общая между всеми источниками уклонений и отражений
 	'''
-	Flight time: {0} seconds
-	Max horizontal speed: {1} mph
-	Max vertical speed: {2} mph
-	''' */
-/* WingStatsAcceleration:
+GrappleStats:
 	'''
-	Horizontal acceleration: {0} mph/s
+	Дальность: {0} блоков
+	Скорость выстрела: {1}
+	Скорость возвращения: {2}
+	Скорость притяжения: {3}
+	'''
+WingStats:
+	'''
+	Время полета: {0} с.
+	Максимальная горизонтальная скорость: {1} миль/ч
+	Максимальная вертикальная скорость: {2} миль/ч
+	'''
+WingStatsAcceleration:
+	'''
+	Горизонтальное ускорение: {0} миль/с
 	Vertical acceleration:
-	{1} mph/s
-	{2} mph/s if ascending slower than {3} mph
-	{4} mph/s if ascending while falling
-	''' */
-/* WingStatsHover:
+	{1} миль-в-час/с
+	{2} миль-в-час/с если взлетать медленее, чем {3} миль-в-час/с
+	{4} миль-в-час/c если взлетать во время падения
 	'''
-	Max hover speed: {0} mph
-	Hover acceleration: {1} mph/s
-	''' */
-/* YoyoStats:
+WingStatsHover:
 	'''
-	Reach: {0} tiles
-	Speed: {1}
-	Duration: {2} seconds
-	''' */
-/* YoyoStatsInfinite:
+	Максимальная скорость при парении: {0} миль/ч
+	Ускорение при парении: {1} миль-в-час/с
 	'''
-	Reach: {0} tiles
-	Speed: {1}
-	Infinite throw duration
-	''' */
+YoyoStats:
+	'''
+	Дистанция: {0} блоков
+	Скорость: {1}
+	Длительность: {2} с.
+	'''
+YoyoStatsInfinite:
+	'''
+	Дистанция: {0} блоков
+	Скорость: {1}
+	Бесконечная длительность броска
+	'''

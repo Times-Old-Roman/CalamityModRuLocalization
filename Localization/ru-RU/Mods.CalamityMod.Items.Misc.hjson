@@ -64,15 +64,6 @@ TwinklerItem: {
 }
 
 // Permanent Boosters
-BloodOrange: {
-	DisplayName: Кровавый Апельсин
-	Tooltip:
-		'''
-		Навсегда увеличивает здоровье на {0}
-		Можно использовать только один раз, причем требуется предварительно съесть максимальное число фруктов Жизни
-		[c/FFAA22:У него отчетливо сладкий вкус и сильный аромат]
-		'''
-}
 
 CelestialOnion: {
 	DisplayName: Небесная Луковица
@@ -93,43 +84,8 @@ CometShard: {
 		'''
 }
 
-Dragonfruit: {
-	DisplayName: Драконий Фрукт
-	Tooltip:
-		'''
-		Навсегда увеличивает здоровье на {0}
-		Можно использовать только один раз, причем требуется предварительно съесть максимальное число Фруктов Жизни
-		[c/FF66AA:Хотя его вкус и не особо насыщен, те нотки, которые можно уловить, не похожи ни на что другое]
-		'''
-}
-
-Ectoheart: {
-	DisplayName: Эктосердце
-	Tooltip:
-		'''
-		Навсегда увеличивает урон Адреналина на 20% и уменьшение входящего урон при его полной потери на 5%
-		Доступно только на режиме Мести
-		'''
-}
-
-Elderberry: {
-	DisplayName: Бузина Древняя
-	Tooltip:
-		'''
-		Навсегда увеличивает здоровье на {0}
-		Можно использовать только один раз, причем требуется предварительно съесть максимальное число Фруктов Жизни
-		[c/3399FF:Имеет пикантный, терпкий вкус с легкими земными нотками]
-		'''
-}
-
-ElectrolyteGelPack: {
-	DisplayName: Пачка Электролитного Геля
-	Tooltip:
-		'''
-		Навсегда увеличивает урон Адреналина на 20% и уменьшение входящего урон при его полной потери на 5%
-		Доступно только на режиме Мести
-		'''
-}
+Ectoheart.DisplayName: Эктосердце
+ElectrolyteGelPack.DisplayName: Пачка Электролитного Геля
 
 EtherealCore: {
 	DisplayName: Эфирное Ядро
@@ -140,14 +96,7 @@ EtherealCore: {
 		'''
 }
 
-InfernalBlood: {
-	DisplayName: Горящая Кровь
-	Tooltip:
-		'''
-		Навсегда увеличивает длительность Буйства на 1 секунду
-		Доступно только на режиме Мести
-		'''
-}
+InfernalBlood.DisplayName: Горящая Кровь
 
 MiracleFruit: {
 	DisplayName: Чудо-Фрукт
@@ -159,14 +108,7 @@ MiracleFruit: {
 		'''
 }
 
-MushroomPlasmaRoot: {
-	DisplayName: Плазменный Грибной Корень
-	Tooltip:
-		'''
-		Навсегда увеличивает длительность Буйства на 1 секунду
-		Доступно только на режиме Мести
-		'''
-}
+MushroomPlasmaRoot.DisplayName: Плазменный Грибной Корень
 
 PhantomHeart: {
 	DisplayName: Фантомное Сердце
@@ -177,27 +119,9 @@ PhantomHeart: {
 		'''
 }
 
-RedLightningContainer: {
-	DisplayName: Контейнер с Красной Молнией
-	Tooltip:
-		'''
-		Навсегда увеличивает длительность Буйства на 1 секунду
-		Доступно только на режиме Мести
-		'''
-}
+RedLightningContainer.DisplayName: Контейнер с Красной Молнией
 
-StarlightFuelCell: {
-	DisplayName: Топливная Ячейка со Звездным Ветром
-	Tooltip:
-		'''
-		Навсегда увеличивает урон Адреналина на 20% и уменьшение входящего урон при его полной потери на 5%
-		Доступно только на режиме Мести
-		'''
-}
-
-// Spawn Blockers
-SpawnBlockersOn: Включено
-SpawnBlockersOff: Отключено
+StarlightFuelCell.DisplayName: Топливная Ячейка со Звездным Ветром
 
 AntiCystOintment: {
 	DisplayName: Мазь от Кисты
@@ -219,338 +143,213 @@ AntiTumorOintment: {
 		'''
 }
 
-BleachBall: {
-	DisplayName: Щелочная Пена
-	Tooltip:
-		'''
-		Включите этот предмет, чтобы предотвратить появление Водного Бича рядом с вами
-		Нажмите <right>, чтобы переключить
-		[STATE]
-		'''
-}
-
-BrokenWaterFilter: {
-	DisplayName: Сломаный Водяной Фильтр
-	Tooltip:
-		'''
-		Включите этот предмет, чтобы предотвратить появление Кислотного Дождя
-		Нажмите <right>, чтобы переключить
-		[STATE]
-		'''
-}
-
-SirenproofEarMuffs: {
-	DisplayName: Сиреноупорные Наушники
-	Tooltip:
-		'''
-		Включите этот предмет, чтобы предотвратить появление Анахиты рядом с вами
-		Нажмите <right>, чтобы переключить
-		[STATE]
-		'''
-}
-
-VoodooDemonVoodooDoll: {
-	DisplayName: Кукла Вуду Вуду-Демона
-	Tooltip:
-		'''
-		Включите этот предмет, чтобы предотвратить появление вуду-демонов рядом с вами
-		Нажмите <right>, чтобы переключить
-		[STATE]
-		'''
-}
-
-// Uncategorized
-BallAndChain: {
-	DisplayName: Оковы
-	Tooltip:
-		'''
-		Сделайте этот предмет избранным, чтобы отключить любые рывки
-		'Так тяжело...'
-		'''
-}
-
-BrimstoneLocus: {
-	DisplayName: Серное Сплетение
-	Tooltip:
-		'''
-		[c/C61B40:'Я могу не только улучшить твое оружие могучей магией,]
-		[c/C61B40:но и возвысить некоторые вещи в совсем новые формы.]
-		[c/C61B40:Такие кандидаты будут подсвечиваться, пока этот предмет находится у тебя в инвентаре.']
-		'''
-}
-
-ColdheartIcicle: {
-	DisplayName: Сосулька Холодного Сердца
-	Tooltip: "'N(ice) work'"
-}
-
-MomentumCapacitor: {
-	DisplayName: Конденсатор Импульса
-	Tooltip:
-		'''
-		Пока вы используете Конденсатор Импульса, ваша максимальная скорость будет непрерывно и бесконтрольно расти
-		Этот эффект не работает, если есть активный босс
-		'''
-}
-
-NormalityRelocator: {
-	DisplayName: Релокатор Нормального Состояния
-	Tooltip:
-		'''
-		Нажмите [KEY], чтобы телепортироваться на положение курсора
-		На 30 кадров после телепортации скорость падения удваивается
-		Если активно Состояние Хаоса, то телепортация отключена
-		Состояние Хаоса накладывается на большее время, чем от Жезла Раздора
-		Работает, если находится в инвентаре
-		'Я приду туда в мгновение ока'
-		'''
-}
-
-RelicOfConvergence: {
-	DisplayName: Реликвия Конвергенции
-	Tooltip:
-		'''
-		Создает скверный кристалл, который некоторое время заряжается
-		Во время использования все ваше движение замедляется
-		Однако в конце использования, кристалл лечит вас на 70 ОЗ
-		'''
-}
-
-Rock: {
-	DisplayName: Камешек
-	Tooltip:
-		'''
-		Когда битва окончилась, и пыль лишь только начала оседать
-		Там, где камень противился течению времени, сидел монах
-		И он усомнился в истории и обратил свой взор на саму судьбу
-		'Какова же настоящая цена извечности прошлого?
-		И почему мы обречены на терзания будущим?'
-		'''
-}
-
-SulphurousSeaWorldSideChanger: {
-	DisplayName: Изменятель Стороны Мира с Серным Морем
-	Tooltip:
-		'''
-		Заспавните и используйте это, если каким-то образом ваш обычный океан считается Серным морем
-		Это также должно пофиксить Бездну, если она сломана
-		'''
-}
-
-SuperDummy: {
-	DisplayName: Супер-Манекен
-	Tooltip:
-		'''
-		Создает супер-манекен
-		Регенерирует 1 млн. ОЗ/с
-		Не умирает от наносящих урон эффектов
-		Нажмите ПКМ, чтобы уничтожить все супер-манекены
-		'''
-}
-
 // Critters
 AlphaSeaMinnowItem: {
-	// DisplayName: "{$NPCs.AlphaSeaMinnow.DisplayName}"
-	// Tooltip: ""
+	DisplayName: "{$NPCs.AlphaSeaMinnow.DisplayName}"
+	Tooltip: ""
 }
 
 AlphaSeaMinnowGoldItem: {
-	// DisplayName: "{$NPCs.AlphaSeaMinnowGold.DisplayName}"
-	// Tooltip: ""
+	DisplayName: "{$NPCs.AlphaSeaMinnowGold.DisplayName}"
+	Tooltip: ""
 }
 
 BabyGhostBellGoldItem: {
-	// DisplayName: "{$NPCs.GoldBabyGhostBell}"
-	// Tooltip: ""
+	DisplayName: "{$NPCs.GoldBabyGhostBell}"
+	Tooltip: ""
 }
 
 BabyGhostBellGreenItem: {
-	// DisplayName: Green Baby Ghost Bell
-	// Tooltip: ""
+	DisplayName: Зелёный Детёныш Призрачного Колокольчика
+	Tooltip: ""
 }
 
 BabyGhostBellRadiantItem: {
-	// DisplayName: "{$NPCs.RadiantBabyGhostBell}"
-	// Tooltip: ""
+	DisplayName: "{$NPCs.RadiantBabyGhostBell}"
+	Tooltip: ""
 }
 
 BabyGhostBellPinkItem: {
-	// DisplayName: Pink Baby Ghost Bell
-	// Tooltip: ""
+	DisplayName: Розовый Детёныш Призрачного Колокольчика
+	Tooltip: ""
 }
 
 GildedAxolotlItem: {
-	// DisplayName: Gilded Axolotl
-	// Tooltip: ""
+	DisplayName: Позолоченный Аксолотль
+	Tooltip: ""
 }
 
 PearlpodBlackItem: {
-	// DisplayName: Black Pearlpod
-	// Tooltip: ""
+	DisplayName: Чёрный Жемчужник
+	Tooltip: ""
 }
 
 PearlpodItem: {
-	// DisplayName: White Pearlpod
-	// Tooltip: ""
+	DisplayName: Белый Жемчужник
+	Tooltip: ""
 }
 
 PearlpodPinkItem: {
-	// DisplayName: Pink Pearlpod
-	// Tooltip: ""
+	DisplayName: Розовый Жемчужник
+	Tooltip: ""
 }
 
 PolypPanaseaGoldItem: {
-	// DisplayName: "{$NPCs.GoldPolypPanasea}"
-	// Tooltip: ""
+	DisplayName: "{$NPCs.GoldPolypPanasea}"
+	Tooltip: ""
 }
 
 PolypPanaseaGreenItem: {
-	// DisplayName: Green Polyp Panasea
-	// Tooltip: ""
+	DisplayName: Зелёный Полиповый Панасей
+	Tooltip: ""
 }
 
 PolypPanaseaItem: {
-	// DisplayName: Red Polyp Panasea
-	// Tooltip: ""
+	DisplayName: Красный Полиповый Панасей
+	Tooltip: ""
 }
 
 PolypPanaseaPurpleItem: {
-	// DisplayName: Purple Polyp Panasea
-	// Tooltip: ""
+	DisplayName: Фиолетовый Полиповый Панасей
+	Tooltip: ""
 }
 
 PolypPanaseaRadiantItem: {
-	// DisplayName: "{$NPCs.RadiantPolypPanasea}"
-	// Tooltip: ""
+	DisplayName: "{$NPCs.RadiantPolypPanasea}"
+	Tooltip: ""
 }
 
 PolypPanaseaTurquoiseItem: {
-	// DisplayName: Turquoise Polyp Panasea
-	// Tooltip: ""
+	DisplayName: Бирюзовый Полиповый Панасей
+	Tooltip: ""
 }
 
 PrismaticGuppyBlueItem: {
-	// DisplayName: Blue Prismatic Guppy
-	// Tooltip: ""
+	DisplayName: Синий Призматический Гуппи
+	Tooltip: ""
 }
 
 PrismaticGuppyGoldItem: {
-	// DisplayName: "{$NPCs.GoldPrismaticGuppy}"
-	// Tooltip: ""
+	DisplayName: "{$NPCs.GoldPrismaticGuppy}"
+	Tooltip: ""
 }
 
 PrismaticGuppyGreenItem: {
-	// DisplayName: Green Prismatic Guppy
-	// Tooltip: ""
+	DisplayName: Зелёный Призматический Гуппи
+	Tooltip: ""
 }
 
 PrismaticGuppyPinkItem: {
-	// DisplayName: Pink Prismatic Guppy
-	// Tooltip: ""
+	DisplayName: Розовый Призматический Гуппи
+	Tooltip: ""
 }
 
 PrismaticGuppyRadiantItem: {
-	// DisplayName: "{$NPCs.RadiantPrismaticGuppy}"
-	// Tooltip: ""
+	DisplayName: "{$NPCs.RadiantPrismaticGuppy}"
+	Tooltip: ""
 }
 
 ProbesnoutGoldItem: {
-	// DisplayName: "{$NPCs.ProbesnoutGold.DisplayName}"
-	// Tooltip: ""
+	DisplayName: "{$NPCs.ProbesnoutGold.DisplayName}"
+	Tooltip: ""
 }
 
 ProbesnoutItem: {
-	// DisplayName: "{$NPCs.Probesnout.DisplayName}"
-	// Tooltip: ""
+	DisplayName: "{$NPCs.Probesnout.DisplayName}"
+	Tooltip: ""
 }
 
 SeaFloatyItem: {
-	// DisplayName: "{$NPCs.SeaFloaty.DisplayName}"
-	// Tooltip: ""
+	DisplayName: "{$NPCs.SeaFloaty.DisplayName}"
+	Tooltip: ""
 }
 
 SeaMinnowGoldItem: {
-	// DisplayName: "{$NPCs.SeaMinnowGold.DisplayName}"
-	// Tooltip: ""
+	DisplayName: "{$NPCs.SeaMinnowGold.DisplayName}"
+	Tooltip: ""
 }
 
 SearslugItem: {
-	// DisplayName: "{$NPCs.Searslug.DisplayName}"
-	// Tooltip: ""
+	DisplayName: "{$NPCs.Searslug.DisplayName}"
+	Tooltip: ""
 }
 
 ShoreskipperItem: {
-	// DisplayName: "{$NPCs.Shoreskipper.DisplayName}"
-	// Tooltip: ""
+	DisplayName: "{$NPCs.Shoreskipper.DisplayName}"
+	Tooltip: ""
 }
 
 ShroombleItem: {
-	// DisplayName: "{$NPCs.Shroomble.DisplayName}"
-	// Tooltip: ""
+	DisplayName: "{$NPCs.Shroomble.DisplayName}"
+	Tooltip: ""
 }
 
 SlugbunBurrowsItem: {
-	// DisplayName: Burrows Slugbun
-	// Tooltip: ""
+	DisplayName: Норовый Слагбан
+	Tooltip: ""
 }
 
 SlugbunItem: {
-	// DisplayName: Reef Slugbun
-	// Tooltip: ""
+	DisplayName: Рифовый Слагбан
+	Tooltip: ""
 }
 
 SlugbunPolypItem: {
-	// DisplayName: Polyp Slugbun
-	// Tooltip: ""
+	DisplayName: Полиповый Слагбан
+	Tooltip: ""
 }
 
 SlugbunRadiantItem: {
-	// DisplayName: "{$NPCs.RadiantSlugbun}"
-	// Tooltip: ""
+	DisplayName: "{$NPCs.RadiantSlugbun}"
+	Tooltip: ""
 }
 
 // Permanent Boosters
-// AdrenalineBoosterTooltip: Permanently increases {$Buffs.AdrenalineMode.DisplayName} damage by {0}% and damage reduction by {1}%
-// RageBoosterTooltip: Permanently increases the duration of {$Buffs.RageMode.DisplayName} by {0} second
+AdrenalineBoosterTooltip: Навсегда увеличивает урон {$Buffs.AdrenalineMode.DisplayName} на {0}% и уменьшение урона на {1}%
+RageBoosterTooltip: Навсегда увеличивает длительность {$Buffs.RageMode.DisplayName} на {0} {0^:секунду;секунды;секунд}
 
 SacredStrawberry: {
-	// DisplayName: Sacred Strawberry
-	/* Tooltip:
+	DisplayName: Sacred Strawberry
+	Tooltip:
 		'''
-		Permanently increases maximum life by {0}
-		Can only be used once and requires the max amount of Life Fruits consumed
-		Though somewhat bland, what taste can be described is unlike any other experienced
-		''' */
+		Навсегда увеличивает здоровье на {0}
+		Можно использовать только один раз, причем требуется предварительно съесть максимальное число Фруктов Жизни
+		[c/FF66AA:Хотя её вкус и не особо насыщен, те нотки, которые можно уловить, не похожи ни на что другое]
+		'''
 }
 
 SanguineTangerine: {
-	// DisplayName: Sanguine Tangerine
-	/* Tooltip:
+	DisplayName: Кровавый Мандарин
+	Tooltip:
 		'''
-		Permanently increases maximum life by {0}
-		Can only be used once and requires the max amount of Life Fruits consumed
-		It has a distinctly sweet flavor and a strong aroma
-		''' */
+		Навсегда увеличивает здоровье на {0}
+		Можно использовать только один раз, причем требуется предварительно съесть максимальное число фруктов Жизни
+		[c/FFAA22:У него отчетливо сладкий вкус и сильный аромат]
+		'''
 }
 
 TaintedCloudberry: {
-	// DisplayName: Tainted Cloudberry
-	/* Tooltip:
+	DisplayName: Порочная Морошка
+	Tooltip:
 		'''
-		Permanently increases maximum life by {0}
-		Can only be used once and requires the max amount of Life Fruits consumed
-		A tangy, tart flavor with a somewhat earthen touch
-		''' */
+		Навсегда увеличивает здоровье на {0}
+		Можно использовать только один раз, причем требуется предварительно съесть максимальное число Фруктов Жизни
+		[c/3399FF:Имеет пикантный, терпкий вкус с легкими земными нотками]
+		'''
 }
 
+// Spawn Blockers
+SpawnBlockersOn: Появление включено
+SpawnBlockersOff: Появление отключено
+
 // Uncategorized
-/* ExhumeShortTooltip:
+ExhumeShortTooltip:
 	'''
-	[c/C61B40:'Ah, are you curious what I saw within this item?']
-	[c/BABABA:Hold Shift to listen]
-	''' */
-/* LegendaryShortTooltip:
+	[c/C61B40:'Ааа, я вижу тебе любопытно узнать, что я повидала в этой вещи?']
+	[c/BABABA:Удерживайте Shift, чтобы послушать]
 	'''
-	[c/FF6F00:Tales of legends past radiate around you...]
-	[c/BABABA:Hold Shift to listen closer]
-	''' */
+LegendaryShortTooltip:
+	'''
+	[c/FF6F00:Легенды былых времён лучатся рядом с вами...]
+	[c/BABABA:Удерживайте Shift, чтобы прислушаться]
+	'''

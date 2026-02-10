@@ -36,17 +36,17 @@ TornadoHostile.DisplayName: Торнадо
 ToxicMinnowCloud.DisplayName: Токсичное Облако
 TrilobiteSpike.DisplayName: Шип
 IceClasperEnemyProjectile.DisplayName: Ледяной Осколок
-// AnglerFlash.DisplayName: Angler Flash
-// CarrionPus.DisplayName: Carrion Pus
-// ClamBubbleBlast.DisplayName: Clam Bubble Blast
-// GhostBellShock.DisplayName: Electrical Field
-// HorsPoisonBlast.DisplayName: Poisonous Spit
-// JellyghoulBolt.DisplayName: Jellyghoul Bolt
-// PodobooSpit.DisplayName: Podoboo Spit
-// PodobooSpitHoming.DisplayName: Psychic Podoboo Spit
-// PodobooSpitSplitting.DisplayName: Loose Podoboo Spit
-// PodobooSpitUltima.DisplayName: Ultima Podoboo Spit
-// PrismBackCrystal.DisplayName: Prism-Back Shard
-// SharkoonExplosion.DisplayName: Sharkoon Explosion
-// ShoreskipperTackle.DisplayName: Shoreskipper Tackle
-// StormlionSentryBullet.DisplayName: Stormlion Sentry Bullet
+AnglerFlash.DisplayName: Вспышка Удильщика
+CarrionPus.DisplayName: Трупный Гной
+ClamBubbleBlast.DisplayName: Пузырьковый Всплеск Моллюска
+GhostBellShock.DisplayName: Электрическое Поле
+HorsPoisonBlast.DisplayName: Ядовитый Плевок
+JellyghoulBolt.DisplayName: Сгусток медузогуля
+PodobooSpit.DisplayName: Плевок Подобуу
+PodobooSpitHoming.DisplayName: Наводящийся Плевок Подобуу
+PodobooSpitSplitting.DisplayName: Расщепляющийся Плевок Подобуу
+PodobooSpitUltima.DisplayName: Ультима-Плевок Подобуу
+PrismBackCrystal.DisplayName: Осколок Призмоспина
+SharkoonExplosion.DisplayName: Акулон-Взрыв
+ShoreskipperTackle.DisplayName: Таран Берегового Скакуна
+StormlionSentryBullet.DisplayName: Пуля Стража Штормового Льва

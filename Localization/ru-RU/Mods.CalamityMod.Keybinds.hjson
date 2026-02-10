@@ -12,7 +12,7 @@ NormalityRelocator.DisplayName: Телепорт Релокатора Норма
 RageMode.DisplayName: Режим Буйства
 SandCloakEffect.DisplayName: Эффект Песчаного Плаща
 SpectralVeilTeleport.DisplayName: Телепорт Спектральной Вуали
-// AmmoCycle.DisplayName: Ammo Cycle Hotkey
-// TransformerHotKey.DisplayName: Transformer Hot Key
-// GravitySwapOverride.DisplayName: Gravity Swap Override
-// ExpandDebuffInfo.DisplayName: See Debuff Information
+AmmoCycle.DisplayName: Смена Боеприпаса
+TransformerHotKey.DisplayName: Активация Трансформатора
+GravitySwapOverride.DisplayName: Перезапись Смены Гравитации
+ExpandDebuffInfo.DisplayName: Взглянуть на Информацию Вредных Эффектов

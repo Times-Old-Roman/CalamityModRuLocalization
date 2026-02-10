@@ -163,29 +163,29 @@ PermafrostBlast.DisplayName: Гигавзрыв Мерзлоты
 PermafrostBlaster.DisplayName: Взрыв Безлимитного Кондиционирования
 PermafrostColdheartIcicle.DisplayName: Сосулька Холодного Сердца
 PermafrostMeat.DisplayName: Холодное Мясо
-// AnahitaTelegraph.DisplayName: Anahita Telegraph
-// BloodScythe.DisplayName: Blood Scythe
-// BurningBolt.DisplayName: Burning Bolt
-// BurningFireblast.DisplayName: Burning Fireblast
-// BurningGigablast.DisplayName: Burning Gigablast
-// CalamitousDart.DisplayName: Calamitous Dart
-// CalamitousExplosion.DisplayName: Calamitous Explosion
-// CalamitousFireball.DisplayName: Calamitous Fireball
-// CataclysmicFlame.DisplayName: Cataclysmic Flame
-// CatastrophicCinder.DisplayName: Catastrophic Cinder
-// CirclingBloodScythe.DisplayName: Circling Blood Scythe
-// CrimsonEye.DisplayName: Crimson Eye
-// CursedFire.DisplayName: Eye Fire
-// DoGLaserWalls.DisplayName: God's Bane Doombeam Array
-// DoGLaserWallsBigBeam.DisplayName: Hyperdeath Rift Ripper
-// DoGRiftCrack.DisplayName: DoG Distortion Crack
-// FriendlyLaserWallBeam.DisplayName: God's Bane Doombeam
-// GolemInfernoBolt.DisplayName: Golem Fire Bolt
-// GolemInfernoBlast.DisplayName: Golem Fire Blast
-// IchorShower.DisplayName: Ichor Shower
-// MushBombGround.DisplayName: Mushroom Shot
-// RavagerNuke.DisplayName: Homing Nuke
-// HomingLaserDart.DisplayName: Homing Dart
-// HyperdeathRiftScepterBeam.DisplayName: Hyperdeath Rift Ripper
-// TelekineticEnemyGrab.DisplayName: Telekinetic Enemy Grab
-// TelekineticBlast.DisplayName: Telekinetic Blast
+AnahitaTelegraph.DisplayName: Траектория Рывка Анахиты
+BloodScythe.DisplayName: Коса Крови
+BurningBolt.DisplayName: Горящий Сгусток
+BurningFireblast.DisplayName: Горящий Огневзрыв
+BurningGigablast.DisplayName: Горящий Гигавзрыв
+CalamitousDart.DisplayName: Бездственный Дротив
+CalamitousExplosion.DisplayName: Бедственный Взрыв
+CalamitousFireball.DisplayName: Бедственный Огненный Шар
+CataclysmicFlame.DisplayName: Пламя Катаклизма
+CatastrophicCinder.DisplayName: Зола Катастрофы
+CirclingBloodScythe.DisplayName: Кружащая Коса Крови
+CrimsonEye.DisplayName: Багровый Глаз
+CursedFire.DisplayName: Глазное Пламя
+DoGLaserWalls.DisplayName: Натиск Гибельных Лучей Божественной Смерти
+DoGLaserWallsBigBeam.DisplayName: Разрывный Потрошитель Гиперсмерти
+DoGRiftCrack.DisplayName: Трещина Дисторсии ПБ
+FriendlyLaserWallBeam.DisplayName: Гибельный Луч Божественной Смерти
+GolemInfernoBolt.DisplayName: Огненный Сгусток Голема
+GolemInfernoBlast.DisplayName: Огненный Взрыв Голема
+IchorShower.DisplayName: Ихоровый Душ
+MushBombGround.DisplayName: Грибная Бомба
+RavagerNuke.DisplayName: Наводящаяся Ракета Опустошителя
+HomingLaserDart.DisplayName: Наводящийся Дротик
+HyperdeathRiftScepterBeam.DisplayName: Разрывный Потрошитель Гиперсмерти
+TelekineticEnemyGrab.DisplayName: Телекинетический Захват Врага
+TelekineticBlast.DisplayName: Телекинетический Всплеск

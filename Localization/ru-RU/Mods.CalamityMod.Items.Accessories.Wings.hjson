@@ -2,23 +2,9 @@ AureateBooster: {
 	DisplayName: Позолоченный Реактивный Ранец
 	Tooltip:
 		'''
-		Горизонтальная скорость: 8.00
-		Множитель ускорения: 1.5
-		Хорошая вертикальная скорость
-		Время полета: 120 очков (2 сек.)
+		{$CommonItemTooltip.FlightAndSlowfall}
+		{$CommonItemTooltip.PressUpToBooster}
 		'Звуковая скорость со стилем!'
-		'''
-}
-
-WingsofRebirth: {
-	DisplayName: Крылья Перерождения
-	Tooltip:
-		'''
-		Время полета: 360 очков (6 сек.)
-		Горизонтальная скорость: 11.50
-		Множитель Ускорения: 2.9
-		Вертикальная Скорость: Замечательная
-		'Он был лучезарен. До самой своей смерти'
 		'''
 }
 
@@ -26,11 +12,7 @@ ElysianWings: {
 	DisplayName: Элизийские Крылья
 	Tooltip:
 		'''
-		Время Полета: 240 очков (4 сек.)
-		Горизонтальная Скорость: 9.50 фут/сек
-		Множитель ускорения: 2.7x
-		Вертикальная Скорость: Отличная
-		Иммунитет к лаве и 10% увеличение скорости бега
+		{$CommonItemTooltip.FlightAndSlowfall}
 		'Благословлены Пламенем Скверны'
 		'''
 }
@@ -39,11 +21,8 @@ ExodusWings: {
 	DisplayName: Крылья Экзодуса
 	Tooltip:
 		'''
-		Время Полета: 180 очков (3 сек.)
-		Горизонтальная Скорость: 9.0 фут/сек
-		Множитель ускорения: 2.5x
-		Вертикальная Скорость: Отличная
-		5% увеличение метательного урона и шанса критической атаки, если надета Броня Эмпирея
+		{$CommonItemTooltip.FlightAndSlowfall}
+		Дарует постоянный Эмпирейский Гнев, если надета Броня Эмпирея
 		'Пульсируют чужеземным сердцебиением'
 		'''
 }
@@ -52,11 +31,7 @@ HadalMantle: {
 	DisplayName: Мантия Гадали
 	Tooltip:
 		'''
-		Время Полета: 180 очков (3 сек.)
-		Горизонтальная Скорость: 7.75 фут/сек
-		Множитель ускорения: 1.5x
-		Вертикальная Скорость: Средняя
-		5% увеличение урона, если надета Гидротермальная Броня
+		{$CommonItemTooltip.FlightAndSlowfall}
 		'Запитаны яростью глубин земли'
 		'''
 }
@@ -65,10 +40,7 @@ HadarianWings: {
 	DisplayName: Крылья Хадара
 	Tooltip:
 		'''
-		Время Полета: 90 очков (1.5 сек.)
-		Горизонтальная Скорость: 9.00 фут/сек
-		Множитель ускорения: 1.75x
-		Вертикальная Скорость: Хорошая
+		{$CommonItemTooltip.FlightAndSlowfall}
 		{$CommonItemTooltip.PressDownToHover}
 		'Черпают свои силы из Астральной Инфекции'
 		'''
@@ -79,13 +51,40 @@ MOAB: {
 	Tooltip:
 		'''
 		Считается крыльями
-		Время Полета: 75 очков (1.25 сек.)
-		Горизонтальная Скорость: 6.50 фут/сек
-		Множитель ускорения: 1.0x
-		Вертикальная Скорость: Хорошая
+		{$CommonItemTooltip.FlightAndSlowfall}
+		{$CommonItemTooltip.PressUpToBooster}
 		32% увеличение скорости прыжка и позволяет непрерывно прыгать
 		Дарует игроку эффекты прыжки от облака, снежной бури и песчаной бури в бутылке
+		[c/aaaaaa:Shift-<right> на этот предмет в вашем инвентаре, чтобы переключить эффект] [i:Jetpack] [c/aaaaaa:Реактивного Ранца]
 		'Матерь всех воздушных шаров'
+		'''
+}
+
+MoonWalkers: {
+	DisplayName: Луноходцы
+	TreadsName: Лунные Ботинки
+	Tooltip:
+		'''
+		{$CommonItemTooltip.FlightAndSlowfall}
+		+24% ускорения бега
+		Дарует эффекты [i:CalamityMod/AngelTreads] Ангельских Ходунов
+		Дарует иммунитет к лаве
+		[c/aaaaaa:Shift-<right> на этот предмет в вашем инвентаре, чтобы включить] [i:AngelWings] [c/aaaaaa:крылья]
+		'Hee hee!'
+		'''
+}
+
+SeraphTracers: {
+	DisplayName: Скороходы Серафима
+	TreadsName: Ходуны Серафима
+	Tooltip:
+		'''
+		{$CommonItemTooltip.FlightAndSlowfall}
+		+50% ускорения бега
+		Дарует эффекты [i:CalamityMod/AngelTreads] Ангельских Ходунов
+		Дарует иммунитет к лаве и наносящим урон блокам, включая [i:CalamityMod/AuricOre] Ауритовую Руду
+		[c/aaaaaa:Shift-<right> на этот предмет в вашем инвентаре, чтобы включить] [i:AngelWings] [c/aaaaaa:крылья]
+		'Берем скорость ЕЩЕ ДАЛЬШЕ ЗА ПРЕДЕЛЫ!'
 		'''
 }
 
@@ -93,35 +92,21 @@ SilvaWings: {
 	DisplayName: Крылья Сильвы
 	Tooltip:
 		'''
-		Время Полета: 270 очков (4.5 сек.)
-		Горизонтальная Скорость: 10.50 фут/сек
-		Множитель ускорения: 2.8x
-		Вертикальная Скорость: Замечательная
-		Возрождение Сильвы излечивает до половины здоровья, если на вас надета броня Сильвы
+		{$CommonItemTooltip.FlightAndSlowfall}
 		'Самые чистые в природе'
 		'''
 }
 
 SkylineWings: {
 	DisplayName: Крылья Горизонта
-	Tooltip:
-		'''
-		Время Полета: 80 очков (1.33 сек.)
-		Горизонтальная Скорость: 6.25 фут/сек
-		Множитель ускорения: 1.0x
-		Вертикальная Скорость: Средняя
-		'''
+	Tooltip: "{$CommonItemTooltip.FlightAndSlowfall}"
 }
 
 SoulofCryogen: {
 	DisplayName: Эссенция Криогена
 	Tooltip:
 		'''
-		Время Полета: 120 очков (2 сек.)
-		Горизонтальная Скорость: 6.25 фут/сек
-		Множитель ускорения: 1.0x
-		Вертикальная Скорость: Средняя
-		7% увеличение ко всему урону
+		{$CommonItemTooltip.FlightAndSlowfall}
 		Во время полета под вами падают сосульки
 		'''
 }
@@ -130,11 +115,7 @@ StarlightWings: {
 	DisplayName: Крылья Звездного Света
 	Tooltip:
 		'''
-		Время Полета: 150 очков (2.5 сек.)
-		Горизонтальная Скорость: 7.50 фут/сек
-		Множитель ускорения: 1.0x
-		Вертикальная Скорость: Средняя
-		5% увеличение урона и шанса критической атаки, если надета Броня Дедала
+		{$CommonItemTooltip.FlightAndSlowfall}
 		'Крылья Соловья'
 		'''
 }
@@ -143,101 +124,30 @@ TarragonWings: {
 	DisplayName: Таррагоновые Крылья
 	Tooltip:
 		'''
-		Время Полета: 250 очков (4.16 сек.)
-		Горизонтальная Скорость: 9.50 фут/сек
-		Множитель ускорения: 2.5x
-		Вертикальная Скорость: Отличная
-		+15 защиты и +1 ОЗ/с регенерации жизни, если надета Таррагоновая Броня
+		{$CommonItemTooltip.FlightAndSlowfall}
 		'Рождены джунглями'
 		'''
 }
 
-TracersCelestial: {
-	DisplayName: Небесные Скороходы
-	Tooltip:
-		'''
-		Считаются крыльями
-		Время Полета: 140 очков (2.33 сек.)
-		Горизонтальная Скорость: 9.00 фут/сек
-		Множитель ускорения: 2.6x
-		Вертикальная Скорость: Хорошая
-		24% увеличение ускорения бега и отличная мобильность на льду
-		Дарует возможность ходить по воде, меду и лаве
-		Дарует иммунитет к огню и лаве
-		'Ludicrous speed!'
-		'''
-}
-
-TracersElysian: {
-	DisplayName: Элизийские Скороходы
-	Tooltip:
-		'''
-		Считается крыльями
-		Время Полета: 180 очков (3 сек.)
-		Горизонтальная Скорость: 10.00 фут/сек
-		Множитель ускорения: 2.7x
-		Вертикальная Скорость: Отличная
-		36% увеличение ускорения бега и отличная мобильность на льду
-		Дарует возможность ходить по воде, меду и лаве
-		Дарует иммунитет к огню и лаве
-		'Ludicrous speed!'
-		'''
-}
-
-TracersSeraph: {
-	DisplayName: Скороходы Серафима
-	Tooltip:
-		'''
-		Считается крыльями
-		Время Полета: 250 очков (4.16 сек.)
-		Горизонтальная Скорость: 11.00 фут/сек
-		Множитель ускорения: 2.8x
-		Вертикальная Скорость: Замечательная
-		50% увеличение ускорения бега и отличная мобильность на льду
-		Дарует возможность ходить по воде, меду и лаве
-		Дарует иммунитет к огню, лаве и эффектам опасных блоков
-		'Берем скорость ЕЩЕ ДАЛЬШЕ ЗА ПРЕДЕЛЫ!'
-		'''
-}
-
-MoonWalkers: {
-	// DisplayName: Moon Walkers
-	// TreadsName: Moon Boots
-	/* Tooltip:
-		'''
-		{$CommonItemTooltip.FlightAndSlowfall}
-		24% increased running acceleration
-		Provides the effects of [i:CalamityMod/AngelTreads] Angel Treads
-		Provides immunity to lava
-		[c/aaaaaa:Shift-<right> this item in your inventory to toggle the] [i:AngelWings] [c/aaaaaa:wings]
-		'Hee hee!'
-		''' */
-}
-
-SeraphTracers: {
-	// DisplayName: Seraph Tracers
-	// TreadsName: Seraph Treads
-	/* Tooltip:
-		'''
-		{$CommonItemTooltip.FlightAndSlowfall}
-		50% increased running acceleration
-		Provides the effects of [i:CalamityMod/AngelTreads] Angel Treads
-		Provides immunity to lava and damaging tiles, including [i:CalamityMod/AuricOre] Auric Ore
-		[c/aaaaaa:Shift-<right> this item in your inventory to toggle the] [i:AngelWings] [c/aaaaaa:wings]
-		'Taking speed EVEN FURTHER BEYOND!'
-		''' */
-}
-
 VoidStriders: {
-	// DisplayName: Void Striders
-	// TreadsName: Void Kicks
-	/* Tooltip:
+	DisplayName: Шагоходы Пустоты
+	TreadsName: Бутсы Пустоты
+	Tooltip:
 		'''
 		{$CommonItemTooltip.FlightAndSlowfall}
-		36% increased running acceleration
-		Provides the effects of [i:CalamityMod/AngelTreads] Angel Treads
-		Provides immunity to lava
-		[c/aaaaaa:Shift-<right> this item in your inventory to toggle the] [i:AngelWings] [c/aaaaaa:wings]
+		+36% ускорения бега
+		Дарует эффекты [i:CalamityMod/AngelTreads] Ангельских Ходунов
+		Дарует иммунитет к лаве
+		[c/aaaaaa:Shift-<right> на этот предмет в вашем инвентаре, чтобы включить] [i:AngelWings] [c/aaaaaa:крылья]
 		'Ludicrous speed!'
-		''' */
+		'''
+}
+
+WingsofRebirth: {
+	DisplayName: Крылья Перерождения
+	Tooltip:
+		'''
+		{$CommonItemTooltip.FlightAndSlowfall}
+		'Он был лучезарен. До самой своей смерти'
+		'''
 }

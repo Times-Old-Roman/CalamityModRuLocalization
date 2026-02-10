@@ -28,46 +28,66 @@ CurrentlySelected: Ваш уровень сложности: {0}
 DifficultyClickText: "[c/919191:Нажмите для выбора сложности]"
 ExpertDifficultyLock: "[c/919191:Более высокие режимы доступны на Режиме Эксперта или выше]"
 ChangingTheRules: "[c/919191:Не-а, сейчас правила менять нельзя!]"
-NoDifficulty: Базовый Режим
-NoDifficultyInfo: Классическая Террария без изменений сложности Calamity
+DifficultySwitch: Сложность сменена с режима "[c/{0}:{1}]" на "[c/{2}:{3}]".
+ClassicInfo: Ваше Приключение Начинается... Расслабленный, простой вид игры в Terraria
+ExpertShortInfo: "[c/FF9900:Богатства и Слава, Малой. Для тех, кто хотят испытать более сложный, но ванильный, стиль]"
+ExpertExpandedInfo:
+	'''
+	[c/A87A07:Большинство боссов получают новые атаки, а существующие - усложняются]
+	[c/A87A07:Большинство противников имеют удвоенное количество здоровья, наносят удвоенный урон и получают на 10% меньше отбрасывания]
+	[c/A87A07:У некоторых противников появляются новые атаки, могут накладывать новые вредные эффекты или имеют более высокие шансы наложения уже существующих]
+	[c/A87A07:Взамен - противники роняют больше предметов более часто]
+	[c/A87A07:В свою очередь у боссов появляются свои собственные "Экспертные" награды]
+	[c/A87A07:Игроки роняют больше монет при смерти]
+	'''
+MasterShortInfo: "[c/FF2619:Игра окончена, друг, игра окончена! Значительное увеличение характеристик, по сравнению с Режимом Эксперта]"
+MasterExpandedInfo:
+	'''
+	[c/bd5e6e:Большинство противников получает еще больше здоровья и сопротивления отдаче, чем на Режиме Эксперта]
+	[c/bd5e6e:Все противники наносят еще больше урона, чем на Режиме Эксперта]
+	[c/bd5e6e:За боссов вы сможете получить новые и эксклюзивные декоративные награды]
+	[c/bd5e6e:Игроки роняют ВСЕ монеты при смерти]
+	[c/bd5e6e:Взамен, игроки получают дополнительный слот аксессуара с самого начала игры]
+	'''
+LegendaryShortInfo: "[c/32CD32:Для тех, кто достоен... Еще большие характеристики, чем на Режиме Мастера]"
+LegendaryExpandedInfo:
+	'''
+	[c/0b870b:Противники получают ЕЩЕ больше здоровья и контактного урона, чем на Режиме Мастера.]
+	[c/0b870b:Боссы становятся ЗНАЧИТЕЛЬНО сложнее.]
+	[c/0b870b:Для тех, кому нравится потрепать себе нервы.]
+	'''
 Revengeance: Режим «Месть»
-RevMaster: Мст+Маст
-RevLegend: Мст+Лег
-RevengeanceEnabled: Режим Мести теперь активен
-RevengeanceShortInfo: "[c/F54254:Рекомендуется для Calamity!]"
+RevengeanceShortInfo: "[c/F54254:Рекомендуемый режим игры в Calamity. Можно включить только в Режиме Эксперта]"
 RevengeanceExpandedInfo:
 	'''
-	[c/B55362:Включает механику] [c/85FFE9:Адреналина:]
-	[c/B55362:Вы накапливаете Адреналин во время битвы с боссами. При получении урона - Адреналин сбрасывается до 0]
+	[c/B55362:Включает механику] [c/85FFE9:Адреналина:] [c/B55362:Вы накапливаете Адреналин во время битвы с боссами. При получении урона - Адреналин сбрасывается до 0]
 	[c/B55362:  Если Адреналин на максимуме, то нажмите] {1} [c/B55362:чтобы получить большое усиление урона]
-	[c/B55362:Включает механику] [c/FF8B54:Буйства:]
-	[c/B55362:Вы накапливаете Буйство, пока находитесь рядом с врагами]
-	[c/B55362:или используя некоторые предметы]
+	[c/B55362:Включает механику] [c/FF8B54:Буйства:] [c/B55362:Вы накапливаете Буйство, пока находитесь рядом с врагами или используя некоторые предметы]
 	[c/B55362:  Если Буйство на максимуме, то нажмите] {0} [c/B55362:чтобы получить временное усиление урона]
-	[c/B55362:Большинство врагов имеет более высокие характеристики и более агрессивный ИИ]
-	[c/B55362:У боссов присутствуют новые механики ИИ, новые фазы и будут ронять предметы,]
-	[c/B55362:эксклюзивные для Режима Мастера.]
-	[c/B55362:Противники также появляются чаще.]
-	[c/F7342A:Этот режим сложнее Эксперта. Будьте готовы к серьезному испытанию]
+	[c/B55362:Большинство врагов имеет более высокие характеристики и более агрессивное поведение, а также чаще появляются]
+	[c/B55362:У боссов появляются новые механики и атаки. Некоторые - полностью переделаны]
+	[c/B55362:Боссы будут ронять "Экспертные" награды и декор из Режима Мастера.]
+	[c/F7342A:Этот режим значительно сложнее Эксперта. Готовьтесь к испытанию]
 	'''
-RevengeanceActivate: Месть активна.
-RevengeanceDeactivate: Месть не активна.
 Death: Режим «Смерть»
-DeathMaster: Смт+Маст
-DeathLegend: Смт+Лег
-DeathEnabled: Режим Смерти включен
 DeathShortInfo:
 	'''
-	[c/C82DF7:Еще более сложное испытание для опытных, или для тех,]
-	[c/C82DF7:кому просто интересно пойти на шаг выше, чем «Месть»]
+	[c/C82DF7:Еще более сложное испытание, чем «Месть»!]
+	[c/C82DF7:Можно включить только в Режиме Мастера]
 	'''
 DeathExpandedInfo:
 	'''
-	[c/B834E0:Все противники будут намного опаснее и имеют особо агрессивное ИИ и увеличенный урон]
-	[c/B834E0:У боссов очень сложные изменения ИИ.]
-	[c/B834E0:Противники еще более многочисленны и могут с легкостью задавить вас числом]
-	[c/B834E0:Отрицательные эффекты будут особенно летальны, а Бездна станет еще более опасной]
-	[c/E945FF:Будьте бдительны и настойчивы. Вам это понадобится, чтобы выжить]
+	[c/B834E0:Большинство базовых противников будут представлять намного большую игрозу своим агрессивным поведением]
+	[c/B834E0:Колитчество врагов во время Кровавых Лун преумножено настолько сильно, что вас задавят числом.]
+	[c/B834E0:Боссы значительно быстрее и намного сложнее, чем в Режиме «Месть»]
+	[c/B834E0:Отрицательные эффекты будут особо летальны, а Бездна станет еще более опасной]
+	'''
+Malice: Жесть
+MaliceShortInfo: "[c/f08080:Для тех, кто жаждет страданий. Можно включить только в Режиме Легенды]"
+MaliceExpandedInfo:
+	'''
+	[c/a34e4e:У противников совмещается поведение из Режима Смерти и сида "Для Достойных", а также характеристики Режима Легенды]
+	[c/a34e4e:На вашем месте я бы искал другие способы почувствовать адреналин... Но осуждать не буду]
 	'''
 DeathActivate: Режим Смерти активен; наслаждайтесь болью
 DeathDeactivate: Режим Смерти не активен; что, вам надоело?
@@ -137,26 +157,26 @@ Cooldowns: {
 	WulfrumBastionCooldown: Перезарядка Вульфрумового Бастиона
 	WulfrumRoverDriveDurability: Прочность Защитной Матрицы
 	WulfrumRoverDriveRecharge: Перезарядка Защитной Матрицы
-	// ArsenalPower: Arsenal Cooldown
-	// BubblyBurrowActive: Bubbly Burrow
-	// BubblyBurrowCooldown: Bubbly Burrow Cooldown
-	// DarklightEnergy: Darklight Energy
-	// DSOCritCooldown: Extra Critical Strike Chance
-	// ElementalMastery: Elemental Mastery
-	// FuryFuel: Crystal Powder
-	// BandCooldown: Band Cooldown
-	// HellbornShots: Hellborn Shots
-	// HolyProtection: Holy Protection
-	// KillModeActive: Kill Mode Active
-	// KillModeCooldown: Kill Mode Cooldown
-	// M1GarandShots: Chambered Rounds
-	// Panacea: Panacea Cooldown
-	// RaidersBoost: Extra Critical Strike Chance
-	// RelicOfResilienceCooldown: Relic of Resilience Cooldown
-	// ScarfCooldown: Scarf Cooldown
-	// Starburst: Stratus Starbursts
-	// WarbanneroftheRighteousBuff: Warbanner Strength
-	// WardingWave: Warding Wave Cooldown
+	ArsenalPower: Перезарядка Арсенала
+	BubblyBurrowActive: Пузырчатое Вскапывание
+	BubblyBurrowCooldown: Перезарядка Пузырчатого Вскапывания
+	DarklightEnergy: Энергия Темного Света
+	DSOCritCooldown: Дополнительный Шанс Критического Удара
+	ElementalMastery: Элементальное Мастерство
+	FuryFuel: Кристаллический Порошок
+	BandCooldown: Перезарядка Браслета
+	HellbornShots: Патроны Рожденого в Аду
+	HolyProtection: Святая Защита
+	KillModeActive: Режим Убийств Активен
+	KillModeCooldown: Перезарядка Режима Убийств
+	M1GarandShots: Патронов в Магазине
+	Panacea: Перезарядка Панацеи
+	RaidersBoost: Дополнительный Шанс Критического Удара
+	RelicOfResilienceCooldown: Перезарядка Реликвии Стойкости
+	ScarfCooldown: Перезарядка Шарфа
+	Starburst: Звездные Вспышки Стратуса
+	WarbanneroftheRighteousBuff: Сила Военного Знамени
+	WardingWave: Перезарядка Охранной Волны
 }
 
 // Enchantment + Draedon UI
@@ -178,14 +198,14 @@ DebuffSystem: {
 	Title: Сопротивления
 	Description:
 		'''
-		НИПы получают 2x урона от эффектов, к которым они уязвимы,
+		Существа получают 2x урона от эффектов, к которым они уязвимы,
 		и 0.5x урона от эффектов, к которым они устойчивы
 		'''
 	Heat: Огню
 	Cold: Холоду
 	Sickness: Болезни
 	Water: Воде
-	Electricity: Молнии
+	Electricity: Электричеству
 	To: к
 	Weak: Уязвимо
 	Neutral: Нейтрально
@@ -507,9 +527,9 @@ Communication: {
 
 			Бюрократы Искателя Богов часто напоминали мне, что публика организовывала митинги против моего продвижения науки. Из того, что они знали, это было обосновано. Они боялись, что наука могла бы создать еще какие-то бедствия в Террарии, наблюдая за разрушением экосистемы Серного Моря.\n
 
-			Я считал, что такой ответ - абсурд, но, видимо, не все понимают причины действия других. Несмотря на мое сомнительное достояние в глазах публики, многие другие ученые Террарии продолжают делать прогресс в науке, даже если их область и провоцирует необоснованное разжигание страха и панику.\n
+			Я считал, что такая реакция - абсурд, но, видимо, не все понимают причины действия других. Несмотря на мое сомнительное достояние в глазах публики, многие другие ученые Террарии продолжают делать прогресс в науке, даже если их область и провоцирует необоснованное разжигание страха и панику.\n
 
-			Так или иначе, если мне покажется надобным, то я обладаю инструментами, чтобы просто перестроить Серное Море с самого его основания. Его восстановление до первозданного состояния - тривиальное дело, что было бы ярким свидетельством творческого потенциала науки.
+			Так или иначе, если потребуется, то у меня присутствуют инструменты, чтобы перестроить всё Серное Море с самого его основания. Его восстановление до первозданного состояния - тривиальное дело, что было бы ярким свидетельством творческого потенциала науки.
 			'''
 	}
 }
@@ -661,53 +681,27 @@ Abyss: Избавляюсь от останков Сильвы
 SulphurSea2: Облучаю один из океанов
 Roxcalibur: Пойти побросать камни может...
 // Main Menu Name
-// MainMenu: Calamity Style
-// MainMenuClassic: Calamity Style - Classic
-// MainMenuSunken: Calamity Style - Sunken
-// Vis: Current Vis
-// DifficultySwitch: Difficulty changed from [c/{0}:{1}] to [c/{2}:{3}].
-// ClassicInfo: Your Adventure Begins... A relaxed, casual Terraria experience
-// ExpertShortInfo: "[c/FF9900:Fortune & Glory, Kid. For those looking for a more difficult vanilla experience]"
-/* ExpertExpandedInfo:
-	'''
-	[c/A87A07:Most bosses gain new attacks and more difficult attack patterns]
-	[c/A87A07:Most enemies have twice as much health, deal twice as much damage and receive 10% less knockback]
-	[c/A87A07:Certain enemies have new attacks, can inflict new debuffs or have a higher chance of inflicting debuffs they already had]
-	[c/A87A07:Enemies drop more loot and have higher drop rates for their items]
-	[c/A87A07:Bosses have exclusive, signature "Expert drop" items]
-	[c/A87A07:Players drop more of their coins on death]
-	''' */
-// MasterShortInfo: "[c/FF2619:Game over man, game over! A tough step up in stats from Expert Mode]"
-/* MasterExpandedInfo:
-	'''
-	[c/bd5e6e:Most enemies have even more health and knockback resistance than in Expert Mode]
-	[c/bd5e6e:All foes deal even more damage than in Expert Mode]
-	[c/bd5e6e:Bosses have new exclusive vanity rewards]
-	[c/bd5e6e:Players drop ALL their coins on death]
-	[c/bd5e6e:Players gain an additional accessory slot at the start of the game]
-	''' */
-// LegendaryShortInfo: "[c/32CD32:For those who are worthy... Even higher stats than Master Mode]"
-// LegendaryExpandedInfo: "[c/0b870b:Enemies have further increased health and contact damage from Master Mode]"
-// Malice: Malice
-// MaliceShortInfo: "[c/f08080:For those who wish for suffering. Can only be enabled in Legendary Mode]"
-// MaliceExpandedInfo: "[c/a34e4e:Enemies have Death Mode and For The Worthy behavior with Legendary Mode stats]"
+MainMenu: Стиль Calamity
+MainMenuClassic: Стиль Calamity (Классика)
+MainMenuSunken: Стиль Calamity (Утопленный)
+Vis: Вис
 // Worldgen Tasks
-// BetterUnderworld: Creating a smoother Underworld
-// UnderworldStructures: Remnants of an Azafurian and Demonic war
-// UnderworldTreesAndGrass: Growing Underworld flora
-// UnderworldGeyserTraps: Adding an Underworld minefield
-// ShimmerShrine: Excavating an ancient shimmer well
-// LivingMahoganyTree: Growing a giant jungle tree
-// TimelessShores: Digging a subaquatic graveyard
-// RadiantReefs: Making the sea sparkle and shine
-// PolypForest: Adding life to nutrient-rich waters
-// GleamingBurrows: Burying pearls and catching caustics
-// BasaltGully: Provoking volcanic activity below the sea
-// Planetoids: Enriching low Terraria orbit
-// AuricLandMines: Setting god killing traps
+BetterUnderworld: Делаю более гладкую Преисподнюю
+UnderworldStructures: Остатки Азафюро-Демонической войны
+UnderworldTreesAndGrass: Выращиваю флору Преисподней
+UnderworldGeyserTraps: Добавляю дополнительное минное поле в Преисподней
+ShimmerShrine: Выкапываю древний колодец мерцания
+LivingMahoganyTree: Выращиваю поистине огромное дерево в джунглях
+TimelessShores: Раскапываю подводное кладбище
+RadiantReefs: Заставляю море замерцать и засиять
+PolypForest: Добавляю жизнь в богатые веществами воды
+GleamingBurrows: Закапываю жемчук и ловлю отблески
+BasaltGully: Провоцирую вулканическую активность под морем
+Planetoids: Обогащаю низкую орбиту Террарии
+AuricLandMines: Устанавливаю способные убить богов ловушки
 // Hold Shift tooltip default
-// HoldShiftTooltipExtensionIndicator: Hold Shift for more
-// HoldShiftTooltipReplacementIndicator: Hold Shift for details
+HoldShiftTooltipExtensionIndicator: Удерживайте Shift, чтобы узнать больше
+HoldShiftTooltipReplacementIndicator: Удерживайте Shift, чтобы просмотреть детали
 // Dev and Donor Items
-// DevItemTooltip: - Dev Item -
-// DonorItemTooltip: - Donor Item -
+DevItemTooltip: - Предмет Разработчика -
+DonorItemTooltip: - Предмет Донора -

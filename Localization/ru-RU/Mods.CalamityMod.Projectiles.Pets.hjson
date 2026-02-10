@@ -29,6 +29,6 @@ SCalPet.DisplayName: Каламитас Великая
 Sparks.DisplayName: Спаркс
 ThirdSage.DisplayName: Третий Мудрец
 YharonSonPet.DisplayName: Сын Ярона
-// FrostyBatPet.DisplayName: Frosty Bat Friend
-// ToastyBatPet.DisplayName: Toasty Bat Friend
-// BurrowerPet.DisplayName: Burrower
+FrostyBatPet.DisplayName: Дружок-Морозная Летучая Мышь
+ToastyBatPet.DisplayName: Дружок-Теплая Летучая Мышь
+BurrowerPet.DisplayName: Копатель

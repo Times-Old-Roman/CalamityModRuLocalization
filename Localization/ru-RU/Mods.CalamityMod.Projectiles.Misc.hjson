@@ -69,27 +69,27 @@ PlagueShotBuffer.DisplayName: Чумной Снаряд
 WaterShot.DisplayName: Водяной Выстрел
 WaterShotBuffer.DisplayName: Водяной Выстрел
 // Draedon's Arsenal
-// AerialTrackerLaser.DisplayName: Laser
-// AerialTrackerProjectile.DisplayName: Aerial Tracker
-// AqueousHunterDroneSummon.DisplayName: Plasma Shrimp
-// AugerHoldout.DisplayName: P-GSS Auger
-// AugerSlash.DisplayName: Auger Slash
-// AugerPull.DisplayName: Auger Pull
-// CountermeasurePalmBlast.DisplayName: Palm Blast
-// ImmolationArrow.DisplayName: Immolation Arrow
-// ImmolationBurst.DisplayName: Immolation Burst
-// ImmolationSpray.DisplayName: Immolation Spray
-// NidhoggRailgunBigShot.DisplayName: Nidhogg Railgun
-// NidhoggRailgunBlast.DisplayName: Nidhogg Beam
-// NidhoggExplosion.DisplayName: Magnetic Implosion
-// PhalanxSurgeLance.DisplayName: Laser Lance
-// PhalanxSurgeLaser.DisplayName: Phalanx Laser
-// PulseGrenadeProjectile.DisplayName: Pulse Grenade
-// PulseGrenadeOrb.DisplayName: Pulse Orb
-// ShortCircuitHook.DisplayName: Short Circuit Hook
-// ShrimpPlasmaMissile.DisplayName: Plasma Shrimp Missile
-// VulcanProjectile.DisplayName: Vulcan Shot
-// VulcanSpear.DisplayName: Vulcan Harpoon
-// BarrelCactusProjectile.DisplayName: Barrel Cactus
-// Lilyglow.DisplayName: Lilyglow
-// WaterAlgae.DisplayName: Water Algae
+AerialTrackerLaser.DisplayName: Лазер
+AerialTrackerProjectile.DisplayName: Воздушный Преследователь
+AqueousHunterDroneSummon.DisplayName: Плазменная Креветка
+AugerHoldout.DisplayName: П-ГСС Авгур
+AugerSlash.DisplayName: Взмах Авгура
+AugerPull.DisplayName: Притяжение Авгура
+CountermeasurePalmBlast.DisplayName: Ладонный Взрыв
+ImmolationArrow.DisplayName: Стрела Сожжения
+ImmolationBurst.DisplayName: Всплеск Сожжения
+ImmolationSpray.DisplayName: Туман Сожжения
+NidhoggRailgunBigShot.DisplayName: Рельсотрон Нидхогга
+NidhoggRailgunBlast.DisplayName: Луч Нидхогга
+NidhoggExplosion.DisplayName: Магнитное Сокрушение
+PhalanxSurgeLance.DisplayName: Лазерное Копье
+PhalanxSurgeLaser.DisplayName: Лазер Фаланги
+PulseGrenadeProjectile.DisplayName: Пульсовая Гранат
+PulseGrenadeOrb.DisplayName: Пульсовая Сфера
+ShortCircuitHook.DisplayName: Крюк Короткого Замыкания
+ShrimpPlasmaMissile.DisplayName: Ракета Плазменной Креветки
+VulcanProjectile.DisplayName: Снаряд Вулкана
+VulcanSpear.DisplayName: Гарпун Вулкана
+BarrelCactusProjectile.DisplayName: Какту-Бочка
+Lilyglow.DisplayName: Лилиевый Свет
+WaterAlgae.DisplayName: Водоросли

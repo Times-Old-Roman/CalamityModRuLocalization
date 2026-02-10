@@ -11,7 +11,7 @@ AldebaranAlewife: {
 
 ArcturusAstroidean: {
 	DisplayName: Морская Звезда Арктуруса
-	Tooltip: Увеличивает мастерство рыбалки, если использовать в Астральной Инфекции или Серном Море
+	Tooltip: Увеличивает мастерство рыбалки на {0}x, если использовать в Астральной Инфекции или Серном Море
 }
 
 AstralCrate: {
@@ -43,9 +43,10 @@ UrsaSergeant: {
 	DisplayName: Сержант Большой Медведицы
 	Tooltip:
 		'''
-		-15% скорости движения
-		Дарует иммунитет к Астральной Инфекции и Звериный Укус
-		Чем меньше здоровья - тем больше регенерации
+		Атаки терзают противников астральными когтями
+		Получение урона сбрасывает перезарядку, но накладывает на вас эффект "{$Buffs.AstralInfectionDebuff.DisplayName}"
+		Убийства противников уменьшают перезарядку
+		Взмахи будут прозрачными и тихими, если отключена видимость
 		'''
 }
 
@@ -54,17 +55,17 @@ Bloodfin: {
 	DisplayName: Кровоперка
 	Tooltip:
 		'''
-		Дает эффект, который дарует +2.5 ОЗ/с регенерации жизни
-		+2.5 ОЗ/с регенерации жизни, если на вас отрицательный эффект
-		Этот эффект напрямую восстанавливает 2 ОЗ/с, если у вас меньше 75% здоровья
-		Эффект длится 10 секунд
+		Дает эффект, который дарует +{0} ОЗ/с регенерации жизни и сильно увеличивает естественную регенерацию жизни
+		+{1} ОЗ/с регенерации жизни, если на вас отрицательный эффект
+		Этот эффект напрямую восстанавливает ОЗ каждые {2} {^2:секунду;секунды;секунд}, если у вас меньше {3}% здоровья
+		{$CommonItemTooltip.SecondDuration@4}
 		'Чудеса ангиогенеза'
 		'''
 }
 
 Brimlish: {
 	DisplayName: Серорыба
-	QuestDescription: Когда ты убил того Элементаля Серы, ее дети упали в лаву после битвы. Ходят слухи, что они мутировали в рыбу, и поэтому я бы очень хотел, чтобы ты выловил одну для моего нового лавового аквариума.
+	QuestDescription: Ты реально убил ту большую огненную тетку? Я слыхал, что её дети сбежали в лаву и некоторые мутировали в рыбу! Я, конечно, не собираюсь обжигать себе руки, так что ты сходиди и поймай такую для моего нового лавового аквариума!
 }
 
 BrimstoneCrate: {
@@ -108,8 +109,7 @@ DragoonDrizzlefish: {
 
 Havocfish: {
 	DisplayName: Рыба Хаоса
-	Tooltip: Нажмите <right>, чтобы извлечь из нее эссенцию
-	// QuestDescription: When you killed that gross flesh wall, so much chaos and havoc was infused into those ruinous crags that even the lava sprouted fish made of the pure essence! Go fetch it for me, pure havoc sounds like exactly what my next scheme needs!
+	QuestDescription: Когда ты убил ту мерзкую стену из плоти, эти стремные скалы столько хаоса пропитало, что даже в лаве появилась рыба из чистой эссенции! Поймай её мне, чистый хаос звучит как-раз как то, что нужно моей следующей идейке!
 }
 
 Shadowfish: {
@@ -124,10 +124,16 @@ SlagCrate: {
 
 Slurpfish: {
 	DisplayName: Рыба-Сосун
-	QuestDescription: Знаешь, если я тебя отправлю в древние руины в глубинах ада ловить рыбу, то это было бы настоящей катастрофой, не так ли? Ну сочувствую, я именно это и надумал. А теперь проваливай! Рыба сама себя не поймает.
+	QuestDescription: Эй, {0}, если я тебя отправлю в древние руины в глубинах ада ловить рыбу, то это было бы настоящей катастрофой, не так ли? Ну, я слыхал о страшной рыбе, которая может высасывать души из людей! Мне моя еще нужна, так что проваливай! Рыба сама себя не поймает!
 }
 
 // Sunken Sea Catches
+CoralskinFoolfish: {
+	DisplayName: Кораллокожая Рыба-Дурак
+	Tooltip: Камуфляж - один из лучих видов защиты природы
+}
+
+
 EutrophicCrate: {
 	DisplayName: Эвтрофный Ящик
 	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
@@ -138,10 +144,23 @@ EutrophicSandfish: {
 	QuestDescription: Тебе приходилось видеть, что произойдет с ящерицей из пустыни, если она зароется слишком глубоко в подземелье? А я видел, и, блин, они прикольные! Но они, зараза, слишком скользкие, чтобы я смог их руками хватать. Давай иди и поймай, я себе хочу нового питомца!
 }
 
+GleamingCucumber: {
+	DisplayName: Сверкающий Огурец
+	Tooltip: Скользкая, слизистая живность, которую можно найти на полу Полиповых Лесов
+}
+
 GreenwaveLoach: {
 	DisplayName: Вьюн Зеленой Волны
 	Tooltip: Исчезающая рыба, которая высоко ценится на рынке
 }
+
+MoltenFishron: {
+	DisplayName: Литой Рыбокрыл
+	Tooltip:
+		'''
+		Вместо кряканий оно делает хрюкающие звуки дыхания
+		Хотя возможно это потому, что вы ее вынули из лавы
+		'''
 
 PrismCrate: {
 	DisplayName: Призматический Ящик
@@ -157,25 +176,20 @@ RustedJingleBell: {
 	DisplayName: Ржавый Колокольчик
 	Tooltip:
 		'''
-		Призывает маленького светового питомца-медузу колокол
+		Призывает маленького светового питомца-медузу призрачный колокольчик
 		Дает умеренное количество света под водой
+		{$Common.AbyssLightLevel}
 		'''
 }
 
 SerpentsBite: {
 	DisplayName: Змеиный Укус
-	Tooltip:
-		'''
-		Дистанция: 28.125 фут
-		Скорость Запуска: 18 фут/сек
-		Скорость Возвращения: 14 фут/сек
-		Скорость Притяжения: 12 фут/сек
-		'''
+	Tooltip: "{$Common.GrappleStats}"
 }
 
 Serpentuna: {
 	DisplayName: Серпантунец
-	QuestDescription: Морские змеи чудесны, но не настолько чудесны, как ужас на лице тех, кто найдет такого на своем стуле. Вылови мне пару таких для следующей страшилки. Дедлайн - завтра.
+	QuestDescription: Я устал от того, что мне не позволяют ловить этих змей в Ильмерских Водах! Я хочу выловить всех малышей змеюг, и мне нужна ТВОЯ помощь, чтобы это сделать! ...Что? Нет, я не ворую у других деньги...
 }
 
 SparklingEmpress: {
@@ -187,6 +201,20 @@ SparklingEmpress: {
 		'''
 }
 
+SpecularSturgeon: {
+	DisplayName: Зеркальный Осетр
+	Tooltip:
+		'''
+		Глубоководная рыба, способная жить несколько поколений
+		Говорить это не требуется, но она старая!
+		'''
+}
+
+Squidoom: {
+	DisplayName: Пагубный Кальмар
+	Tooltip: Говорят, что если на него слишком долго смотреть, то можно войти в гипнотическое состояние
+}
+
 SunkenSailfish: {
 	DisplayName: Затонувший Парусник
 	Tooltip: Мечется на скорости 60 милей в час
@@ -194,7 +222,7 @@ SunkenSailfish: {
 
 SurfClam: {
 	DisplayName: Устрица-Серфер
-	QuestDescription: А ты знал, что устрицы - деликатес? Я слышал, что под пустыней есть их огромная колония. Я уже чувствую голод от одного разговора. Мне позарез важно, чтобы ты выловил парочку. Я так попрактикуюсь в кулинарии и приглушу голод.
+	QuestDescription: Ходят слухи, что тем морем под пустыней завладел рой устриц! Устрицы - деликатес, так что мне от одного разговора уже становится голодно! Поможешь приглушить мой голод? Да конечно же поможешь! Только сделай так, чтобы и ты и мои устрицы вернулись целыми и невридимыми!
 }
 
 // Other Catches
@@ -209,33 +237,22 @@ EnchantedStarfish: {
 
 FishofEleum: {
 	DisplayName: Рыба Элеума
-	Tooltip: Нажмите <right>, чтобы извлечь из нее эссенцию
-	// QuestDescription: It's so unfair that all the cool fish only come out when you slay big demon guys! I mean that "cool" in two ways by the way. I've seen fish in the tundra materialized out of the essence of pure coldness! It's about time I get an ice pack for my fish, so fetch me that fish, or you're cold!
+	QuestDescription: Блин, ну почему вся самая улетная рыба выходит играть только когда ты заваливаешь каких-нибудь демонических громил! Улетная? Я хотел сказать у-лед-ная, хаха! Я видал рыбу в тундре, которая материализовалась из этой эссенции чистого холода! Думаю уже пора мне обзавестись морозилкой, так что пойди поймай мне эту рыбеху, пока след не простыл!
 }
 
 FishofFlight: {
 	DisplayName: Рыба Полета
-	Tooltip: Нажмите <right>, чтобы извлечь из нее эссенцию
-}
-
-FishofLight: {
-	DisplayName: Рыба Света
-	Tooltip: Нажмите <right>, чтобы извлечь из нее эссенцию
-}
-
-FishofNight: {
-	DisplayName: Рыба Ночи
-	Tooltip: Нажмите <right>, чтобы извлечь из нее эссенцию
+	Tooltip: Нажмите <right>, чтобы извлечь из нее эссенцию [i:SoulofFlight]
 }
 
 GlimmeringGemfish: {
 	DisplayName: Сверкающая Рыба-Самоцвет
-	Tooltip: Нажмите <right>, чтобы извлечь из нее самоцветы
+	Tooltip: Нажмите <right>, чтобы извлечь из нее [ITEMS] самоцветы
 }
 
 Gorecodile: {
 	DisplayName: Кроводил
-	Tooltip: Нажмите <right>, чтобы извлечь из него сгустки крови
+	Tooltip: Нажмите <right>, чтобы извлечь из него [i:CalamityMod/BloodOrb] сгустки крови
 }
 
 HydrothermalCrate: {
@@ -264,8 +281,7 @@ SulphurousCrate: {
 
 SunbeamFish: {
 	DisplayName: Рыба Лучей
-	Tooltip: Нажмите <right>, чтобы извлечь из нее эссенцию
-	// QuestDescription: Have you ever seen those sunskaters that float way above the clouds? Well, I'll let you in on my little secret: They began their lives as little fish! So what are you waiting for, go reach for the stars and pluck one down for me!
+	QuestDescription: Ты видал тех солнечных коньков в облаках? Ну, давай я тебе кое-что расскажу, секретик такой: они начинают свои жизниь как крохотные рыбки! Так чего ждешь? Полети к звездам и сорви одну с неба для меня!
 }
 
 // Fishing Rods
@@ -291,7 +307,7 @@ HeronRod: {
 	DisplayName: Удочка Цапли
 	Tooltip:
 		'''
-		Увеличивает мастерство рыбалки в Космосе
+		Увеличивает мастерство рыбалки в Космосе на {0}x
 		'Длинный клюв бесшумно опустился, схватил рыбку за голову и выдернул из воды.
 		Цапля быстро заглатывала добычу, а хвост рыбки отчаянно извивался'
 		'''
@@ -301,9 +317,9 @@ NavyFishingRod: {
 	DisplayName: Морская Удочка
 	Tooltip:
 		'''
-		Пока вы ее держите, противников рядом постепенно бьет током
+		Поплавки накладывают Статический Разряд на ближайших противников
 		'Море - это город
-		Прямо под нами тянутся автострады, бульвары, улицы и кружные дороги с довольно бурным подводным движением'
+		Прямо под нами тянутся автострады, бульвары, улицы и развязки, полные бурного подводного движения'
 		'''
 }
 
@@ -311,7 +327,7 @@ RiftReeler: {
 	DisplayName: Разломная Катушка
 	Tooltip:
 		'''
-		Бросает сразу от 3 до 5 лесок.
+		Бросает сразу 4 лесок.
 		Позволяет рыбачить в лаве
 		'Поле боя - это сцена постоянного хаоса
 		Победителем станет тот, кто обуздает этот хаос, как удочку, так и рыбу'
@@ -332,6 +348,9 @@ TheDevourerofCods: {
 	Tooltip:
 		'''
 		Бросает сразу 10 лесок. Позволяет рыбачить в лаве и ее леска никогда не рвется
+		Пойманные предметы не пропадают
+		Обычная рыба автоматически потребляется, пока вы рыбачите
+		Потребление рыбы позволяет крючку зацепиться за новый предмет и кормит пользователя
 		'Пожиратель однажды был всего лишь подъедателем косяков'
 		'''
 }
@@ -340,14 +359,18 @@ VerstaltiteFishingRod: {
 	DisplayName: Удочка Ферсталита
 	Tooltip:
 		'''
-		Увеличивает мастерство рыбалки, пока вы в Тундре
+		Увеличивает мастерство рыбалки на {0}x, пока вы в Тундре
 		Призматические свойства ее древнего сплава идеальны для привлечения слов
 		'''
 }
 
 WulfrumRod: {
 	DisplayName: Вульфрумовая Удочка
-	Tooltip: "'Она еле работает, но все-таки лучше, чем ничего...'"
+	Tooltip:
+		'''
+		Может поймать Вульфрумовый Металлолом и Вульфрумовые Энергетические Ядра
+		'Она еле работает, но все-таки лучше, чем ничего...'
+		'''
 }
 
 // Bait
@@ -356,101 +379,67 @@ GrandMarquisBait: {
 	Tooltip: ""
 }
 
-// CaughtInSnow: Caught in Tundra
-// CaughtInSpace: Caught in Sky Lakes
-// LocationTooltip: "'{0}'"
-
-// Sunken Sea Catches
-CoralskinFoolfish: {
-	// DisplayName: Coralskin Foolfish
-	// Tooltip: Camouflage is one of nature's best defenses
-}
-
-GleamingCucumber: {
-	// DisplayName: Gleaming Cucumber
-	// Tooltip: A slippery, slimy creature found on the Polyp Forest's floor
-}
-
-MoltenFishron: {
-	// DisplayName: Molten Fishron
-	/* Tooltip:
-		'''
-		Instead of honking it makes crisp wheezing noises 
-		Or maybe it actually is wheezing due to being taken out of lava
-		''' */
-}
-
-SpecularSturgeon: {
-	// DisplayName: Specular Sturgeon
-	/* Tooltip:
-		'''
-		A deep-dwelling fish that can live for many generations
-		Needless to say, it's old!
-		''' */
-}
-
-Squidoom: {
-	// DisplayName: Squidoom
-	// Tooltip: Those who gaze at it for too long are said to enter a hypnotic state
-}
+CaughtInSnow: Поймано в Тундре
+CaughtInSpace: Поймано на Небесных Островах
+LocationTooltip: "'{0}'"
 
 // Bobbers
 ScrapBobber: {
-	// DisplayName: Wulfrum Bobber
-	/* Tooltip:
+	DisplayName: Вульфрумовый Поплавок
+	Tooltip:
 		'''
-		Provides a fishing minigame
-		Move in the indicated direction while fishing to catch items
-		The rod empowers the longer you go without a mistake, speeding it up
-		'There's supposed to be a fish finder installed, but it only beeps when you point it at yourself...'
-		''' */
+		Устраивает рыболовную мини-игру
+		Двигайтесь в указанном направлении, пока рыбачите, чтобы поймать предмет
+		Удочка усиливается, если вы играете без ошибок, ускоряя еёup
+		'Тут должен был быть установлен эхолот, но он пиликает только если направить на себя...'
+		'''
 }
 
 NavystoneBobber: {
-	// DisplayName: Sunken Sinker
-	/* Tooltip:
+	DisplayName: Затонувший Поплавок
+	Tooltip:
 		'''
 		{$ItemTooltip.FishingBobber}
-		Provides a fishing minigame
-		The bobber will float at your height underwater, allowing underwater fishing
-		Move in the indicated direction while fishing to catch items
-		''' */
+		Устраивает рыболовную мини-игру
+		Поплавок всплывет до вашей высоты, позволяя рыбачить
+		Двигайтесь в указанном направлении, пока рыбачите, чтобы поймать предмет
+		'''
 }
 
 SkylineBobber: {
-	// DisplayName: Acrobatic Bobber
-	/* Tooltip:
+	DisplayName: Поплавок Акробата
+	Tooltip:
 		'''
 		{$ItemTooltip.FishingBobber}
-		Provides a fishing minigame
-		Moving while fishing instead moves your bobbers
-		Rings appear over time above the water's surface
-		Touching a ring hooks an item onto the bobber
-		Bobbers will automatically reel in hooked items upon landing back in the water
-		''' */
+		Устраивает рыболовную мини-игру
+		Движение во время рыбалки двигает ваш поплавок
+		Со временем над поверхностью воды появляются кольца
+		Касание кольца зацепляет предмет поплавком
+		Поплавки автоматически поднимут зацепленный предмет, как только попадут обратно в воду
+		'''
 }
 
 PerennialBobber: {
-	// DisplayName: Feral Bobber
-	/* Tooltip:
+	DisplayName: Дикий Поплавок
+	Tooltip:
 		'''
 		{$ItemTooltip.FishingBobber}
-		Gains fishing power the more life you have lost
-		Provides a fishing minigame
-		Hold <right> while catching fish to drain life and speed up catches
-		Bobbers can hook onto enemies, dealing damage when life is drained
-		''' */
+		Чем меньше у вас здоровья, тем больше даруется рыболовного мастерства
+		Устраивает рыболовную мини-игру
+		Удерживайте <right>, пока ловите рыбу, чтобы вытянуть жизнь и ускорить ловлю
+		Поплавки могут зацепиться за врага, нанося урон, если у вас вытягивается здоровье
+		'''
 }
 
 ScoriaBobber: {
-	// DisplayName: Volcanic Sinker
-	/* Tooltip:
+	DisplayName: Вулканическое Грузило
+	Tooltip:
 		'''
 		{$ItemTooltip.FishingBobber}
-		Allows fishing in lava
-		Provides a fishing minigame
-		Moving while fishing instead moves your bobbers
-		Rifts appear over time in liquids, containing an item
-		When bobbers touch a rift, they automatically reel in the item within
-		''' */
+		Позволяет рыбачить в лаве
+		Устраивает рыболовную мини-игру
+		Движение во время рыбалки двигает поплавок
+		Со временем в жидкостях появляются разломы, в которых есть предмет
+		Если поплавок касается разлома, то он автоматически собирает предмет внутри
+		'''
 }

@@ -330,21 +330,21 @@ WulfrumDroid.DisplayName: Вульфрумовый Дроид
 WulfrumEnergyBurst.DisplayName: Вульфрумовый Болт
 WulfrumFusionBolt.DisplayName: Сгусток Синтеза
 YharonMinionFireball.DisplayName: Драконий Огненный Шар
-// AmphibiansGuitarMinion.DisplayName: Amphibian's Guitars
-// AmphibiansGuitarProjectile.DisplayName: Note
-// CelestialAxeMinion.DisplayName: Celestial Axe
-// EnchantedKnifeSummon.DisplayName: Enchanted Knife
-// EnchantedKnifeStaffProjectile.DisplayName: Enchanted Knife Beam
-// EndoHydraRay.DisplayName: Endo Ray
-// VoidEaterMarionetteBody.DisplayName: Void Eater Marionette
-// VoidEaterMarionetteHead.DisplayName: Void Eater Marionette
-// VoidEaterMarionetteTail.DisplayName: Void Eater Marionette
-// DoGWeaponTeleportRift.DisplayName: Rift
-// SarosEclipseBeam.DisplayName: Eclipse Beam
-// SeashineSwordProj.DisplayName: Seashine Sword
-// SiriusQuasar.DisplayName: Sirius Quasar
-// SunSpiritBeam.DisplayName: Sun Beam
-// SunSpiritMinion.DisplayName: Sun Spirit
-// VengefulSunBeam.DisplayName: Vengeful Sun Beam
-// VengefulSunSpiritMinion.DisplayName: Vengeful Sun Spirit
-// VoidEaterMarionetteProjectile.DisplayName: Void Eater Marionette
+AmphibiansGuitarMinion.DisplayName: Гитары Амфибии
+AmphibiansGuitarProjectile.DisplayName: Записка
+CelestialAxeMinion.DisplayName: Небесный Топор
+EnchantedKnifeSummon.DisplayName: Зачарованный Нож
+EnchantedKnifeStaffProjectile.DisplayName: Луч Зачарованного Ножа
+EndoHydraRay.DisplayName: Endo Ray
+VoidEaterMarionetteBody.DisplayName: Марионетка Пожирателя из Пустоты
+VoidEaterMarionetteHead.DisplayName: Марионетка Пожирателя из Пустоты
+VoidEaterMarionetteTail.DisplayName: Марионетка Пожирателя из Пустоты
+DoGWeaponTeleportRift.DisplayName: Разлом
+SarosEclipseBeam.DisplayName: Луч Затмения
+SeashineSwordProj.DisplayName: Меч Морского Блеска
+SiriusQuasar.DisplayName: Квазар Сириуса
+SunSpiritBeam.DisplayName: Солнечный Луч
+SunSpiritMinion.DisplayName: Солнечный Дух
+VengefulSunBeam.DisplayName: Луч Мстительного Солнца
+VengefulSunSpiritMinion.DisplayName: Дух Мстительного Солнца
+VoidEaterMarionetteProjectile.DisplayName: Марионетка Пожирателя из Пустоты

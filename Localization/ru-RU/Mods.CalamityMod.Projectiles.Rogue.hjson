@@ -327,44 +327,44 @@ WrathwingCinder.DisplayName: Извержение Крыла Гнева
 WrathwingFireball.DisplayName: Огненный Шар Крыло Гнева
 WrathwingSpear.DisplayName: Крыло Гнева
 WulfrumKnifeProj.DisplayName: Вульфрумовый Кинжал
-// AntlionSkewerProj.DisplayName: Antlion on a Stick
-// AntlionSkewerSandBlast.DisplayName: Antlion Blast
-// AntlionSkewerSandCloud.DisplayName: Dense Sand Cloud
-// ApoctolithExplosion.DisplayName: Apoctolith Boom
-// BallisticPoisonCloud.DisplayName: Ballistic Cloud
-// BlazingStarOrbital.DisplayName: Orbital Blazing Star
-// BurningStrifeExplosion.DisplayName: Shadow Flame Explosion
-// BurningTentacle.DisplayName: Strife Tentacle
-// DestructionExplosion.DisplayName: Destruction Explosion
-// DimensionTearingDiskProjectile.DisplayName: Dimension-Tearing Disk
-// GlaiveOrbital.DisplayName: Orbital Glaive
-// LeviathanToothStealth.DisplayName: Leviathan Jaw
-// LyraConstellation.DisplayName: Lyra Constellation
-// MeteorFistMeteorite.DisplayName: Meteorite REALLY Gud For A Lot Of Shtuff
-// PumpkaboomSmall.DisplayName: Small Pumpkaboom
-// PumpkaboomBoomSmall.DisplayName: Pump-kaboom!
-// PumpkaboomBig.DisplayName: Big Pumpkaboom
-// PumpkaboomBoomBig.DisplayName: Pump-KABOOM!!
-// RadiationBurst.DisplayName: Radiation Burst
-// RadiationRain.DisplayName: Radiation Rain
-// ReboundingRainbowProj.DisplayName: Rebounding Rainbow
-// ReboundingRainbowSplit.DisplayName: Rebounding Rainbow
-// RefractionRotorSlashCreator.DisplayName: Refraction Rotor Slash Creator
-// RefractionSlash.DisplayName: Refraction Slash
-// SandDollarFrag.DisplayName: Sand Dollar Frag
-// ShatteredDawnKnife.DisplayName: Shattered Dawn
-// ShatteredDawnScorchedBlade.DisplayName: Scorched Blade
-// ShockBolt.DisplayName: Shock Bolt
-// ShockExplosion.DisplayName: Shock Explosion
-// DoomsdayDeviceProjectile.DisplayName: Doomsday Device
-// SmallCoral.DisplayName: Small Coral
-// SporeKnifeBud.DisplayName: Spore Knife Bud
-// SporeKnifeProj.DisplayName: Spore Knife
-// ToxicantTwisterProj.DisplayName: Toxicant Twister
-// UrchinIrradiation.DisplayName: Irradiation
-// VegaProjectile.DisplayName: Vega
-// VegaSpark.DisplayName: Vega Spark
-// VegaStar.DisplayName: Vega Star
-// WhitewaterAura.DisplayName: Whitewater Aura
-// WhitewaterProj.DisplayName: Whitewater Flask
-// WhitewaterSpear.DisplayName: Whitewater Spear
+AntlionSkewerProj.DisplayName: Муравьиный Лев на Палке
+AntlionSkewerSandBlast.DisplayName: Взрыв Муравьиного Льва
+AntlionSkewerSandCloud.DisplayName: Плотное Облако Песка
+ApoctolithExplosion.DisplayName: Бум Апоктолита
+BallisticPoisonCloud.DisplayName: Баллистическое Облако
+BlazingStarOrbital.DisplayName: Орбитальная Пылающая Звезда
+BurningStrifeExplosion.DisplayName: Взрыв Теневого Пламени
+BurningTentacle.DisplayName: Щупальце Раздора
+DestructionExplosion.DisplayName: Взрыв Разрушения
+DimensionTearingDiskProjectile.DisplayName: Разрывающий Измерения Диск
+GlaiveOrbital.DisplayName: Орбитальная Глефа
+LeviathanToothStealth.DisplayName: Челюсть Левиафана
+LyraConstellation.DisplayName: Созвездие Лиры
+MeteorFistMeteorite.DisplayName: Метеорит ОООООчень Хорош Для Много Чего, Мда Да
+PumpkaboomSmall.DisplayName: Маленький Тыквобум
+PumpkaboomBoomSmall.DisplayName: Тыквобум!
+PumpkaboomBig.DisplayName: Большой Тыквобум
+PumpkaboomBoomBig.DisplayName: ТыквоКАБУУУМММ!!
+RadiationBurst.DisplayName: Взрыв Радиации
+RadiationRain.DisplayName: Дождь Радиации
+ReboundingRainbowProj.DisplayName: Скачующая Радуга
+ReboundingRainbowSplit.DisplayName: Скачующая Радуга
+RefractionRotorSlashCreator.DisplayName: Спавнер Разрезов Рефракционного Ротора
+RefractionSlash.DisplayName: Рефракционный Разрез
+SandDollarFrag.DisplayName: Фрагмент Щитовидного Морского Ежа
+ShatteredDawnKnife.DisplayName: Расколотая Заря
+ShatteredDawnScorchedBlade.DisplayName: Жгучее Лезвие
+ShockBolt.DisplayName: Шоковый Сгусток
+ShockExplosion.DisplayName: Шоковый Взрыв
+DoomsdayDeviceProjectile.DisplayName: Инструмент Судного Дня
+SmallCoral.DisplayName: Маленький Коралл
+SporeKnifeBud.DisplayName: Бутон Спорового Ножа
+SporeKnifeProj.DisplayName: Споровый Нож
+ToxicantTwisterProj.DisplayName: Токсичный Смерч
+UrchinIrradiation.DisplayName: Облучение
+VegaProjectile.DisplayName: Вега
+VegaSpark.DisplayName: Искра Веги
+VegaStar.DisplayName: Звезда Веги
+WhitewaterAura.DisplayName: Аура Белой Воды
+WhitewaterProj.DisplayName: Фляга Белой Воды
+WhitewaterSpear.DisplayName: Копье Белой Воды

@@ -11,9 +11,6 @@
 	  <Optimize>False</Optimize>
 	</PropertyGroup>
 	<ItemGroup>
-	  <None Include="LocalizationLoaders\VanillaPotions.cs" />
-	</ItemGroup>
-	<ItemGroup>
 	  <Reference Include="CalamityMod">
 	    <HintPath>..\..\ModReader\CalamityMod\CalamityMod.dll</HintPath>
 	  </Reference>

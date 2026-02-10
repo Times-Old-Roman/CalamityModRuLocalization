@@ -18,7 +18,7 @@ Drops: {
 	DownedPBG: После победы над Чумоносцем Голиафом
 	DownedRav: После победы над Опустошителем
 	DownedAD: После победы над Аструм Деусом
-	DownedGuard: После победы над Скверными Защитниками
+	DownedGuard: После победы над Защитниками Скверны
 	DownedBirb: После победы над Драконической Причудой
 	DownedProv: После победы над Провиденцией
 	DownedSig: После победы над Сигнусом
@@ -37,28 +37,28 @@ Drops: {
 	DownedBetsy: После победы над Бетси
 	DownedT1AR: После победы над первым уровнем Кислотного Дождя
 	DownedT2AR: После победы над вторым уровнем Кислотного Дождя
-	FirstKill: Падает только после первого убийства
-	MechBoss: Падает только после убийства последнего Меха
+	FirstKill: Выпадает только после первого убийства
+	MechBoss: Выпадает только после убийства последнего Меха
 	ProvidenceHallow:
 		'''
-		Падает только если Провиденция была призвана в Освящении
+		Выпадает только если Провиденция была призвана в Освящении
 		или если весь нанесенный ей урон приходится ночью
 		'''
 	ProvidenceUnderworld:
 		'''
-		Падает только если Провиденция была призвана в Преисподней
+		Выпадает только если Провиденция была призвана в Преисподней
 		или если весь нанесенный ей урон приходится ночью
 		'''
 	ProvidenceNight: Появляется только если весь нанесенный Провиденции урон приходится ночью
 	ProvidenceChallenge:
 		'''
-		Падает только если Провиденция была побеждена [i:CalamityMod/ProfanedSoulArtifact] Скверным Духовным Артефактом
+		Выпадает только если Провиденция была побеждена [i:CalamityMod/ProfanedSoulArtifact] Скверным Духовным Артефактом
 		{$Bestiary_ItemDropConditions.IsExpert}
 		'''
-	TrasherKill: Падает, если скормить рыбака Мусорщику
-	// CataclysmKilledLast: Drops if defeated after {$NPCs.Catastrophe.DisplayName}
-	// CatastropheKilledLast: Drops if defeated after {$NPCs.Cataclysm.DisplayName}
-	// ProvidenceEnraged: Drops if Providence has been enraged
+	TrasherKill: Выпадает, если скормить рыбака Мусорщику
+	CataclysmKilledLast: Выпадает, если победить после того, как {$NPCs.Catastrophe.DisplayName} был убит
+	CatastropheKilledLast: Выпадает, если победить после того, как {$NPCs.Cataclysm.DisplayName} был убит
+	ProvidenceEnraged: Выпадает, если Провиденция была приведена в ярость
 }
 
 // Other conditions
@@ -79,4 +79,4 @@ PostPolter: После победы над Полтергастом
 PostOD: После победы над Древним Герцогом
 PostDoG: После победы над Пожирателем Богов
 PostYharon: После победы над Яроном
-// LacewingBestiary: When at least 40% of the Bestiary has been completed
+LacewingBestiary: После того, как хотя бы 40% Бестиария было заполнено

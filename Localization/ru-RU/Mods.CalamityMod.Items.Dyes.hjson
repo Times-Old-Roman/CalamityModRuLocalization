@@ -169,71 +169,71 @@ SwirlingCosmicFlameDye: {
 }
 
 AcidRainDye: {
-	// DisplayName: Acid Rain Dye
-	// Tooltip: ""
+	DisplayName: Краска Кислотного Дождя
+	Tooltip: ""
 }
 
 DaedalusDye: {
-	// DisplayName: Daedalus Dye
-	// Tooltip: ""
+	DisplayName: Краска Дедала
+	Tooltip: ""
 }
 
 InvisibleDye: {
-	// DisplayName: Invisible Dye
-	// Tooltip: ""
+	DisplayName: Краска-Невидимка
+	Tooltip: ""
 }
 
 LivingShardDye: {
-	// DisplayName: Living Shard Dye
-	// Tooltip: ""
+	DisplayName: Краска из Живых Осколоков
+	Tooltip: ""
 }
 
 MeldDye: {
-	// DisplayName: Meld Dye
-	// Tooltip: ""
+	DisplayName: Мелд-Краска
+	Tooltip: ""
 }
 
 NecromanticDye: {
-	// DisplayName: Necromantic Dye
-	// Tooltip: ""
+	DisplayName: Некромантическая Краска
+	Tooltip: ""
 }
 
 PlagueGooDye: {
-	// DisplayName: Plague Goo Dye
-	// Tooltip: ""
+	DisplayName: Краска из Чумной Жижи
+	Tooltip: ""
 }
 
 PlaguePlateDye: {
-	// DisplayName: Plague Plate Dye
-	// Tooltip: ""
+	DisplayName: Краска из Чумной Пластины
+	Tooltip: ""
 }
 
 ProfanedCrystalDye: {
-	// DisplayName: Profaned Crystal Dye
-	// Tooltip: ""
+	DisplayName: Краска из Кристаллов Скверны
+	Tooltip: ""
 }
 
 ProfanedRockDye: {
-	// DisplayName: Profaned Rock Dye
-	// Tooltip: ""
+	DisplayName: Краска из Камней Скверны
+	Tooltip: ""
 }
 
 ScoriaDye: {
-	// DisplayName: Scoria Dye
-	// Tooltip: ""
+	DisplayName: Краска Скории
+	Tooltip: ""
 }
 
 SilvaDye: {
-	// DisplayName: Silva Dye
-	// Tooltip: ""
+	DisplayName: Краска Сильвы
+	Tooltip: ""
 }
 
 TarragonDye: {
-	// DisplayName: Tarragon Dye
-	// Tooltip: ""
+	DisplayName: Краска Таррагона
+	Tooltip: ""
 }
 
 WulfrumDye: {
-	// DisplayName: Wulfrum Dye
-	// Tooltip: ""
+	DisplayName: Вульфрумовая Краска
+	Tooltip: ""
 }

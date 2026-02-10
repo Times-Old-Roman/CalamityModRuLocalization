@@ -1,14 +1,3 @@
-FrequencyManipulator: {
-	DisplayName: Манипулятор Частот
-	Tooltip:
-		'''
-		Взмахните копьем, а затем метните его
-		При попадании, копье выпускает всплеск наводящейся энергии
-		Скрытые удары выпускают больше энергии и взрываются при столкновении
-		[c/1FFBFF:'Длинный инструмент, изначально предназначенный для механической регулировки.']
-		'''
-}
-
 GalvanizingGlaive: {
 	DisplayName: Гальванизированная Глефа
 	Tooltip:
@@ -20,49 +9,6 @@ GalvanizingGlaive: {
 		'''
 }
 
-GatlingLaser: {
-	DisplayName: Лазер Гатлинга
-	Tooltip:
-		'''
-		Стреляет скоростным натиском лазеров, чтобы аннигилировать ваших противников
-		[c/1FFBFF:'Разработан с целью быть использованным в основном флотом Ярима и оборонительных сил.']
-		'''
-}
-
-GaussDagger: {
-	DisplayName: Кинжал Гаусса
-	Tooltip:
-		'''
-		Режет противников турбулентными магнитными силами
-		Удар по противнику окружает их опасным магнитным потоком
-		'''
-}
-
-GaussPistol: {
-	DisplayName: Пистолет Гаусса
-	Tooltip:
-		'''
-		Стреляет разрушительным высокоскоростным сгустком с чрезвычайной отдачей
-		[c/1FFBFF:'Хотя этот загадочный пистолет ничем не выделяется, он обманчиво сильный.]
-		[c/1FFBFF:Одно из многих преимуществ магического вооружения, это то что размер не равен силе.']
-		'''
-}
-
-GaussRifle: {
-	DisplayName: Гауссова Винтовка
-	Tooltip: Стреляет разрушительно сильным, высокоскоростным всплеском с абсурдной отдачей
-}
-
-HeavyLaserRifle: {
-	DisplayName: Тяжелая Лазерная Винтовка
-	Tooltip:
-		'''
-		Стреляет парой невероятно точных разрушительных лазерных лучей
-		[c/1FFBFF:'Хотя рыцари Охотника на Богов часто были достаточно брутальны, не все предпочитали битву в рукопашной.]
-		[c/1FFBFF:По этой причине, Ярим лично запросил, чтобы я создал тяжелое вооружение для них, несмотря на их небольшую численность.']
-		'''
-}
-
 HydraulicVoltCrasher: {
 	DisplayName: Гидравлический Вольтовый Крушитель
 	Tooltip:
@@ -71,15 +17,6 @@ HydraulicVoltCrasher: {
 		Нажмите <right>, чтобы использовать без отбивки стен
 		[c/1FFBFF:'Инструмент, сделанный для того, чтобы электрически штамповать металлические пластины, мгновенно сплавляя их.]
 		[c/1FFBFF:Естественно, оно также может функционировать как разрушительное оружие.']
-		'''
-}
-
-MatterModulator: {
-	DisplayName: Модулятор Материи
-	Tooltip:
-		'''
-		Выстрелите нестабильным всплеском материи, который бесконечно пронзает, но наносит все меньше и меньше урона
-		После удара по блоку, материя получает улучшенный урон, но больше не пронзает
 		'''
 }
 
@@ -139,12 +76,12 @@ PulseDragon: {
 }
 
 PulsePistol: {
-	DisplayName: Пульсовый Пистолет
+	DisplayName: П-ПЛС: Пульсовый Пистолет
 	Tooltip: Стреляет пульсом, который отскакивает на новые цели при попадании
 }
 
 PulseRifle: {
-	DisplayName: Пульсовая Винтовка
+	DisplayName: А-ПЛС: Пульсовая Винтовка
 	Tooltip:
 		'''
 		Стреляет особым пульсовым лучом, который рассеивается на 4 высокочастотные пульсовые сферы при попадании
@@ -176,31 +113,12 @@ SnakeEyes: {
 		'''
 }
 
-StarSwallowerContainmentUnit: {
-	DisplayName: Модуль Содержания «Звездоглот»
-	Tooltip:
-		'''
-		Призовите биомеханическую лягушку, которая будет плеваться потоками плазмы в противников
-		[c/1FFBFF:'Эти простые существа были механизированы для того, чтобы автономно транспортировать плазму.]
-		[c/1FFBFF:Такие существа значительно более приемлемы, чем их обыденные органические варианты.']
-		'''
-}
-
 SystemBane: {
 	DisplayName: Системный Троян
 	Tooltip:
 		'''
 		Швырните нестабильное устройство, которое крепится на земле и поражает ближайших противников молнией
 		Скрытые удары позволяют устройству излучать большое, наносящее урон электромагнитное поле
-		'''
-}
-
-Taser: {
-	DisplayName: Тазер
-	Tooltip:
-		'''
-		Стреляет медленным крюком, который цепляется за противников и бьет их током, перед тем как вернуться
-		[c/1FFBFF:'Медленное и простое электрическое оружие. Предназначено для охранников низких рангов.']
 		'''
 }
 
@@ -223,16 +141,6 @@ TheAnomalysNanogun: {
 		'''
 }
 
-TrackingDisk: {
-	DisplayName: Отслеживающий Диск
-	Tooltip:
-		'''
-		Выпустите летающий диск, который стреляет лазерами в ближайших противников
-		Диск набирает ускорение при возвращении к игроку
-		Скрытые удары стреляют дальше и с большей частотой, а также способны поражать сразу нескольких врагов
-		'''
-}
-
 WavePounder: {
 	DisplayName: Волновой Колотун
 	Tooltip:
@@ -243,124 +151,124 @@ WavePounder: {
 }
 
 AerialTracker: {
-	// DisplayName: P-LSR: Aerial Tracker
-	/* Tooltip:
+	DisplayName: П-ЛЗР: Воздушный Преследователь
+	Tooltip:
 		'''
-		Releases a flying disk that fires lasers at nearby enemies
-		Lasers do not directly damage enemies, but instead apply a stacking laser burn effect
-		Once hit by enough lasers or sufficient time has passed, laser burn will deal direct damage
-		The disk gains acceleration as it returns to the player
-		Stealth strikes toss two disks that can fire at multiple different targets from farther range
-		''' */
+		Выпускает летающий диск, который стреляет лазерами в ближайших противников
+		Лазеры не наносят урон напрямую, а оставляют складывающийся эффект лазерного ожога
+		Если было получено достаточно ударов от лазеров или прошло достаточно времени, то ожоги будут наносить урон напрямую
+		Диск набирает ускорение при возврате к вам
+		Скрытые удары метают два диска, которые могут стрелять в несколько целей одновременно и с большей дистанции
+		'''
 }
 
 AqueousHunterDrone: {
-	// DisplayName: P-PMA: Aqueous Hunter Drone
-	/* Tooltip:
+	DisplayName: П-ПМА: Акватический Дрон-Охотник
+	Tooltip:
 		'''
-		Summons a shrimp drone that fires bursts of homing plasma missiles
-		<right> while holding any summon weapon to command the shrimp to launch a vertical missile barrage
-		Vertical missiles aim towards your cursor and leave a lingering blast if they hit solid ground
-		Each shrimp uses 4 minion slots
-		[c/1FFBFF:'When pursuing the adherents of gods, Yharim believed no stone should be left unturned.]
-		[c/1FFBFF:Weaponry for underwater contingencies was an unusually heavy focus, but no models ever saw deployment.']
-		''' */
+		Призывает дрона-креветку, который стреляет очередями наводящихся плазменных ракет
+		<right>, пока держите любое призывательное оружие, чтобы приказать креветке запустить вертикальный обстрел ракетами
+		Вертикальные ракеты целятся в сторону курсора и оставляют держащийся всплеск, если ударяются о поверхность
+		Каждая креветка использует 4 слота призванных существ
+		[c/1FFBFF:'Преследуя приверженцов богов, Ярим считал, что не следовало оставлять и камня на камне.]
+		[c/1FFBFF:Оружие для подводных угроз было необычно значимой частью войны, но ни одна модель так и не была высажена на поле боя.']
+		'''
 }
 
 Auger: {
-	// DisplayName: P-GSS: Auger
-	/* Tooltip:
+	DisplayName: П-ГСС: Авгур
+	Tooltip:
 		'''
-		A wrist-mounted device which emits a magnetic energy blade
-		<right> to create a brief magnetic pull at your cursor and amplify your next slash
-		[c/1FFBFF:'Initially manufactured to serrate and separate chunks of raw material for transport.]
-		[c/1FFBFF:Keeping both hands free without compromising on power made it exceptionally ergonomic.']
-		''' */
+		Устанавливаемый на кисть прибор, который извергает из себя лезвие магнитной энергии
+		<right>, чтобы создать кратковременное магнитное притяжение у курсора и усилить ваш следующий взмах
+		[c/1FFBFF:'Изначально был разработан для рассечения и разделения сырого материала перед транспортировкой.]
+		[c/1FFBFF:Иметь сразу две свободные руки без компромисса силе сделало его исключительно эргономичным.']
+		'''
 }
 
 CountermeasureMitt: {
-	// DisplayName: B-LSR: Countermeasure Mitt
-	/* Tooltip:
+	DisplayName: Б-ЛЗР: Рукавицы-Контрмера
+	Tooltip:
 		'''
-		A precision welding glove with laser emitters in each fingertip
-		<right> to focus all emitters into a short range palm blast that always critically strikes
-		Palm blasts have a cooldown which is significantly shorter if they miss
-		[c/1FFBFF:'Most battalions prefer to either spread attacks widely, or focus on a singular target.]
-		[c/1FFBFF:This glove caters to both, though it will never bridge the gap between their strategies.']
-		''' */
+		Точные сварочные перчатки с лазерными излучателями на каждом пальце
+		<right>, чтобы сфокусировать все излучатели в ладонный взрыв на короткую дистанцию, который всегда наносит критический удар
+		Ладонные взрывы имеют перезарядку, которая будет значительно короче, если они промахиваются
+		[c/1FFBFF:'Большинство батальонов предпочитало либо совершать атаки с большим охватом, либо фокусировать силы на одной цели.]
+		[c/1FFBFF:Эта перчатка годится для обоих стратегий, правда она не может связать их в одну единую тактику.']
+		'''
 }
 
 HolofibreImmolator: {
-	// DisplayName: R-PMA: Holofibre Immolator
-	/* Tooltip:
+	DisplayName: Р-ПМА: Холлофайберный Выжигатель
+	Tooltip:
 		'''
-		Fires three gravity-affected plasma drops which dissolve through foes
-		Holding <left> quickly charges the bow, firing a high-speed plasma arrow
-		Plasma arrows will detonate after impact, creating stronger explosions if stuck into tiles
-		Holding <right> will repeatedly fire uncharged shots
-		Holding <right> and <left> will automatically fire charged arrows at a slightly slower rate
-		[c/1FFBFF:'The elegance of holofibre is unmatched.]
-		[c/1FFBFF:However, mechanical tension may have produced more consistent results.']
-		''' */
+		Стреляет тремя подверженными гравитации каплями плазмы, которые растворяют противников
+		Удерживайте <left>, чтобы быстро зарядить лук и выстрелить высокоскоростной плазменной стрелой
+		Плазменные стрелы детонируют после столкновения, создавая более сильный взрыв, если она врезалась в поверхность
+		Удерживайте <right>, чтобы быстро стрелять незаряженными снарядами
+		Удерживайте <right> и <left> одновременно, чтобы автоматически стрелять заряженными стрелами со слегка уменьшенной скоростью
+		[c/1FFBFF:'Элегантность холлофайбера не имеет равных.]
+		[c/1FFBFF:Правда, механическое натяжение возможно смогло бы создать более консистентные результаты.']
+		'''
 }
 
 Nidhogg: {
-	// DisplayName: B-GSS: Nidhogg
-	/* Tooltip:
+	DisplayName: Б-ГС: Нидогг
+	Tooltip:
 		'''
-		A magnet powered energy railgun that fires rapidly, creating lingering magnetic implosions that pull in weak enemies on hit
-		Only one implosion can exist at a time
-		Press <right> to begin charging a devastating energy beam that always crits and will fire once ready
-		This charge attack can not be interrupted once started and has a long cooldown
-		[c/1FFBFF:'Many soldiers underestimate the destructive capabilities of magnetism.]
-		[c/1FFBFF:This railgun has reliably pulled in skeptics of its crushing efficiency.']
-		''' */
+		Магнитный рельсотрон, который быстро стреляет и создает держащиеся магнитные поля, которые притягивают слабых противников при попадании
+		Только одно поле может существовать единовременно
+		Нажмите <right>, чтобы начать зарядку разрушительного энергетического луча, который всегда наносит критический удар и выстреливает по готовности
+		Эта зарядная атака не может быть прервана и имеет долгую перезарядку
+		[c/1FFBFF:'Многие солдаты недооценивают разрушительные способности магнетизма.]
+		[c/1FFBFF:Этот рельсотрон успешно притянул даже самых скептичных вояк своей крушащей эффективностью.']
+		'''
 }
 
 PhalanxSurge: {
-	// DisplayName: W-LSR: Phalanx Surge
-	/* Tooltip:
+	DisplayName: В-ЛЗР: Фаланговый Поток
+	Tooltip:
 		'''
-		Fires a spread of lasers
-		Holding <right> charges the weapon, allowing it to thrust forward and impale enemies with an energy spear
-		Holding <left> when firing the charge attack will launch you forward at high speeds and deal extra damage
-		Using the charged attack has a short cooldown
-		[c/1FFBFF:'There was much call from Yharim's forces for close range armaments.]
-		[c/1FFBFF:A laser lance with which to gore their foes was met with thunderous applause.']
-		''' */
+		Стреляет россыпью из лазеров
+		Удерживание <right> заряжает оружие, позволяя ему сделать выпад вперед, протыкая противников энергетическим копьем
+		Удерживайте <left> во время удара, чтобы копье запустило вас вас вперед на огромной скорости и наносило больше урона
+		У заряженной атаки имеется короткая перезарядка
+		[c/1FFBFF:'У сил Ярима был большой запрос на оружие для использования в тесном пространстве.]
+		[c/1FFBFF:Лазерное копье, которым можно бы было порвать противника, встретили бурными апплодисментами.']
+		'''
 }
 
 PulseGrenade: {
-	// DisplayName: R-PLS: Pulse Grenade
-	/* Tooltip:
+	DisplayName: Р-ПЛС: Пульсовая Граната
+	Tooltip:
 		'''
-		A regenerating grenade that will track enemies and burst into 8 pulse orbs
-		Pulse orbs will return to you and reform the grenade, hitting anything in their path
-		Stealth strikes throw the grenade at high speeds and burst into twice as many orbs
-		''' */
+		Восстанавливающаяся гранат, которая будет отслеживать противников и разрываться на 8 пульсовых сфер
+		Пульсовые сферы вернутся к вам и восстановят гранату, нанося урон врагам на своем пути назад
+		Скрытые удары бросают гранату на высокой скорости и разрываются на двойное количество сфер
+		'''
 }
 
 ShortCircuit: {
-	// DisplayName: P-TSL: Short Circuit
-	/* Tooltip:
+	DisplayName: П-ТСЛ: Короткое Замыкание
+	Tooltip:
 		'''
-		Press <left> to rapidly fire stunning bolts with high knockback
-		Press <right> to shoot a hook that attaches to enemies and rapidly electrocutes them
-		After electrocuting an enemy enough, the hook will create a shock explosion before returning to you
-		Successful hook attacks have a short cooldown that is applied unless the hook kills an enemy
+		Нажмите <left>, чтобы быстро стрелять ошеломляющими сгустками с высокой отдачей
+		Нажмите <right>, чтобы выстрелить крюком, который вгрызается в противника и быстро шокирует его
+		После достаточного шокирования, крюк создаст шоковый взрыв перед тем, как вернуться к вам
+		Успешные атаки крюком имеют короткую перезарядку, которая не применяется, если враг был убит этой атакой
 		{$Common.ArmorPenetration}
-		''' */
+		'''
 }
 
 Vulcan: {
-	// DisplayName: R-GSS: Vulcan
-	/* Tooltip:
+	DisplayName: Р-ГС: Вулкан
+	Tooltip:
 		'''
-		A mana-fueled Gatling cannon that fires in bursts
-		Press <right> to launch a magnetic harpoon which attracts your shots
-		Launching a harpoon makes burst fire mode last longer
-		When a harpoon expires, all magnetized shots launch at nearby enemies with increased damage
-		[c/1FFBFF:'Originally a ceiling mounted mining beam, the removal of its battery reduced its heft only marginally.]
-		[c/1FFBFF:It saw little use and many complaints from the battlemage corps.']
-		''' */
+		Запитываемая маной пушка Гатлинга, которая стреляет очередью
+		Нажмите <right>, чтобы выпустить магнитный гарпун, который притягивает ваши снаряды
+		Выпуск гарпуна продлевает очереди
+		Когда гарпун прекращает существование, все намагниченные выстрелы запускаются в ближайших противников с увеличенным уроном
+		[c/1FFBFF:'Изначально это представляло собой устанавливаемый на потолок шахтерский луч. Удаление батарейки лишь немного уменьшило его вес.]
+		[c/1FFBFF:Оно не было особо популярным, и из отрядов боевых магов часто шли жалобы насчет него.']
+		'''
 }

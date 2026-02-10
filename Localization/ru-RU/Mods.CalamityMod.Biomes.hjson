@@ -82,36 +82,36 @@ AstralCaveDesert: {
 }
 
 FloralParadiseBiome: {
-	// DisplayName: Floral Paradise
-	// TownNPCDialogueName: the Floral Paradise
+	DisplayName: Цветочный Парадиз
+	TownNPCDialogueName: Цветочный Парадиз
 }
 
 BasaltGullyBiome: {
-	// DisplayName: Basalt Gully
-	// TownNPCDialogueName: the Basalt Gully
+	DisplayName: Базальтовый Овраг
+	TownNPCDialogueName: Базальтовый Овраг
 }
 
 GleamingBurrowsBiome: {
-	// DisplayName: Gleaming Burrows
-	// TownNPCDialogueName: the Gleaming Burrows
+	DisplayName: Сверкающие Норы
+	TownNPCDialogueName: Сверкающие Норы
 }
 
 PolypForestBiome: {
-	// DisplayName: Polyp Forest
-	// TownNPCDialogueName: the Polyp Forest
+	DisplayName: Полиповый Лес
+	TownNPCDialogueName: Полиповый Лес
 }
 
 RadiantReefsBiome: {
-	// DisplayName: Radiant Reefs
-	// TownNPCDialogueName: the Radiant Reefs
+	DisplayName: Светящиеся Рифы
+	TownNPCDialogueName: Светящиеся Рифы
 }
 
 TimelessShoresBiome: {
-	// DisplayName: Timeless Shores
-	// TownNPCDialogueName: the Timeless Shores
+	DisplayName: Безвременные Берега
+	TownNPCDialogueName: Безвременные Берега
 }
 
 ClamDenBiome: {
-	// DisplayName: Clam Den
-	// TownNPCDialogueName: the Clam Den
+	DisplayName: Логово Моллюсков
+	TownNPCDialogueName: Логово Моллюсков
 }

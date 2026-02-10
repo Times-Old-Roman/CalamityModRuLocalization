@@ -195,28 +195,28 @@ TrashmanTrashcan: {
 }
 
 BurrowerController: {
-	// DisplayName: Burrower Beacon
-	/* Tooltip:
+	DisplayName: Маячок Копателя
+	Tooltip:
 		'''
-		Requests a friendly burrower to follow you around and illuminate ores
-		Counts as a light pet
-		''' */
+		Отправляет запрос дружественному копателю, чтобы он следовал за вами и подсвечивал руды
+		Считается световым питомцем
+		'''
 }
 
 FrostyBatBottle: {
-	// DisplayName: Frosty Bat Bottle
-	/* Tooltip:
+	DisplayName: Бутлка для Ледяной Летучей Мыши
+	Tooltip:
 		'''
-		Summons an icy bat to light your way that flies towards your cursor when you dash
-		[c/6ECAC3:'All the world's bats are prime to squeak!']
-		''' */
+		Призывает ледяную летучую мышь, которая осветит вам путь и прилетит к курсору, когда вы совершаете рывок
+		[c/6ECAC3:'Все летучие мыши этого мира идеальны в качестве пищащих игрушек!']
+		'''
 }
 
 ToastyBatBottle: {
-	// DisplayName: Toasty Bat Bottle
-	/* Tooltip:
+	DisplayName: Toasty Bat Bottle
+	Tooltip:
 		'''
-		Summons a fiery bat to light your way that leaves a trail of glowing embers
-		[c/CF6454:'Guaranteed to NOT knock you off your hellbridge']
-		''' */
+		Призывает огненную летучую мышь, которая осветит вам путь и будт оставлять след светящихся огоньков
+		[c/CF6454:'Гарантированно НЕ собьет вас с моста в аду']
+		'''
 }

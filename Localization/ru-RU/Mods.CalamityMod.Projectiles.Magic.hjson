@@ -82,7 +82,7 @@ FrostBoltProjectile.DisplayName: Ледяная Сфера
 GammaLaser.DisplayName: Гамма-луч
 GenesisBeam.DisplayName: Луч Генезиса
 GhastlyBlast.DisplayName: Призрачная Вспышка
-GhastlyExplosion.DisplayName: Призрачный Взрыв
+GhastlyExplosion.DisplayName: Призрачный Взрыв
 GhastlyExplosionShard.DisplayName: Призрачный Фрагмент
 GhastlySubBlast.DisplayName: Призрачная Вспышка
 GleamingBolt.DisplayName: Блестящий Болт
@@ -264,50 +264,50 @@ WyvernFeatherPurple.DisplayName: Перо
 WyvernProjectile.DisplayName: Виверн
 YharimsCrystalBeam.DisplayName: Луч Ярима
 YharimsCrystalPrism.DisplayName: крестал ерема
-// AerSigil.DisplayName: Aer Sigil
-// AerSigilBlast.DisplayName: Aer Blast
-// AerSigilFeather.DisplayName: Aer Feather
-// AerSigilMissile.DisplayName: Aer Missile
-// AlphaDraconisStar.DisplayName: Shooting Star
-// ApoctosisBlast.DisplayName: Apoctosis Blast
-// AquaSigil.DisplayName: Aqua Sigil
-// AquaSigilWaterball.DisplayName: Aqua Waterball
-// AquaSigilWaterballExplosion.DisplayName: Aqua Waterball Explosion
-// AquaSigilWaterdroplet.DisplayName: Aqua Waterdroplet
-// AugurTentacle.DisplayName: Elemental Tentacle
-// CosmicRainbowFront.DisplayName: Rainbow
-// CosmicRainbowTrail.DisplayName: Rainbow
-// DeathValleyDusterProjectile.DisplayName: Death Valley Duster
-// DracoConstellation.DisplayName: Draco
-// FireImplosion.DisplayName: Swirling Backdraft
-// HyperdeathRiftScepterBeam.DisplayName: Hyperdeath Rift Ripper
-// IgnisSigil.DisplayName: Ignis Sigil
-// IgnisSigilFireballExplosion.DisplayName: Ignis Fireball Explosion
-// IgnisSigilFireball.DisplayName: Ignis Fireball
-// IgnisSigilEmbers.DisplayName: Ignis Ember
-// IncineratingFireball.DisplayName: Incinerating Fireball
-// OrdoSigil.DisplayName: Ordo Sigil
-// OrdoSigilBeam.DisplayName: Ordo Beam
-// PerditoSigil.DisplayName: Perdito Sigil
-// PerditoSigilShot.DisplayName: Perdito Shot
-// PerditoSigilShotCreator.DisplayName: Perdito Shot Creator
-// PlasmaRifleExplosion.DisplayName: Ionizing Particle Cloud
-// PlasmaRifleShot.DisplayName: Concentrated Plasma Blast
-// PrimordialAncientExplosion.DisplayName: Primordial Ancient
-// PrimordialAncientProjectile.DisplayName: Primordial Ancient
-// PrimordialEarthExplosion.DisplayName: Primordial Earth
-// PrimordialEarthProjectile.DisplayName: Primordial Earth
-// SHPS.DisplayName: SHPS
-// SHPV.DisplayName: SHPV
-// SigilSet.DisplayName: Sigil Set
-// TerraSigil.DisplayName: Terra Sigil
-// TerraSigilLargeRock.DisplayName: Terra Large Rock
-// TerraSigilMediumRock.DisplayName: Terra Medium Rock
-// TerraSigilSmallRock.DisplayName: Terra Small Rock
-// VehemenceBolt.DisplayName: Vehemence Bolt
-// VisNeedle.DisplayName: Vis Needle
-// VolterionOrb.DisplayName: Unstable Ball Lightning
-// VolterionShot.DisplayName: Ultracharged Filament
-// WarpSigil.DisplayName: Warp Sigil
-// WarpSigilShot.DisplayName: Warped Shot
-// WarpSigilShotCreator.DisplayName: Warped Shot Creator
+AerSigil.DisplayName: Сигил Аэр
+AerSigilBlast.DisplayName: Всплеск Аэр
+AerSigilFeather.DisplayName: Перо Аэр
+AerSigilMissile.DisplayName: Ракета Аэр
+AlphaDraconisStar.DisplayName: Комета
+ApoctosisBlast.DisplayName: Всплеск Апоптоза
+AquaSigil.DisplayName: Сигил Аква
+AquaSigilWaterball.DisplayName: Водяной Шар Аква
+AquaSigilWaterballExplosion.DisplayName: Взрыв Водяного Шара Аква
+AquaSigilWaterdroplet.DisplayName: Капля Воды Аква
+AugurTentacle.DisplayName: Элементальное Щупальце
+CosmicRainbowFront.DisplayName: Радуга
+CosmicRainbowTrail.DisplayName: Радуга
+DeathValleyDusterProjectile.DisplayName: Пыль Долины Смерт
+DracoConstellation.DisplayName: Созвездие Дракона
+FireImplosion.DisplayName: Бурлящий Водоворот
+HyperdeathRiftScepterBeam.DisplayName: Разрывной Потрошитель Гиперсмерти
+IgnisSigil.DisplayName: Сигил Игнис
+IgnisSigilFireballExplosion.DisplayName: Взрыв Огненного Шара Игнис
+IgnisSigilFireball.DisplayName: Огненный Шар Игнис
+IgnisSigilEmbers.DisplayName: Уголь Игнис
+IncineratingFireball.DisplayName: Испепеляющий Огненный Шар
+OrdoSigil.DisplayName: Сигил Ордо
+OrdoSigilBeam.DisplayName: Луч Ордо
+PerditoSigil.DisplayName: Сигил Пердито
+PerditoSigilShot.DisplayName: Снаряд Пердито
+PerditoSigilShotCreator.DisplayName: Спавнер Снарядов Пердито
+PlasmaRifleExplosion.DisplayName: Облако Ионизирующих Частиц
+PlasmaRifleShot.DisplayName: Концентрированный Плазменный Сгусток
+PrimordialAncientExplosion.DisplayName: Первозданная Реликвия
+PrimordialAncientProjectile.DisplayName: Первозданная Реликвия
+PrimordialEarthExplosion.DisplayName: Первозданная Земля
+PrimordialEarthProjectile.DisplayName: Первозданная Земля
+SHPS.DisplayName: ЭППЭ
+SHPV.DisplayName: ЭППВ
+SigilSet.DisplayName: Набор Сигилов
+TerraSigil.DisplayName: Сигил Терра
+TerraSigilLargeRock.DisplayName: Большой Камень Терра
+TerraSigilMediumRock.DisplayName: Средний Камень Терра
+TerraSigilSmallRock.DisplayName: Маленький Камень Терра
+VehemenceBolt.DisplayName: Сгусток Страсти
+VisNeedle.DisplayName: Игла Вис
+VolterionOrb.DisplayName: Нестабильная Шаровая Молний
+VolterionShot.DisplayName: Ультразаряженная Молния
+WarpSigil.DisplayName: Сигил Варп
+WarpSigilShot.DisplayName: Варп Снаряд
+WarpSigilShotCreator.DisplayName: Спавнер Снарядов Варп

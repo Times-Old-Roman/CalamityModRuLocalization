@@ -58,7 +58,7 @@ AstrumDeusMask: {
 	Tooltip: ""
 }
 
-BrimstoneWaifuMask: {
+BrimstoneElementalMask: {
 	DisplayName: Маска Элементаля Серы
 	Tooltip: ""
 }
@@ -243,37 +243,32 @@ YharonMask: {
 	Tooltip: ""
 }
 
-BrimstoneElementalMask: {
-	// DisplayName: Brimstone Elemental Mask
-	// Tooltip: ""
-}
-
 LucisBoots: {
-	// DisplayName: Luci's Boots
-	// Tooltip: "'One small step a time, you can do this.'"
+	DisplayName: Ботинки Люси
+	Tooltip: "'Шаг за шагом, ты справишься.'"
 }
 
 LucisHairstyle: {
-	// DisplayName: Luci's Hairstyle
-	// Tooltip: "'Hero of Light, Luci Skyshot.'"
+	DisplayName: Стиль Волос Люси
+	Tooltip: "'Герой Света, Люси Скайшот.'"
 }
 
 LucisMilitaryUniform: {
-	// DisplayName: Luci's Military Uniform
-	// Tooltip: "'Bearing the iconic Liberation Army insignia of freedom.'"
+	DisplayName: Военная Форма Люси
+	Tooltip: "'На ней знаменитая эмблема Армии Освобождения.'"
 }
 
 TheCommandersCap: {
-	// DisplayName: The Commanders Cap
-	// Tooltip: Part of The High-Flying Finery
+	DisplayName: Козырек Коммандора
+	Tooltip: Часть наряда Пилотов
 }
 
 TheFormalFootwear: {
-	// DisplayName: The Formal Footwear
-	// Tooltip: Part of The High-Flying Finery
+	DisplayName: Формальная Обувь
+	Tooltip: Часть наряда Пилотов
 }
 
 TheGrandGarment: {
-	// DisplayName: The Grand Garment
-	// Tooltip: Part of The High-Flying Finery
+	DisplayName: Грандиозное Одеяние
+	Tooltip: Часть наряда Пилотов
 }
