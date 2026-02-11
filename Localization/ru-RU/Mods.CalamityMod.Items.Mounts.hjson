@@ -3,6 +3,15 @@ Brimrose: {
 	Tooltip: Призывает ездовую серную розу
 }
 
+ExoArmamentsKit: {
+	DisplayName: Набор Экзо-Военной Техники
+	Tooltip:
+		'''
+		Призывает управляемую военную машину
+		'Супероружие как раз под твой вид'
+		'''
+}
+
 ExoThrone: {
 	DisplayName: Экзо-Коробка
 	Tooltip:
@@ -51,13 +60,4 @@ SuspiciousLookingJellyBean: {
 TundraLeash: {
 	DisplayName: Тундровый Поводок
 	Tooltip: Призывает ездовую Морозную Гончую
-}
-
-ExoArmamentsKit: {
-	DisplayName: Набор Экзо-Военной Техники
-	Tooltip:
-		'''
-		Призывает управляемую военную машину
-		'Супероружие как раз под твой вид'
-		'''
 }

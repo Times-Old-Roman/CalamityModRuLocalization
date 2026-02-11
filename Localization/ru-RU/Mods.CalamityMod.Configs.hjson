@@ -1,6 +1,6 @@
 CalamityClientConfig: {
 	// DisplayName: Client Config
-
+	
 	Headers: {
 		Gameplay: Общие изменения игрового процесса
 		Graphics: Изменения Графики
@@ -56,7 +56,7 @@ CalamityClientConfig: {
 			'''
 			Включает интерфейс со шкалой Зарядки, который отображает заряд оружия в руках игрока.
 			Счетчик Зарядки скрыт, если вы не используете оружие с зарядом.
-			''
+			'''
 	}
 
 	ChargeMeterPosX: {
@@ -102,7 +102,7 @@ CalamityClientConfig: {
 			'''
 			Отключает ванильные переворот экрана изменения гравитации, переворачивая игрока вместо этого.
 			Включите это, если переворот экрана отвлекает вас или провоцирует укачивание.
-			''' */
+			'''
 	}
 
 	EnableVanillaTextureEdits: {
@@ -163,7 +163,7 @@ CalamityClientConfig: {
 	}
 
 	FlightBarPosY: {
-		Label: "[i:LaserRuler] Y-координата шкалы Полета""
+		Label: "[i:LaserRuler] Y-координата шкалы Полета"
 		Tooltip:
 			'''
 			Вертикальное положение шкалы Полета. Измеряется в % высоты экрана..
@@ -397,12 +397,14 @@ CalamityClientConfig: {
 		Label: "[i:Book] Информационное сообщение Википедии"
 		Tooltip: Включает или отключает сообщение об Official Calamity Wiki, которое появляется при входе в мир.
 	}
+
+	DisplayName: Конфигурации Клиента
 }
 
 CalamityServerConfig: {
-	DisplayName: Серверные Конфигурации
-	Denied: У вас нет прав на изменения этой конфигурации
-
+	// DisplayName: Server Config
+	// Denied: You have no permission to change this config
+	
 	Headers: {
 		ExpertMaster: Изменения режима Эксперта и Мастера
 		Gameplay: Общие изменения игрового процесса
@@ -572,11 +574,14 @@ CalamityServerConfig: {
 			Это также включает в себя и Старика.
 			'''
 	}
+
+	DisplayName: Серверные Конфигурации
+	Denied: У вас нет прав на изменения этой конфигурации
 }
 
 CooldownDisplayOptions: {
-	Tooltip: ""
-
+	// Tooltip: ""
+	
 	Full: {
 		Label: Полный вид
 		Tooltip: Отображает круглую полоску вокруг иконки, которая отображает длительность перезарядки
@@ -591,11 +596,13 @@ CooldownDisplayOptions: {
 		Label: Спрятано
 		Tooltip: ""
 	}
+
+	Tooltip: ""
 }
 
 SetBonusDoubleTapOptions: {
-	Tooltip: ""
-
+	// Tooltip: ""
+	
 	On: {
 		Label: Всегда включен
 		Tooltip: Всегда включает двойное нажатие. Можно использовать вместе кнопкой {$Keybinds.ArmorSetBonus.DisplayName} из Calamity's .
@@ -610,11 +617,13 @@ SetBonusDoubleTapOptions: {
 		Label: Всегда выключен
 		Tooltip: Отключает двойное нажатие. Можно использовать, чтобы насовсем отключить активацию бонусов наборов брони.
 	}
+
+	Tooltip: ""
 }
 
 TileBlendingQuality: {
-	Tooltip: ""
-
+	// Tooltip: ""
+	
 	Disable: {
 		Label: Отключено
 		Tooltip: Мягкое смешивание текстур слитых блоков отключено.
@@ -633,4 +642,6 @@ TileBlendingQuality: {
 			[c/F05A5A:Not recommended for low-end devices.]
 			'''
 	}
+
+	Tooltip: ""
 }

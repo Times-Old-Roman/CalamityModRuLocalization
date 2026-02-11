@@ -1,10 +1,20 @@
 // Critters
+AlphaSeaMinnowItem: {
+	DisplayName: "{$NPCs.AlphaSeaMinnow.DisplayName}"
+	Tooltip: ""
+}
+
+AlphaSeaMinnowGoldItem: {
+	DisplayName: "{$NPCs.AlphaSeaMinnowGold.DisplayName}"
+	Tooltip: ""
+}
+
 AndroombaItem: {
 	DisplayName: "{$Mods.CalamityMod.NPCs.Androomba.DisplayName}"
 	Tooltip:
 		'''
-		Нажмите <right> румбу с раствором в руках, чтобы вставить его в андроида
-		Когда раствор вставлен - румба будет распылять содержимое
+		Нажмите <right> на робота с раствором в руках, чтобы вставить его в андроида
+		Когда раствор вставлен - робот будет распылять содержимое
 		'''
 }
 
@@ -20,6 +30,31 @@ BabyFlakCrabItem: {
 
 BabyGhostBellItem: {
 	DisplayName: "{$Mods.CalamityMod.NPCs.BabyGhostBell.DisplayName}"
+	Tooltip: ""
+}
+
+BabyGhostBellGoldItem: {
+	DisplayName: "{$NPCs.GoldBabyGhostBell}"
+	Tooltip: ""
+}
+
+BabyGhostBellGreenItem: {
+	DisplayName: Зеленый Детеныш Призрачного Колокольчика
+	Tooltip: ""
+}
+
+BabyGhostBellRadiantItem: {
+	DisplayName: "{$NPCs.RadiantBabyGhostBell}"
+	Tooltip: ""
+}
+
+BabyGhostBellPinkItem: {
+	DisplayName: Розовый Детеныш Призрачного Колокольчика
+	Tooltip: ""
+}
+
+GildedAxolotlItem: {
+	DisplayName: Позолоченный Аксолотль
 	Tooltip: ""
 }
 
@@ -43,144 +78,8 @@ NanodroidPlagueRedItem: {
 	Tooltip: ""
 }
 
-PiggyItem: {
-	DisplayName: "{$Mods.CalamityMod.NPCs.Piggy.DisplayName}"
-	Tooltip: ""
-}
-
-RepairUnitItem: {
-	DisplayName: "{$Mods.CalamityMod.NPCs.RepairUnitCritter.DisplayName}"
-	Tooltip: ""
-}
-
-SeaMinnowItem: {
-	DisplayName: "{$Mods.CalamityMod.NPCs.SeaMinnow.DisplayName}"
-	Tooltip: ""
-}
-
-TwinklerItem: {
-	DisplayName: "{$Mods.CalamityMod.NPCs.Twinkler.DisplayName}"
-	Tooltip: ""
-}
-
-// Permanent Boosters
-
-CelestialOnion: {
-	DisplayName: Небесная Луковица
-	Tooltip:
-		'''
-		Навсегда увеличивает число слотов аксессуаров на 1
-		Ничего не делает на режиме Мастера
-		[c/33FFBB:В ее слоях пульсирует инопланетная сила]
-		'''
-}
-
-CometShard: {
-	DisplayName: Осколок Кометы
-	Tooltip:
-		'''
-		Навсегда увеличивает максимальную ману на {0}
-		Можно использовать только один раз, причем предварительно надо принять максимальное число Кристаллов Маны
-		'''
-}
-
-Ectoheart.DisplayName: Эктосердце
-ElectrolyteGelPack.DisplayName: Пачка Электролитного Геля
-
-EtherealCore: {
-	DisplayName: Эфирное Ядро
-	Tooltip:
-		'''
-		Навсегда увеличивает максимальную ману на {0}
-		Можно использовать только один раз, причем предварительно надо принять максимальное число Кристаллов Маны
-		'''
-}
-
-InfernalBlood.DisplayName: Горящая Кровь
-
-MiracleFruit: {
-	DisplayName: Чудо-Фрукт
-	Tooltip:
-		'''
-		Навсегда увеличивает здоровье на {0}
-		Можно использовать только один раз, причем требуется предварительно съесть максимальное число Фруктов Жизни
-		[c/7744FF:Прохладный, хорошо освежает, возможно даже немного похож на мяту по вкусу]
-		'''
-}
-
-MushroomPlasmaRoot.DisplayName: Плазменный Грибной Корень
-
-PhantomHeart: {
-	DisplayName: Фантомное Сердце
-	Tooltip:
-		'''
-		Навсегда увеличивает максимальную ману на {0}
-		Можно использовать только один раз, причем предварительно надо принять максимальное число Кристаллов Маны
-		'''
-}
-
-RedLightningContainer.DisplayName: Контейнер с Красной Молнией
-
-StarlightFuelCell.DisplayName: Топливная Ячейка со Звездным Ветром
-
-AntiCystOintment: {
-	DisplayName: Мазь от Кисты
-	Tooltip:
-		'''
-		Включите этот предмет, чтобы предотвратить появление роевых кист рядом с вами
-		Нажмите <right>, чтобы переключить
-		[STATE]
-		'''
-}
-
-AntiTumorOintment: {
-	DisplayName: Мазь от Опухоли
-	Tooltip:
-		'''
-		Включите этот предмет, чтобы предотвратить появление опухолей улья рядом с вами
-		Нажмите <right>, чтобы переключить
-		[STATE]
-		'''
-}
-
-// Critters
-AlphaSeaMinnowItem: {
-	DisplayName: "{$NPCs.AlphaSeaMinnow.DisplayName}"
-	Tooltip: ""
-}
-
-AlphaSeaMinnowGoldItem: {
-	DisplayName: "{$NPCs.AlphaSeaMinnowGold.DisplayName}"
-	Tooltip: ""
-}
-
-BabyGhostBellGoldItem: {
-	DisplayName: "{$NPCs.GoldBabyGhostBell}"
-	Tooltip: ""
-}
-
-BabyGhostBellGreenItem: {
-	DisplayName: Зелёный Детёныш Призрачного Колокольчика
-	Tooltip: ""
-}
-
-BabyGhostBellRadiantItem: {
-	DisplayName: "{$NPCs.RadiantBabyGhostBell}"
-	Tooltip: ""
-}
-
-BabyGhostBellPinkItem: {
-	DisplayName: Розовый Детёныш Призрачного Колокольчика
-	Tooltip: ""
-}
-
-GildedAxolotlItem: {
-	DisplayName: Позолоченный Аксолотль
-	Tooltip: ""
-}
-
 PearlpodBlackItem: {
-	DisplayName: Чёрный Жемчужник
+	DisplayName: Черный Жемчужник
 	Tooltip: ""
 }
 
@@ -200,7 +99,7 @@ PolypPanaseaGoldItem: {
 }
 
 PolypPanaseaGreenItem: {
-	DisplayName: Зелёный Полиповый Панасей
+	DisplayName: Зеленый Полиповый Панасей
 	Tooltip: ""
 }
 
@@ -224,6 +123,11 @@ PolypPanaseaTurquoiseItem: {
 	Tooltip: ""
 }
 
+PiggyItem: {
+	DisplayName: "{$Mods.CalamityMod.NPCs.Piggy.DisplayName}"
+	Tooltip: ""
+}
+
 PrismaticGuppyBlueItem: {
 	DisplayName: Синий Призматический Гуппи
 	Tooltip: ""
@@ -235,7 +139,7 @@ PrismaticGuppyGoldItem: {
 }
 
 PrismaticGuppyGreenItem: {
-	DisplayName: Зелёный Призматический Гуппи
+	DisplayName: Зеленый Призматический Гуппи
 	Tooltip: ""
 }
 
@@ -259,8 +163,18 @@ ProbesnoutItem: {
 	Tooltip: ""
 }
 
+RepairUnitItem: {
+	DisplayName: "{$Mods.CalamityMod.NPCs.RepairUnitCritter.DisplayName}"
+	Tooltip: ""
+}
+
 SeaFloatyItem: {
 	DisplayName: "{$NPCs.SeaFloaty.DisplayName}"
+	Tooltip: ""
+}
+
+SeaMinnowItem: {
+	DisplayName: "{$Mods.CalamityMod.NPCs.SeaMinnow.DisplayName}"
 	Tooltip: ""
 }
 
@@ -304,17 +218,78 @@ SlugbunRadiantItem: {
 	Tooltip: ""
 }
 
-// Permanent Boosters
-AdrenalineBoosterTooltip: Навсегда увеличивает урон {$Buffs.AdrenalineMode.DisplayName} на {0}% и уменьшение урона на {1}%
-RageBoosterTooltip: Навсегда увеличивает длительность {$Buffs.RageMode.DisplayName} на {0} {0^:секунду;секунды;секунд}
+TwinklerItem: {
+	DisplayName: "{$Mods.CalamityMod.NPCs.Twinkler.DisplayName}"
+	Tooltip: ""
+}
 
-SacredStrawberry: {
-	DisplayName: Sacred Strawberry
+// Permanent Boosters
+// AdrenalineBoosterTooltip: Permanently increases {$Buffs.AdrenalineMode.DisplayName} damage by {0}% and damage reduction by {1}%
+// RageBoosterTooltip: Permanently increases the duration of {$Buffs.RageMode.DisplayName} by {0} second
+
+CelestialOnion: {
+	DisplayName: Небесная Луковица
+	Tooltip:
+		'''
+		Навсегда увеличивает число слотов аксессуаров на 1
+		Ничего не делает на режиме Мастера
+		[c/33FFBB:В ее слоях пульсирует инопланетная сила]
+		'''
+}
+
+CometShard: {
+	DisplayName: Осколок Кометы
+	Tooltip:
+		'''
+		Навсегда увеличивает максимальную ману на {0}
+		Можно использовать только один раз, причем предварительно надо принять максимальное число Кристаллов Маны
+		'''
+}
+
+// Ectoheart.DisplayName: Ectoheart
+// ElectrolyteGelPack.DisplayName: Electrolyte Gel Pack
+
+EtherealCore: {
+	DisplayName: Эфирное Ядро
+	Tooltip:
+		'''
+		Навсегда увеличивает максимальную ману на {0}
+		Можно использовать только один раз, причем предварительно надо принять максимальное число Кристаллов Маны
+		'''
+}
+
+// InfernalBlood.DisplayName: Infernal Blood
+
+MiracleFruit: {
+	DisplayName: Чудо-Фрукт
 	Tooltip:
 		'''
 		Навсегда увеличивает здоровье на {0}
 		Можно использовать только один раз, причем требуется предварительно съесть максимальное число Фруктов Жизни
-		[c/FF66AA:Хотя её вкус и не особо насыщен, те нотки, которые можно уловить, не похожи ни на что другое]
+		[c/7744FF:Прохладный, хорошо освежает, возможно даже немного похож на мяту по вкусу]
+		'''
+}
+
+// MushroomPlasmaRoot.DisplayName: Mushroom Plasma Root
+
+PhantomHeart: {
+	DisplayName: Фантомное Сердце
+	Tooltip:
+		'''
+		Навсегда увеличивает максимальную ману на {0}
+		Можно использовать только один раз, причем предварительно надо принять максимальное число Кристаллов Маны
+		'''
+}
+
+// RedLightningContainer.DisplayName: Red Lightning Container
+
+SacredStrawberry: {
+	DisplayName: Священная Клубника
+	Tooltip:
+		'''
+		Навсегда увеличивает здоровье на {0}
+		Можно использовать только один раз, причем требуется предварительно съесть максимальное число Фруктов Жизни
+		[c/FF66AA:Хотя ее вкус и не особо насыщен, те нотки, которые можно уловить, не похожи ни на что другое]
 		'''
 }
 
@@ -328,6 +303,8 @@ SanguineTangerine: {
 		'''
 }
 
+// StarlightFuelCell.DisplayName: Starlight Fuel Cell
+
 TaintedCloudberry: {
 	DisplayName: Порочная Морошка
 	Tooltip:
@@ -338,18 +315,26 @@ TaintedCloudberry: {
 		'''
 }
 
+// Permanent Boosters
+AdrenalineBoosterTooltip: Навсегда увеличивает урон {$Buffs.AdrenalineMode.DisplayName} на {0}% и уменьшение урона на {1}%
+RageBoosterTooltip: Навсегда увеличивает длительность {$Buffs.RageMode.DisplayName} на {0} {^0:секунду;секунды;секунд}
+Ectoheart.DisplayName: Эктосердце
+ElectrolyteGelPack.DisplayName: Пачка Электролитного Геля
+InfernalBlood.DisplayName: Горящая Кровь
+MushroomPlasmaRoot.DisplayName: Плазменный Грибной Корень
+RedLightningContainer.DisplayName: Контейнер с Красной Молнией
+StarlightFuelCell.DisplayName: Топливная Ячейка со Звездным Ветром
 // Spawn Blockers
 SpawnBlockersOn: Появление включено
 SpawnBlockersOff: Появление отключено
-
 // Uncategorized
 ExhumeShortTooltip:
 	'''
-	[c/C61B40:'Ааа, я вижу тебе любопытно узнать, что я повидала в этой вещи?']
+	[c/C61B40:'Ааа, я вижу, тебе любопытно узнать, что я повидала в этой вещи, да?']
 	[c/BABABA:Удерживайте Shift, чтобы послушать]
 	'''
 LegendaryShortTooltip:
 	'''
-	[c/FF6F00:Легенды былых времён лучатся рядом с вами...]
+	[c/FF6F00:Легенды былых времен лучатся рядом с вами...]
 	[c/BABABA:Удерживайте Shift, чтобы прислушаться]
 	'''

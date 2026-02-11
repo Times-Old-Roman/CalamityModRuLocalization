@@ -130,15 +130,6 @@ AbyssalTreasure: {
 	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 }
 
-BleachedAnglingKit: {
-	DisplayName: Выбеленный Набор для Рыбалки
-	Tooltip:
-		'''
-		Имеет шанс содержать различные рыболовные инструменты
-		{$CommonItemTooltip.RightClickToOpen}
-		'''
-}
-
 FleshyGeode: {
 	DisplayName: Мясистая Жеода
 	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
@@ -147,15 +138,6 @@ FleshyGeode: {
 NecromanticGeode: {
 	DisplayName: Некромантическая Жеода
 	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
-}
-
-SandyAnglingKit: {
-	DisplayName: Песчаный Набор для Рыбалки
-	Tooltip:
-		'''
-		Имеет шанс содержать различные рыболовные инструменты
-		{$CommonItemTooltip.RightClickToOpen}
-		'''
 }
 
 StarterBag: {

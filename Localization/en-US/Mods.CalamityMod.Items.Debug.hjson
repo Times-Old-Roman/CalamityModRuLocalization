@@ -1,4 +1,4 @@
 DialogueDisplayDebugItem: {
-	// DisplayName: Dialogue Display Debug Item
-	// Tooltip: ""
+	DisplayName: Dialogue Display Debug Item
+	Tooltip: ""
 }

@@ -11,6 +11,9 @@
 	  <Optimize>False</Optimize>
 	</PropertyGroup>
 	<ItemGroup>
+	  <AdditionalFiles Remove="Localization\ru-RU\Mods.CalamityModMusic.hjson" />
+	</ItemGroup>
+	<ItemGroup>
 	  <Reference Include="CalamityMod">
 	    <HintPath>..\..\ModReader\CalamityMod\CalamityMod.dll</HintPath>
 	  </Reference>

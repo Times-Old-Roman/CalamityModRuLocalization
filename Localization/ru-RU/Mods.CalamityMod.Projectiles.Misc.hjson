@@ -1,56 +1,66 @@
 // Damageable
 MarniteRepulsionHitbox.DisplayName: Матрица Отражения
-ArtifactOfResilienceBulwark.DisplayName: Артефакт Стойкости
 // Draedon's Arsenal
+AerialTrackerLaser.DisplayName: Лазер
+AerialTrackerProjectile.DisplayName: Воздушный Преследователь
 AnomalysNanogunHoldout.DisplayName: Нанопушка Аномалии
 AnomalysNanogunMPFBBoom.DisplayName: Взрыв MPFB
 AnomalysNanogunMPFBDevastator.DisplayName: Опустошитель MPFB
 AnomalysNanogunPlasmaBeam.DisplayName: Плазменный Луч
-FrequencyManipulatorEnergy.DisplayName: Пульсовая Энергия
-FrequencyManipulatorProjectile.DisplayName: Манипулятор Частот
-GatlingLaserShot.DisplayName: Лазер Гатлинга
+AqueousHunterDroneSummon.DisplayName: Плазменная Креветка
+AugerHoldout.DisplayName: П-ГСС Авгур
+AugerSlash.DisplayName: Взмах Авгура
+AugerPull.DisplayName: Притяжение Авгура
+CountermeasurePalmBlast.DisplayName: Ладонный Взрыв
 GaussEnergy.DisplayName: Энергия Гаусса
 GaussFlux.DisplayName: Поток Гаусса
-GaussPistolShot.DisplayName: Выстрел Гаусса
-GaussRifleBlast.DisplayName: Всплеск Гаусса
-GaussRifleExplosion.DisplayName: Взрыв Гаусса
-LaserRifleShot.DisplayName: Лазерная Винтовка
+ImmolationArrow.DisplayName: Стрела Сожжения
+ImmolationBurst.DisplayName: Всплеск Сожжения
+ImmolationSpray.DisplayName: Туман Сожжения
 MassivePlasmaExplosion.DisplayName: Плазменный Взрыв
 MountedScannerLaser.DisplayName: Луч Смерти
 MountedScannerSummon.DisplayName: Монтируемый Мусор
+NidhoggRailgunBigShot.DisplayName: Рельсотрон Нидхогга
+NidhoggRailgunBlast.DisplayName: Луч Нидхогга
+NidhoggExplosion.DisplayName: Магнитное Сокрушение
+PhalanxSurgeLance.DisplayName: Лазерное Копье
+PhalanxSurgeLaser.DisplayName: Лазер Фаланги
 PhaseslayerBeam.DisplayName: Фазовый Меч
 PlasmaCasterShot.DisplayName: Плазменный Болт
 PlasmaGrenadeProjectile.DisplayName: Плазменная Граната
 PlasmaGrenadeSmallExplosion.DisplayName: Плазменный Взрыв
 PoleWarperSummon.DisplayName: Искажатель Полюсов
 PulseDragonProjectile.DisplayName: Пульсовый Дракон
+PulseGrenadeProjectile.DisplayName: Пульсовая Гранат
+PulseGrenadeOrb.DisplayName: Пульсовая Сфера
 PulsePistolShot.DisplayName: Пульсовый Болт
 PulseRifleShot.DisplayName: Пульсовый Болт
 PulseTurret.DisplayName: Пульсовая Турель
 PulseTurretShot.DisplayName: Пульсовый Болт
+ShortCircuitHook.DisplayName: Крюк Короткого Замыкания
+ShrimpPlasmaMissile.DisplayName: Ракета Плазменной Креветки
 SnakeEyesSummon.DisplayName: Змеиные Глаза
 SnakeEyesProjectile.DisplayName: Неизбегаемый Болт
-StarSwallowerAcid.DisplayName: Кислота
-StarSwallowerSummon.DisplayName: Лягухыч
 SystemBaneLightning.DisplayName: Молния
 SystemBaneProjectile.DisplayName: Системный Троян
-TaserHook.DisplayName: Тазер
 TeslaCannonShot.DisplayName: Луч Теслы
-TrackingDiskLaser.DisplayName: Лазер
-TrackingDiskProjectile.DisplayName: Отслеживающий Диск
-UnstableMatter.DisplayName: Нестабильная Материя
 VoltageStream.DisplayName: Поток Напряжения
+VulcanProjectile.DisplayName: Снаряд Вулкана
+VulcanSpear.DisplayName: Гарпун Вулкана
 WavePounderBoom.DisplayName: Взрыв
 WavePounderProjectile.DisplayName: Волновой Колотун
 // Environmental
 AcidDrop.DisplayName: Кислота
+BarrelCactusProjectile.DisplayName: Какту-Бочка
 BrimstoneGeyser.DisplayName: Дым
 GeyserTelegraph.DisplayName: Гейзер
 HotSteam.DisplayName: Пар
 LavaChunk.DisplayName: Кусок Лавы
+Lilyglow.DisplayName: Лилиевый Свет
 MurkySteam.DisplayName: Пар
 SmokeTelegraph.DisplayName: Дым
 ThermalSteam.DisplayName: Пар
+WaterAlgae.DisplayName: Водоросли
 // Turrets
 DraedonLaser.DisplayName: Лазер Драедона
 DraedonLaserBuffer.DisplayName: Лазер Драедона
@@ -68,28 +78,3 @@ PlagueShot.DisplayName: Чумной Газ
 PlagueShotBuffer.DisplayName: Чумной Снаряд
 WaterShot.DisplayName: Водяной Выстрел
 WaterShotBuffer.DisplayName: Водяной Выстрел
-// Draedon's Arsenal
-AerialTrackerLaser.DisplayName: Лазер
-AerialTrackerProjectile.DisplayName: Воздушный Преследователь
-AqueousHunterDroneSummon.DisplayName: Плазменная Креветка
-AugerHoldout.DisplayName: П-ГСС Авгур
-AugerSlash.DisplayName: Взмах Авгура
-AugerPull.DisplayName: Притяжение Авгура
-CountermeasurePalmBlast.DisplayName: Ладонный Взрыв
-ImmolationArrow.DisplayName: Стрела Сожжения
-ImmolationBurst.DisplayName: Всплеск Сожжения
-ImmolationSpray.DisplayName: Туман Сожжения
-NidhoggRailgunBigShot.DisplayName: Рельсотрон Нидхогга
-NidhoggRailgunBlast.DisplayName: Луч Нидхогга
-NidhoggExplosion.DisplayName: Магнитное Сокрушение
-PhalanxSurgeLance.DisplayName: Лазерное Копье
-PhalanxSurgeLaser.DisplayName: Лазер Фаланги
-PulseGrenadeProjectile.DisplayName: Пульсовая Гранат
-PulseGrenadeOrb.DisplayName: Пульсовая Сфера
-ShortCircuitHook.DisplayName: Крюк Короткого Замыкания
-ShrimpPlasmaMissile.DisplayName: Ракета Плазменной Креветки
-VulcanProjectile.DisplayName: Снаряд Вулкана
-VulcanSpear.DisplayName: Гарпун Вулкана
-BarrelCactusProjectile.DisplayName: Какту-Бочка
-Lilyglow.DisplayName: Лилиевый Свет
-WaterAlgae.DisplayName: Водоросли

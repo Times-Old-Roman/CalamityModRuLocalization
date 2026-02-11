@@ -1,5 +1,6 @@
 ActivateAccessoryParry.DisplayName: Парирование Аксессуаром
 AdrenalineMode.DisplayName: Режим Адреналина
+AmmoCycle.DisplayName: Смена Боеприпаса
 AngelicAllianceBlessing.DisplayName: Благословение Ангельского Альянса
 ArmorSetBonus.DisplayName: Бонус Набора Брони
 AscendantInsigniaHotKey.DisplayName: Полет Эмблемы Возвышения
@@ -10,9 +11,8 @@ GodSlayerDash.DisplayName: Рывок Богоубийцы
 GravistarSabatonHotkey.DisplayName: Удар Гравитационным Сабатоном
 NormalityRelocator.DisplayName: Телепорт Релокатора Нормальности
 RageMode.DisplayName: Режим Буйства
-SandCloakEffect.DisplayName: Эффект Песчаного Плаща
 SpectralVeilTeleport.DisplayName: Телепорт Спектральной Вуали
-AmmoCycle.DisplayName: Смена Боеприпаса
 TransformerHotKey.DisplayName: Активация Трансформатора
 GravitySwapOverride.DisplayName: Перезапись Смены Гравитации
 ExpandDebuffInfo.DisplayName: Взглянуть на Информацию Вредных Эффектов
+// ThePointerLock.DisplayName: The Pointer Lock On

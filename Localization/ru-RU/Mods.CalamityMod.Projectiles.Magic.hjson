@@ -3,31 +3,37 @@ AcidGunStream.DisplayName: Кислотная Струя
 AcidicReed.DisplayName: Кислотный Камыш
 AcidicSaxBubble.DisplayName: Кислотный Пузырь
 AcidicSaxMist.DisplayName: Кислотный Туман
+AerSigil.DisplayName: Сигил Аэр
+AerSigilBlast.DisplayName: Всплеск Аэр
+AerSigilFeather.DisplayName: Перо Аэр
+AerSigilMissile.DisplayName: Ракета Аэр
 AetherBeam.DisplayName: Эфирный Луч
+AlphaDraconisStar.DisplayName: Комета
 AnahitasArpeggioNote.DisplayName: Песня Анахиты
-Ancient.DisplayName: Древняя Пыль
 Ancient2.DisplayName: Древняя Пыль
+ApoctosisBlast.DisplayName: Всплеск Апоптоза
 ApotheosisEnergy.DisplayName: Энергия Апофеоза
 ApotheosisWorm.DisplayName: Пожиратель Богов
 AquamarineBolt.DisplayName: Аквамариновый Болт
+AquaSigil.DisplayName: Сигил Аква
+AquaSigilWaterball.DisplayName: Водяной Шар Аква
+AquaSigilWaterballExplosion.DisplayName: Взрыв Водяного Шара Аква
+AquaSigilWaterdroplet.DisplayName: Капля Воды Аква
 ArcticBearPawProj.DisplayName: Лапа Арктического Медведя
 ArtAttackStar.DisplayName: Красивенькая Звезда
 ArtAttackStrike.DisplayName: Художественный Приступ
-Asteroid.DisplayName: Астероид
 AsteroidMolten.DisplayName: Расплавленный Астероид
 AstralachneaFang.DisplayName: Астральный Клык
 AstralCrystal.DisplayName: Астральный Кристалл
 AstralCrystalInvisibleExplosion.DisplayName: Невидимый Взрыв Астрального Кристалла
 AstralStarMagic.DisplayName: Астральная Звезда
 AtlantisSpear.DisplayName: Копье Атлантиды
-AuraRain.DisplayName: Дождь Ауры
+AugurTentacle.DisplayName: Элементальное Щупальце
 AuroraAustralis.DisplayName: Аврора Астралис
 BeamingBolt.DisplayName: Лучащийся Болт
 BeamingBolt2.DisplayName: Лучащийся Болт
 BeamStar.DisplayName: Звезда Звездной Пыли
 BeastScythe.DisplayName: Коса Зверя
-BigBeamofDeath.DisplayName: Большой Луч Смерти
-BigBeamofDeath2.DisplayName: Большой Луч Смерти
 BlackAnurianBubble.DisplayName: Пузырь Анурия
 BlackAnurianPlankton.DisplayName: Планктон Анурия
 BlindingLight.DisplayName: Ослепляющий Свет
@@ -37,30 +43,27 @@ BloodRay.DisplayName: Луч Крови
 BlueBubble.DisplayName: Пузырь
 BlushieStaffProj.DisplayName: Посох Blushie
 BrimroseBeam.DisplayName: Луч Серной Розы
-BrimstoneFireball.DisplayName: Серный Огненный Шар
 BrimstoneHellfireballFriendly.DisplayName: Шар Адского Огня
-BrimstoneHomer.DisplayName: Наводящийся Серный Огненный Шар
-BrimstoneTentacle.DisplayName: Серное Щупальце
 CauldronProj.DisplayName: Котел, но поменьше
 CauldronProjSmall.DisplayName: Котел, но совсем маленький блиииин
 ChronoIcicleLarge.DisplayName: Хроно-сосулька
 ChronoIcicleSmall.DisplayName: Хроно-сосулька
 ChronomancersScytheHoldout.DisplayName: Коса Хрономанта
-ClamorNoctusStar.DisplayName: Звезда Кламора
-ClamorNoctusWyvern.DisplayName: Виверна Кламора
 ClimaxBeam.DisplayName: Электрический Луч
 ClimaxProj.DisplayName: Электрическая Сфера
 CoralSpike.DisplayName: Коралловый Шип
+CosmicRainbowFront.DisplayName: Радуга
+CosmicRainbowTrail.DisplayName: Радуга
 CosmicTentacle.DisplayName: Темное Щупальце
 CryoBlast.DisplayName: Крио-Взрыв
 DarkSparkBeam.DisplayName: Луч Темной Искры
 DarkSparkPrism.DisplayName: Темный Кристалл
+DeathValleyDusterProjectile.DisplayName: Пыль Долины Смерт
 DeathhailBeam.DisplayName: Град Смерти
-DustProjectile.DisplayName: Пыль Долины Смерти
+DracoConstellation.DisplayName: Созвездие Дракона
 EelDrop.DisplayName: Капля Кислотного Угря
 EidolicWailSoundwave.DisplayName: Эйдолонский Вой
 EldritchTentacle.DisplayName: Щупальце Ужаса
-ElementTentacle.DisplayName: Элементальное Щупальце
 EnormousConsumingVortex.DisplayName: Поглощающая Воронка
 EternityCircle.DisplayName: Вечность
 EternityCrystal.DisplayName: Кристалл
@@ -72,7 +75,7 @@ EvergladeSprayProjectile.DisplayName: Спрей Эверглейда
 ExoVortex.DisplayName: Поглощающая Воронка
 ExoVortex2.DisplayName: Поглощающая Воронка
 FatesRevealFlame.DisplayName: Проявление Судьбы
-FlamingPumpkin.DisplayName: Тыква
+FireImplosion.DisplayName: Бурлящий Водоворот
 FlareBoltProjectile.DisplayName: Огненная Вспышка
 ForbiddenAxeBlade.DisplayName: Клинок Руин
 ForbiddenSunburst.DisplayName: Солнечная Вспышка
@@ -87,8 +90,6 @@ GhastlyExplosionShard.DisplayName: Призрачный Фрагмент
 GhastlySubBlast.DisplayName: Призрачная Вспышка
 GleamingBolt.DisplayName: Блестящий Болт
 GleamingBolt2.DisplayName: Блестящий Болт
-GraniteEnergy.DisplayName: Гранитная Энергия
-GranitePulse.DisplayName: Гранитный Пульс
 HadalUrnIsopod.DisplayName: Абиссальный Изопод
 HadalUrnJellyfish.DisplayName: Медуза Миража
 HadalUrnLamprey.DisplayName: Морская Минога
@@ -99,12 +100,18 @@ HellfireExplosionFriendly.DisplayName: Взрыв
 HellwingBat.DisplayName: Пепельный Адокрыл
 HolyFlame.DisplayName: Святое Пламя
 HolyLaser.DisplayName: Святой Лазер
+HyperdeathRiftScepterBeam.DisplayName: Разрывной Потрошитель Гиперсмерти
 IceBarrageMain.DisplayName: Ледяной Шквал
 IceBlock.DisplayName: Ледяной Шквал
 IceBlockIcicle.DisplayName: Ледяной Шквал
 IceCluster.DisplayName: Ледяная Глыба
 Icicle.DisplayName: Сосулька
 IcicleStaffProj.DisplayName: Яростная Сосулька
+IgnisSigil.DisplayName: Сигил Игнис
+IgnisSigilFireballExplosion.DisplayName: Взрыв Огненного Шара Игнис
+IgnisSigilFireball.DisplayName: Огненный Шар Игнис
+IgnisSigilEmbers.DisplayName: Уголь Игнис
+IncineratingFireball.DisplayName: Испепеляющий Огненный Шар
 InfernadoFriendly.DisplayName: Инфернадо
 InfernadoMarkFriendly.DisplayName: Метка Инфернадо
 InfernalBlade.DisplayName: Инфернальный Клинок
@@ -113,7 +120,6 @@ IonBlast.DisplayName: Ионный Сгусток
 KeelhaulBubble.DisplayName: Пузырь Килевания
 KeelhaulGeyserBottom.DisplayName: Гейзер Килевания
 KeelhaulGeyserTop.DisplayName: Гейзер Килевания
-LazharSolarBeam.DisplayName: Концентрированный Солнечный Луч
 LightBall.DisplayName: Сфера Света
 LightBallExplosion.DisplayName: Взрыв Света
 LightBead.DisplayName: Капля Света
@@ -154,18 +160,27 @@ NightOrb.DisplayName: Сфера Ночи
 NightsRayBeam.DisplayName: Луч Ночи
 NuclearFuryProjectile.DisplayName: Ядерное Буйство
 OmicronBeam.DisplayName: Луч Омикрона
+OrdoSigil.DisplayName: Сигил Ордо
+OrdoSigilBeam.DisplayName: Луч Ордо
 PartySparkle.DisplayName: Красивые Искорки
+PerditoSigil.DisplayName: Сигил Пердито
+PerditoSigilShot.DisplayName: Снаряд Пердито
+PerditoSigilShotCreator.DisplayName: Спавнер Снарядов Пердито
 PhantasmalFuryProj.DisplayName: Фантомная Ярость
 Phantom.DisplayName: Фантом
 PhasedGodRay.DisplayName: Фазовый Луч Бога
 PhotosyntheticShard.DisplayName: Фотосинтетическитй Осколок
 PhotosyntheticSolarBeam.DisplayName: Солнечный Луч
 PlagueFang.DisplayName: Чумной Клык
-PlasmaBolt.DisplayName: Плазменный Болт
 PlasmaRay.DisplayName: Плазменный Луч
 PlasmaRay2.DisplayName: Плазменный Луч
-PlasmaShot.DisplayName: Плазменный Выстрел
+PlasmaRifleExplosion.DisplayName: Облако Ионизирующих Частиц
+PlasmaRifleShot.DisplayName: Концентрированный Плазменный Сгусток
 PoseidonTyphoon.DisplayName: Тайфун Посейдона
+PrimordialAncientExplosion.DisplayName: Первозданная Реликвия
+PrimordialAncientProjectile.DisplayName: Первозданная Реликвия
+PrimordialEarthExplosion.DisplayName: Первозданная Земля
+PrimordialEarthProjectile.DisplayName: Первозданная Земля
 PrinceFlameLarge.DisplayName: Святой Огненный Шар
 PrinceFlameSmall.DisplayName: Святой Огонь
 RainbowComet.DisplayName: Комета
@@ -192,7 +207,6 @@ SerpentineBody.DisplayName: Змей
 SerpentineHead.DisplayName: Змей
 SerpentineTail.DisplayName: Змей
 ShadecrystalProjectile.DisplayName: Теневой Кристалл
-ShadeNimbus.DisplayName: Теневая Туча
 ShadeNimbusCloud.DisplayName: Теневая Туча
 Shaderain.DisplayName: Теневой Дождь
 Shadowbolt.DisplayName: Теневой Болт
@@ -200,6 +214,9 @@ ShiftingSandsProj.DisplayName: Зыбкие Пески
 SHPB.DisplayName: ПУСНП
 SHPExplosion.DisplayName: Взрыв ПУСНП
 SHPL.DisplayName: ЛСНП
+SHPS.DisplayName: ЭППЭ
+SHPV.DisplayName: ЭППВ
+SigilSet.DisplayName: Набор Сигилов
 SilvaBurst.DisplayName: Вспышка Сильвы
 SlitheringEelProjectile.DisplayName: Ползущий Угорь
 SmallSpirit.DisplayName: Маленький Злой Дух
@@ -216,16 +233,16 @@ SpiritDust.DisplayName: Пыльца Духа
 Starblast.DisplayName: Звезда
 StardustElementalBeam.DisplayName: Луч Звездной Пыли
 StickyFeather.DisplayName: Перо
-SupremeDustFlakProjectile.DisplayName: Земная Пыль
-SupremeDustProjectile.DisplayName: Земная Пыль
 SylvBolt.DisplayName: Сильв-Удар
 SylvRay.DisplayName: Сульв-Луч
 TacticiansElectricBoom.DisplayName: Электрический Взрыв
 TacticiansTrumpCardProj.DisplayName: Козырной Луч
 TearsofHeavenProjectile.DisplayName: Слезы Небес
+TerraSigil.DisplayName: Сигил Терра
+TerraSigilLargeRock.DisplayName: Большой Камень Терра
+TerraSigilMediumRock.DisplayName: Средний Камень Терра
+TerraSigilSmallRock.DisplayName: Маленький Камень Терра
 Teslabeam.DisplayName: Тесла-Луч
-ThunderstormShot.DisplayName: Громовой Выстрел
-ThunderstormShotSplit.DisplayName: Громовой Выстрел
 TradewindsProjectile.DisplayName: Перо Попутного Ветра
 TridentIcicle.DisplayName: Сосулька Трезубца
 UberBubble.DisplayName: Пузырь
@@ -235,12 +252,14 @@ ValkyrieRayStaff.DisplayName: Луч Валькирии
 VeeringWindAirWave.DisplayName: Воздушная Волна Отклоняющегося Ветра
 VeeringWindFrostWave.DisplayName: Ледяная Волна Отклоняющегося Ветра
 Vehemence.DisplayName: Вспышка Страсти
+VehemenceBolt.DisplayName: Сгусток Страсти
 VehemenceSkull.DisplayName: Страстный Череп
 VenusianBolt.DisplayName: Удар Венеры
 VenusianExplosion.DisplayName: Взрыв Венеры
 VenusianFlame.DisplayName: Пепел Венеры
 VisceraBeam.DisplayName: Кровоизлияние
 VisceraBoom.DisplayName: Взрыв Кровоизлияния
+VisNeedle.DisplayName: Игла Вис
 VitriolicViperFang.DisplayName: Купоросный Клык
 VitriolicViperSpit.DisplayName: Купоросный Плевок
 VividBeam.DisplayName: Луч Прозрения
@@ -251,11 +270,16 @@ VividLaser2.DisplayName: Лазер Прозрения
 VividOrb.DisplayName: Сфера Прозрения
 VoidVortexProj.DisplayName: Воронка Пустоты
 VolatileStarcore.DisplayName: Волятильное Звездное Ядро
+VolterionOrb.DisplayName: Нестабильная Шаровая Молний
+VolterionShot.DisplayName: Ультразаряженная Молния
 VortexElementalBeam.DisplayName: Молния Воронки
 WaterLeechProj.DisplayName: Водяная Пиявка
+WarpSigil.DisplayName: Сигил Варп
+WarpSigilShot.DisplayName: Варп Снаряд
+WarpSigilShotCreator.DisplayName: Спавнер Снарядов Варп
 WaywasherProj.DisplayName: Вспышка Размытия
-WingmanShot.DisplayName: Мана-Патрон
 WingmanGrenade.DisplayName: Мана-Граната
+WingmanShot.DisplayName: Мана-Патрон
 WulfrumBolt.DisplayName: Вульфрумовый Болт
 WulfrumManaDrain.DisplayName: Мана-Вытяжка
 WyvernFeatherGreen.DisplayName: Перо
@@ -264,50 +288,3 @@ WyvernFeatherPurple.DisplayName: Перо
 WyvernProjectile.DisplayName: Виверн
 YharimsCrystalBeam.DisplayName: Луч Ярима
 YharimsCrystalPrism.DisplayName: крестал ерема
-AerSigil.DisplayName: Сигил Аэр
-AerSigilBlast.DisplayName: Всплеск Аэр
-AerSigilFeather.DisplayName: Перо Аэр
-AerSigilMissile.DisplayName: Ракета Аэр
-AlphaDraconisStar.DisplayName: Комета
-ApoctosisBlast.DisplayName: Всплеск Апоптоза
-AquaSigil.DisplayName: Сигил Аква
-AquaSigilWaterball.DisplayName: Водяной Шар Аква
-AquaSigilWaterballExplosion.DisplayName: Взрыв Водяного Шара Аква
-AquaSigilWaterdroplet.DisplayName: Капля Воды Аква
-AugurTentacle.DisplayName: Элементальное Щупальце
-CosmicRainbowFront.DisplayName: Радуга
-CosmicRainbowTrail.DisplayName: Радуга
-DeathValleyDusterProjectile.DisplayName: Пыль Долины Смерт
-DracoConstellation.DisplayName: Созвездие Дракона
-FireImplosion.DisplayName: Бурлящий Водоворот
-HyperdeathRiftScepterBeam.DisplayName: Разрывной Потрошитель Гиперсмерти
-IgnisSigil.DisplayName: Сигил Игнис
-IgnisSigilFireballExplosion.DisplayName: Взрыв Огненного Шара Игнис
-IgnisSigilFireball.DisplayName: Огненный Шар Игнис
-IgnisSigilEmbers.DisplayName: Уголь Игнис
-IncineratingFireball.DisplayName: Испепеляющий Огненный Шар
-OrdoSigil.DisplayName: Сигил Ордо
-OrdoSigilBeam.DisplayName: Луч Ордо
-PerditoSigil.DisplayName: Сигил Пердито
-PerditoSigilShot.DisplayName: Снаряд Пердито
-PerditoSigilShotCreator.DisplayName: Спавнер Снарядов Пердито
-PlasmaRifleExplosion.DisplayName: Облако Ионизирующих Частиц
-PlasmaRifleShot.DisplayName: Концентрированный Плазменный Сгусток
-PrimordialAncientExplosion.DisplayName: Первозданная Реликвия
-PrimordialAncientProjectile.DisplayName: Первозданная Реликвия
-PrimordialEarthExplosion.DisplayName: Первозданная Земля
-PrimordialEarthProjectile.DisplayName: Первозданная Земля
-SHPS.DisplayName: ЭППЭ
-SHPV.DisplayName: ЭППВ
-SigilSet.DisplayName: Набор Сигилов
-TerraSigil.DisplayName: Сигил Терра
-TerraSigilLargeRock.DisplayName: Большой Камень Терра
-TerraSigilMediumRock.DisplayName: Средний Камень Терра
-TerraSigilSmallRock.DisplayName: Маленький Камень Терра
-VehemenceBolt.DisplayName: Сгусток Страсти
-VisNeedle.DisplayName: Игла Вис
-VolterionOrb.DisplayName: Нестабильная Шаровая Молний
-VolterionShot.DisplayName: Ультразаряженная Молния
-WarpSigil.DisplayName: Сигил Варп
-WarpSigilShot.DisplayName: Варп Снаряд
-WarpSigilShotCreator.DisplayName: Спавнер Снарядов Варп

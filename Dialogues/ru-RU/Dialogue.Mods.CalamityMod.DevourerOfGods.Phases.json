@@ -1,0 +1,48 @@
+﻿{
+    "Revision": 1,
+    "DefaultColor": "6383FF",
+    "DefaultSpeaker": "DevourerOfGods",
+    "AlignType": 1,
+    "TextDelay": 2,
+    "BasePunctuationDelay": {
+        "Delay": 10,
+        "ForceSet": false,
+        "Locks": false
+    },
+    "PunctuationDelayCap": 30,
+    "PunctuationDelays": {
+        "!": {
+            "Delay": 20,
+            "ForceSet": true,
+            "Locks": true
+        },
+        "?": {
+            "Delay": 20,
+            "ForceSet": true,
+            "Locks": true
+        }
+    },
+    "Pages": [
+        {
+            "Lines": [
+                "[Scale(1.5):[Colors(2, 0.5, 00FFFF, FF00FF):Ты может и не бог...]]",
+                "[Scale(1.5):[Colors(2, 0.5, 00FFFF, FF00FF):Но я все-равно наслажусь твоей эссенцией!]]"
+            ]
+        },
+        {
+            "Lines": [
+                "[Scale(1.5):[Colors(2, 0.5, 00FFFF, FF00FF):Ты у нас крепче других, но смотри - не дерзай!]]"
+            ]
+        },
+        {
+            "Lines": [
+                "[Scale(1.5):[Colors(2, 0.5, 00FFFF, FF00FF):Мы тут еще не закончили, подонок!]]"
+            ]
+        },
+        {
+            "Lines": [
+                "[Colors(2, 0.5, FF00FF, 00FFFF):[Shaking(5):[Scale(2): БОГ]]][Colors(2, 0.5, 00FFFF, FF00FF):[Shaking:[Scale(2.25): НЕ БОИТСЯ]]][Colors(2, 0.5, FF00FF, 00FFFF):[Shaking(5):[Scale(2.5): [Pause(0.33)]СМЕРТИ!]]]"
+            ]
+        }
+    ]
+}

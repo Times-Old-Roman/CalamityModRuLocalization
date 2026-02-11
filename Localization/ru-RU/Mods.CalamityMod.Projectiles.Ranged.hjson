@@ -1,4 +1,4 @@
-AccelerationRoundProj.DisplayName: Ускоряющийся Патрон
+AcidRocket.DisplayName: Кислотная Ракета
 AdamAcceleratorBeam.DisplayName: Луч Адамантитовых Частиц
 AMR2.DisplayName: АМВ
 AMRShot.DisplayName: АМВ
@@ -20,16 +20,13 @@ AuricBullet.DisplayName: Ауритовая Пули
 AuroraFire.DisplayName: Пылание Северного Сияния
 BallistaGreatArrow.DisplayName: Большая Стрела Баллисты
 BarinadeArrow.DisplayName: Плавниковая Стрела
-BeeRPG.DisplayName: Пчелиная RPG
-BigCoral.DisplayName: Большой Коралл
 BlightFlames.DisplayName: Пагубное Пламя
-BlissfulBombardierDustProjectile.DisplayName: Вспышка Святого Огня
+BlissfulBombardierSplitProjectile.DisplayName: Скверная Мини-ракета
 BloodBoilerFire.DisplayName: Кровавый Огонь
 BloodClotFriendly.DisplayName: Кровавый Комок
 BloodfireArrowProj.DisplayName: Стрела Кровавого Огня
 BloodfireBulletProj.DisplayName: Пуля Кровавого Огня
 BloodflareSoul.DisplayName: Кровавая Душа
-Bolt.DisplayName: Громовой Удар
 BoltArrow.DisplayName: Стрела Грома
 BouncingShotgunPellet.DisplayName: Дробь
 BrimstoneBolt.DisplayName: Серный Болт
@@ -42,13 +39,14 @@ CardDiamond.DisplayName: Буба
 CardHeart.DisplayName: Червь
 CardSpade.DisplayName: Пика
 ChargedBlast.DisplayName: Энергия
-ChargedBlast2.DisplayName: Энергия
+ChargedBlastSplit.DisplayName: Заряженный Взрывной Осколок
 ChickenExplosion.DisplayName: Кентуки-Жаренный Взрыв
 ChickenRocket.DisplayName: Куриная Ракета
+ChromaticFire.DisplayName: Хроматический Огонь
+ChromaticFlare.DisplayName: Хроматическая Вспышка
 CinderArrowProj.DisplayName: Пепельная Стрела
 ClamorRifleProj.DisplayName: Моллюсковый Болт
 ClamorRifleProjSplit.DisplayName: Моллюсковый Болт
-ClaretCannonProj.DisplayName: Бордовая Слеза
 CondemnationArrow.DisplayName: Стрела Приговора
 CondemnationArrowHoming.DisplayName: Эхо Приговора
 ContagionArrow.DisplayName: Стрела Заразы
@@ -59,6 +57,7 @@ CorrodedShell.DisplayName: Едкая Ракушка
 CosmicFire.DisplayName: Огонь Мертвого Солнца
 DaemonsFlameArrow.DisplayName: Стрела Демона
 DeadSunExplosion.DisplayName: Взрыв Мертвого Солнца
+DragonsBreathBurst.DisplayName: Драконический Всплеск
 DragonsBreathFlames.DisplayName: Драконье Пламя
 DragonsBreathMag.DisplayName: Картридж Драконьего Пламени
 DragonsBreathRound.DisplayName: Пуля Драконьего Пламени
@@ -69,9 +68,6 @@ DrizzlefishFireball.DisplayName: Огненный Шар Драгуна Брыз
 DrizzlefishFireSplit.DisplayName: Огонь Драгуна Брызгуна
 DryadsTearMain.DisplayName: Слеза Дриады
 DryadsTearSplit.DisplayName: Слеза Дриады
-DWArrow.DisplayName: Стрела Смерти
-ElementalFire.DisplayName: Элементальное Пламя
-ElementalFlare.DisplayName: Элементальная Вспышка
 ElysianArrowProj.DisplayName: Элизийская Стрела
 ElysianArrowRain.DisplayName: Элизийский Свет
 EmesisGore.DisplayName: Гнилые Кишки
@@ -86,11 +82,11 @@ ExoSpark.DisplayName: Экзо Искра
 FallenStarProj.DisplayName: Падающая Звезда
 FeatherLarge.DisplayName: Перо
 FishronRPG.DisplayName: RPG
-FlakKrakenProj.DisplayName: Снаряд Кракена
 FlakKrakenProjectile.DisplayName: Зенитный Кракен
 FlakToxicannonProjectile.DisplayName: Зенитная Токсичная Пушка
 FlareBat.DisplayName: Пламенная Летучая Мышь
 Flash.DisplayName: Вспышка
+FlashRoundFlash.DisplayName: Вспышка
 FlashRoundProj.DisplayName: Световой Патрон
 FlurrystormIceChunk.DisplayName: Глыба Льда
 FlurrystormIceShard.DisplayName: Ледяной Осколок
@@ -100,11 +96,12 @@ FungiOrb.DisplayName: Грибная Сфера
 FungiOrb2.DisplayName: Грибная Сфера
 GemTechGreenFlechette.DisplayName: Флешетка Самоцветной Технологии
 GodSlayerSlugProj.DisplayName: Снаряд Богоубийцы
-GoliathRocket.DisplayName: Ракета Голиафа
 HalleysComet.DisplayName: Комета Галлея
+HalleysStarburst.DisplayName: Звездная Вспышка Галея
 HandheldTankShell.DisplayName: Танковый Снаряд
 HeavenlyGaleProj.DisplayName: Шторм Небес
-HiveBomb.DisplayName: Бомба Улья
+HellbornProj.DisplayName: Патрон из Ада
+HellbornShell.DisplayName: Гильза из Ада
 HiveMissile.DisplayName: Ракета Улья
 HiveNuke.DisplayName: Ядерная Бомба Улья
 HolyFireBulletProj.DisplayName: Пуля Святого Огня
@@ -119,8 +116,14 @@ HallowPointRoundProj.DisplayName: Патрон с Освященной Поло�
 ImpactRound.DisplayName: Ударный Патрон
 KarasawaShot.DisplayName: Выстрел Карасавы
 LeafArrow.DisplayName: Лиственная Стрела
+LeviatitanAberration.DisplayName: Порождение Левиатитана
+LeviatitanExplosion.DisplayName: Взрыв Левиатитана
+LeviatitanMeteor.DisplayName: Метеор Левиатитана
 LunarBolt.DisplayName: Громовой Удар
 LuxorsGiftRanged.DisplayName: Дар Люксора Стрелкам
+M1GarandBulletCasing.DisplayName: Гильза M1 Garand
+M1GarandEmptyClip.DisplayName: Пустой Магазин M1 Garand
+M1GarandShot.DisplayName: .30-06 Патрон
 MagnaShot.DisplayName: Болт Магны
 MagnomalyAura.DisplayName: Аура Магномалии
 MagnomalyBeam.DisplayName: Луч
@@ -128,6 +131,7 @@ MagnomalyExplosion.DisplayName: Взрыв
 MagnomalyRocket.DisplayName: Ядерная Бомба
 MarksmanShot.DisplayName: Патрон Стрелка
 MechanicalBarracuda.DisplayName: Барракуда
+MegalodonShot.DisplayName: Пуля Мегалодона
 MeowCreature.DisplayName: the существо :3
 MeowFire.DisplayName: Мрргонь
 MineralMortarProjectile.DisplayName: Ониксовая Бомба
@@ -137,13 +141,18 @@ MistArrow.DisplayName: Туманная Стрела
 MistArrowFrostMist.DisplayName: Морозный Туман
 MortarRoundProj.DisplayName: Мортира
 NeedlerProj.DisplayName: Игла
+NitroShot.DisplayName: Патрон «Nitro»
 NorfleetComet.DisplayName: Комета
 NorfleetExplosion.DisplayName: Взрыв
 NovaChargedShot.DisplayName: Заряженный Взрыв Новой
 NovaShot.DisplayName: Болт Новой
-Nuke.DisplayName: Ядерная Бомба
+NukeOfBliss.DisplayName: Бомба Скверны
+NullFlash.DisplayName: Пустотная Вспышка
 NullShot.DisplayName: Нуллификатор
-NullShot2.DisplayName: Нуллификатор
+OntologicalDespoilerBeam.DisplayName: Пустотный-Аннигиляционный Луч
+OntoligicalDespoilerBurst.DisplayName: Всплеск Разрыва
+OntologicalDespoilerGrenade.DisplayName: Сфера Разрыва
+OntologicalDespoilerShot.DisplayName: Конденсат Нереальности
 OpalChargedStrike.DisplayName: Заряженный Плазменный Болт
 OpalStrike.DisplayName: Накаленный Болт
 PiercingBullet.DisplayName: Пронзающий Выстрел
@@ -154,7 +163,6 @@ PlagueTaintedDrone.DisplayName: Запятнанный Чумой Дрон
 PlanarRipperBolt.DisplayName: Планарный Болт
 PlanarRipperExplosion.DisplayName: Планарный Взрыв
 PlanetaryAnnihilationProj.DisplayName: Планетарная Сфера
-PlasmaBlast.DisplayName: Плазменный Сгусток
 PlasmaExplosion.DisplayName: Плазменный Взрыв
 PolarStar.DisplayName: Звездный Плевок
 PrecisionBolt.DisplayName: Точный Болт
@@ -169,15 +177,14 @@ PristineFire.DisplayName: Пречистое Пламя
 PristineSecondary.DisplayName: Витающее Пречистое Пламя
 PumplerGrenade.DisplayName: Тыквенный Снаряд
 P90Round.DisplayName: Бронебойный Патрон
-RainbowBlast.DisplayName: Всплеск
 RainbowFront.DisplayName: Радуга
 RainbowTrail.DisplayName: Радуга
 RealmRavagerBullet.DisplayName: Взрывная Пуля
 RicoshotCoin.DisplayName: Монета Рикошета
 RocketFire.DisplayName: Огонь
 RubberMortarRoundProj.DisplayName: Резиновая Мортира
-SandstormBullet.DisplayName: Песчаная Буря
-ScorchedEarthBlast.DisplayName: Выжигатель Земли
+RubicoPrimeMag.DisplayName: Магазин Рубико Прайм
+SandblasterBullet.DisplayName: Песчаная Буря
 ScorchedEarthClusterBomb.DisplayName: Кассетная Бомба
 ScorchedEarthRocket.DisplayName: Ракета
 ScorpioRocket.DisplayName: Нано-Ракета
@@ -199,14 +206,17 @@ ShadeFire.DisplayName: Темный Огонь
 Shell.DisplayName: Ракушка
 Shockblast.DisplayName: Вспышка
 ShockblastRound.DisplayName: Патрона
+ShortCircuitExplosion.DisplayName: Короткое Замыкание
+ShortCircuitShot.DisplayName: Патро Короткого Замыкания
 Shroom.DisplayName: Гриб
 Sickness.DisplayName: Болезнь
 SicknessRound.DisplayName: Патрон
 SicknessRound2.DisplayName: Патрон
 SlagRound.DisplayName: Шлаковый Патрон
+Slagfire.DisplayName: Шлаковый Огонь
 SlimeBolt.DisplayName: Слизевой Болт
-SmallCoral.DisplayName: Маленький Коралл
 SparkSpreaderFire.DisplayName: Искры
+SpectralFlare.DisplayName: Спектральная Вспышка
 SpeedBlasterShot.DisplayName: Красочный Выстрел
 SporeBomb.DisplayName: Споровая Бомба
 SproutingArrowMain.DisplayName: Расцветающая Стрела
@@ -214,25 +224,31 @@ SproutingArrowSplit.DisplayName: Расцветающая Стрела
 SputterComet.DisplayName: Комета Звездоплева
 SputterCometBig.DisplayName: Комета Звездоплева
 SpykerProj.DisplayName: Шипомет
+StarfleetStar.DisplayName: Звезда Звездного Флота
+StarmadaHitProj.DisplayName: Звездная Армада
+StarmadaStar.DisplayName: Звезда Звездной Армады
 StarmageddonBinaryStarCenter.DisplayName: Центр Бинарной Звездной Системы Звездного Армагедона
 StarmageddonStar.DisplayName: Звезда Армагедона
 StarmageddonStar2.DisplayName: Звезда Армагедона
 StormSurgeTornado.DisplayName: Приток
+SulphuricAcidCannonExplosion.DisplayName: Взрыв Сернокислотной Пушки
 SulphuricBlast.DisplayName: Сернистый Всплеск
-SuperballBulletProj.DisplayName: Пуля «Superball»
+SulphuricDrop.DisplayName: Серная Капля
 SuperradiantBolt.DisplayName: Сверхизлучающий Сгусток
-SuperradiantSawLingering.DisplayName: Ультраизлучающая Пила
 SuperradiantSaw.DisplayName: Суперизлучающая Пила
+SuperradiantSawLingering.DisplayName: Ультраизлучающая Пила
+TauCannonBeam.DisplayName: Луч Тау-Пушки
+TauCannonBolt.DisplayName: Сгусток Тау-Пушки
+TauCannonPortal.DisplayName: Портал Тау-Пушки
 TelluricGlareArrow.DisplayName: Светящаяся Стрела
 TheMaelstromExplosion.DisplayName: Взрыв Жнеца
 TheMaelstromShark.DisplayName: Акула-Жнец
 ThePackMinissile.DisplayName: Миниракета Стаи
 ThePackMissile.DisplayName: Ракета Стаи
+TheStormLightningShot.DisplayName: Громовой Разряд
 TitaniumRailgunScope.DisplayName: Титановый Прицел
 TitaniumRailgunShot.DisplayName: Титановый Пенетратор
 TorrentialArrow.DisplayName: Стрелы Водоворота
-ToxicannonDrop.DisplayName: Токсичная Кислота
-ToxicannonShot.DisplayName: Токсичный Снаряд
 ToxicArrow.DisplayName: Токсичная Стрела
 TyphoonArrow.DisplayName: Стрела Тайфуна
 TyphoonBubble.DisplayName: Тайфун
@@ -251,42 +267,3 @@ WaterSpout.DisplayName: Родник
 WildfireBloomFire.DisplayName: Языки Лесного Пожара
 WildfireBloomFlare.DisplayName: Вспышка Лесного Пожара
 WulfrumScrapBullet.DisplayName: Высокоскоростной Металлолом
-NitroShot.DisplayName: Патрон «Nitro»
-ChargedBlastSplit.DisplayName: Заряженный Взрывной Осколок
-AcidRocket.DisplayName: Кислотная Ракета
-BlissfulBombardierSplitProjectile.DisplayName: Скверная Мини-ракета
-ChromaticFire.DisplayName: Хроматический Огонь
-ChromaticFlare.DisplayName: Хроматическая Вспышка
-DragonsBreathBurst.DisplayName: Драконический Всплеск
-FlashRoundFlash.DisplayName: Вспышка
-HalleysStarburst.DisplayName: Звездная Вспышка Галея
-HellbornProj.DisplayName: Патрон из Ада
-HellbornShell.DisplayName: Гильза из Ада
-LeviatitanAberration.DisplayName: Порождение Левиатитана
-LeviatitanExplosion.DisplayName: Взрыв Левиатитана
-LeviatitanMeteor.DisplayName: Метеор Левиатитана
-M1GarandBulletCasing.DisplayName: Гильза M1 Garand
-M1GarandEmptyClip.DisplayName: Пустой Магазин M1 Garand
-M1GarandShot.DisplayName: .30-06 Патрон
-MegalodonShot.DisplayName: Пуля Мегалодона
-NukeOfBliss.DisplayName: Бомба Скверны
-NullFlash.DisplayName: Пустотная Вспышка
-OntologicalDespoilerBeam.DisplayName: Пустотный-Аннигиляционный Луч
-OntoligicalDespoilerBurst.DisplayName: Всплеск Разрыва
-OntologicalDespoilerGrenade.DisplayName: Сфера Разрыва
-OntologicalDespoilerShot.DisplayName: Конденсат Нереальности
-RubicoPrimeMag.DisplayName: Магазин Рубико Прайм
-SandblasterBullet.DisplayName: Песчаная Буря
-ShortCircuitExplosion.DisplayName: Короткое Замыкание
-ShortCircuitShot.DisplayName: Патро Короткого Замыкания
-Slagfire.DisplayName: Шлаковый Огонь
-SpectralFlare.DisplayName: Спектральная Вспышка
-StarfleetStar.DisplayName: Звезда Звездного Флота
-StarmadaHitProj.DisplayName: Звездная Армада
-StarmadaStar.DisplayName: Звезда Звездной Армады
-SulphuricAcidCannonExplosion.DisplayName: Взрыв Сернокислотной Пушки
-SulphuricDrop.DisplayName: Серная Капля
-TauCannonBeam.DisplayName: Луч Тау-Пушки
-TauCannonBolt.DisplayName: Сгусток Тау-Пушки
-TauCannonPortal.DisplayName: Портал Тау-Пушки
-TheStormLightningShot.DisplayName: Громовой Разряд

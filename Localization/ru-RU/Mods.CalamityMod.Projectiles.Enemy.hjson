@@ -1,5 +1,8 @@
+AnglerFlash.DisplayName: Вспышка Удильщика
 AstralMeteorProj.DisplayName: Астральный Метеорит
 BelchingCoralSpike.DisplayName: Шип
+CarrionPus.DisplayName: Трупный Гной
+ClamBubbleBlast.DisplayName: Пузырьковый Всплеск Моллюска
 CrabBoulder.DisplayName: Валун
 CragmawAcidDrop.DisplayName: Кислота
 CragmawBeam.DisplayName: Гамма-Луч
@@ -15,9 +18,13 @@ FlameBurstHostile.DisplayName: Взрыв
 GammaAcid.DisplayName: Кислота
 GammaBeam.DisplayName: Гамма-Луч
 GammaRayBurst.DisplayName: ЛУЧ G-FUEL
+GhostBellShock.DisplayName: Электрическое Поле
+HorsPoisonBlast.DisplayName: Ядовитый Плевок
 HorsWaterBlast.DisplayName: Вода
+IceClasperEnemyProjectile.DisplayName: Ледяной Осколок
 InkBombHostile.DisplayName: Бомба с Чернилами
 InkPoisonCloud.DisplayName: Облако Чернил
+JellyghoulBolt.DisplayName: Сгусток медузогуля
 LightningCloud.DisplayName: Облако
 MantisRing.DisplayName: Диск Богомола
 MaulerAcidBubble.DisplayName: Кислотный Пузырь
@@ -28,25 +35,18 @@ NuclearToadGoo.DisplayName: Жижа
 OrthoceraStream.DisplayName: Кислотный Поток
 PearlBurst.DisplayName: Жемчужный Взрыв
 PearlRain.DisplayName: Жемчужный Дождь
+PodobooSpit.DisplayName: Плевок Подобуу
+PodobooSpitHoming.DisplayName: Наводящийся Плевок Подобуу
+PodobooSpitSplitting.DisplayName: Расщепляющийся Плевок Подобуу
+PodobooSpitUltima.DisplayName: Ультима-Плевок Подобуу
+PrismBackCrystal.DisplayName: Осколок Призмоспина
 PufferExplosion.DisplayName: Взрыв
+SharkoonExplosion.DisplayName: Акулон-Взрыв
+ShoreskipperTackle.DisplayName: Таран Берегового Скакуна
+StormlionSentryBullet.DisplayName: Пуля Стража Штормового Льва
 StormMarkHostile.DisplayName: Метка
 SulphuricAcidBubble.DisplayName: Кислотный Пузырь
 SulphuricAcidMist.DisplayName: Кислотный Туман
 TornadoHostile.DisplayName: Торнадо
 ToxicMinnowCloud.DisplayName: Токсичное Облако
 TrilobiteSpike.DisplayName: Шип
-IceClasperEnemyProjectile.DisplayName: Ледяной Осколок
-AnglerFlash.DisplayName: Вспышка Удильщика
-CarrionPus.DisplayName: Трупный Гной
-ClamBubbleBlast.DisplayName: Пузырьковый Всплеск Моллюска
-GhostBellShock.DisplayName: Электрическое Поле
-HorsPoisonBlast.DisplayName: Ядовитый Плевок
-JellyghoulBolt.DisplayName: Сгусток медузогуля
-PodobooSpit.DisplayName: Плевок Подобуу
-PodobooSpitHoming.DisplayName: Наводящийся Плевок Подобуу
-PodobooSpitSplitting.DisplayName: Расщепляющийся Плевок Подобуу
-PodobooSpitUltima.DisplayName: Ультима-Плевок Подобуу
-PrismBackCrystal.DisplayName: Осколок Призмоспина
-SharkoonExplosion.DisplayName: Акулон-Взрыв
-ShoreskipperTackle.DisplayName: Таран Берегового Скакуна
-StormlionSentryBullet.DisplayName: Пуля Стража Штормового Льва

@@ -128,6 +128,21 @@ LeviathanMask: {
 	Tooltip: ""
 }
 
+LucisBoots: {
+	DisplayName: Ботинки Люси
+	Tooltip: "'Шаг за шагом, ты справишься.'"
+}
+
+LucisHairstyle: {
+	DisplayName: Стиль Волос Люси
+	Tooltip: "'Герой Света, Люси Скайшот.'"
+}
+
+LucisMilitaryUniform: {
+	DisplayName: Военная Форма Люси
+	Tooltip: "'На ней знаменитая эмблема Армии Освобождения.'"
+}
+
 OldDukeMask: {
 	DisplayName: Маска Древнего Герцога
 	Tooltip: ""
@@ -238,26 +253,6 @@ ThanatosMask: {
 	Tooltip: ""
 }
 
-YharonMask: {
-	DisplayName: Маска Ярона
-	Tooltip: ""
-}
-
-LucisBoots: {
-	DisplayName: Ботинки Люси
-	Tooltip: "'Шаг за шагом, ты справишься.'"
-}
-
-LucisHairstyle: {
-	DisplayName: Стиль Волос Люси
-	Tooltip: "'Герой Света, Люси Скайшот.'"
-}
-
-LucisMilitaryUniform: {
-	DisplayName: Военная Форма Люси
-	Tooltip: "'На ней знаменитая эмблема Армии Освобождения.'"
-}
-
 TheCommandersCap: {
 	DisplayName: Козырек Коммандора
 	Tooltip: Часть наряда Пилотов
@@ -271,4 +266,9 @@ TheFormalFootwear: {
 TheGrandGarment: {
 	DisplayName: Грандиозное Одеяние
 	Tooltip: Часть наряда Пилотов
+}
+
+YharonMask: {
+	DisplayName: Маска Ярона
+	Tooltip: ""
 }

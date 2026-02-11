@@ -1,21 +1,22 @@
 AbaddonCrit.DisplayName: Серный Взрыв
 AeroExplosive.DisplayName: Аэробум
 AllianceTriangle.DisplayName: Треугольник Альянса
+AmuletEnergy.DisplayName: Морской Дух
 ArcZap.DisplayName: Дуговой Удар
-ArtifactOfResilienceShard1.DisplayName: Осколок Артефакта
-ArtifactOfResilienceShard2.DisplayName: Осколок Артефакта
-ArtifactOfResilienceShard3.DisplayName: Осколок Артефакта
-ArtifactOfResilienceShard4.DisplayName: Осколок Артефакта
-ArtifactOfResilienceShard5.DisplayName: Осколок Артефакта
-ArtifactOfResilienceShard6.DisplayName: Осколок Артефакта
+ArtifactOfResilienceShards.DisplayName: Осколок Артефакта
 AscendantAura.DisplayName: Аура Возвышения
-AstralFallingSand.DisplayName: Падающий Астральный Песок
 AstralSandBallFalling.DisplayName: Астральный Песок
 AstralSandBallGun.DisplayName: Астральный Песок
 AstralSpray.DisplayName: Астральный Спрей
 AstralStar.DisplayName: Звезда
-BallisticPoisonCloud.DisplayName: Баллистическое Облако
+AuricLandMineExplosion.DisplayName: Взрыв Ауритовой Мины
+BabyCannonballProjectile.DisplayName: Baby Cannonball Projectile
+BasicBurst.DisplayName: Ничем непримечательный наносящий урон взрыв
+BasicBurstExclusive.DisplayName: Ничем непримечательный наносящий урон взрыв
 BasicPlagueBee.DisplayName: Базовая Чумная Пчела
+BatholithBangleProjectile.DisplayName: Гранитовая Вспышка
+BlackGlassBandProjectile.DisplayName: Обсидиановый Удар
+BlackPearlFalling.DisplayName: Черная Жемчужина
 BlazingStarHeal.DisplayName: Лечение Пылающей Звезды
 BlazingStarThatDoesNotHeal.DisplayName: Пылающая Звезда Только Она не Лечит
 BlazingSun.DisplayName: Пылающее Солнце
@@ -23,16 +24,16 @@ BlazingSun2.DisplayName: Пылающее Солнце
 BlissfulBombardierDustProjectile.DisplayName: Пыль
 BloodBomb.DisplayName: Бомба
 BloodBombExplosion.DisplayName: Взрыв
+BloomStoneFlower.DisplayName: Цветок Камня Цветения
 BlunderBoosterAura.DisplayName: Аура Красной Молнии
 BobbitHead.DisplayName: Голова Червя-Боббита
 BossRushEffectThing.DisplayName: Босс-Раш Эффект Вещь
 BossRushEndEffectThing.DisplayName: Босс-Раш Эффект Вещь в Конце
 BossRushFailureEffectThing.DisplayName: Босс-Раш Эффект Вещь при Провале
 BossRushTierAnimation.DisplayName: Анимация Тиража Босс-Раша
-BrimstoneHellfireballFriendly2.DisplayName: Адское Пламя
 ChaoticGeyser.DisplayName: Хаотический Гейзер
-ChlorophyteLifePulse.DisplayName: Пульс Жизни
 ChronoClock.DisplayName: Хроно-Часы
+ClaretCannonProj.DisplayName: Багровый Патрон
 CoralBubble.DisplayName: Пузырь
 CoralBubbleSmall.DisplayName: Пузырь
 CosmicDashExplosion.DisplayName: Взрыв Космического Рывка
@@ -44,8 +45,11 @@ DarkIce.DisplayName: Темный Лед
 DeepseaBlaze.DisplayName: Огонь Глубокого Моря
 DemonshadeRedDevil.DisplayName: Красный Дьявол
 DevourerofCodsBobber.DisplayName: Поплавок Пожирателя Трески
+DiamondOfTheDeepProjectile.DisplayName: Дух Бездны
 DirectStrike.DisplayName: Неописуемый Наносящий Урон Объект
 DragonDust.DisplayName: Пыль
+DunesandBallFalling.DisplayName: Ком Дюнного Песка
+DuneSandBallGun.DisplayName: Ком Дюнного Песка
 EarlyBloomBobber.DisplayName: Поплавок Раннего Цветения
 EmpyreanBlast.DisplayName: Эмпирейский Всплеск
 EmpyreanEmber.DisplayName: Эмпирейский Уголек
@@ -53,33 +57,45 @@ EmpyreanGlob.DisplayName: Эмпирейский Сгусток
 EmpyreanMarble.DisplayName: Эмпирейская Сфера
 EmpyreanStellarDetritus.DisplayName: Эмпирейский Звездный Детрит
 EnergyShell.DisplayName: Энергетическая Оболочка
+EutrophicSandBallFalling.DisplayName: Ком Эвтрофного Песка
 EutrophicSandBallGun.DisplayName: Эвтрофный Песок
+ExoTankHoverThrust.DisplayName: Экзо-ускоритель
+ExoTankLaser.DisplayName: Экзо-пульсовый Мини-лазер
+ExoTankMissile.DisplayName: Чудо-ракета
+ExoTankMuzzleFlash.DisplayName: Мини Экзо-вспышка
 FeralDoubleBobber.DisplayName: Дикий Поплавок
+FestiveWingsOrnament.DisplayName: Украшение
 FlameLickedBarrage.DisplayName: Натиск от Обожженного Панциря
 FlameLickedHellblast.DisplayName: Адский Взрыв от Обожженного Панциря
+FlashBolt.DisplayName: Напоминатель
+FriendlyLaserWallBeam.DisplayName: Гибельный Луч Божественный Смерти
 FuckYou.DisplayName: Взрыв
 FungalClumpMinion.DisplayName: Грибной Комок
 GemTechArmorGem.DisplayName: Самоцвет Триреме
+GenericElectricSpark.DisplayName: Электрическая Искра
 GhostlyBolt.DisplayName: Болт
 GodKiller.DisplayName: Богоубийца
 GodSlayerShrapnel.DisplayName: Пламя
 GodSlayerShrapnelRound.DisplayName: Снаряд
 GreenLabSeeker.DisplayName: Ищущий Механизм
-HellfireExplosionFriendly2.DisplayName: Взрыв
 HeronBobber.DisplayName: Поплавок Цапли
 HideOfAstrumDeusExplosion.DisplayName: Взрыв
-HolyExplosion.DisplayName: Взрыв
 HolyExplosionSupreme.DisplayName: Взрыв
+HolyStarDamage.DisplayName: Святая Звезда
 HydrothermalSmoke.DisplayName: Дым
 HydrothermicFlare.DisplayName: Гидротермальная Вспышка
 HydrothermicFlareRogue.DisplayName: Гидротермальная Вспышка
 HydrothermicSphere.DisplayName: Гидротермальная Сфера
+HyperiusDamage.DisplayName: Переполнение Гипериуса
+HyperiusBleed.DisplayName: Кровотечение от Гипериуса
 JewelSpike.DisplayName: Шип
 KelvinCatalystStar.DisplayName: Звезда Катализатора Кельвина
 LeviAmberDash.DisplayName: Удар Разрывного Течения
 LunicBeam.DisplayName: Луч
-MageHammerBoom.DisplayName: Взрыв
+Luxor.DisplayName: Луксор
+LuxorsGiftClassless.DisplayName: Бесклассовый Лукср
 MagnusBeam.DisplayName: Луч
+MagnusBoom.DisplayName: Вспышка Туманности
 MythrilFlare.DisplayName: Мифриловый Огонь
 NanoFlare.DisplayName: Нано-Вспышка
 Nanotech.DisplayName: Наноклезвие
@@ -91,26 +107,32 @@ OmegaBlueTentacle.DisplayName: Щупальца Синей Омеги
 OnyxLabSeeker.DisplayName: Ищущий Механизм
 PauldronDash.DisplayName: Рывок от Наплечника
 PauldronExplosion.DisplayName: Взрыв от Наплечника
-PendantProjectile1.DisplayName: Призматический Осколок
-PendantProjectile2.DisplayName: Призматический Осколок
-PendantProjectile3.DisplayName: Призматический Осколок
+PearlAuraShard.DisplayName: Призматический Осколок
 PlaguePulse.DisplayName: Пульс Чумы
+PinkPearlFalling.DisplayName: Розовая Жемчужина
 PoisonousSeawater.DisplayName: Морская Вода
+PolypSandBallFalling.DisplayName: Ком Полипового Песка
+PolypSandBallGun.DisplayName: Ком Полипового Песка
+ProtolithBangleProjectile.DisplayName: Мраморный Раскол
 PscTransformAnimation.DisplayName: Анимация Трансформации Скверного Духовного Артефакта
 PscTransformRocks.DisplayName: Камни Анимация Трансформации Скверного Духовного Артефакта
-ReaverOrb.DisplayName: Сфера Разорителя
+PuddleSplash.DisplayName: Всплеск Лужи
 ReaverThornBase.DisplayName: Иголка
 RedLabSeeker.DisplayName: Ищущий Механизм
+RelicGuard.DisplayName: Стража Реликвии
+RetaliationProjectile.DisplayName: Ответный Снаряд
 RiftReelerBobber.DisplayName: Хаотический Поплавок
-SabatonBoom.DisplayName: Бум от Сабатона
-SabatonSlam.DisplayName: Удар от Сабатона
+RustyMedallionDroplet.DisplayName: Кислотная Капля
 SandCloakVeil.DisplayName: Пылевая Вуаль
 SandExplosion.DisplayName: Песок
+SCalAltarArenaVisual.DisplayName: Визуальный Эффект Арены Великой Каламитас
+ScionsCurioMini.DisplayName: Радиоактивная Диковинка
 Seashell.DisplayName: Ракушка
 SepulcherSoul.DisplayName: Душа в Агонии
 SerpentsBiteHook.DisplayName: Змеиный Укус
-ShadowflameExplosion.DisplayName: Взрыв Теневого Пламени
-ShadowflameExplosionBig.DisplayName: Взрыв Теневого Пламени
+ShadeNimbus.DisplayName: Теневое Облако
+ShadeNimbusRain.DisplayName: Теневой Дождь
+ShadeNimbusSpawner.DisplayName: Текущий Ползун
 SkyFlareFriendly.DisplayName: Вспышка
 SlimeStream.DisplayName: Слизевая Струя
 SlurperBobber.DisplayName: Поплавок Сосуна
@@ -118,75 +140,31 @@ SpiritOriginBullseye.DisplayName: Мишень Духа Призыва
 StandingFire.DisplayName: Огонь
 StarStruckWaterBottle.DisplayName: Бутылка
 StickyFeatherAero.DisplayName: Перо
+StomperSlam.DisplayName: Удар Топтунов
 SuicideBomberDemon.DisplayName: Демон
 SulphuricAcidBubbleFriendly.DisplayName: Кислотный Пузырь
 SulphurousSandBallGun.DisplayName: Серный Песок
 TarraEnergy.DisplayName: Тарра-Энергия
 TarragonAura.DisplayName: Аура Таррагона
+TatteredFairyDust.DisplayName: Фейская Изорванная Пыльца
 TeslaAura.DisplayName: Электричество Теслы
+TitanHeartBoom.DisplayName: Бум Сердца Титана
+TransformerAura.DisplayName: Аура Трансформатора
+TransformerBlob.DisplayName: Осколок Трансформатора
+UrsaSlash.DisplayName: Взмах Медведицы
 VerstaltiteBobber.DisplayName: Поплавок Ферстилита
 VoidFieldGenerator.DisplayName: Генератор Поля Пустоты
-WaterConvertor.DisplayName: Конвертор Воды
+VolcanicSandBallFalling.DisplayName: Ком Вулканического Песка
+VolcanicSandBallGun.DisplayName: Ком Вулканического Песка
+WarbannerDamage.DisplayName: Несравненная Сила Солнца
+WarbannerLight.DisplayName: Свет Военного Знамени
 WhiteLabSeeker.DisplayName: Ищущий Механизм
+WhitePearlFalling.DisplayName: Белая Жемчужина
 WulfrumBobber.DisplayName: Вульфрумовый Поплавок
 WulfrumDiggingTurtleProjectile.DisplayName: Копающая Черепаха
 WulfrumHook.DisplayName: Вульфрумовая Веревка
 WulfrumLureSignal.DisplayName: Сигнал
 YellowLabSeeker.DisplayName: Ищущий Механизм
-AmuletEnergy.DisplayName: Морской Дух
-ArtifactOfResilienceShards.DisplayName: Осколок Артефакта
-AuricLandMineExplosion.DisplayName: Взрыв Ауритовой Мины
-BabyCannonballProjectile.DisplayName: Baby Cannonball Projectile
-BasicBurst.DisplayName: Ничем непримечательный наносящий урон взрыв
-BasicBurstExclusive.DisplayName: Ничем непримечательный наносящий урон взрыв
-BatholithBangleProjectile.DisplayName: Гранитовая Вспышка
-BlackGlassBandProjectile.DisplayName: Обсидиановый Удар
-BlackPearlFalling.DisplayName: Черная Жемчужина
-BloomStoneFlower.DisplayName: Цветок Камня Цветения
-ClaretCannonProj.DisplayName: Багровый Патрон
-DiamondOfTheDeepProjectile.DisplayName: Дух Бездны
-DunesandBallFalling.DisplayName: Ком Дюнного Песка
-DuneSandBallGun.DisplayName: Ком Дюнного Песка
-EutrophicSandBallFalling.DisplayName: Ком Эвтрофного Песка
-ExoTankHoverThrust.DisplayName: Экзо-ускоритель
-ExoTankLaser.DisplayName: Экзо-пульсовый Мини-лазер
-ExoTankMissile.DisplayName: Чудо-ракета
-ExoTankMuzzleFlash.DisplayName: Мини Экзо-вспышка
-FestiveWingsOrnament.DisplayName: Украшение
-FlashBolt.DisplayName: Напоминатель
-FriendlyLaserWallBeam.DisplayName: Гибельный Луч Божественный Смерти
-GenericElectricSpark.DisplayName: Электрическая Искра
-HolyStarDamage.DisplayName: Святая Звезда
-HyperiusDamage.DisplayName: Переполнение Гипериуса
-HyperiusBleed.DisplayName: Кровотечение от Гипериуса
-Luxor.DisplayName: Луксор
-LuxorsGiftClassless.DisplayName: Бесклассовый Лукср
-MagnusBoom.DisplayName: Вспышка Туманности
-PearlAuraShard.DisplayName: Призматический Осколок
-PinkPearlFalling.DisplayName: Розовая Жемчужина
-PolypSandBallFalling.DisplayName: Ком Полипового Песка
-PolypSandBallGun.DisplayName: Ком Полипового Песка
-ProtolithBangleProjectile.DisplayName: Мраморный Раскол
-PuddleSplash.DisplayName: Всплеск Лужи
-RelicGuard.DisplayName: Стража Реликвии
-RetaliationProjectile.DisplayName: Ответный Снаряд
-RustyMedallionDroplet.DisplayName: Кислотная Капля
-SCalAltarArenaVisual.DisplayName: Визуальный Эффект Арены Великой Каламитас
-ScionsCurioMini.DisplayName: Радиоактивная Диковинка
-ShadeNimbus.DisplayName: Теневое Облако
-ShadeNimbusRain.DisplayName: Теневой Дождь
-ShadeNimbusSpawner.DisplayName: Текущий Ползун
-StomperSlam.DisplayName: Удар Топтунов
-TatteredFairyDust.DisplayName: Фейская Изорванная Пыльца
-TitanHeartBoom.DisplayName: Бум Сердца Титана
-TransformerAura.DisplayName: Аура Трансформатора
-TransformerBlob.DisplayName: Осколок Трансформатора
-UrsaSlash.DisplayName: Взмах Медведицы
-VolcanicSandBallFalling.DisplayName: Ком Вулканического Песка
-VolcanicSandBallGun.DisplayName: Ком Вулканического Песка
-WarbannerDamage.DisplayName: Несравненная Сила Солнца
-WarbannerLight.DisplayName: Свет Военного Знамени
-WhitePearlFalling.DisplayName: Белая Жемчужина
 VoidofExtinctionCrit.DisplayName: Критический Удар Мглы Погибели
 XykDeathAnim.DisplayName: Анимация Смерти Xyk
 XykWings.DisplayName: Крылья Xyk

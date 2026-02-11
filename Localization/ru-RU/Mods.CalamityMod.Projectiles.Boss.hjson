@@ -1,3 +1,4 @@
+AnahitaTelegraph.DisplayName: Траектория Рывка Анахиты
 ApolloChargeTelegraph.DisplayName: Траектория Рывка Аполлона
 ApolloFireball.DisplayName: Летучий Плазменный Сгусток
 ApolloRocket.DisplayName: Взрывчатая Плазменная Ракета
@@ -13,7 +14,7 @@ AresTeslaOrb.DisplayName: Тесла-Сфера
 ArtemisChargeTelegraph.DisplayName: Траектория Рывка Артемиды
 ArtemisDeathrayTelegraph.DisplayName: Траектория Экзотермального Луча Артемиды
 ArtemisLaser.DisplayName: Лазер Экзо-Пульса
-ArtemisSpinLaserbeam.DisplayName: Ohio Луч
+ArtemisSpinLaserbeam.DisplayName: Огайо Луч
 AstralFlame.DisplayName: Астральный Наводящийся Огонек
 AstralGodRay.DisplayName: Астральный Божественный Луч
 AstralLaser.DisplayName: Залп Астральных Лазеров
@@ -23,6 +24,7 @@ BigFlare2.DisplayName: Большая Вспышка
 BirbAura.DisplayName: Драконическая Аура
 BirbAuraFlare.DisplayName: Вспышка Драконической Ауры
 BloodGeyser.DisplayName: Кровавый Гейзер
+BloodScythe.DisplayName: Коса Крови
 BrimstoneBall.DisplayName: Серный Огненный Шар
 BrimstoneBarrage.DisplayName: Серный Дротик
 BrimstoneFire.DisplayName: Серный Огонь
@@ -35,11 +37,17 @@ BrimstoneTargetRay.DisplayName: Направленный Луч Серы
 BrimstoneWave.DisplayName: Серный Пламенный Череп
 BrokenApolloLens.DisplayName: Линза
 BrokenArtemisLens.DisplayName: Линза
-CirrusBlast.DisplayName: Грибной Взрыв Цирруса
-CirrusBlaster.DisplayName: Гриб Цирруса
-CirrusPhotonRipperPrismTooth.DisplayName: Зубцы Фотонного Разрывателя Цирруса
-CirrusPhotonRipperProjectile.DisplayName: Фотонный Разрыватель Цирруса
-CirrusVolatileVodkaBottle.DisplayName: Взрывоопасная Бутылка Воды
+BurningBolt.DisplayName: Горящий Сгусток
+BurningFireblast.DisplayName: Горящий Огневзрыв
+BurningGigablast.DisplayName: Горящий Гигавзрыв
+CalamitousDart.DisplayName: Бездственный Дротив
+CalamitousExplosion.DisplayName: Бедственный Взрыв
+CalamitousFireball.DisplayName: Бедственный Огненный Шар
+CataclysmicFlame.DisplayName: Пламя Катаклизма
+CatastrophicCinder.DisplayName: Зола Катастрофы
+CirclingBloodScythe.DisplayName: Кружащая Коса Крови
+CrimsonEye.DisplayName: Багровый Глаз
+CursedFire.DisplayName: Глазное Пламя
 DarkEnergyBall.DisplayName: Темная Энергия
 DarkEnergyBall2.DisplayName: Темная Энергия
 DarkOrb.DisplayName: Темная Сфера
@@ -54,7 +62,10 @@ DoGBeamPortal.DisplayName: Лучевой Портал
 DoGDeath.DisplayName: Луч Смерти
 DoGDeathBoom.DisplayName: Космический Взрыв
 DoGFire.DisplayName: Инферно Богоубийцы
+DoGLaserWalls.DisplayName: Натиск Гибельных Лучей Божественной Смерти
+DoGLaserWallsBigBeam.DisplayName: Разрывный Потрошитель Гиперсмерти
 DoGP1EndPortal.DisplayName: Портал
+DoGRiftCrack.DisplayName: Трещина Дисторсии ПБ
 DoGTeleportRift.DisplayName: Разрыв
 DraedonSummonLaser.DisplayName: Гигантский Злоебучий Луч Смерти и Погибели
 DyingSun.DisplayName: Умирающее Солнце
@@ -64,10 +75,12 @@ FlareBomb.DisplayName: Огненная Бомба
 FlareDust.DisplayName: Огненная Пыль
 FlareDust2.DisplayName: Пламенная Бомба
 Flarenado.DisplayName: Пламенадо
+FriendlyLaserWallBeam.DisplayName: Гибельный Луч Божественной Смерти
 FrostMist.DisplayName: Ледяной Туман
+GolemInfernoBolt.DisplayName: Огненный Сгусток Голема
+GolemInfernoBlast.DisplayName: Огненный Взрыв Голема
 GooglyEye.DisplayName: Глаза
 GreatSandBlast.DisplayName: Большой Песчаный Взрыв
-HealOrbProv.DisplayName: Лечение
 HellfireExplosion.DisplayName: Взрыв Серного Огня
 HiveBombGoliath.DisplayName: Бомба Улья
 HolyAura.DisplayName: Святая Аура
@@ -87,6 +100,7 @@ IceBomb.DisplayName: Ледяная Бомба
 IceRain.DisplayName: Ледяной Дождь
 IchorBlob.DisplayName: Ихоровый Сгусток
 IchorShot.DisplayName: Ихоровый Плевок
+IchorShower.DisplayName: Ихоровый Душ
 Infernado.DisplayName: Инфернадо
 Infernado2.DisplayName: Инфернадо
 InfernadoRevenge.DisplayName: Инфернадо
@@ -98,12 +112,18 @@ MoltenBlast.DisplayName: Литой Взрыв
 MoltenBlob.DisplayName: Литой Сгусток
 MushBomb.DisplayName: Грибной Выстрел
 MushBombFall.DisplayName: Падающий Грибок
+MushBombGround.DisplayName: Грибная Бомба
 OldDukeGore.DisplayName: Сернистые Ошметки
 OldDukeSummonDrop.DisplayName: Кислота
 OldDukeToothBallSpike.DisplayName: Шип
 OldDukeVortex.DisplayName: Серный Водоворот
 OverlyDramaticDukeSummoner.DisplayName: Призыватель Древнего Герцога
 PeanutRocket.DisplayName: Взрывоопасная Ореховая Скорлупа
+PermafrostAbsoluteZeroProjectile.DisplayName: Абсолютный Ультра Ноль
+PermafrostBlast.DisplayName: Гигавзрыв Мерзлоты
+PermafrostBlaster.DisplayName: Взрыв Безлимитного Кондиционирования
+PermafrostColdheartIcicle.DisplayName: Сосулька Холодного Сердца
+PermafrostMeat.DisplayName: Холодное Мясо
 PhantomBlast.DisplayName: Фантомный Взрыв
 PhantomBlast2.DisplayName: Сильный Фантомный Взрыв
 PhantomGhostShot.DisplayName: Сильный Выстрел Фантомного Духа
@@ -121,6 +141,7 @@ ProvidenceHolyRay.DisplayName: Святой Луч
 RavagerBlast.DisplayName: Опустошающий Лазер
 RavagerBlaster.DisplayName: Бластер Опустошителя
 RavagerFlame.DisplayName: Синее Пламя
+RavagerNuke.DisplayName: Наводящаяся Ракета Опустошителя
 RedLightning.DisplayName: Красная Молния
 RedLightningFeather.DisplayName: Молниеносное Перо
 SandBlast.DisplayName: Песчаный Взрыв
@@ -130,8 +151,8 @@ SandTooth.DisplayName: Песчаный Зуб
 SCalBrimstoneFireblast.DisplayName: Взрыв Пламени Серы
 SCalBrimstoneGigablast.DisplayName: Гигавзрыв Пламени Серы
 SCalRitualDrama.DisplayName: Каламитасная Ритуальная Драма
-ScavengerLaser.DisplayName: Наводящийся Дротик
-ScavengerNuke.DisplayName: Наводящаяся Бомба
+HomingLaserDart.DisplayName: Наводящийся Дротик
+HyperdeathRiftScepterBeam.DisplayName: Разрывный Потрошитель Гиперсмерти
 ShadeNimbusHostile.DisplayName: Теневая Туча
 ShaderainHostile.DisplayName: Теневой Дождь
 ShadowflameFireball.DisplayName: Огненный Шар Теневого Пламени
@@ -145,9 +166,12 @@ StormWeaverFrostWaveTelegraph.DisplayName: Траектория Ледяной �
 SupremeCataclysmFist.DisplayName: Кулак Ярости
 SupremeCatastropheSlash.DisplayName: Взмах Резонанса
 SwirlingFire.DisplayName: Огонь
+TelekineticEnemyGrab.DisplayName: Телекинетический Захват Врага
+TelekineticBlast.DisplayName: Телекинетический Всплеск
 ThanatosBeamStart.DisplayName: Луч Танатоса
 ThanatosBeamTelegraph.DisplayName: Траектория Гамма-Луча Дезинтеграции
 ThanatosLaser.DisplayName: Лазер Экзо-Пульса
+THanosSideLaser.DisplayName: Сторонний Лазер Танатоса
 ThornBallSpike.DisplayName: Шип Колючего Компа
 ToxicCloud.DisplayName: Токсичное Облако
 UnstableCrimulanGlob.DisplayName: Нестабильный Сгусток Кримуляна
@@ -157,35 +181,3 @@ WaterSpear.DisplayName: Водяное Копье
 YharonBulletHellVortex.DisplayName: Вихрь Пулевого Ада
 YharonFireball.DisplayName: Драконий Огненный Шар
 YharonFireball2.DisplayName: Драконий Огненный Шар
-THanosSideLaser.DisplayName: Сторонний Лазер Танатоса
-PermafrostAbsoluteZeroProjectile.DisplayName: Абсолютный Ультра Ноль
-PermafrostBlast.DisplayName: Гигавзрыв Мерзлоты
-PermafrostBlaster.DisplayName: Взрыв Безлимитного Кондиционирования
-PermafrostColdheartIcicle.DisplayName: Сосулька Холодного Сердца
-PermafrostMeat.DisplayName: Холодное Мясо
-AnahitaTelegraph.DisplayName: Траектория Рывка Анахиты
-BloodScythe.DisplayName: Коса Крови
-BurningBolt.DisplayName: Горящий Сгусток
-BurningFireblast.DisplayName: Горящий Огневзрыв
-BurningGigablast.DisplayName: Горящий Гигавзрыв
-CalamitousDart.DisplayName: Бездственный Дротив
-CalamitousExplosion.DisplayName: Бедственный Взрыв
-CalamitousFireball.DisplayName: Бедственный Огненный Шар
-CataclysmicFlame.DisplayName: Пламя Катаклизма
-CatastrophicCinder.DisplayName: Зола Катастрофы
-CirclingBloodScythe.DisplayName: Кружащая Коса Крови
-CrimsonEye.DisplayName: Багровый Глаз
-CursedFire.DisplayName: Глазное Пламя
-DoGLaserWalls.DisplayName: Натиск Гибельных Лучей Божественной Смерти
-DoGLaserWallsBigBeam.DisplayName: Разрывный Потрошитель Гиперсмерти
-DoGRiftCrack.DisplayName: Трещина Дисторсии ПБ
-FriendlyLaserWallBeam.DisplayName: Гибельный Луч Божественной Смерти
-GolemInfernoBolt.DisplayName: Огненный Сгусток Голема
-GolemInfernoBlast.DisplayName: Огненный Взрыв Голема
-IchorShower.DisplayName: Ихоровый Душ
-MushBombGround.DisplayName: Грибная Бомба
-RavagerNuke.DisplayName: Наводящаяся Ракета Опустошителя
-HomingLaserDart.DisplayName: Наводящийся Дротик
-HyperdeathRiftScepterBeam.DisplayName: Разрывный Потрошитель Гиперсмерти
-TelekineticEnemyGrab.DisplayName: Телекинетический Захват Врага
-TelekineticBlast.DisplayName: Телекинетический Всплеск

@@ -2,7 +2,6 @@ AuricTeslaBodyArmor: {
 	DisplayName: Броня Ауритовой Молнии
 	Tooltip: "{$CommonItemTooltip.PercentIncreasedDamage} and {$CommonItemTooltip.PercentIncreasedCritChance@1}"
 }
-}
 
 AuricTeslaCuisses: {
 	DisplayName: Набедренники Ауритовой Молнии
@@ -104,64 +103,64 @@ AuricTeslaHeadMelee: {
 		'''
 }
 
-AuricTeslaSpaceHelmet: {
-	DisplayName: Космический Шлем Ауритовой Молнии
-	Tooltip:
+AuricTeslaHeadSummon: {
+	// DisplayName: Auric Tesla Space Helmet
+	/* Tooltip:
 		'''
 		{$CommonItemTooltip.IncreasesMaxMinionsBy}
 		{$CommonItemTooltip.PercentIncreasedSummonDamage@1}
-		'''
-	SetBonus:
+		''' */
+	/* SetBonus:
 		'''
 		{$CommonItemTooltip.IncreasesMaxMinionsBy}
 		{$CommonItemTooltip.PercentIncreasedSummonDamage@1}
-		Эффекты Таррагоновой брони, Кровавой Вспышки и Сильвы для призыва
-		Удерживайте Shift чтобы посмотреть бонусы и нажмите Shift опять, чтобы пролистать через них
+		Summoner Tarragon, Bloodflare and Silva armor effects
+		Hold Shift to view these set bonus details and press Shift repeatedly to cycle through them
+		''' */
+	/* SetBonus1:
 		'''
-	SetBonus1:
-		'''
-		Унаследованный бонус Таррагоновой брони:
+		Inherited Tarragon Set Bonus:
 		{$TarragonHeadSummon.SetBonusEffect}
+		''' */
+	/* SetBonus2:
 		'''
-	SetBonus2:
-		'''
-		Унаследованный бонус брони Кровавой Вспышки:
+		Inherited Bloodflare Set Bonus:
 		{$BloodflareHeadSummon.SetBonusEffect}
+		''' */
+	/* SetBonus3:
 		'''
-	SetBonus3:
-		'''
-		Унаследованный бонус брони Сильвы:
+		Inherited Silva Set Bonus:
 		{$SilvaHeadSummon.SetBonusEffect}
-		'''
+		''' */
 }
 
-AuricTeslaWireHemmedVisage: {
-	DisplayName: Обшитый Проволокой Лик Ауритовой Молнии
-	Tooltip:
+AuricTeslaHeadMagic: {
+	// DisplayName: Auric Tesla Wire-Hemmed Visage
+	/* Tooltip:
 		'''
-		{$CommonItemTooltip.IncreasesMaxManaBy} и {$CommonItemTooltip.PercentReducedManaCost@1}
-		{$CommonItemTooltip.PercentIncreasedMagicDamage@2} и {$CommonItemTooltip.PercentIncreasedMagicCritChance@3}
+		{$CommonItemTooltip.IncreasesMaxManaBy} and {$CommonItemTooltip.PercentReducedManaCost@1}
+		{$CommonItemTooltip.PercentIncreasedMagicDamage@2} and {$CommonItemTooltip.PercentIncreasedMagicCritChance@3}
+		''' */
+	/* SetBonus:
 		'''
-	SetBonus:
+		Magic Tarragon, Bloodflare and Silva armor effects
+		Hold Shift to view these set bonus details and press Shift repeatedly to cycle through them
+		''' */
+	/* SetBonus1:
 		'''
-		Эффекты Таррагоновой брони, Кровавой Вспышки и Сильвы для магии
-		Удерживайте Shift чтобы посмотреть бонусы и нажмите Shift опять, чтобы пролистать через них
-		'''
-	SetBonus1:
-		'''
-		Унаследованный бонус Таррагоновой брони:
+		Inherited Tarragon Set Bonus:
 		{$TarragonHeadMagic.SetBonusEffect}
+		''' */
+	/* SetBonus2:
 		'''
-	SetBonus2:
-		'''
-		Унаследованный бонус брони Кровавой Вспышки:
+		Inherited Bloodflare Set Bonus:
 		{$BloodflareHeadMagic.SetBonusEffect}
+		''' */
+	/* SetBonus3:
 		'''
-	SetBonus3:
-		'''
-		Унаследованный бонус брони Сильвы:
+		Inherited Silva Set Bonus:
 		{$SilvaHeadMagic.SetBonusEffect}
-		'''
+		''' */
 }
 
 BloodflareBodyArmor: {
@@ -190,7 +189,7 @@ BloodflareHeadMagic: {
 		'''
 		{$CommonItemTooltip.IncreasesMaxManaBy} и {$CommonItemTooltip.PercentReducedManaCost@1}
 		{$CommonItemTooltip.PercentIncreasedMagicDamage@2} и {$CommonItemTooltip.PercentIncreasedMagicCritChance@3}
-		''
+		'''
 	SetBonus: "{$BloodflareHeadMagic.SetBonusEffect}"
 	SetBonusEffect:
 		'''
@@ -235,7 +234,7 @@ BloodflareHeadRanged: {
 		У этого эффекта есть {1} секундная перезарядка
 		Оружие дальнего боя стреляет сферами кровавой вспышки раз в {2} {^2:секунду;секунды;секунд}
 		{$BloodflareBodyArmor.CommonSetBonus}
-		''' */
+		'''
 }
 
 BloodflareHeadRogue: {

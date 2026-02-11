@@ -1,3 +1,8 @@
+AcidRainDye: {
+	DisplayName: Краска Кислотного Дождя
+	Tooltip: ""
+}
+
 AerialiteDye: {
 	DisplayName: Аэралитовая Краска
 	Tooltip: ""
@@ -68,6 +73,11 @@ CryonicDye: {
 	Tooltip: ""
 }
 
+DaedalusDye: {
+	DisplayName: Краска Дедала
+	Tooltip: ""
+}
+
 DefiledFlameDye: {
 	DisplayName: Краска Оскверненнго Огня
 	Tooltip: ""
@@ -113,71 +123,6 @@ WingTimeHairDye: {
 	Tooltip: ""
 }
 
-NecroplasmicDye: {
-	DisplayName: Некроплазменная Краска
-	Tooltip: ""
-}
-
-NightmareDye: {
-	DisplayName: Кошмарная Краска
-	Tooltip: ""
-}
-
-PinkCosmicFlameDye: {
-	DisplayName: Розовая Краска Космического Пламени
-	Tooltip: ""
-}
-
-PinkStatigelDye: {
-	DisplayName: Розовая Статигелевая Краска
-	Tooltip: ""
-}
-
-ProfanedFlameDye: {
-	DisplayName: Краска Скверного Пламени
-	Tooltip: ""
-}
-
-ProfanedMoonlightDye: {
-	DisplayName: Краска Скверного Лунного Света
-	Tooltip: ""
-}
-
-ReaverDye: {
-	DisplayName: Краска Разорителя
-	Tooltip: ""
-}
-
-ShadowspecDye: {
-	DisplayName: Тенефазовая Краска
-	Tooltip: ""
-}
-
-SlimeGodDye: {
-	DisplayName: Краска Слизневого Бога
-	Tooltip: ""
-}
-
-StratusDye: {
-	DisplayName: Стратусовая Краска
-	Tooltip: ""
-}
-
-SwirlingCosmicFlameDye: {
-	DisplayName: Краска Кружащих Космических Огней
-	Tooltip: ""
-}
-
-AcidRainDye: {
-	DisplayName: Краска Кислотного Дождя
-	Tooltip: ""
-}
-
-DaedalusDye: {
-	DisplayName: Краска Дедала
-	Tooltip: ""
-}
-
 InvisibleDye: {
 	DisplayName: Краска-Невидимка
 	Tooltip: ""
@@ -198,6 +143,26 @@ NecromanticDye: {
 	Tooltip: ""
 }
 
+NecroplasmicDye: {
+	DisplayName: Некроплазменная Краска
+	Tooltip: ""
+}
+
+NightmareDye: {
+	DisplayName: Кошмарная Краска
+	Tooltip: ""
+}
+
+PinkCosmicFlameDye: {
+	DisplayName: Розовая Краска Космического Пламени
+	Tooltip: ""
+}
+
+PinkStatigelDye: {
+	DisplayName: Розовая Статигелевая Краска
+	Tooltip: ""
+}
+
 PlagueGooDye: {
 	DisplayName: Краска из Чумной Жижи
 	Tooltip: ""
@@ -213,8 +178,23 @@ ProfanedCrystalDye: {
 	Tooltip: ""
 }
 
+ProfanedFlameDye: {
+	DisplayName: Краска Скверного Пламени
+	Tooltip: ""
+}
+
+ProfanedMoonlightDye: {
+	DisplayName: Краска Скверного Лунного Света
+	Tooltip: ""
+}
+
 ProfanedRockDye: {
 	DisplayName: Краска из Камней Скверны
+	Tooltip: ""
+}
+
+ReaverDye: {
+	DisplayName: Краска Разорителя
 	Tooltip: ""
 }
 
@@ -223,8 +203,28 @@ ScoriaDye: {
 	Tooltip: ""
 }
 
+ShadowspecDye: {
+	DisplayName: Тенефазовая Краска
+	Tooltip: ""
+}
+
 SilvaDye: {
 	DisplayName: Краска Сильвы
+	Tooltip: ""
+}
+
+SlimeGodDye: {
+	DisplayName: Краска Слизневого Бога
+	Tooltip: ""
+}
+
+StratusDye: {
+	DisplayName: Стратусовая Краска
+	Tooltip: ""
+}
+
+SwirlingCosmicFlameDye: {
+	DisplayName: Краска Кружащих Космических Огней
 	Tooltip: ""
 }
 

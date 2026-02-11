@@ -53,11 +53,6 @@ BloodOrb: {
 	Tooltip: ""
 }
 
-BloodSample: {
-	DisplayName: Образец Крови
-	Tooltip: ""
-}
-
 Bloodstone: {
 	DisplayName: Камень Крови
 	Tooltip: ""
@@ -96,11 +91,6 @@ DarkPlasma: {
 DarksunFragment: {
 	DisplayName: Фрагмент Черного Солнца
 	Tooltip: Загадочный кристалл, наполненный противоположными небесными энергиями
-}
-
-DemonicBoneAsh: {
-	DisplayName: Демонический Костяной Прах
-	Tooltip: ""
 }
 
 DepthCells: {
@@ -207,11 +197,6 @@ MolluskHusk: {
 	Tooltip: Останки убитого моллюска
 }
 
-MurkyPaste: {
-	DisplayName: Мутная Паста
-	Tooltip: ""
-}
-
 MysteriousCircuitry: {
 	DisplayName: Загадочная Плата
 	Tooltip: ""
@@ -255,11 +240,6 @@ PurifiedGel: {
 ReaperTooth: {
 	DisplayName: Зуб Жнеца
 	Tooltip: Достаточной острый, чтобы резать алмазы
-}
-
-RottenMatter: {
-	DisplayName: Гнилая Материя
-	Tooltip: ""
 }
 
 RuinousSoul: {
@@ -316,11 +296,6 @@ TitanHeart: {
 		'''
 }
 
-TrapperBulb: {
-	DisplayName: Бутон Ловушечника
-	Tooltip: ""
-}
-
 TwistingNether: {
 	DisplayName: Сплетение Пустоты
 	Tooltip: ""
@@ -357,6 +332,6 @@ AnodizedWulfrumMetal: {
 }
 
 WillOWisp: {
-	DisplayName: Блуждающий Огонёк
+	DisplayName: Блуждающий Огонек
 	Tooltip: ""
 }

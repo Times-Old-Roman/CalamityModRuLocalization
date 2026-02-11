@@ -1,4 +1,65 @@
 // Ambient Objects
+// GiantBulb: Giant Plantera Bulb
+// Fossil: Fossil
+// Column: Column
+// Ribs: Ribs
+// Stalagmite: Stalagmite
+// Stalactite: Stalactite
+// PirateCrate: Abandoned Crate
+// Basic Calamity Furniture
+// Basin: Basin
+// LavaFountain: Lava Fountain
+// BaroqueCello: Baroque Cello
+// Jukebox: Jukebox
+// PipeOrgan: Pipe Organ
+// Sconce: Sconce
+// Draedon Lab Furniture
+// Console: Console
+// ContainmentBox: Containment Box
+// Display: Display
+// ElectricPanel: Electric Panel
+// ReinforcedCrate: Reinforced Crate
+// Screen: Screen
+// Server: Server
+// Terminal: Terminal
+// Individual entries
+// Sulphurous Sea & Abyss
+// SteamGeyser.MapEntry: Geyser
+// AbyssVent.MapEntry: Steam Vent
+// ThermalVent.MapEntry: Thermal Vent
+// Brimstone Crag
+// SpineSapling.MapEntry: Spine Sapling
+// SpineTree.MapEntry: Giant Spine
+// Draedon
+// InactivePowerCellFactory.MapEntry: Inactive Power Cell Factory
+// OnyxExcavatorTile.MapEntry: Onyx Excavator
+// CodebreakerTile.MapEntry: The Codebreaker
+// Ores
+// AerialiteOre.MapEntry: Aerialite
+// AerialiteOreDisenchanted.MapEntry: Disenchanted Aerialite
+// AstralOre.MapEntry: Astral Ore
+// AuricOre.MapEntry: Auric
+// CryonicOre.MapEntry: Cryonic
+// ExodiumOre.MapEntry: Exodium
+// HallowedOre.MapEntry: Hallowed Ore
+// InfernalSuevite.MapEntry: Infernal Suevite
+// PerennialOre.MapEntry: Perennial
+// ScoriaOre.MapEntry: Scoria
+// UelibloomOre.MapEntry: Uelibloom
+// Misc
+// ArenaTile.MapEntry: Arena
+
+AshenChest: {
+	MapEntry0: "{$Mods.CalamityMod.Items.Placeables.AshenChest.DisplayName}"
+	MapEntry1: Закрытый {$Mods.CalamityMod.Items.Placeables.AshenChest.DisplayName}
+}
+
+AstralChestLocked: {
+	MapEntry0: "{$Mods.CalamityMod.Items.Placeables.AstralChest.DisplayName}"
+	MapEntry1: Закрытый {$Mods.CalamityMod.Items.Placeables.AstralChest.DisplayName}
+}
+
+// Ambient Objects
 GiantBulb: Гигантский Бутон Плантеры
 Fossil: Окаменелость
 Column: Колонна
@@ -9,6 +70,8 @@ PirateCrate: Заброшенный Ящик
 // Basic Calamity Furniture
 Basin: Чаша
 LavaFountain: Лавовый Фонтан
+BaroqueCello: Барокко Виолончель
+Jukebox: Магнитофон
 PipeOrgan: Орган
 Sconce: Подсвечник
 // Draedon Lab Furniture
@@ -46,17 +109,4 @@ ScoriaOre.MapEntry: Скория
 UelibloomOre.MapEntry: Уэлицвет
 // Misc
 ArenaTile.MapEntry: Арена
-
-AshenChest: {
-	MapEntry0: "{$Mods.CalamityMod.Items.Placeables.AshenChest.DisplayName}"
-	MapEntry1: Закрытый {$Mods.CalamityMod.Items.Placeables.AshenChest.DisplayName}
-}
-
-AstralChestLocked: {
-	MapEntry0: "{$Mods.CalamityMod.Items.Placeables.AstralChest.DisplayName}"
-	MapEntry1: Закрытый {$Mods.CalamityMod.Items.Placeables.AstralChest.DisplayName}
-}
-
 PlaguedPlateBed.MapEntry: "'Кровать'"
-BaroqueCello: Барокко Виолончель
-Jukebox: Магнитофон

@@ -1,10 +1,9 @@
 Accessory: {
-	Cloaked.DisplayName: (Замаскированный)
 	Silent.DisplayName: (Беззвучный)
 	Invigorating.DisplayName: (Воодушевляющий)
+	Dauntless.DisplayName: (Бесстрашный)
 	// New modifier effects (this is only positive)
 	StealthGenTooltip: +{0}% генерации скрытности
-	Dauntless.DisplayName: (Бесстрашный)
 	LifeRegenTooltip: +{0} ОЗ/с регенерации жизни
 	MaxLifeBoostTooltip: +{0} ОЗ
 }
@@ -19,7 +18,7 @@ Weapon: {
 	Hefty.DisplayName: (Тяжелый)
 	Lethal.DisplayName: (Летальный)
 	Mighty.DisplayName: (Могучий)
-	Pointy.DisplayName: (Заостренный)
+	Pointy.DisplayName: (Остроконечный)
 	Radical.DisplayName: (Радикальный)
 	Serrated.DisplayName: (Зазубренный)
 	Sharp.DisplayName: (Заточенный)

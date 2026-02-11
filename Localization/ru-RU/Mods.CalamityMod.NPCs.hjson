@@ -1,102 +1,102 @@
-BabyCannonballJellyfish.DisplayName: Молодая Медуза-Пушечное Ядро
-BrainIllusion.DisplayName: Иллюзия Мозга
-Burrower.DisplayName: Копатель
-BurrowerHitbox.DisplayName: Копатель
-BucketZombie.DisplayName: "{$NPCName.Zombie}"
-Bloatfish.DisplayName: Раздувающаяся Рыба
-BobbitWormHead.DisplayName: Червь Боббита
-BoxJellyfish.DisplayName: Кубомедуза
-CannonballJellyfish.DisplayName: Медуза-Пушечное Ядро
-ChaoticPuffer.DisplayName: Фугу Хаоса
-ColossalSquid.DisplayName: Колоссальный Кальмар
-CladCrab.DisplayName: Краб-Броненосец
-FalseBrain.DisplayName: Фальшивый Мозг
-TinySquid: Кальмарик
-Cuttlefish.DisplayName: Каракатица
-DevilFish.DisplayName: Рыба-Дьявол
-DevilFishAlt.DisplayName: Рыба-Дьявол
-EidolonWyrmHead.DisplayName: Эйдолонский Вирм
-GiantSquid.DisplayName: Гигантский Кальмар
-GulperEelHead.DisplayName: Пеликановидный Большерот
-Laserfish.DisplayName: Рыба-Лазер
-LuminousCorvina.DisplayName: Светящийся Горбыль
-MirageJelly.DisplayName: Медуза Миража
-MorayEel.DisplayName: Мурена
-OarfishHead.DisplayName: Ремнетел
-ReaperShark.DisplayName: Акула-Жнец
-SlabCrab.DisplayName: Плитоспинный Краб
-ToxicMinnow.DisplayName: Токсичный Пескарь
-Viperfish.DisplayName: Хаулиод
-AcidEel.DisplayName: Кислотный Угорь
-BabyFlakCrab.DisplayName: Молодой Зенитный Краб
-BloodwormNormal.DisplayName: Кровавый Червь
-CragmawMire.DisplayName: Утесная Челюсть
-FlakCrab.DisplayName: Зенитный Краб
-GammaSlime.DisplayName: Гамма-Слизень
-IrradiatedSlime.DisplayName: Облученный Слизень
-Mauler.DisplayName: Истязатель
-NuclearTerror.DisplayName: Ядерный Ужас
-NuclearToad.DisplayName: Ядерная Жаба
-Orthocera.DisplayName: Ортоцерас
-Radiator.DisplayName: Радиатор
-Skyfin.DisplayName: Летящий Плавник
-SulphurousSkater.DisplayName: Серная Водомерка
-Shoreskipper.DisplayName: Береговой Скакун
-Shroomble.DisplayName: Грибуль
-Trilobite.DisplayName: Трилобит
-AquaticScourgeHead.DisplayName: Водный Бич
-Aries.DisplayName: Ариес
-AstralachneaGround.DisplayName: Астралахнида
-AstralProbe.DisplayName: Астральный Зонд
-AstralSeekerSpit.DisplayName: Преследующий Плевок
-AstralSlime.DisplayName: Астральный Слизень
-Atlas.DisplayName: Атлас
-FusionFeeder.DisplayName: Кормилец Синтеза
-Hadarian.DisplayName: Хадариец
-Astraglomerate.DisplayName: Астрагломерация
-Glomerling.DisplayName: Гломер
-Mantis.DisplayName: Богомол
-Nova.DisplayName: Новая
-SightseerCollider.DisplayName: Надзиратель-Коллайдер
-SightseerSpitter.DisplayName: Надзиратель-Плеватель
-StellarCulex.DisplayName: Звездный Кулекс
-Twinkler.DisplayName: Блестячок
-AstrumAureus.DisplayName: Аструм Ауреус
-AureusSpawn.DisplayName: Порождение Ауреса
-AstrumDeusHead.DisplayName: Аструм Деус
-Brimling.DisplayName: Серное Дитя
-BrimstoneElemental.DisplayName: Элементаль Серы
-Bumblebirb: Шмелептица
-Dragonfolly.DisplayName: Драконическая Причуда
-DraconicSwarmer.DisplayName: Драконический Роевик
-CalamitasClone.DisplayName: Доппельгангер Каламитас
-Cataclysm.DisplayName: Конструкт Катаклизма
-Catastrophe.DisplayName: Конструкты Катастрофы
-SoulSeeker.DisplayName: Искатель Души
-CeaselessVoid.DisplayName: Ненасытная Пустота
-DarkEnergy.DisplayName: Темная Энергия
-CrabShroom.DisplayName: Грибок Краба
-Crabulon.DisplayName: Крабулон
-CalamityEye.DisplayName: Глаз Бедствия
-RenegadeWarlock.DisplayName: Чернокнижник Ренегат
-DespairStone.DisplayName: Камень Отчаяния
-HeatSpirit.DisplayName: Дух Тепла
-InfernalCongealment.DisplayName: Инфернальный Студень
-Scryllar.DisplayName: Сциллиар
-ScryllarRage.DisplayName: Сциллиар
-SoulSlurper.DisplayName: Высасыватель Душ
-Cryogen.DisplayName: Криоген
-Pyrogen: Пироген
-CryogenShield.DisplayName: Щит Криогена
-PyrogenShield: Щит Пирогена
-DesertNuisanceHead.DisplayName: Пустынная Помеха
-DesertNuisanceHeadYoung.DisplayName: Пустынная Помеха
-DesertScourgeHead.DisplayName: Бич Пустыни
-CosmicGuardianHead.DisplayName: Космический Страж
-DevourerofGodsHead.DisplayName: Пожиратель Богов
-Androomba.DisplayName: Андрумба
-Nanodroid.DisplayName: Нанодроид
-RepairUnitCritter.DisplayName: Ремонтный Аппарат
+// BabyCannonballJellyfish.DisplayName: Baby Cannonball Jellyfish
+// Bloatfish.DisplayName: Bloatfish
+// BrainIllusion.DisplayName: Brain Illusion
+// BobbitWormHead.DisplayName: Bobbit Worm
+// BoxJellyfish.DisplayName: Box Jellyfish
+// Burrower.DisplayName: Burrower
+// BurrowerHitbox.DisplayName: Burrower
+// CannonballJellyfish.DisplayName: Cannonball Jellyfish
+// ChaoticPuffer.DisplayName: Chaotic Puffer
+// ColossalSquid.DisplayName: Colossal Squid
+// TinySquid: Tiny Squid
+// Cuttlefish.DisplayName: Cuttlefish
+// DevilFish.DisplayName: Devil Fish
+// DevilFishAlt.DisplayName: Devil Fish
+// DraconicSwarmer.DisplayName: Draconic Swarmer
+// Dragonfolly.DisplayName: Dragonfolly
+// EidolonWyrmHead.DisplayName: Eidolon Wyrm
+// FalseBrain.DisplayName: False Brain
+// GiantSquid.DisplayName: Giant Squid
+// GulperEelHead.DisplayName: Gulper Eel
+// Laserfish.DisplayName: Laserfish
+// LuminousCorvina.DisplayName: Luminous Corvina
+// MirageJelly.DisplayName: Mirage Jelly
+// MorayEel.DisplayName: Moray Eel
+// OarfishHead.DisplayName: Oarfish
+// ReaperShark.DisplayName: Reaper Shark
+// Shoreskipper.DisplayName: Shoreskipper
+// SlabCrab.DisplayName: Slab Crab
+// ToxicMinnow.DisplayName: Toxic Minnow
+// Viperfish.DisplayName: Viperfish
+// WildBumblebirb.DisplayName: Wild Bumblebirb
+// AcidEel.DisplayName: Acid Eel
+// BabyFlakCrab.DisplayName: Baby Flak Crab
+// BloodwormNormal.DisplayName: Bloodworm
+// CragmawMire.DisplayName: Cragmaw Mire
+// FlakCrab.DisplayName: Flak Crab
+// GammaSlime.DisplayName: Gamma Slime
+// IrradiatedSlime.DisplayName: Irradiated Slime
+// Mauler.DisplayName: Mauler
+// NuclearTerror.DisplayName: Nuclear Terror
+// NuclearToad.DisplayName: Nuclear Toad
+// Orthocera.DisplayName: Orthocera
+// Radiator.DisplayName: Radiator
+// Skyfin.DisplayName: Skyfin
+// SulphurousSkater.DisplayName: Sulphurous Skater
+// Trilobite.DisplayName: Trilobite
+// AquaticScourgeHead.DisplayName: Aquatic Scourge
+// Aries.DisplayName: Aries
+// AstralachneaGround.DisplayName: Astralachnea
+// AstralProbe.DisplayName: Astral Probe
+// AstralSeekerSpit.DisplayName: Seeker Spit
+// AstralSlime.DisplayName: Astral Slime
+// Atlas.DisplayName: Atlas
+// FusionFeeder.DisplayName: Fusion Feeder
+// Hadarian.DisplayName: Hadarian
+// Astraglomerate.DisplayName: Astraglomerate
+// Glomerling.DisplayName: Glomerling
+// Mantis.DisplayName: Mantis
+// Nova.DisplayName: Nova
+// SightseerCollider.DisplayName: Sightseer Collider
+// SightseerSpitter.DisplayName: Sightseer Spitter
+// StellarCulex.DisplayName: Stellar Culex
+// Twinkler.DisplayName: Twinkler
+// AstrumAureus.DisplayName: Astrum Aureus
+// AureusSpawn.DisplayName: Aureus Spawn
+// AstrumDeusHead.DisplayName: Astrum Deus
+// Brimling.DisplayName: Brimling
+// BrimstoneElemental.DisplayName: Brimstone Elemental
+// Bumblebirb: Bumblebirb
+// Bumblefuck.DisplayName: Dragonfolly
+// Bumblefuck2.DisplayName: Draconic Swarmer
+// CalamitasClone.DisplayName: Calamitas Clone
+// Cataclysm.DisplayName: Cataclysmic Construct
+// Catastrophe.DisplayName: Catastrophic Construct
+// SoulSeeker.DisplayName: Soul Seeker
+// CeaselessVoid.DisplayName: Ceaseless Void
+// DarkEnergy.DisplayName: Dark Energy
+// CrabShroom.DisplayName: Crab Shroom
+// Crabulon.DisplayName: Crabulon
+// CalamityEye.DisplayName: Calamity Eye
+// RenegadeWarlock.DisplayName: Renegade Warlock
+// DespairStone.DisplayName: Despair Stone
+// HeatSpirit.DisplayName: Heat Spirit
+// InfernalCongealment.DisplayName: Infernal Congealment
+// Scryllar.DisplayName: Scryllar
+// ScryllarRage.DisplayName: Scryllar
+// SoulSlurper.DisplayName: Soul Slurper
+// Cryogen.DisplayName: Cryogen
+// Pyrogen: Pyrogen
+// CryogenShield.DisplayName: Cryogen's Shield
+// PyrogenShield: Pyrogen's Shield
+// DesertNuisanceHead.DisplayName: Desert Nuisance
+// DesertNuisanceHeadYoung.DisplayName: Desert Nuisance
+// DesertScourgeHead.DisplayName: Desert Scourge
+// CosmicGuardianHead.DisplayName: Cosmic Guardian
+// DevourerofGodsHead.DisplayName: The Devourer of Gods
+// Androomba.DisplayName: Androomba
+// Nanodroid.DisplayName: Nanodroid
+// RepairUnitCritter.DisplayName: Repair Unit
 
 Apollo: {
 	DisplayName: XS-03 Аполлон
@@ -133,13 +133,527 @@ Artemis: {
 	HekateName: Пылающий Глаз XB-∞ Геката
 }
 
-Draedon.DisplayName: Драедон
+// Draedon.DisplayName: Draedon
 
 ThanatosHead: {
 	DisplayName: XM-05 Танатос
 	HekateName: Позвоночник XB-∞ Геката
 }
 
+// GreatSandShark.DisplayName: Great Sand Shark
+// DankCreeper.DisplayName: Dank Creeper
+// DarkHeart.DisplayName: Dark Heart
+// HiveBlob.DisplayName: Hive Blob
+// HiveMind.DisplayName: The Hive Mind
+// HiveTumor.DisplayName: Hive Tumor
+// Anahita.DisplayName: Anahita
+// AnahitasIceShield.DisplayName: Ice Shield
+// AquaticAberration.DisplayName: Aquatic Aberration
+// Leviathan.DisplayName: The Leviathan
+// LeviathanStart.DisplayName: ???
+// AeroSlime.DisplayName: Aero Slime
+// MechanizedSerpent: Mechanized Serpent
+// AuroraSpirit.DisplayName: Aurora Spirit
+// BloomSlime.DisplayName: Bloom Slime
+// Bohldohr.DisplayName: Bohldohr
+// BucketZombie.DisplayName: "{$NPCName.Zombie}"
+// CladCrab.DisplayName: Clad Crab
+// CloudElemental.DisplayName: Cloud Elemental
+// Cnidrion.DisplayName: Cnidrion
+// CrawlerAmber.DisplayName: Amber Crawler
+// CrawlerAmethyst.DisplayName: Amethyst Crawler
+// CrawlerCrystal.DisplayName: Crystal Crawler
+// CrawlerDiamond.DisplayName: Diamond Crawler
+// CrawlerEmerald.DisplayName: Emerald Crawler
+// CrawlerRuby.DisplayName: Ruby Crawler
+// CrawlerSapphire.DisplayName: Sapphire Crawler
+// CrawlerTopaz.DisplayName: Topaz Crawler
+// CrimulanBlightSlime.DisplayName: Crimulan Blight Slime
+// Cryon.DisplayName: Cryon
+// CryoSlime.DisplayName: Cryo Slime
+// EbonianBlightSlime.DisplayName: Ebonian Blight Slime
+// Eidolist.DisplayName: Eidolist
+// FearlessGoldfishWarrior.DisplayName: Fearless Goldfish Warrior
+// Frogfish.DisplayName: Frogfish
+// EarthElemental.DisplayName: Earth Elemental
+// IceClasper.DisplayName: Ice Clasper
+// ImpiousImmolator.DisplayName: Impious Immolator
+// KingSlimeJewelRuby.DisplayName: Ruby Jewel
+// LavaSlimeNoLavaDrop.DisplayName: Lava Slime
+// MantisShrimp.DisplayName: Mantis Shrimp
+// OverloadedSoldier.DisplayName: Overloaded Soldier
+// PerennialSlime.DisplayName: Perennial Slime
+// PhantomSpirit.DisplayName: Phantom Spirit
+// Piggy.DisplayName: Piggy
+// PlanterasFreeTentacle.DisplayName: Plantera's Tentacle
+// ProfanedEnergyBody.DisplayName: Profaned Energy
+// Rimehound.DisplayName: Rimehound
+// Rotdog.DisplayName: Rotdog
+// ScornEater.DisplayName: Scorn Eater
+// ShockstormShuttle.DisplayName: Shockstorm Shuttle
+// Shroomble.DisplayName: Shroomble
+// Stormlion.DisplayName: Stormlion
+// Sunskater.DisplayName: Sunskater
+// SuperDummyNPC.DisplayName: Super Dummy
+// WildBumblefuck.DisplayName: Draconic Swarmer
+// WulfrumAmplifier.DisplayName: Wulfrum Amplifier
+// WulfrumDrone.DisplayName: Wulfrum Drone
+// WulfrumGyrator.DisplayName: Wulfrum Gyrator
+// WulfrumHovercraft.DisplayName: Wulfrum Hovercraft
+// WulfrumRover.DisplayName: Wulfrum Rover
+// OldDuke.DisplayName: The Old Duke
+// BoomerDuke: The Boomer Duke
+// OldDukeToothBall.DisplayName: Tooth Ball
+// SulphurousSharkron.DisplayName: Sulphurous Sharkron
+// CalamitasEnchantDemon.DisplayName: Demon
+// DemonPortal.DisplayName: Mysterious Portal
+// ExhumedHeart.DisplayName: Exhumed Brimstone Heart
+// LecherousOrb.DisplayName: Lecherous Orb
+// THELORDE.DisplayName: THE LORDE
+// PerforatorCyst.DisplayName: Perforator Cyst
+// PerforatorHeadLarge.DisplayName: The Perforator
+// PerforatorLarge: The Large Perforator
+// PerforatorHeadMedium.DisplayName: The Perforator
+// PerforatorMedium: The Medium Perforator
+// PerforatorHeadSmall.DisplayName: The Perforator
+// PerforatorSmall: The Small Perforator
+// PerforatorHive.DisplayName: The Perforator Hive
+// PlaguebringerGoliath.DisplayName: The Plaguebringer Goliath
+// PlagueHomingMissile.DisplayName: Plague Homing Missile
+// PlagueMine.DisplayName: Plague Mine
+// Melter.DisplayName: Melter
+// PestilentSlime.DisplayName: Pestilent Slime
+// PlaguebringerMiniboss.DisplayName: Plaguebringer
+// PlagueCharger.DisplayName: Plague Charger
+// Plagueshell.DisplayName: Plagueshell
+// Viruling.DisplayName: Viruling
+// PhantomFuckYou.DisplayName: Phantom
+// Polterghast.DisplayName: Polterghast
+// PolterghastHook.DisplayName: Polterghast Hook
+// PolterPhantom.DisplayName: Polterghast
+// PrimordialWyrmHead.DisplayName: Primordial Wyrm
+// Jared: Jared
+// ProfanedGuardianCommander.DisplayName: Guardian Commander
+// ProfanedGuardianDefender.DisplayName: Guardian Defender
+// ProfanedGuardianHealer.DisplayName: Guardian Healer
+// ProfanedRocks.DisplayName: Profaned Rocks
+// Providence.DisplayName: Providence, the Profaned Goddess
+// ProvSpawnDefense.DisplayName: Providence Defender
+// ProvSpawnHealer.DisplayName: Providence Healer
+// ProvSpawnOffense.DisplayName: Providence Offense
+// FlamePillar.DisplayName: Flame Pillar
+// RavagerBody.DisplayName: Ravager
+// RockPillar.DisplayName: Rock Pillar
+// CosmicLantern.DisplayName: Cosmic Lantern
+// CosmicMine.DisplayName: Cosmic Mine
+// Signus.DisplayName: Signus, Envoy of the Devourer
+// CorruptSlimeSpawn.DisplayName: Corrupt Slime Spawn
+// CrimsonSlimeSpawn.DisplayName: Crimson Slime Spawn
+// CrimulanPaladin.DisplayName: Crimulan Paladin
+// EbonianPaladin.DisplayName: Ebonian Paladin
+// SlimeGodCore.DisplayName: The Slime God
+// SplitCrimulanPaladin.DisplayName: Crimulan Paladin
+// SplitEbonianPaladin.DisplayName: Ebonian Paladin
+// StormWeaverHead.DisplayName: Storm Weaver
+// AnthozoanCrab.DisplayName: Anthozoan Crab
+// AquaticUrchin.DisplayName: Aquatic Urchin
+// BelchingCoral.DisplayName: Belching Coral
+// Gnasher.DisplayName: Gnasher
+// MicrobialCluster.DisplayName: Microbial Cluster
+// Sulflounder.DisplayName: Sulflounder
+// Toxicatfish.DisplayName: Toxicatfish
+// Trasher.DisplayName: Trasher
+// BabyGhostBell.DisplayName: Baby Ghost Bell
+// BlindedAngler.DisplayName: Blinded Angler
+// Clam.DisplayName: Clam
+// EutrophicRay.DisplayName: Eutrophic Ray
+// GhostBell.DisplayName: Ghost Bell
+// GiantClam.DisplayName: Giant Clam
+// Clamitas: Clamitas
+// SupremeClamitas: Supreme Clamitas
+// PrismBack.DisplayName: Prism-Back
+// SeaFloaty.DisplayName: Sea Floaty
+// SeaMinnow.DisplayName: Sea Minnow
+// SeaSerpent1.DisplayName: Sea Serpent
+// BrimstoneHeart.DisplayName: Brimstone Heart
+// SepulcherHead.DisplayName: Sepulcher
+// SoulSeekerSupreme.DisplayName: Soul Seeker
+// SupremeCalamitas.DisplayName: Supreme Witch, Calamitas
+// SupremePermafrost: Supreme Ultramage, Permafrost
+// SupremeCataclysm.DisplayName: Cataclysm
+// SupremeCatastrophe.DisplayName: Catastrophe
+// Yharon.DisplayName: Yharon, Dragon of Rebirth
+// YharonPhase2: Yharon, Resplendent Phoenix
+// Town NPCs, Pets, etc
+// AndroombaFriendly.DisplayName: Androomba Pal
+
+Archmage: {
+	// DisplayName: Archmage
+	// Census.SpawnCondition: Defeat Cryogen
+	// Name.Permafrost: Permafrost
+	
+	Chat: {
+		Homeless1: Я такого неба не видел уже десятилетия. Кто же вы такой, чтобы так дерзко пойти против воли того Тирана?
+		Homeless2: Я... глубоко ценю, что вы выручили меня из ловушки этой ледяной крепости. Прошло очень, очень много лет.
+		Normal1: Если вам что-то нужно, то, пожалуйста, не медлите. Я выкраиваю новое заклинание, что требует мое полное внимание.
+		Normal2: В вас есть зачатки великолепного колдуна. Скажите мне, что вы думаете о магии льда?
+		Normal3: Говоря о красоте, цветы и подобное даже в подметки не годится причудливо застывшему льду.
+		Day1: Солнце здесь сурово сказывается на моих творениях. Эх, позволили бы вы мне сотворять вьюгу раз за разом...
+		Day2: Должен признаться - я не особо привык к тобой погоде. Больно уж жарко для моего вкуса...
+		Night1: Ночь - отличное время для практики магии. Мы, колдуны, часто полагаемся на небесные тела и их фрагменты, чтобы усиливать нашу ману.
+		Night2: Область некромантии мне никогда не казалась интересной. В чем смысл использовать гниющий труп какого-то умершего бедолаги, коль изо льда можно породить прислугу на порядки элегантнее?
+		Party: На таких вечеринках мне иногда начинает казаться... что я годен только для того, чтобы делать мороженное и охлаждать коктейли.
+		BloodMoon1: Знаете, если ваша кровь хорошенько промерзнет, то исход будет вполне фатальным.
+		BloodMoon2: Блуждающая нежить этой ночью все так же представляет из себя монстров крови и кишок, но она, будто бы... более свежая.
+		MoonLordDefeated1: Меня поражает, насколько же далеко вы зашли! Желаю вам всего наилучшего в будущих приключениях.
+		MoonLordDefeated2: Вы побороли столько существ, даже божеств... Интересно, я вообще могу вас чему-то еще научить?
+	}
+
+	TownNPCMood: {
+		Content: Погодка сегодня прохладная.
+		NoHome: Боюсь без пристанища я не смогу продолжить свое обучение. Могли бы вы мне предложить немного жилого пространства? Делать себе дома из магии льда мне как-то больше не по вкусу.
+		LoveSpace: Большое количество людей может мешать потоку маны. Мне очень приятно иметь здесь столько простора.
+		FarFromHome: Мое умение ориентироваться... такое себе. Терпеть не могу признавать это, но у меня есть тенденция днями просиживать дома.
+		DislikeCrowded: Мои заклинания требуют точности, а прерывать их нельзя. Я бы предпочел побольше места, чтобы практиковать их.
+		HateCrowded: Я бы очень не хотел оказаться виновным за то, что один из ваших коллег окажется охваченным моей магией. Но, увы, здесь их слишком много, чтобы исключить такой риск.
+		LikeBiome: Здешняя температура помогает мне экономить ману, так как мои творения не тают и поддерживают свою форму больше времени.
+		DislikeBiome: Солнце здесь слишком враждебно для моих созданий! Умоляю вас, позвольте мне немедленно устроить ночлег где-нибудь в другом месте!
+		HateBiome: Присутствие темных сил здесь сильно. Это совсем не идеально.
+		LikeNPC: "{NPCName} умный и достойный уважения маг!"
+		DislikeNPC: Я терпеть не могу, насколько очевидно наплевательски относится {NPCName} к магии. Я не могу винить его за встроенный функционал, но он тот еще невежда.
+		LikeNPC_Princess: "{NPCName} владеет достаточно причудливыми заклинаниями. Я вполне впечатлен, особенно учитывая ее возраст."
+		Princess_LovesNPC: "{NPCName} делает лучшее мороженное, которое я когда либо пробовала, оно такое вкусное!"
+	}
+
+	DisplayName: Архмаг
+	Census.SpawnCondition: Одолейте Криогена
+	Name.Permafrost: Мерзлота
+}
+
+Bandit: {
+	// DisplayName: Bandit
+	// Census.SpawnCondition: Have a {$ItemName.PlatinumCoin} [i:PlatinumCoin] in your inventory after defeating Skeletron
+	
+	Name: {
+		Laura: Лара
+		Mie: Мия
+		Bonnie: Бони
+		Sarah: Сара
+		Diane: Диана
+		Kate: Катя
+		Penelope: Пенелопа
+		Marisa: Мариса
+		Maribel: Марибель
+		Valerie: Валерия
+		Jessica: Джессика
+		Rowan: Роуэн
+		Jessie: Джесси
+		Jade: Джейд
+		Hearn: Хирн
+		Amber: Амбер
+		Anne: Анна
+		Indiana: Индиана
+	}
+
+	Chat: {
+		BloodMoon1: Эу, смотри куда идешь, а то я тебя в качестве мишени для дартса использую.
+		BloodMoon2: Че как? Не думаешь, что из тебя получится хорошая подушка для ножей?
+		BloodMoon3: Зомбари не особо хорошо уворачиваются. Может у тебя получше получится.
+		BloodMoon4: Эй, смотри под ноги. Это место заминировано. Неправильно шагнешь и заработаешь себе нож в лоб.
+		Normal1: Че угодно можно превратить в оружие, если достаточно сильно бросить его.
+		Normal2: Это ты бросил изо всех сил говоришь? Тебе стоит покачать руки.
+		Normal3: Так, слушай. Вся суть броска в движении кисти, кисти! Ай, забей короче.
+		Normal4: Нуууу ты чудесно знаешь как все у меня идет - воруешь у богатых, даешь бедноте. Я правда немного беру от дохода.
+		Normal5: Змеи! Ну почему всегда змеи!
+		Normal6: Знаешь, иметь все что хочешь очень даже приятно. У некоторых людей нет такой роскоши.
+		Normal7: Да в смысле?? Я не ворую! Я беру в долг, пока не умру!
+		Night1: Хм, что-то звезды сегодня слишком яркие. Подкрадываться будет немного сложнее.
+		Night2: Че думаешь? Те звезды, который раз за разом падают. Из них хорошее метательное оружие получится?
+		BrimstoneWitch: Стоп, стоп, стоп, не уж то Каламитас серьезно решила приехать сюда жить? Да ну за что мне это???
+		Merchant: Так, об этом не должен слышать {0}, но кое-кто у него спер вещи и заменил их на статуи ангелов.
+		NurseArmsDealer: Слышь, {0} не должна знать об этом, но на мне вина за то, что {1} покалечился.
+		NamedLaura: Что приятно насчет карт, так это то что я смогу отследить, что и куда перепало.
+		NamedPenelope: Только подумай, как быстро можно было бы метать, если бы у нас было больше рук.
+		NamedValerie: Я в принципе от еды не откажусь как от оплаты.
+		NamedRowan: Обычно я животных не считаю чем-то большим, чем тупо жрачка или мишень для тренировки, но вот драконы это исключение.
+		Jungle: Мне че-то тут не нравится. Плохая атмосфера, понимаешь? В голове начинают мешаться неприятные воспоминания.
+		Party: Где моя шляпка с вечерухи? Ну, сворована, естественно.
+		Hardmode1: Тут теперь столько всякого оружия можно награбить. Давай приступай к делу, и я поделюсь своей коллекцией!
+		Hardmode2: В этих землях столько металлолома с такими ценными деталями. Аж задумаешься, кто тут настолько богат, чтобы тупо выкидывать такое добро.
+		Hardmode3: Крипты, гробницы, темницы - это все для меня просто сокровищницы. Мертвецы и так мертвы, че им от этого будет?
+		MoonLordDefeated1: Если найдешь что-нибудь крутое, то забеги ко мне и покажи. Зуб даю - не прикоснусь.
+		MoonLordDefeated2: Столько всего можно слямзить, я аж не знаю откуда начинать!
+		MoonLordDefeated3: Если я там насолю какому-нибудь божеству, ты не против прикрыть мне спину и взять вину на себя?
+		HasBoneGlove: Удивишься, но мне не впервые приходилось использовать чьи-то останки в качестве оружия.
+		HasValediction: Твою ж! Чел, ты это с той акулы содрал!? Вот это уже зашибись оружие!
+	}
+
+	// RefundButton: Refund
+	// Refund1: Want in on a little secret? Since {0} always gets so much cash from you, I've been stealing some of it as we go. I need you to keep quiet about it, so here.
+	// Refund2: Hey, if government officials can get tax, why can't I? The heck do you mean that these two things are nothing alike?
+	// NoRefund: Sorry, I got nothing. Perhaps you could reforge something and come back later...
+	
+	TownNPCMood: {
+		Content: Все нормалек!
+		NoHome: Есть где прилечь? У меня мышцы забиваются валяться на земле.
+		LoveSpace: Чем меньше людей - тем проще вытворять свои дела.
+		FarFromHome: Мне нужно поскорее добраться до своего секретного укрытия! Что если кто-то уже наткнулся на него, пока меня там нет!?
+		DislikeCrowded: Тут не особо хорошо, слишком много потенциальных очевидцев.
+		HateCrowded: Чувак, живя в такой толпе я начинаю думать, что это МЕНЯ обворуют.
+		LikeBiome: Я знаю, что по пустыне постоянно бродят богатые торгаши. Это чудесно, так как есть кто-то, у кого можно спереть добро.
+		DislikeBiome: Воздух слишком спертый, да и воды слишком много. Тут шагнуть лишний раз, не упав лицом в грязь, нельзя. Не, не годится.
+		HateBiome: Тут никто не живет, да и зачем им?! Это место - помойка!
+		LikeNPC: "{NPCName} носит не только колючие шары в карманах, но и тонны денег! Он еще и слишком рассеянный, чтобы даже заметить, что я у него ворую! Это мне очень нравится!"
+		DislikeNPC: Ух, какая же эта {NPCName} паинька в туфельках, а! Я ее из принципа ненавижу! ...Да и у нее ни черта материального нету, что бы можно было своровать.
+		LikeNPC_Princess: Я с совестью не уживусь, если утащу что-то у {NPCName}. Ну она такая милашка!
+		Princess_LovesNPC: "{NPCName} дарит мне точные копии вещей других горожан, аж интересно становится, как так хорошо получается!"
+	}
+
+	DisplayName: Бандит
+	Census.SpawnCondition: Имейте {$ItemName.PlatinumCoin} [i:PlatinumCoin] в вашем инвентаре после победы над Скелетроном
+	RefundButton: Компенсация
+	Refund1: Хочешь секрет? Из-за того, что {0} у тебя столько денег нахапал, мне пришла в голову мысль начать у него воровать. Информация - конфиденциальная, так что лови.
+	Refund2: Ну але, если чиновники собирают налоги, то с чего мне нельзя? Да в смысле, черт возьми, это две разные вещи?
+	NoRefund: Прости, ничего нет. Может тебе стоит что-нибудь перековать, а потом забежать сюда...
+}
+
+BrimstoneWitch: {
+	// DisplayName: Brimstone Witch
+	// Census.SpawnCondition: Defeat Supreme Witch, Calamitas
+	// Name.Calamitas: Calamitas
+	
+	Chat: {
+		EasterEgg: Mrrp - кринж.
+		Homeless1: Я думаю мне пора отправиться в свою старую пещерку.
+		Homeless2: Так, в мою бывшую обитель у Ярима я теперь точно не смогу вернуться... Может у тебя есть, где можно обосноваться?
+		Normal1: Боюсь я не могу оплатить за аренду, но если у тебя есть какие-нибудь мертвые родственники, то, может, я могла бы попробовать и... Что? Все живы?
+		Normal2: Я думаю как-нибудь разбить сад с цветами из старой столицы Ада. Мне нравится запах серы по утрам.
+		Normal3: Мне кажется, я уже достаточно хорошо прижилась здесь, большое спасибо.
+		Normal4: Столько лет прошло, с момента, когда я впервые встретила Тирана, и только сейчас мне удалось вырваться из под его контроля. Если бы я только была сильнее...
+		Normal5: Если вам нужно избавиться от какого-нибудь проклятья, то... боюсь вы обратились не туда.
+		BloodMoon1: Такой сверхъестественный оттенок красного. Совсем не похожий на мои серные огни.
+		BloodMoon2: Я не могу работать в такие ночи. Звезды будто сжались из-за страха.
+		Night1: Эта нежить ужасна, я не могу смотреть на нее. Ну как можно быть довольным такой дилетантской работой?
+		Night2: Я не думаю, что было бы глупо утверждать, что астрология - полнейший нонсенс... но когда-то это занятие было моим хобби.
+		SeaKing: Я честно не могу понять Короля Морей. Он, видимо, совсем не желает мне смерти! Такое количество сострадания, у меня это в голове не укладывается...
+		Party: Если еще одна персона спросит меня - умею ли я танцевать, то, даю слово, я зажгу им шапку и попрошу ИХ поплясать.
+	}
+
+	// EnchantButton: Enchant
+	// DonorButton: Donors
+	// DonorShoutout: Hey {0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}, {10}, {11}, {12}, {13}, {14}, {15}, {16}, {17}, {18}, {19}, {20}, {21}, {22}, {23} and {24}. You guys are good people.
+	
+	TownNPCMood: {
+		Content: Честно, жалоб особо нет.
+		NoHome: Да где угодно будет лучше, чем та пещера без какого-либо освещения или даже кровати.
+		LoveSpace: Чем тише, тем лучше. Тут хорошо.
+		FarFromHome: После того, как я мало помалу начала привыкать к окружению из людей, я начинаю по нему скучать.
+		DislikeCrowded: Мне не нравится, насколько близко некоторые люди стараются познакомиться со мной.
+		HateCrowded: У меня уже голова разболелась от такой толпы людей!
+		LikeBiome: У меня никогда не было возможности пожить в таком месте. Деревья, птички поют... Мне это очень нравится!
+		DislikeBiome: Это какая-то больная шутка? Я тут ни секунды не протяну! Я уже и без тебя пробовала искупить свои грехи!
+		HateBiome: Духи здесь не знают покоя. Это очень неприятное ощущение.
+		LikeNPC: "{NPCName} - человек, которому очень не повезло оказаться быть проклятым. Но после стольких дней он так хорошо справляется со своим недугом. Это меня впечатляет, если честно."
+		DislikeNPC: Это такой бардак! Все что {NPCName} творит, так это шум и гам день да ночь! Я ее терпеть не могу.
+		LikeNPC_Princess: Эта девочка, {NPCName}, такая чудная. С ней на удивление приятно находиться.
+		Princess_LovesNPC: "{NPCName} всегда одинокая, и поэтому я с ней стараюсь побыть побольше. Никто не должен быть настолько одиноким!"
+	}
+
+	DisplayName: Серная Ведьма
+	Census.SpawnCondition: Одолейте Каламитас, Великую Ведьму
+	Name.Calamitas: Каламитас
+	EnchantButton: Чары
+	DonorButton: Доноры
+	DonorShoutout: Эй {0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}, {10}, {11}, {12}, {13}, {14}, {15}, {16}, {17}, {18}, {19}, {20}, {21}, {22}, {23} и {24}. Народ, вы красавчики!
+}
+
+SeaKing: {
+	// DisplayName: Sea King
+	// Census.SpawnCondition: Defeat a Giant Clam after defeating the Desert Scourge
+	// Name.Amidias: Amidias
+	
+	Chat: {
+		Homeless1: Насколько же сильно пал этот мир. Даже империя Тирана...
+		Homeless2: Я не смею ожидать от тебя королевство, но я бы поприветствовал укрытие.
+		Day1: Мой дом был уничтожен, а народ - потерян... Но в честь памяти о них я буду помогать тебе как смогу.
+		Day2: Как же это удивительно, что люди оставляют заботу за теми, кто еще не родился, своим женским партнерам. У нас мужчины вынашивают икру до тех пор, пока дети не вылупятся.
+		Day3: Как это я живу вне воды? Ах, а пожалуй я оставлю это секретом. Да ладно, пожалуй, нет... Я могу дышать воздухом, ровно как и ты!
+		Day4: Эх, если бы ты видел величие королевство, погруженного под толщей воды. То, как свет расщеплялся и блистал над нашими коралловыми домами...
+		Night1: За пределом света наших пристанищ таятся кошмарные чудища. Прошу тебя быть поосторожней там.
+		Night2: Мои глаза не особо привыкли к яркому свету после стольких лет в темноте. Покой ночного неба очень даже приятен.
+		Night3: Хм, я? Нет, я не сплю, такова моя природа.
+		Angler: У меня нет ни малейшей идеи, как {0} еще не превратился в зажаренный и переваренный кусок мяса, проводя столько время в серных морях. Возможно, они ему уже мозг отравили.
+		BrimstoneWitch: Честно признаюсь, присутствие Ведьмы меня очень напрягает, учитывая ее роль в судьбе Ильмериса. Но уже столько времени прошло, да и она сама вдоволь настрадалась...
+		PartyGirl: "{0} спросила, можно ли использовать мой нос в качестве вувузелы. Эээ, а что такое вувузела?"
+		BloodMoon1: С древних времен люди говорили, что небесные явления сотворяются божествами. Какое же тогда является причиной для вот этого?
+		BloodMoon2: Мне как-то никогда не были по вкусу такие ночи. Такая жесть.
+		Hardmode1: О твоем присутствие теперь много что знает. Я сомневаюсь, что они будут к тебе относиться также дружно, как я.
+		Hardmode2: Хм... Вуаль пала, и мир стал показывать свои настоящие краски. Я очень надеюсь, что ты протопчешь путь добродетели, правда, я не знаю, что тебе на это потребуется.
+		MoonLordDefeated1: В последнее время, эти ночные небеса... кажется, будто они стали давить немного меньше.
+		MoonLordDefeated2: О некоторых этих новопришедших существах я слыхал только из легенд. Увидеть их во всей своей красе... какая жуткая привилегия.
+		DoGDefeated: Узрев, как цепи змея Тирана были сорваны... Мне кажется, у меня мурашки побежали по коже.
+	}
+
+	Help: {
+		YharonDefeated1: С ауритовой рудой практически невозможно работать без гармонизации с Драконом или без "имитации" таковой при помощи захваченной Ауритовой эссенции. Однако, если найти подход, то при помощи этого материала можно создавать поистине могучие вещи - настолько могучие, что какое-либо применение этой руды Боги признавали еретичеством.
+		YharonDefeated2: Золотой Еретик Ярим обладает такой силой, что, наверное, уже превосходит всех Богов. Когда ты встретишься с ним - будь готов к битве всей твоей жизни.
+		YharonDefeated3: Драедон не передовой солдат. Он ученый и изобретатель. Ты в ряд ли встретишься с ним лицом к лицу, скорее всего тебя остановят его творения. Будь готов к тому, что эта богохульная машина натравит на тебя все что только можно представить.
+		DoGDefeated1: Броня Пожирателя была сделана по заказу у Драедона. Она исключительно гибкая, крепкая и массивная - ее, скорее всего, можно назвать самым впечатляющим творением Драедона. Я начинаю содрогаться от одной лишь мысли о том, какую кошмарную нечисть он сейчас научился строить, если его исследования так и не остановились.
+		DoGDefeated2: Из космической стали ты сможешь переделать большую часть своего оружия в значительно более сильную форму.
+		DoGDefeated3: Спору нет, что Пожиратель Богов - загадка. Есть слухи, что он даже не из этого мира. Однако, что точно известно, так это то, что он существо, способное пожирать эссенцию Богов целиком, ни оставляя ничего позади. Не удивительно, что Ярим решил нанять этого монстра.
+		PolterghastDefeated1: Многие секреты Бездны раскрываются постепенно. Мне кажется проверить ее вновь - не такая плохая идея.
+		PolterghastDefeated2: Хм... Я почувствовал сильное изменение в погоды. Если ты его хочешь испытать - отправляйся вновь в Серное Море во время дождя.
+		ProvidenceDefeated1: Руна Кос содержит значительную порцию магии такого же вида, как и у Провиденции. Ее легко отличить от других форм. Если решите активировать ее в особенных местах, то ожидайте... рисковых последствий.
+		ProvidenceDefeated2: Интересно, что в итоге произошло со Статисом и Браэлором. Я очень мало о них слышал. В мои дни, они оба были великими героями, почитающими Богов. Убили ли их, захватили, или же они просто скрываются?
+		MoonLordDefeated1: Мне кажется, что твои приключения сосредотачиваются на джунглях. Драконические Причуды и их роевые отроки должны истребляться, пока их числа не вышли из под контроля.
+		MoonLordDefeated2: В Освящении и Преисподней стали скрываться существа Скверны. Если ты начнешь их убивать и собирать их эссенцию, то скорее всего на тебя в итоге обратит внимание Провиденции, Скверной Богини.
+		MoonLordDefeated3: Защитники Скверны прислуживают Провиденции - одной из немногих богов, которых даже я терпеть не могу. Защитники стараются заранее истреблять угрозы их богине, и ты наверняка станешь их следующей целью.
+		MoonLordDefeated4: Провиденцию скорее всего можно заставить драться, только если использовать реликвию, оставленную ее Защитниками. Интересно... Почему Ярим так и не бросил ей вызов? Ну не уже ли он теперь стал настолько небрежным?
+		MoonLordDefeated5: Провиденция была великой угрозой Яриму и его армии. Она появлялась из ниоткуда, устраивала хаос и испарялась до того, как ей могли причинить хоть какой-то вред. Может она слишком зазнается во время битвы с одним лишь воином и решит не сбегать.
+		GolemDefeated1: Люди перед входом в Темницу устраивают ритуал, чтобы держать Лунного Лорда в заточении. Если тебе захочется привлечь внимание Ярима, то тебе, скорее всего, придется убить их.
+		GolemDefeated2: Бездна стала более активной, чем когда-либо. Возможно, ты бы мог теперь пойти выкопать вулканический камень, который содержится внутри.
+		GolemDefeated3: Природа этой чумы в джунглях тревожит меня. Это точно не какая-нибудь обыденная инфекция, нет. Издалека больные выглядят нормально, но вблизи становится очевидно, что зараженные существа покрыты лампочками и металлической обшивкой. Что бы это ни было, оно точно не естественного происхождения.
+		Hardmode1: Я бы порекомендовал хранить старые вещи. Авось, в будущем их можно будет переделать в какой-то более сильный вариант.
+		Hardmode2: Если взять с собой идол в Серные Скалы, то можно найти - что таится в их тенях.
+		Hardmode3: Азафюр, город, обоснованный в Серных Скалах, был одним из первых мест, которые поддержали Ярима в этой войне. А теперь от него остались только развалины... Что там могло произойти?
+		Hardmode4: Если ты собрал эссенции, использованные для запитки этих автоматонов - направляйся опять в джунгли. Ты обнаружишь еще более сильного противника, который выпустит на волю истинное буйство джунглей, если окажется повержен. Не смей недооценивать его!
+		Hardmode5: Будь аккуратен, если собираешься убивать Плантеру и Голема. Так можно по случайности выпустить новую угрозу в джунглях, которую потом тебе придется усмирять.
+		Hardmode6: При исследовании Храма Джунглей, будь осторожен. Тебе наверняка не захочется потревожить идола Ящщеров - Голема. Это вполне разрушительная сила.
+		Hardmode7: Ты слыхал об Архмаге Мерзлоте? Он однажды был советником Ярима, но в один день исчез. Каламитас вскоре тоже покинула Ярима. Из того, что я знаю, Мерзлота фактически был для нее отцом. Если она хоть как-то связана с его исчезновением, то, может, он еще жив...?
+		PreHardmode1: Есть слухи, что существуют спящие руды. После победы над определенными могучими существами, ты сможешь обратить вспять древнюю магию, скрывшую эти материалы.
+		PreHardmode2: Ты слышал о городе в Серных Скалах? Он находится в Преисподней и был возведен под дном Бездны. Он однажды был самым старым и большим городом в мире, правда сейчас там залегают лишь опасности жизни. Было бы мудро пока обходить его десятой дорогой.
+		PreHardmode3: А, спасибо что напомнил. Бездна. Это ущелье переполнено ужасающими существами, которые тебя сожрут в мгновение ока. Я б на твоем месте сначала обследовал Темницу.
+		PreHardmode4: Серные Моря опасны. Токсичные воды обжигают кожу, но если ты их сможешь преодолеть, то доберешься до чистых вод Бездны, где в равной мере много могучего оружия и опасностей.
+		PreHardmode5: Серные Моря образовались еще тысячи лет назад, но лишь в последние десятилетия оно стало поистине невыносимым. Вся вина лежит на этом проклятом роботе Драедоне, который туда постоянно сбрасывал свои отходы и списанные проекты. Благодаря этому гаду это море теперь находится в своем худшем состоянии.
+		PreHardmode6: Отправляясь в {0}, будь аккуратен с тем, что бьешь. Иначе можно открыть большую опасность, чем та, которая присутствовала моментами ранее.
+		PreHardmode7: По этим землям разбросаны святилища Богам. В них могут находиться полезные артефакты, которые точно помогут на твоих приключениях.
+		PreHardmode8: Я предполагаю ты слышал о легендарном ниндзя Статисе? Он и его клан поклонялся Богу слизней, который скорее всего пережил войну из-за своей хитрости и знаний, когда стоит прятаться или сбегать.
+		PreHardmode9: Вообще, {0} - сравнительно недавнее происшествие в этом мире. Это и ознаменовало старт предательской войны Ярима. Хотя источник роста этой напасти и был запечатан, об изначальных проявлениях никто так и не позаботился.
+		PreHardmode10: Бродя по этому миру можно встретить различные структуры, оставленные Драедоном. Там, наверное, остались древние системы обороны, но снаряжение внутри может стоить твоего внимания.
+	}
+
+	TownNPCMood: {
+		Content: Я всем доволен.
+		NoHome: Я тебе очень благодарен, но боюсь у меня теперь нету дому.
+		LoveSpace: Ах, тишина уединения - это что-то, что мне очень даже нравится.
+		FarFromHome: Моя чешуя уже начинает сохнуть. Я слишком далеко от дома.
+		DislikeCrowded: Не кажется ли, что мои условия проживания здесь достаточно скованы?
+		HateCrowded: Мне не особо нравилось пользоваться своим титулом, пока был королевской особой. Мне намного привычней, когда народу рядом поменьше.
+		LikeBiome: Так близко к океану. Горькая радость, но сказать, что она мне не по нраву - не могу.
+		DislikeBiome: Тут солнце слишком сурово ко мне. Мне вреден пустынный климат.
+		HateBiome: Да тут вообще нельзя жить! Отправляемся прочь сию минуту.
+		LikeNPC: То, как ведет себя {NPCName} - немного грубовато для меня, но его любовь к океану я однозначно ценю!
+		DislikeNPC: Спасибо, но я уже по горло сыт от хаоса! {NPCName} ведет себя разрушительно, что очень неприлично.
+		HateNPC: "{NPCName} всего лишь ребенок, но его отношение к морской жизни неприемлемо! Это ни в какие ворота не лезет!"
+		LikeNPC_Princess: Это дитя, {NPCName}... Ее душа такая невинная. Скрестим пальцы, что ужасы войны никогда не дойдут до нее.
+		Princess_LovesNPC: "{NPCName} всегда улыбается, когда я рядом, и всего лишь за это мне так приятно быть рядом с ним!"
+	}
+
+	DisplayName: Морской Король
+	Census.SpawnCondition: Одолейте Гигантского Моллюска после победы над Бичом Пустыни
+	Name.Amidias: Амидиас
+}
+
+BabyCannonballJellyfish.DisplayName: Молодая Медуза-Пушечное Ядро
+Bloatfish.DisplayName: Раздувающаяся Рыба
+BrainIllusion.DisplayName: Иллюзия Мозга
+BobbitWormHead.DisplayName: Червь Боббита
+BoxJellyfish.DisplayName: Кубомедуза
+Burrower.DisplayName: Копатель
+BurrowerHitbox.DisplayName: Копатель
+CannonballJellyfish.DisplayName: Медуза-Пушечное Ядро
+ChaoticPuffer.DisplayName: Фугу Хаоса
+ColossalSquid.DisplayName: Колоссальный Кальмар
+TinySquid: Кальмарик
+Cuttlefish.DisplayName: Каракатица
+DevilFish.DisplayName: Рыба-Дьявол
+DevilFishAlt.DisplayName: Рыба-Дьявол
+DraconicSwarmer.DisplayName: Драконический Роевик
+Dragonfolly.DisplayName: Драконическая Причуда
+EidolonWyrmHead.DisplayName: Эйдолонский Вирм
+FalseBrain.DisplayName: Фальшивый Мозг
+GiantSquid.DisplayName: Гигантский Кальмар
+GulperEelHead.DisplayName: Пеликановидный Большерот
+Laserfish.DisplayName: Рыба-Лазер
+LuminousCorvina.DisplayName: Светящийся Горбыль
+MirageJelly.DisplayName: Медуза Миража
+MorayEel.DisplayName: Мурена
+OarfishHead.DisplayName: Ремнетел
+ReaperShark.DisplayName: Акула-Жнец
+Shoreskipper.DisplayName: Береговой Скакун
+SlabCrab.DisplayName: Плитоспинный Краб
+ToxicMinnow.DisplayName: Токсичный Пескарь
+Viperfish.DisplayName: Хаулиод
+WildBumblebirb.DisplayName: Дикая шмелептица
+AcidEel.DisplayName: Кислотный Угорь
+BabyFlakCrab.DisplayName: Молодой Зенитный Краб
+BloodwormNormal.DisplayName: Кровавый Червь
+CragmawMire.DisplayName: Утесная Челюсть
+FlakCrab.DisplayName: Зенитный Краб
+GammaSlime.DisplayName: Гамма-Слизень
+IrradiatedSlime.DisplayName: Облученный Слизень
+Mauler.DisplayName: Истязатель
+NuclearTerror.DisplayName: Ядерный Ужас
+NuclearToad.DisplayName: Ядерная Жаба
+Orthocera.DisplayName: Ортоцерас
+Radiator.DisplayName: Радиатор
+Skyfin.DisplayName: Летящий Плавник
+SulphurousSkater.DisplayName: Серная Водомерка
+Trilobite.DisplayName: Трилобит
+AquaticScourgeHead.DisplayName: Водный Бич
+Aries.DisplayName: Ариес
+AstralachneaGround.DisplayName: Астралахнида
+AstralProbe.DisplayName: Астральный Зонд
+AstralSeekerSpit.DisplayName: Преследующий Плевок
+AstralSlime.DisplayName: Астральный Слизень
+Atlas.DisplayName: Атлас
+FusionFeeder.DisplayName: Кормилец Синтеза
+Hadarian.DisplayName: Хадариец
+Astraglomerate.DisplayName: Астрагломерация
+Glomerling.DisplayName: Гломер
+Mantis.DisplayName: Богомол
+Nova.DisplayName: Новая
+SightseerCollider.DisplayName: Надзиратель-Коллайдер
+SightseerSpitter.DisplayName: Надзиратель-Плеватель
+StellarCulex.DisplayName: Звездный Кулекс
+Twinkler.DisplayName: Блестячок
+AstrumAureus.DisplayName: Аструм Ауреус
+AureusSpawn.DisplayName: Порождение Ауреса
+AstrumDeusHead.DisplayName: Аструм Деус
+Brimling.DisplayName: Серное Дитя
+BrimstoneElemental.DisplayName: Элементаль Серы
+Bumblebirb: Шмелептица
+// Bumblefuck.DisplayName: Dragonfolly
+// Bumblefuck2.DisplayName: Draconic Swarmer
+CalamitasClone.DisplayName: Доппельгангер Каламитас
+Cataclysm.DisplayName: Конструкт Катаклизма
+Catastrophe.DisplayName: Конструкты Катастрофы
+SoulSeeker.DisplayName: Искатель Души
+CeaselessVoid.DisplayName: Ненасытная Пустота
+DarkEnergy.DisplayName: Темная Энергия
+CrabShroom.DisplayName: Грибок Краба
+Crabulon.DisplayName: Крабулон
+CalamityEye.DisplayName: Глаз Бедствия
+RenegadeWarlock.DisplayName: Чернокнижник Ренегат
+DespairStone.DisplayName: Камень Отчаяния
+HeatSpirit.DisplayName: Дух Тепла
+InfernalCongealment.DisplayName: Инфернальный Студень
+Scryllar.DisplayName: Сциллиар
+ScryllarRage.DisplayName: Сциллиар
+SoulSlurper.DisplayName: Высасыватель Душ
+Cryogen.DisplayName: Криоген
+Pyrogen: Пироген
+CryogenShield.DisplayName: Щит Криогена
+PyrogenShield: Щит Пирогена
+DesertNuisanceHead.DisplayName: Пустынная Помеха
+DesertNuisanceHeadYoung.DisplayName: Пустынная Помеха
+DesertScourgeHead.DisplayName: Бич Пустыни
+CosmicGuardianHead.DisplayName: Космический Страж
+DevourerofGodsHead.DisplayName: Пожиратель Богов
+Androomba.DisplayName: Андрумба
+Nanodroid.DisplayName: Нанодроид
+RepairUnitCritter.DisplayName: Ремонтный Аппарат
+Draedon.DisplayName: Драедон
 GreatSandShark.DisplayName: Великая Песчаная Акула
 DankCreeper.DisplayName: Текущий Ползун
 DarkHeart.DisplayName: Темное Сердце
@@ -152,12 +666,13 @@ AquaticAberration.DisplayName: Морское Порождение
 Leviathan.DisplayName: Левиафан
 LeviathanStart.DisplayName: ???
 AeroSlime.DisplayName: Аэрослизень
-ArmoredDiggerHead.DisplayName: Бронированный Землекоп
 MechanizedSerpent: Механизированный Змей
 AuroraSpirit.DisplayName: Дух Авроры
-BloodlettingServant.DisplayName: Кровоточащий Прислуга
 BloomSlime.DisplayName: Расцветающий Слизень
 Bohldohr.DisplayName: Вохлунн
+BucketZombie.DisplayName: "{$NPCName.Zombie}"
+CladCrab.DisplayName: Краб-Броненосец
+CloudElemental.DisplayName: Элементаль Облаков
 Cnidrion.DisplayName: Книдрион
 CrawlerAmber.DisplayName: Янтарная Ящерка
 CrawlerAmethyst.DisplayName: Аметистовая Ящерка
@@ -177,9 +692,7 @@ Frogfish.DisplayName: Бородавчатая Рыба Клоун
 EarthElemental.DisplayName: Элементаль Земли
 IceClasper.DisplayName: Ледяной Капкан
 ImpiousImmolator.DisplayName: Нечестивый Сжигатель
-KingSlimeJewelEmerald.DisplayName: Изумрудный Самоцвет
 KingSlimeJewelRuby.DisplayName: Рубиновый Самоцвет
-KingSlimeJewelSapphire.DisplayName: Сапфировый Самоцвет
 LavaSlimeNoLavaDrop.DisplayName: Лавовый Слизень
 MantisShrimp.DisplayName: Рак-богомол
 OverloadedSoldier.DisplayName: Перегруженный Солдат
@@ -191,14 +704,12 @@ ProfanedEnergyBody.DisplayName: Энергия Скверны
 Rimehound.DisplayName: Морозная Гончая
 Rotdog.DisplayName: Гниющая собака
 ScornEater.DisplayName: Скверный Пожиратель
-SeaUrchin.DisplayName: Морской Еж
 ShockstormShuttle.DisplayName: Ударный Штормовой Шаттл
-SkeletronPrime2.DisplayName: Скелетрон Прайм
+Shroomble.DisplayName: Грибуль
 Stormlion.DisplayName: Штормовой Лев
 Sunskater.DisplayName: Солнечный конек
 SuperDummyNPC.DisplayName: Супер Манекен
-CloudElemental.DisplayName: Элементаль Облаков
-WildBumblebirb.DisplayName: Дикая шмелептица
+// WildBumblefuck.DisplayName: Draconic Swarmer
 WulfrumAmplifier.DisplayName: Вульфрумовый Усилитель
 WulfrumDrone.DisplayName: Вульфрумовый Дрон
 WulfrumGyrator.DisplayName: Вульфрумовый Гироскоп
@@ -282,255 +793,10 @@ BrimstoneHeart.DisplayName: Багрянцеове Сердце
 SepulcherHead.DisplayName: Могила
 SoulSeekerSupreme.DisplayName: Искатель Душ
 SupremeCalamitas.DisplayName: Каламитас, Великая Ведьма
+SupremePermafrost: Мерзлота, Великий Ультрамаг
 SupremeCataclysm.DisplayName: Катаклизм
 SupremeCatastrophe.DisplayName: Катастрофа
-SupremePermafrost: Мерзлота, Великий Ультрамаг
 Yharon.DisplayName: Ярон, Дракон Перерождения
 YharonPhase2: Ярон, Лучезарный Феникс
 // Town NPCs, Pets, etc
 AndroombaFriendly.DisplayName: Андроид Пылесос
-
-Archmage: {
-	DisplayName: Архмаг
-	Census.SpawnCondition: Одолейте Криогена
-	Name.Permafrost: Мерзлота
-
-	Chat: {
-		Homeless1: Я такого неба не видел уже десятилетия. Кто же вы такой, чтобы так дерзко пойти против воли того Тирана?
-		Homeless2: Я... глубоко ценю, что вы выручили меня из ловушки этой ледяной крепости. Прошло очень, очень много лет.
-		Normal1: Если вам что-то нужно, то, пожалуйста, не медлите. Я выкраиваю новое заклинание, что требует мое полное внимание.
-		Normal2: В вас есть зачатки великолепного колдуна. Скажите мне, что вы думаете о магии льда?
-		Normal3: Говоря о красоте, цветы и подобное даже в подметки не годится причудливо застывшему льду.
-		Day1: Солнце здесь сурово сказывается на моих творениях. Эх, позволили бы вы мне сотворять вьюгу раз за разом...
-		Day2: Должен признаться - я не особо привык к тобой погоде. Больно уж жарко для моего вкуса...
-		Night1: Ночь - отличное время для практики магии. Мы, колдуны, часто полагаемся на небесные тела и их фрагменты, чтобы усиливать нашу ману.
-		Night2: Область некромантии мне никогда не казалась интересной. В чем смысл использовать гниющий труп какого-то умершего бедолаги, коль изо льда можно породить прислугу на порядки элегантнее?
-		Party: На таких вечеринках мне иногда начинает казаться... что я годен только для того, чтобы делать мороженное и охлаждать коктейли.
-		BloodMoon1: Знаете, если ваша кровь хорошенько промерзнет, то исход будет вполне фатальным.
-		BloodMoon2: Блуждающая нежить этой ночью все так же представляет из себя монстров крови и кишок, но она, будто бы... более свежая.
-		MoonLordDefeated1: Меня поражает, насколько же далеко вы зашли! Желаю вам всего наилучшего в будущих приключениях.
-		MoonLordDefeated2: Вы побороли столько существ, даже божеств... Интересно, я вообще могу вас чему-то еще научить?
-	}
-
-	TownNPCMood: {
-		Content: Погодка сегодня прохладная.
-		NoHome: Боюсь без пристанища я не смогу продолжить свое обучение. Могли бы вы мне предложить немного жилого пространства? Делать себе дома из магии льда мне как-то больше не по вкусу.
-		LoveSpace: Большое количество людей может мешать потоку маны. Мне очень приятно иметь здесь столько простора.
-		FarFromHome: Мое умение ориентироваться... такое себе. Терпеть не могу признавать это, но у меня есть тенденция днями просиживать дома.
-		DislikeCrowded: Мои заклинания требуют точности, а прерывать их нельзя. Я бы предпочел побольше места, чтобы практиковать их.
-		HateCrowded: Я бы очень не хотел оказаться виновным за то, что один из ваших коллег окажется охваченным моей магией. Но, увы, здесь их слишком много, чтобы исключить такой риск.
-		LikeBiome: Здешняя температура помогает мне экономить ману, так как мои творения не тают и поддерживают свою форму больше времени.
-		DislikeBiome: Солнце здесь слишком враждебно для моих созданий! Умоляю вас, позвольте мне немедленно устроить ночлег где-нибудь в другом месте!
-		HateBiome: Присутствие темных сил здесь сильно. Это совсем не идеально.
-		LikeNPC: "{NPCName} умный и достойный уважения маг!"
-		DislikeNPC: Я терпеть не могу, насколько очевидно наплевательски относится {NPCName} к магии. Я не могу винить его за встроенный функционал, но он тот еще невежда.
-		LikeNPC_Princess: "{NPCName} владеет достаточно причудливыми заклинаниями. Я вполне впечатлен, особенно учитывая ее возраст."
-		Princess_LovesNPC: "{NPCName} делает лучшее мороженное, которое я когда либо пробовала, оно такое вкусное!"
-	}
-}
-
-SeaKing: {
-	DisplayName: Морской Король
-	Census.SpawnCondition: Одолейте Гигантского Моллюска после победы над Бичом Пустыни
-	Name.Amidias: Амидиас
-
-	Chat: {
-		Homeless1: Насколько же сильно пал этот мир. Даже империя Тирана...
-		Homeless2: Я не смею ожидать от тебя королевство, но я бы поприветствовал укрытие.
-		Day1: Мой дом был уничтожен, а народ - потерян... Но в честь памяти о них я буду помогать тебе как смогу.
-		Day2: Как же это удивительно, что люди оставляют заботу за теми, кто еще не родился, своим женским партнерам. У нас мужчины вынашивают икру до тех пор, пока дети не вылупятся.
-		Day3: Как это я живу вне воды? Ах, а пожалуй я оставлю это секретом. Да ладно, пожалуй, нет... Я могу дышать воздухом, ровно как и ты!
-		Day4: Эх, если бы ты видел величие королевство, погруженного под толщей воды. То, как свет расщеплялся и блистал над нашими коралловыми домами...
-		Night1: За пределом света наших пристанищ таятся кошмарные чудища. Прошу тебя быть поосторожней там.
-		Night2: Мои глаза не особо привыкли к яркому свету после стольких лет в темноте. Покой ночного неба очень даже приятен.
-		Night3: Хм, я? Нет, я не сплю, такова моя природа.
-		Angler: У меня нет ни малейшей идеи, как {0} еще не превратился в зажаренный и переваренный кусок мяса, проводя столько время в серных морях. Возможно, они ему уже мозг отравили.
-		BrimstoneWitch: Честно признаюсь, присутствие Ведьмы меня очень напрягает, учитывая ее роль в судьбе Ильмериса. Но уже столько времени прошло, да и она сама вдоволь настрадалась...
-		PartyGirl: "{0} спросила, можно ли использовать мой нос в качестве вувузелы. Эээ, а что такое вувузела?"
-		BloodMoon1: С древних времен люди говорили, что небесные явления сотворяются божествами. Какое же тогда является причиной для вот этого?
-		BloodMoon2: Мне как-то никогда не были по вкусу такие ночи. Такая жесть.
-		Hardmode1: О твоем присутствие теперь много что знает. Я сомневаюсь, что они будут к тебе относиться также дружно, как я.
-		Hardmode2: Хм... Вуаль пала, и мир стал показывать свои настоящие краски. Я очень надеюсь, что ты протопчешь путь добродетели, правда, я не знаю, что тебе на это потребуется.
-		MoonLordDefeated1: В последнее время, эти ночные небеса... кажется, будто они стали давить немного меньше.
-		MoonLordDefeated2: О некоторых этих новопришедших существах я слыхал только из легенд. Увидеть их во всей своей красе... какая жуткая привилегия.
-		DoGDefeated: Узрев, как цепи змея Тирана были сорваны... Мне кажется, у меня мурашки побежали по коже.
-	}
-
-	Help: {
-		YharonDefeated1: С ауритовой рудой практически невозможно работать без гармонизации с Драконом или без "имитации" таковой при помощи захваченной Ауритовой эссенции. Однако, если найти подход, то при помощи этого материала можно создавать поистине могучие вещи - настолько могучие, что какое-либо применение этой руды Боги признавали еретичеством.
-		YharonDefeated2: Золотой Еретик Ярим обладает такой силой, что, наверное, уже превосходит всех Богов. Когда ты встретишься с ним - будь готов к битве всей твоей жизни.
-		YharonDefeated3: Драедон не передовой солдат. Он ученый и изобретатель. Ты в ряд ли встретишься с ним лицом к лицу, скорее всего тебя остановят его творения. Будь готов к тому, что эта богохульная машина натравит на тебя все что только можно представить.
-		DoGDefeated1: Броня Пожирателя была сделана по заказу у Драедона. Она исключительно гибкая, крепкая и массивная - ее, скорее всего, можно назвать самым впечатляющим творением Драедона. Я начинаю содрогаться от одной лишь мысли о том, какую кошмарную нечисть он сейчас научился строить, если его исследования так и не остановились.
-		DoGDefeated2: Из космической стали ты сможешь переделать большую часть своего оружия в значительно более сильную форму.
-		DoGDefeated3: Спору нет, что Пожиратель Богов - загадка. Есть слухи, что он даже не из этого мира. Однако, что точно известно, так это то, что он существо, способное пожирать эссенцию Богов целиком, ни оставляя ничего позади. Не удивительно, что Ярим решил нанять этого монстра.
-		PolterghastDefeated1: Многие секреты Бездны раскрываются постепенно. Мне кажется проверить ее вновь - не такая плохая идея.
-		PolterghastDefeated2: Хм... Я почувствовал сильное изменение в погоды. Если ты его хочешь испытать - отправляйся вновь в Серное Море во время дождя.
-		ProvidenceDefeated1: Руна Кос содержит значительную порцию магии такого же вида, как и у Провиденции. Ее легко отличить от других форм. Если решите активировать ее в особенных местах, то ожидайте... рисковых последствий.
-		ProvidenceDefeated2: Интересно, что в итоге произошло со Статисом и Браэлором. Я очень мало о них слышал. В мои дни, они оба были великими героями, почитающими Богов. Убили ли их, захватили, или же они просто скрываются?
-		MoonLordDefeated1: Мне кажется, что твои приключения сосредотачиваются на джунглях. Драконические Причуды и их роевые отроки должны истребляться, пока их числа не вышли из под контроля.
-		MoonLordDefeated2: В Освящении и Преисподней стали скрываться существа Скверны. Если ты начнешь их убивать и собирать их эссенцию, то скорее всего на тебя в итоге обратит внимание Провиденции, Скверной Богини.
-		MoonLordDefeated3: Защитники Скверны прислуживают Провиденции - одной из немногих богов, которых даже я терпеть не могу. Защитники стараются заранее истреблять угрозы их богине, и ты наверняка станешь их следующей целью.
-		MoonLordDefeated4: Провиденцию скорее всего можно заставить драться, только если использовать реликвию, оставленную ее Защитниками. Интересно... Почему Ярим так и не бросил ей вызов? Ну не уже ли он теперь стал настолько небрежным?
-		MoonLordDefeated5: Провиденция была великой угрозой Яриму и его армии. Она появлялась из ниоткуда, устраивала хаос и испарялась до того, как ей могли причинить хоть какой-то вред. Может она слишком зазнается во время битвы с одним лишь воином и решит не сбегать.
-		GolemDefeated1: Люди перед входом в Темницу устраивают ритуал, чтобы держать Лунного Лорда в заточении. Если тебе захочется привлечь внимание Ярима, то тебе, скорее всего, придется убить их.
-		GolemDefeated2: Бездна стала более активной, чем когда-либо. Возможно, ты бы мог теперь пойти выкопать вулканический камень, который содержится внутри.
-		GolemDefeated3: Природа этой чумы в джунглях тревожит меня. Это точно не какая-нибудь обыденная инфекция, нет. Издалека больные выглядят нормально, но вблизи становится очевидно, что зараженные существа покрыты лампочками и металлической обшивкой. Что бы это ни было, оно точно не естественного происхождения.
-		Hardmode1: Я бы порекомендовал хранить старые вещи. Авось, в будущем их можно будет переделать в какой-то более сильный вариант.
-		Hardmode2: Если взять с собой идол в Серные Скалы, то можно найти - что таится в их тенях.
-		Hardmode3: Азафюр, город, обоснованный в Серных Скалах, был одним из первых мест, которые поддержали Ярима в этой войне. А теперь от него остались только развалины... Что там могло произойти?
-		Hardmode4: Если ты собрал эссенции, использованные для запитки этих автоматонов - направляйся опять в джунгли. Ты обнаружишь еще более сильного противника, который выпустит на волю истинное буйство джунглей, если окажется повержен. Не смей недооценивать его!
-		Hardmode5: Будь аккуратен, если собираешься убивать Плантеру и Голема. Так можно по случайности выпустить новую угрозу в джунглях, которую потом тебе придется усмирять.
-		Hardmode6: При исследовании Храма Джунглей, будь осторожен. Тебе наверняка не захочется потревожить идола Ящщеров - Голема. Это вполне разрушительная сила.
-		Hardmode7: Ты слыхал об Архмаге Мерзлоте? Он однажды был советником Ярима, но в один день исчез. Каламитас вскоре тоже покинула Ярима. Из того, что я знаю, Мерзлота фактически был для нее отцом. Если она хоть как-то связана с его исчезновением, то, может, он еще жив...?
-		PreHardmode1: Есть слухи, что существуют спящие руды. После победы над определенными могучими существами, ты сможешь обратить вспять древнюю магию, скрывшую эти материалы.
-		PreHardmode2: Ты слышал о городе в Серных Скалах? Он находится в Преисподней и был возведен под дном Бездны. Он однажды был самым старым и большим городом в мире, правда сейчас там залегают лишь опасности жизни. Было бы мудро пока обходить его десятой дорогой.
-		PreHardmode3: А, спасибо что напомнил. Бездна. Это ущелье переполнено ужасающими существами, которые тебя сожрут в мгновение ока. Я б на твоем месте сначала обследовал Темницу.
-		PreHardmode4: Серные Моря опасны. Токсичные воды обжигают кожу, но если ты их сможешь преодолеть, то доберешься до чистых вод Бездны, где в равной мере много могучего оружия и опасностей.
-		PreHardmode5: Серные Моря образовались еще тысячи лет назад, но лишь в последние десятилетия оно стало поистине невыносимым. Вся вина лежит на этом проклятом роботе Драедоне, который туда постоянно сбрасывал свои отходы и списанные проекты. Благодаря этому гаду это море теперь находится в своем худшем состоянии.
-		PreHardmode6: Отправляясь в {0}, будь аккуратен с тем, что бьешь. Иначе можно открыть большую опасность, чем та, которая присутствовала моментами ранее.
-		PreHardmode7: По этим землям разбросаны святилища Богам. В них могут находиться полезные артефакты, которые точно помогут на твоих приключениях.
-		PreHardmode8: Я предполагаю ты слышал о легендарном ниндзя Статисе? Он и его клан поклонялся Богу слизней, который скорее всего пережил войну из-за своей хитрости и знаний, когда стоит прятаться или сбегать.
-		PreHardmode9: Вообще, {0} - сравнительно недавнее происшествие в этом мире. Это и ознаменовало старт предательской войны Ярима. Хотя источник роста этой напасти и был запечатан, об изначальных проявлениях никто так и не позаботился.
-		PreHardmode10: Бродя по этому миру можно встретить различные структуры, оставленные Драедоном. Там, наверное, остались древние системы обороны, но снаряжение внутри может стоить твоего внимания.
-	}
-
-	TownNPCMood: {
-		Content: Я всем доволен.
-		NoHome: Я тебе очень благодарен, но боюсь у меня теперь нету дому.
-		LoveSpace: Ах, тишина уединения - это что-то, что мне очень даже нравится.
-		FarFromHome: Моя чешуя уже начинает сохнуть. Я слишком далеко от дома.
-		DislikeCrowded: Не кажется ли, что мои условия проживания здесь достаточно скованы?
-		HateCrowded: Мне не особо нравилось пользоваться своим титулом, пока был королевской особой. Мне намного привычней, когда народу рядом поменьше.
-		LikeBiome: Так близко к океану. Горькая радость, но сказать, что она мне не по нраву - не могу.
-		DislikeBiome: Тут солнце слишком сурово ко мне. Мне вреден пустынный климат.
-		HateBiome: Да тут вообще нельзя жить! Отправляемся прочь сию минуту.
-		LikeNPC: То, как ведет себя {NPCName} - немного грубовато для меня, но его любовь к океану я однозначно ценю!
-		DislikeNPC: Спасибо, но я уже по горло сыт от хаоса! {NPCName} ведет себя разрушительно, что очень неприлично.
-		HateNPC: "{NPCName} всего лишь ребенок, но его отношение к морской жизни неприемлемо! Это ни в какие ворота не лезет!"
-		LikeNPC_Princess: Это дитя, {NPCName}... Ее душа такая невинная. Скрестим пальцы, что ужасы войны никогда не дойдут до нее.
-		Princess_LovesNPC: "{NPCName} всегда улыбается, когда я рядом, и всего лишь за это мне так приятно быть рядом с ним!"
-	}
-}
-
-Bandit: {
-	DisplayName: Бандит
-	Census.SpawnCondition: Имейте {$ItemName.PlatinumCoin} [i:PlatinumCoin] в вашем инвентаре после победы над Скелетроном
-
-	Name: {
-		Laura: Лара
-		Mie: Мия
-		Bonnie: Бони
-		Sarah: Сара
-		Diane: Диана
-		Kate: Катя
-		Penelope: Пенелопа
-		Marisa: Мариса
-		Maribel: Марибель
-		Valerie: Валерия
-		Jessica: Джессика
-		Rowan: Роуэн
-		Jessie: Джесси
-		Jade: Джейд
-		Hearn: Хирн
-		Amber: Амбер
-		Anne: Анна
-		Indiana: Индиана
-	}
-
-	Chat: {
-		BloodMoon1: Эу, смотри куда идешь, а то я тебя в качестве мишени для дартса использую.
-		BloodMoon2: Че как? Не думаешь, что из тебя получится хорошая подушка для ножей?
-		BloodMoon3: Зомбари не особо хорошо уворачиваются. Может у тебя получше получится.
-		BloodMoon4: Эй, смотри под ноги. Это место заминировано. Неправильно шагнешь и заработаешь себе нож в лоб.
-		Normal1: Че угодно можно превратить в оружие, если достаточно сильно бросить его.
-		Normal2: Это ты бросил изо всех сил говоришь? Тебе стоит покачать руки.
-		Normal3: Так, слушай. Вся суть броска в движении кисти, кисти! Ай, забей короче.
-		Normal4: Нуууу ты чудесно знаешь как все у меня идет - воруешь у богатых, даешь бедноте. Я правда немного беру от дохода.
-		Normal5: Змеи! Ну почему всегда змеи!
-		Normal6: Знаешь, иметь все что хочешь очень даже приятно. У некоторых людей нет такой роскоши.
-		Normal7: Да в смысле?? Я не ворую! Я беру в долг, пока не умру!
-		Night1: Хм, что-то звезды сегодня слишком яркие. Подкрадываться будет немного сложнее.
-		Night2: Че думаешь? Те звезды, который раз за разом падают. Из них хорошее метательное оружие получится?
-		BrimstoneWitch: Стоп, стоп, стоп, не уж то Каламитас серьезно решила приехать сюда жить? Да ну за что мне это???
-		Merchant: Так, об этом не должен слышать {0}, но кое-кто у него спер вещи и заменил их на статуи ангелов.
-		NurseArmsDealer: Слышь, {0} не должна знать об этом, но на мне вина за то, что {1} покалечился.
-		NamedLaura: Что приятно насчет карт, так это то что я смогу отследить, что и куда перепало.
-		NamedPenelope: Только подумай, как быстро можно было бы метать, если бы у нас было больше рук.
-		NamedValerie: Я в принципе от еды не откажусь как от оплаты.
-		NamedRowan: Обычно я животных не считаю чем-то большим, чем тупо жрачка или мишень для тренировки, но вот драконы это исключение.
-		Jungle: Мне че-то тут не нравится. Плохая атмосфера, понимаешь? В голове начинают мешаться неприятные воспоминания.
-		Party: Где моя шляпка с вечерухи? Ну, сворована, естественно.
-		Hardmode1: Тут теперь столько всякого оружия можно награбить. Давай приступай к делу, и я поделюсь своей коллекцией!
-		Hardmode2: В этих землях столько металлолома с такими ценными деталями. Аж задумаешься, кто тут настолько богат, чтобы тупо выкидывать такое добро.
-		Hardmode3: Крипты, гробницы, темницы - это все для меня просто сокровищницы. Мертвецы и так мертвы, че им от этого будет?
-		MoonLordDefeated1: Если найдешь что-нибудь крутое, то забеги ко мне и покажи. Зуб даю - не прикоснусь.
-		MoonLordDefeated2: Столько всего можно слямзить, я аж не знаю откуда начинать!
-		MoonLordDefeated3: Если я там насолю какому-нибудь божеству, ты не против прикрыть мне спину и взять вину на себя?
-		HasBoneGlove: Удивишься, но мне не впервые приходилось использовать чьи-то останки в качестве оружия.
-		HasValediction: Твою ж! Чел, ты это с той акулы содрал!? Вот это уже зашибись оружие!
-	}
-
-	RefundButton: Компенсация
-	Refund1: Хочешь секрет? Из-за того, что {0} у тебя столько денег нахапал, мне пришла в голову мысль начать у него воровать. Информация - конфиденциальная, так что лови.
-	Refund2: Ну але, если чиновники собирают налоги, то с чего мне нельзя? Да в смысле, черт возьми, это две разные вещи?
-	NoRefund: Прости, ничего нет. Может тебе стоит что-нибудь перековать, а потом забежать сюда...
-
-	TownNPCMood: {
-		Content: Все нормалек!
-		NoHome: Есть где прилечь? У меня мышцы забиваются валяться на земле.
-		LoveSpace: Чем меньше людей - тем проще вытворять свои дела.
-		FarFromHome: Мне нужно поскорее добраться до своего секретного укрытия! Что если кто-то уже наткнулся на него, пока меня там нет!?
-		DislikeCrowded: Тут не особо хорошо, слишком много потенциальных очевидцев.
-		HateCrowded: Чувак, живя в такой толпе я начинаю думать, что это МЕНЯ обворуют.
-		LikeBiome: Я знаю, что по пустыне постоянно бродят богатые торгаши. Это чудесно, так как есть кто-то, у кого можно спереть добро.
-		DislikeBiome: Воздух слишком спертый, да и воды слишком много. Тут шагнуть лишний раз, не упав лицом в грязь, нельзя. Не, не годится.
-		HateBiome: Тут никто не живет, да и зачем им?! Это место - помойка!
-		LikeNPC: "{NPCName} носит не только колючие шары в карманах, но и тонны денег! Он еще и слишком рассеянный, чтобы даже заметить, что я у него ворую! Это мне очень нравится!"
-		DislikeNPC: Ух, какая же эта {NPCName} паинька в туфельках, а! Я ее из принципа ненавижу! ...Да и у нее ни черта материального нету, что бы можно было своровать.
-		LikeNPC_Princess: Я с совестью не уживусь, если утащу что-то у {NPCName}. Ну она такая милашка!
-		Princess_LovesNPC: "{NPCName} дарит мне точные копии вещей других горожан, аж интересно становится, как так хорошо получается!"
-	}
-}
-
-BrimstoneWitch: {
-	DisplayName: Серная Ведьма
-	Census.SpawnCondition: Одолейте Каламитас, Великую Ведьму
-	Name.Calamitas: Каламитас
-
-	Chat: {
-		EasterEgg: Mrrp - кринж.
-		Homeless1: Я думаю мне пора отправиться в свою старую пещерку.
-		Homeless2: Так, в мою бывшую обитель у Ярима я теперь точно не смогу вернуться... Может у тебя есть, где можно обосноваться?
-		Normal1: Боюсь я не могу оплатить за аренду, но если у тебя есть какие-нибудь мертвые родственники, то, может, я могла бы попробовать и... Что? Все живы?
-		Normal2: Я думаю как-нибудь разбить сад с цветами из старой столицы Ада. Мне нравится запах серы по утрам.
-		Normal3: Мне кажется, я уже достаточно хорошо прижилась здесь, большое спасибо.
-		Normal4: Столько лет прошло, с момента, когда я впервые встретила Тирана, и только сейчас мне удалось вырваться из под его контроля. Если бы я только была сильнее...
-		Normal5: Если вам нужно избавиться от какого-нибудь проклятья, то... боюсь вы обратились не туда.
-		BloodMoon1: Такой сверхъестественный оттенок красного. Совсем не похожий на мои серные огни.
-		BloodMoon2: Я не могу работать в такие ночи. Звезды будто сжались из-за страха.
-		Night1: Эта нежить ужасна, я не могу смотреть на нее. Ну как можно быть довольным такой дилетантской работой?
-		Night2: Я не думаю, что было бы глупо утверждать, что астрология - полнейший нонсенс... но когда-то это занятие было моим хобби.
-		SeaKing: Я честно не могу понять Короля Морей. Он, видимо, совсем не желает мне смерти! Такое количество сострадания, у меня это в голове не укладывается...
-		Party: Если еще одна персона спросит меня - умею ли я танцевать, то, даю слово, я зажгу им шапку и попрошу ИХ поплясать.
-	}
-
-	EnchantButton: Чары
-	DonorButton: Доноры
-	DonorShoutout: Эй {0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}, {10}, {11}, {12}, {13}, {14}, {15}, {16}, {17}, {18}, {19}, {20}, {21}, {22}, {23} и {24}. Народ, вы красавчики!
-
-	TownNPCMood: {
-		Content: Честно, жалоб особо нет.
-		NoHome: Да где угодно будет лучше, чем та пещера без какого-либо освещения или даже кровати.
-		LoveSpace: Чем тише, тем лучше. Тут хорошо.
-		FarFromHome: После того, как я мало помалу начала привыкать к окружению из людей, я начинаю по нему скучать.
-		DislikeCrowded: Мне не нравится, насколько близко некоторые люди стараются познакомиться со мной.
-		HateCrowded: У меня уже голова разболелась от такой толпы людей!
-		LikeBiome: У меня никогда не было возможности пожить в таком месте. Деревья, птички поют... Мне это очень нравится!
-		DislikeBiome: Это какая-то больная шутка? Я тут ни секунды не протяну! Я уже и без тебя пробовала искупить свои грехи!
-		HateBiome: Духи здесь не знают покоя. Это очень неприятное ощущение.
-		LikeNPC: "{NPCName} - человек, которому очень не повезло оказаться быть проклятым. Но после стольких дней он так хорошо справляется со своим недугом. Это меня впечатляет, если честно."
-		DislikeNPC: Это такой бардак! Все что {NPCName} творит, так это шум и гам день да ночь! Я ее терпеть не могу.
-		LikeNPC_Princess: Эта девочка, {NPCName}, такая чудная. С ней на удивление приятно находиться.
-		Princess_LovesNPC: "{NPCName} всегда одинокая, и поэтому я с ней стараюсь побыть побольше. Никто не должен быть настолько одиноким!"
-	}
-}

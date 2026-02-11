@@ -1,24 +1,74 @@
-Venom.ItemTooltip: Болезнь - 30 УВС
-BetsysCurse.ItemTooltip: -40 защиты
-CursedInferno.ItemTooltip: Огонь - 24 УВС
-Frostburn2.ItemTooltip: Холод - 50 УВС
-Frostburn.ItemTooltip: Холод - 8 УВС
-OnFire3.ItemTooltip: Огонь - 15 УВС
-OnFire.ItemTooltip: Огонь - 6 УВС
-Ichor.ItemTooltip: -10 защиты
+Venom.ItemTooltip:
+	'''
+	Sickness - 30 DPS
+	[c/FF0000:(Problema s shriftom. Poka English)]
+	'''
+BetsysCurse.ItemTooltip:
+	'''
+	-40 defense
+	[c/FF0000:(Problema s shriftom. Poka English)]
+	'''
+CursedInferno.ItemTooltip:
+	'''
+	Heat - 24 DPS
+	[c/FF0000:(Problema s shriftom. Poka English)]
+	'''
+Frostburn2.ItemTooltip:
+	'''
+	Cold - 50 DPS
+	[c/FF0000:(Problema s shriftom. Poka English)]
+	'''
+Frostburn.ItemTooltip:
+	'''
+	Cold - 8 DPS
+	[c/FF0000:(Problema s shriftom. Poka English)]
+	'''
+OnFire3.ItemTooltip:
+	'''
+	Heat - 15 DPS
+	[c/FF0000:(Problema s shriftom. Poka English)]
+	'''
+OnFire.ItemTooltip:
+	'''
+	Heat - 6 DPS
+	[c/FF0000:(Problema s shriftom. Poka English)]
+	'''
+Ichor.ItemTooltip:
+	'''
+	-10 defense
+	[c/FF0000:(Problema s shriftom. Poka English)]
+	'''
 Oiled.ItemTooltip:
 	'''
-	Огонь - 25 УВС. Получает удвоенный эффект от множителей огня
-	Наносит урон только если присутствует другой эффект огня
+	Heat - 25 DPS. Recieves 2x the effect from Heat multipliers
+	Only does damage when paired with another Heat debuff
+	[c/FF0000:(Problema s shriftom. Poka English)]
 	'''
-Poisoned.ItemTooltip: Болезнь - 6 УВс
+Poisoned.ItemTooltip:
+	'''
+	Sickness - 6 DPS
+	[c/FF0000:(Problema s shriftom. Poka English)]
+	'''
 PotionSickness.ItemTooltip: ""
-Slimed.ItemTooltip: Усиливает урон от эффектов огня
-Wet.ItemTooltip: Усиливает урон от эффектов Электричества
-Electrified.ItemTooltip: Электричество - 10.5 УВС. Наносит 4x урона движущимся противникам
+Slimed.ItemTooltip:
+	'''
+	Enhances Heat debuff damage
+	[c/FF0000:(Problema s shriftom. Poka English)]
+	'''
+Wet.ItemTooltip:
+	'''
+	Enhances Electric debuff damage
+	[c/FF0000:(Problema s shriftom. Poka English)]
+	'''
+Electrified.ItemTooltip:
+	'''
+	Electric - 10.5 DPS. Deals 4x damage to moving targets
+	[c/FF0000:(Problema s shriftom. Poka English)]
+	'''
 Honey.ItemTooltip:
 	'''
-	+1 ОЗ/с регенерации жизни
-	+300% ускорения естественной регенерации жизни
-	Уменьшает урон от эффектов с уроном на время на 2 ОЗ/с
+	Increases health regeneration by 1 HP/s
+	Increases natural regeneration acceleration by 300%
+	Reduces damage taken from DoT debuffs by 2 HP/s
+	[c/FF0000:(Problema s shriftom. Poka English)]
 	'''

@@ -1,390 +1,407 @@
-Items: {
-	AbyssLayer1MusicBox: {
-		DisplayName: Музыкальная Шкатулка (Бездна - Слой 1)
-		Tooltip: Играет 'hesitation' от Heart Plus Up!
-	}
+Mods: {
+	CalamityModMusic: {
+		Items: {
+			AbyssLayer1MusicBox: {
+				// DisplayName: Music Box (Abyss - Layer 1)
+				// Tooltip: Plays 'hesitation' by Heart Plus Up!
+			}
 
-	AbyssLayer2MusicBox: {
-		DisplayName: Музыкальная Шкатулка (Бездна - Слой 2)
-		Tooltip: Играет 'Hadopelagic Pressure' от DM DOKURO
-	}
+			AbyssLayer2MusicBox: {
+				// DisplayName: Music Box (Abyss - Layer 2)
+				// Tooltip: Plays 'Hadopelagic Pressure' by DM DOKURO
+			}
 
-	AbyssLayer3MusicBox: {
-		DisplayName: Музыкальная Шкатулка (Бездна - Слой 3)
-		Tooltip: Играет 'hydrothermophobia' от CDMusic
-	}
+			AbyssLayer3AltMusicBox: {
+				// DisplayName: Music Box (Abyss - Layer 3 Alt)
+				// Tooltip: Plays 'R'lyehian Depths' by Heart Plus Up!
+			}
 
-	AbyssLayer4MusicBox: {
-		DisplayName: Музыкальная Шкатулка (Бездна - Слой 4)
-		Tooltip: Играет 'void' от DM DOKURO
-	}
+			AbyssLayer3MusicBox: {
+				// DisplayName: Music Box (Abyss - Layer 3)
+				// Tooltip: Plays 'hydrothermophobia' by CDMusic
+			}
 
-	AbyssLegacyMusicBox: {
-		DisplayName: Музыкальная Шкатулка (Бездна - Старая Версия 3 Слоя)
-		Tooltip: Играет 'R'LYEH' от RoverdriveX
-	}
+			AbyssLayer4MusicBox: {
+				// DisplayName: Music Box (Abyss - Layer 4)
+				// Tooltip: Plays 'void' by DM DOKURO
+			}
 
-	AcidRainTier1MusicBox: {
-		DisplayName: Музыкальная Шкатулка (Кислотный Дождь - Уровни 1 и 2)
-		Tooltip:
-			'''
-			Играет 'corrosion!' от RoverdriveX
-			Эта музыкальная шкатулка содержит временный трек
-			'''
-	}
+			AbyssLegacyMusicBox: {
+				// DisplayName: Music Box (Abyss - Legacy)
+				// Tooltip: Plays 'R'LYEH' by RoverdriveX
+			}
 
-	AcidRainTier3MusicBox: {
-		DisplayName: Музыкальная Шкатулка (Кислотный Дождь - Уровень 3)
-		Tooltip:
-			'''
-			Играет 'nuclear monsoon' от PinpinNeon
-			Эта музыкальная шкатулка содержит временный трек
-			'''
-	}
+			AcidRainTier1MusicBox: {
+				// DisplayName: Music Box (Acid Rain - Tiers 1 and 2)
+				/* Tooltip:
+					'''
+					Plays 'corrosion!' by RoverdriveX
+					This music box contains a placeholder song
+					''' */
+			}
 
-	AnahitaMusicBox: {
-		DisplayName: Музыкальная Шкатулка (Anahita)
-		Tooltip: Играет 'Siren's War Cry' от DM DOKURO
-	}
+			AcidRainTier3MusicBox: {
+				// DisplayName: Music Box (Acid Rain - Tier 3)
+				/* Tooltip:
+					'''
+					Plays 'nuclear monsoon' by PinpinNeon
+					This music box contains a placeholder song
+					''' */
+			}
 
-	AnahitasLureMusicBox: {
-		DisplayName: Музыкальная Шкатулка (Anahita's Lure)
-		Tooltip: Играет 'Siren's Call' от DM DOKURO
-	}
+			AnahitaMusicBox: {
+				// DisplayName: Music Box (Anahita)
+				// Tooltip: Plays 'Siren's War Cry' by DM DOKURO
+			}
 
-	AquaticScourgeMusicBox: {
-		DisplayName: Музыкальная Шкатулка (Aquatic Scourge)
-		Tooltip: Играет 'Outcast of the Sulphurous Seas' от DM DOKURO
-	}
+			AnahitasLureMusicBox: {
+				// DisplayName: Music Box (Anahita's Lure)
+				// Tooltip: Plays 'Siren's Call' by DM DOKURO
+			}
 
-	AstralInfectionMusicBox: {
-		DisplayName: Музыкальная Шкатулка (Astral Infection)
-		Tooltip: Играет 'The Heaven-Sent Abomination' от DM DOKURO
-	}
+			AquaticScourgeMusicBox: {
+				// DisplayName: Music Box (Aquatic Scourge)
+				// Tooltip: Plays 'Outcast of the Sulphurous Seas' by DM DOKURO
+			}
 
-	AstralInfectionUndergroundMusicBox: {
-		DisplayName: Музыкальная Шкатулка (Underground Astral Infection)
-		Tooltip: Играет 'Treasures Within the Abomination' от DM DOKURO
-	}
+			AstralInfectionMusicBox: {
+				// DisplayName: Music Box (Astral Infection)
+				// Tooltip: Plays 'The Heaven-Sent Abomination' by DM DOKURO
+			}
 
-	AstrumAureusMusicBox: {
-		DisplayName: Музыкальная Шкатулка (Astrum Aureus)
-		Tooltip: Играет 'Interstellar Stomper' от DM DOKURO
-	}
+			AstralInfectionUndergroundMusicBox: {
+				// DisplayName: Music Box (Underground Astral Infection)
+				// Tooltip: Plays 'Treasures Within the Abomination' by DM DOKURO
+			}
 
-	AstrumDeusMusicBox: {
-		DisplayName: Музыкальная Шкатулка (Astrum Deus)
-		Tooltip: Играет 'Pest of the Cosmos' от DM DOKURO
-	}
+			AstrumAureusMusicBox: {
+				// DisplayName: Music Box (Astrum Aureus)
+				// Tooltip: Plays 'Interstellar Stomper' by DM DOKURO
+			}
 
-	BioLabMusicBox: {
-		DisplayName: Музыкальная Шкатулка (Bio Lab)
-		Tooltip: Играет 'Engineer's Sanctum' от Heart Plus Up!
-	}
+			AstrumDeusMusicBox: {
+				// DisplayName: Music Box (Astrum Deus)
+				// Tooltip: Plays 'Pest of the Cosmos' by DM DOKURO
+			}
 
-	BossRushTier1MusicBox: {
-		DisplayName: Музыкальная Шкатулка (Boss Rush - Tier 1)
-		Tooltip: Играет 'Ensemble of Fools' от CDMusic
-	}
+			BioLabMusicBox: {
+				// DisplayName: Music Box (Bio Lab)
+				// Tooltip: Plays 'Engineer's Sanctum' by Heart Plus Up!
+			}
 
-	BossRushTier2MusicBox: {
-		DisplayName: Музыкальная Шкатулка (Boss Rush - Tier 2)
-		Tooltip: Играет 'Onslaught of Beasts' от CDMusic
-	}
+			BossRushTier1MusicBox: {
+				// DisplayName: Music Box (Boss Rush - Tier 1)
+				// Tooltip: Plays 'Ensemble of Fools' by CDMusic
+			}
 
-	BossRushTier3MusicBox: {
-		DisplayName: Музыкальная Шкатулка (Boss Rush - Tier 3)
-		Tooltip: Играет 'Reign of Lords' от CDMusic
-	}
+			BossRushTier2MusicBox: {
+				// DisplayName: Music Box (Boss Rush - Tier 2)
+				// Tooltip: Plays 'Onslaught of Beasts' by CDMusic
+			}
 
-	BossRushTier4MusicBox: {
-		DisplayName: Музыкальная Шкатулка (Boss Rush - Tier 4)
-		Tooltip: Играет 'Trial of the Insane' от CDMusic
-	}
+			BossRushTier3MusicBox: {
+				// DisplayName: Music Box (Boss Rush - Tier 3)
+				// Tooltip: Plays 'Reign of Lords' by CDMusic
+			}
 
-	BossRushTier5MusicBox: {
-		DisplayName: Музыкальная Шкатулка (Boss Rush - Tier 5)
-		Tooltip: This Музыкальная Шкатулка is unfinished and does not work
-	}
+			BossRushTier4MusicBox: {
+				// DisplayName: Music Box (Boss Rush - Tier 4)
+				// Tooltip: Plays 'Trial of the Insane' by CDMusic
+			}
 
-	BrimstoneCragsMusicBox: {
-		DisplayName: Музыкальная Шкатулка (Brimstone Crags)
-		Tooltip: Играет 'The Step Below Hell' от DM DOKURO
-	}
+			BossRushTier5MusicBox: {
+				// DisplayName: Music Box (Boss Rush - Tier 5)
+				// Tooltip: This music box is unfinished and does not work
+			}
 
-	BrimstoneElementalMusicBox: {
-		DisplayName: Музыкальная Шкатулка (Brimstone Elemental)
-		Tooltip: Играет 'Left Alone' от DM DOKURO
-	}
+			BrainstormTrailerMusicBox: {
+				// DisplayName: Music Box (Brainstorm Trailer)
+				// Tooltip: Plays a trailer score by Moonburn, CDMusic, and TYESKI
+			}
 
-	CalamitasCloneMusicBox: {
-		DisplayName: Музыкальная Шкатулка (Calamitas Clone)
-		Tooltip: Играет 'Raw, Unfiltered Calamity' от DM DOKURO
-	}
+			BrimstoneCragsMusicBox: {
+				// DisplayName: Music Box (Brimstone Crags)
+				// Tooltip: Plays 'The Step Below Hell' by DM DOKURO
+			}
 
-	CalamitasDefeatMusicBox: {
-		DisplayName: Музыкальная Шкатулка (Calamitas - Defeat)
-		Tooltip: Играет 'Stained, Brutal Calamity (Acceptance)' от DM DOKURO
-	}
+			BrimstoneElementalMusicBox: {
+				// DisplayName: Music Box (Brimstone Elemental)
+				// Tooltip: Plays 'Left Alone' by DM DOKURO
+			}
 
-	CalamitasPhase1MusicBox: {
-		DisplayName: Музыкальная Шкатулка (Calamitas - Phase 1)
-		Tooltip: Играет 'Stained, Brutal Calamity (Grief)' от DM DOKURO
-	}
+			CalamitasCloneMusicBox: {
+				// DisplayName: Music Box (Calamitas Clone)
+				// Tooltip: Plays 'Raw, Unfiltered Calamity' by DM DOKURO
+			}
 
-	CalamitasPhase2MusicBox: {
-		DisplayName: Музыкальная Шкатулка (Calamitas - Phase 2)
-		Tooltip: Играет 'Stained, Brutal Calamity (Lament)' от DM DOKURO
-	}
+			CalamitasDefeatMusicBox: {
+				// DisplayName: Music Box (Calamitas - Defeat)
+				// Tooltip: Plays 'Stained, Brutal Calamity (Acceptance)' by DM DOKURO
+			}
 
-	CalamitasPhase3MusicBox: {
-		DisplayName: Музыкальная Шкатулка (Calamitas - Phase 3)
-		Tooltip: Играет 'Stained, Brutal Calamity (Epiphany)' от DM DOKURO
-	}
+			CalamitasPhase1MusicBox: {
+				// DisplayName: Music Box (Calamitas - Phase 1)
+				// Tooltip: Plays 'Stained, Brutal Calamity (Grief)' by DM DOKURO
+			}
 
-	CalamityTitleMusicBox: {
-		DisplayName: Музыкальная Шкатулка (Calamity Title)
-		Tooltip: Играет 'The Tale of a Cruel World' от DM DOKURO
-	}
+			CalamitasPhase2MusicBox: {
+				// DisplayName: Music Box (Calamitas - Phase 2)
+				// Tooltip: Plays 'Stained, Brutal Calamity (Lament)' by DM DOKURO
+			}
 
-	CeaselessVoidMusicBox: {
-		DisplayName: Музыкальная Шкатулка (Ceaseless Void)
-		Tooltip: Играет 'Servants of the Scourge (Type V)' от DM DOKURO
-	}
+			CalamitasPhase3MusicBox: {
+				// DisplayName: Music Box (Calamitas - Phase 3)
+				// Tooltip: Plays 'Stained, Brutal Calamity (Epiphany)' by DM DOKURO
+			}
 
-	CrabulonMusicBox: {
-		DisplayName: Музыкальная Шкатулка (Crabulon)
-		Tooltip: Играет 'Infestation' от DM DOKURO
-	}
+			CalamityTitleMusicBox: {
+				// DisplayName: Music Box (Calamity Title)
+				// Tooltip: Plays 'The Tale of a Cruel World' by DM DOKURO
+			}
 
-	CryogenMusicBox: {
-		DisplayName: Музыкальная Шкатулка (Cryogen)
-		Tooltip: Играет 'Antarctic Reinforcement' от DM DOKURO
-	}
+			CeaselessVoidMusicBox: {
+				// DisplayName: Music Box (Ceaseless Void)
+				// Tooltip: Plays 'Servants of the Scourge (Type V)' by DM DOKURO
+			}
 
-	DesertScourgeMusicBox: {
-		DisplayName: Музыкальная Шкатулка (Desert Scourge)
-		Tooltip: Играет 'Guardian of the Former Seas' от DM DOKURO
-	}
+			CrabulonMusicBox: {
+				// DisplayName: Music Box (Crabulon)
+				// Tooltip: Plays 'Infestation' by DM DOKURO
+			}
 
-	DevourerofGodsEulogyMusicBox: {
-		DisplayName: Музыкальная Шкатулка (Devourer of Gods - Eulogy)
-		Tooltip: Играет 'Scourge of the Universe (Eulogy for the Ego)' от DM DOKURO
-	}
+			CryogenMusicBox: {
+				// DisplayName: Music Box (Cryogen)
+				// Tooltip: Plays 'Antarctic Reinforcement' by DM DOKURO
+			}
 
-	DevourerofGodsPhase1MusicBox: {
-		DisplayName: Музыкальная Шкатулка (Devourer of Gods - Phase 1)
-		Tooltip: Играет 'Scourge of the Universe' от DM DOKURO
-	}
+			DesertScourgeMusicBox: {
+				// DisplayName: Music Box (Desert Scourge)
+				// Tooltip: Plays 'Guardian of the Former Seas' by DM DOKURO
+			}
 
-	DevourerofGodsPhase2MusicBox: {
-		DisplayName: Музыкальная Шкатулка (Devourer of Gods - Phase 2)
-		Tooltip: Играет 'Universal Collapse' от DM DOKURO
-	}
+			DevourerofGodsEulogyMusicBox: {
+				// DisplayName: Music Box (Devourer of Gods - Eulogy)
+				// Tooltip: Plays 'Scourge of the Universe (Eulogy for the Ego)' by DM DOKURO
+			}
 
-	DragonfollyMusicBox: {
-		DisplayName: Музыкальная Шкатулка (Dragonfolly)
-		Tooltip: Играет 'Murderswarm' от DM DOKURO
-	}
+			DevourerofGodsPhase1MusicBox: {
+				// DisplayName: Music Box (Devourer of Gods - Phase 1)
+				// Tooltip: Plays 'Scourge of the Universe' by DM DOKURO
+			}
 
-	ExoMechsMusicBox: {
-		DisplayName: Музыкальная Шкатулка (Exo Mechs)
-		Tooltip:
-			'''
-			Играет 'Inferior Fabrications' от PinpinNeon
-			Эта музыкальная шкатулка содержит временный трек
-			'''
-	}
+			DevourerofGodsPhase2MusicBox: {
+				// DisplayName: Music Box (Devourer of Gods - Phase 2)
+				// Tooltip: Plays 'Universal Collapse' by DM DOKURO
+			}
 
-	HiveMindMusicBox: {
-		DisplayName: Музыкальная Шкатулка (Hive Mind)
-		Tooltip: Играет 'The Filthy Mind' от DM DOKURO and SixteenInMono
-	}
+			DragonfollyMusicBox: {
+				// DisplayName: Music Box (Dragonfolly)
+				// Tooltip: Plays 'Murderswarm' by DM DOKURO
+			}
 
-	Interlude1MusicBox: {
-		DisplayName: Музыкальная Шкатулка (Interlude 1)
-		Tooltip: Играет 'Silence before the storms' от DM DOKURO
-	}
+			ExoMechsMusicBox: {
+				// DisplayName: Music Box (Exo Mechs)
+				/* Tooltip:
+					'''
+					Plays 'Inferior Fabrications' by PinpinNeon
+					This music box contains a placeholder song
+					''' */
+			}
 
-	Interlude2MusicBox: {
-		DisplayName: Музыкальная Шкатулка (Interlude 2)
-		Tooltip: Играет 'Storms before the catastrophes' от DM DOKURO
-	}
+			HiveMindMusicBox: {
+				// DisplayName: Music Box (Hive Mind)
+				// Tooltip: Plays 'The Filthy Mind' by DM DOKURO and SixteenInMono
+			}
 
-	Interlude3MusicBox: {
-		DisplayName: Музыкальная Шкатулка (Interlude 3)
-		Tooltip: Играет 'Catastrophes before the calamity' от DM DOKURO
-	}
+			Interlude1MusicBox: {
+				// DisplayName: Music Box (Interlude 1)
+				// Tooltip: Plays 'Silence before the storms' by DM DOKURO
+			}
 
-	LeviathanMusicBox: {
-		DisplayName: Музыкальная Шкатулка (Leviathan)
-		Tooltip: Играет 'Forbidden Lullaby' от DM DOKURO
-	}
+			Interlude2MusicBox: {
+				// DisplayName: Music Box (Interlude 2)
+				// Tooltip: Plays 'Storms before the catastrophes' by DM DOKURO
+			}
 
-	OldDukeMusicBox: {
-		DisplayName: Музыкальная Шкатулка (Old Duke)
-		Tooltip: Играет 'Toxic Wisdom' от DM DOKURO
-	}
+			Interlude3MusicBox: {
+				// DisplayName: Music Box (Interlude 3)
+				// Tooltip: Plays 'Catastrophes before the calamity' by DM DOKURO
+			}
 
-	PerforatorsMusicBox: {
-		DisplayName: Музыкальная Шкатулка (Perforators)
-		Tooltip: Играет 'Blood Coagulant' от DM DOKURO and SixteenInMono
-	}
+			LeviathanMusicBox: {
+				// DisplayName: Music Box (Leviathan)
+				// Tooltip: Plays 'Forbidden Lullaby' by DM DOKURO
+			}
 
-	PlaguebringerGoliathMusicBox: {
-		DisplayName: Музыкальная Шкатулка (Plaguebringer Goliath)
-		Tooltip: Играет 'Fly of Beelzebub' от DM DOKURO
-	}
+			OldDukeMusicBox: {
+				// DisplayName: Music Box (Old Duke)
+				// Tooltip: Plays 'Toxic Wisdom' by DM DOKURO
+			}
 
-	PolterghastMusicBox: {
-		DisplayName: Музыкальная Шкатулка (Polterghast)
-		Tooltip: Играет 'Feral Amalgamation' от DM DOKURO
-	}
+			PerforatorsMusicBox: {
+				// DisplayName: Music Box (Perforators)
+				// Tooltip: Plays 'Blood Coagulant' by DM DOKURO and SixteenInMono
+			}
 
-	PrimordialWyrmMusicBox: {
-		DisplayName: Музыкальная Шкатулка (Primordial Wyrm)
-		Tooltip: Играет 'Threats of the Ocean Floor' от DM DOKURO
-	}
+			PlaguebringerGoliathMusicBox: {
+				// DisplayName: Music Box (Plaguebringer Goliath)
+				// Tooltip: Plays 'Fly of Beelzebub' by DM DOKURO
+			}
 
-	ProfanedGuardiansMusicBox: {
-		DisplayName: Музыкальная Шкатулка (Profaned Guardians)
-		Tooltip: Играет 'Unholy Ambush' от DM DOKURO
-	}
+			PolterghastMusicBox: {
+				// DisplayName: Music Box (Polterghast)
+				// Tooltip: Plays 'Feral Amalgamation' by DM DOKURO
+			}
 
-	ProvidenceMusicBox: {
-		DisplayName: Музыкальная Шкатулка (Providence)
-		Tooltip: Играет 'Unholy Insurgency' от DM DOKURO
-	}
+			PrimordialWyrmMusicBox: {
+				// DisplayName: Music Box (Primordial Wyrm)
+				// Tooltip: Plays 'Threats of the Ocean Floor' by DM DOKURO
+			}
 
-	RavagerMusicBox: {
-		DisplayName: Музыкальная Шкатулка (Ravager)
-		Tooltip: Играет 'Open Frenzy' от DM DOKURO
-	}
+			ProfanedGuardiansMusicBox: {
+				// DisplayName: Music Box (Profaned Guardians)
+				// Tooltip: Plays 'Unholy Ambush' by DM DOKURO
+			}
 
-	SignusMusicBox: {
-		DisplayName: Музыкальная Шкатулка (Signus)
-		Tooltip: Играет 'Servants of the Scourge (Type S)' от DM DOKURO
-	}
+			ProvidenceMusicBox: {
+				// DisplayName: Music Box (Providence)
+				// Tooltip: Plays 'Unholy Insurgency' by DM DOKURO
+			}
 
-	SlimeGodMusicBox: {
-		DisplayName: Музыкальная Шкатулка (Slime God)
-		Tooltip: Играет 'Return to Slime' от DM DOKURO and SixteenInMono
-	}
+			RavagerMusicBox: {
+				// DisplayName: Music Box (Ravager)
+				// Tooltip: Plays 'Open Frenzy' by DM DOKURO
+			}
 
-	StormWeaverMusicBox: {
-		DisplayName: Музыкальная Шкатулка (Storm Weaver)
-		Tooltip: Играет 'Servants of the Scourge (Type W)' от DM DOKURO
-	}
+			SignusMusicBox: {
+				// DisplayName: Music Box (Signus)
+				// Tooltip: Plays 'Servants of the Scourge (Type S)' by DM DOKURO
+			}
 
-	SulphurousSeaDayMusicBox: {
-		DisplayName: Музыкальная Шкатулка (Sulphurous Sea Day)
-		Tooltip: Играет 'wasteland' от DM DOKURO
-	}
+			SlimeGodMusicBox: {
+				// DisplayName: Music Box (Slime God)
+				// Tooltip: Plays 'Return to Slime' by DM DOKURO and SixteenInMono
+			}
 
-	SulphurousSeaNightMusicBox: {
-		DisplayName: Музыкальная Шкатулка (Sulphurous Sea Night)
-		Tooltip: Играет 'caustic tides' от Heart Plus Up!
-	}
+			StormWeaverMusicBox: {
+				// DisplayName: Music Box (Storm Weaver)
+				// Tooltip: Plays 'Servants of the Scourge (Type W)' by DM DOKURO
+			}
 
-	SulphurousSeaRainMusicBox: {
-		DisplayName: Музыкальная Шкатулка (Sulphurous Sea Rain)
-		Tooltip: Играет 'septication' от Heart Plus Up!
-	}
+			SulphurousSeaDayMusicBox: {
+				// DisplayName: Music Box (Sulphurous Sea Day)
+				// Tooltip: Plays 'wasteland' by DM DOKURO
+			}
 
-	SunkenSeaMusicBox: {
-		DisplayName: Музыкальная Шкатулка (Sunken Sea)
-		Tooltip: Играет 'sanctuary' от DM DOKURO
-	}
+			SulphurousSeaNightMusicBox: {
+				// DisplayName: Music Box (Sulphurous Sea Night)
+				// Tooltip: Plays 'caustic tides' by Heart Plus Up!
+			}
 
-	YharonLegacyMusicBox: {
-		DisplayName: Музыкальная Шкатулка (Yharon - Legacy)
-		Tooltip: Играет 'Infernal Catharsis' от DM DOKURO
-	}
+			SulphurousSeaRainMusicBox: {
+				// DisplayName: Music Box (Sulphurous Sea Rain)
+				// Tooltip: Plays 'septication' by Heart Plus Up!
+			}
 
-	YharonPhase1MusicBox: {
-		DisplayName: Музыкальная Шкатулка (Yharon - Phase 1)
-		Tooltip: Играет 'Infernal Catharsis (Rebirth)' от DM DOKURO
-	}
+			SunkenSeaMusicBox: {
+				// DisplayName: Music Box (Sunken Sea)
+				// Tooltip: Plays 'sanctuary' by DM DOKURO
+			}
 
-	YharonPhase2MusicBox: {
-		DisplayName: Музыкальная Шкатулка (Yharon - Phase 2)
-		Tooltip: Играет 'Roar of the Jungle Dragon' от DM DOKURO
-	}
-}
+			YharonLegacyMusicBox: {
+				// DisplayName: Music Box (Yharon - Legacy)
+				// Tooltip: Plays 'Infernal Catharsis' by DM DOKURO
+			}
 
-ModSupport: {
-	MusicDisplay: {
-		SongNames: {
-			AbyssLayer1: hesitation
-			AbyssLayer2: Hadopelagic Pressure
-			AbyssLayer3: hydrothermophobia
-			AbyssLayer4: void
-			AbyssLegacy: R'LYEH
-			AcidRainTier1: corrosion!
-			AcidRainTier3: nuclear monsoon
-			Anahita: Siren's War Cry
-			AnahitasLure: Siren's Call
-			AquaticScourge: Outcast of the Sulphurous Seas
-			AstralInfection: The Heaven-Sent Abomination
-			AstralInfectionUnderground: Treasures Within the Abomination
-			AstrumAureus: Interstellar Stomper
-			AstrumDeus: Pest of the Cosmos
-			BioLab: Engineer's Sanctum
-			BossRushTier1: Ensemble of Fools
-			BossRushTier2: Onslaught of Beasts
-			BossRushTier3: Reign of Lords
-			BossRushTier4: Trial of the Insane
-			BrimstoneCrags: The Step Below Hell
-			BrimstoneElemental: Left Alone
-			CalamitasClone: Raw, Unfiltered Calamity
-			CalamitasDefeat: Stained, Brutal Calamity (Acceptance)
-			CalamitasDefeat_LongFade: Stained, Brutal Calamity (Acceptance)
-			CalamitasPhase1: Stained, Brutal Calamity (Grief)
-			CalamitasPhase2: Stained, Brutal Calamity (Lament)
-			CalamitasPhase3: Stained, Brutal Calamity (Epiphany)
-			CalamityTitle: The Tale of a Cruel World
-			CeaselessVoid: Servants of the Scourge (Type V)
-			Crabulon: Infestation
-			Cryogen: Antarctic Reinforcement
-			DesertScourge: Guardian of the Former Seas
-			DevourerofGodsEulogy: Scourge of the Universe (Eulogy for the Ego)
-			DevourerofGodsPhase1: Scourge of the Universe
-			DevourerofGodsPhase2: Universal Collapse
-			Dragonfolly: Murderswarm
-			ExoMechs: Inferior Fabrications
-			HiveMind: The Filthy Mind
-			Interlude1: Silence before the storms
-			Interlude2: Storms before the catastrophes
-			Interlude3: Catastrophes before the calamity
-			Leviathan: Forbidden Lullaby
-			OldDuke: Toxic Wisdom
-			Perforators: Blood Coagulant
-			PlaguebringerGoliath: Fly of Beelzebub
-			Polterghast: Feral Amalgamation
-			PrimordialWyrm: Threats of the Ocean Floor
-			ProfanedGuardians: Unholy Ambush
-			Providence: Unholy Insurgency
-			Ravager: Open Frenzy
-			Signus: Servants of the Scourge (Type S)
-			SlimeGod: Return to Slime
-			StormWeaver: Servants of the Scourge (Type W)
-			SulphurousSeaDay: wasteland
-			SulphurousSeaNight: caustic tides
-			SulphurousSeaRain: septication
-			SunkenSea: sanctuary
-			YharonLegacy: Infernal Catharsis
-			YharonPhase1: Infernal Catharsis (Rebirth)
-			YharonPhase2: Roar of the Jungle Dragon
+			YharonPhase1MusicBox: {
+				// DisplayName: Music Box (Yharon - Phase 1)
+				// Tooltip: Plays 'Infernal Catharsis (Rebirth)' by DM DOKURO
+			}
+
+			YharonPhase2MusicBox: {
+				// DisplayName: Music Box (Yharon - Phase 2)
+				// Tooltip: Plays 'Roar of the Jungle Dragon' by DM DOKURO
+			}
 		}
 
-		Authors: {
-			AquaSG: от AquaSG
-			CDMusic: от CDMusic
-			DMDOKURO: от DM DOKURO
-			DMDOKUROFeature: от DM DOKURO и SixteenInMono
-			HeartPlusUp: от Heart Plus Up!
-			PinpinNeon: от PinpinNeon
-			RoverdriveX: от RoverdriveX
+		ModSupport: {
+			MusicDisplay: {
+				SongNames: {
+					// AbyssLayer1: hesitation
+					// AbyssLayer2: Hadopelagic Pressure
+					// AbyssLayer3: hydrothermophobia
+					// AbyssLayer3Alt: R'lyehian Depths
+					// AbyssLayer4: void
+					// AbyssLegacy: R'LYEH
+					// AcidRainTier1: corrosion!
+					// AcidRainTier3: nuclear monsoon
+					// Anahita: Siren's War Cry
+					// AnahitasLure: Siren's Call
+					// AquaticScourge: Outcast of the Sulphurous Seas
+					// AstralInfection: The Heaven-Sent Abomination
+					// AstralInfectionUnderground: Treasures Within the Abomination
+					// AstrumAureus: Interstellar Stomper
+					// AstrumDeus: Pest of the Cosmos
+					// BioLab: Engineer's Sanctum
+					// BossRushTier1: Ensemble of Fools
+					// BossRushTier2: Onslaught of Beasts
+					// BossRushTier3: Reign of Lords
+					// BossRushTier4: Trial of the Insane
+					// BrainstormTrailer: Brainstorm Trailer
+					// BrimstoneCrags: The Step Below Hell
+					// BrimstoneElemental: Left Alone
+					// CalamitasClone: Raw, Unfiltered Calamity
+					// CalamitasDefeat: Stained, Brutal Calamity (Acceptance)
+					// CalamitasDefeat_LongFade: Stained, Brutal Calamity (Acceptance)
+					// CalamitasPhase1: Stained, Brutal Calamity (Grief)
+					// CalamitasPhase2: Stained, Brutal Calamity (Lament)
+					// CalamitasPhase3: Stained, Brutal Calamity (Epiphany)
+					// CalamityTitle: The Tale of a Cruel World
+					// CeaselessVoid: Servants of the Scourge (Type V)
+					// Crabulon: Infestation
+					// Cryogen: Antarctic Reinforcement
+					// DesertScourge: Guardian of the Former Seas
+					// DevourerofGodsEulogy: Scourge of the Universe (Eulogy for the Ego)
+					// DevourerofGodsPhase1: Scourge of the Universe
+					// DevourerofGodsPhase2: Universal Collapse
+					// Dragonfolly: Murderswarm
+					// ExoMechs: Inferior Fabrications
+					// HiveMind: The Filthy Mind
+					// Interlude1: Silence before the storms
+					// Interlude2: Storms before the catastrophes
+					// Interlude3: Catastrophes before the calamity
+					// Leviathan: Forbidden Lullaby
+					// OldDuke: Toxic Wisdom
+					// Perforators: Blood Coagulant
+					// PlaguebringerGoliath: Fly of Beelzebub
+					// Polterghast: Feral Amalgamation
+					// PrimordialWyrm: Threats of the Ocean Floor
+					// ProfanedGuardians: Unholy Ambush
+					// Providence: Unholy Insurgency
+					// Ravager: Open Frenzy
+					// Signus: Servants of the Scourge (Type S)
+					// SlimeGod: Return to Slime
+					// StormWeaver: Servants of the Scourge (Type W)
+					// SulphurousSeaDay: wasteland
+					// SulphurousSeaNight: caustic tides
+					// SulphurousSeaRain: septication
+					// SunkenSea: sanctuary
+					// YharonLegacy: Infernal Catharsis
+					// YharonPhase1: Infernal Catharsis (Rebirth)
+					// YharonPhase2: Roar of the Jungle Dragon
+				}
+
+				Authors: {
+					// AquaSG: by AquaSG
+					// CDMusic: by CDMusic
+					// DMDOKURO: by DM DOKURO
+					// DMDOKUROFeature: by DM DOKURO and SixteenInMono
+					// HeartPlusUp: by Heart Plus Up!
+					// MoonburnFeature: by Moonburn, CDMusic, and TYESKI
+					// PinpinNeon: by PinpinNeon
+					// RoverdriveX: by RoverdriveX
+				}
+			}
 		}
 	}
 }

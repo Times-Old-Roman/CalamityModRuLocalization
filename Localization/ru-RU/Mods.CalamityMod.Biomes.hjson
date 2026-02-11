@@ -1,10 +1,10 @@
 // For general uses
-Abyss: Бездна
-AstralInfection: Астральная Инфекция
-AstralSnow: Астральная Тундра
-BrimstoneCrags: Серные Скалы
-SulphurousSea: Серное Море
-SunkenSea: Затонувшее Море
+// Abyss: Abyss
+// AstralInfection: Astral Infection
+// AstralSnow: Astral Snow
+// BrimstoneCrags: Brimstone Crags
+// SulphurousSea: Sulphurous Sea
+// SunkenSea: Sunken Sea
 
 AstralDesert: {
 	DisplayName: Поверхность Астральной Пустыни
@@ -115,3 +115,11 @@ ClamDenBiome: {
 	DisplayName: Логово Моллюсков
 	TownNPCDialogueName: Логово Моллюсков
 }
+
+// For general uses
+Abyss: Бездна
+AstralInfection: Астральная Инфекция
+AstralSnow: Астральная Тундра
+BrimstoneCrags: Серные Скалы
+SulphurousSea: Серное Море
+SunkenSea: Затонувшее Море

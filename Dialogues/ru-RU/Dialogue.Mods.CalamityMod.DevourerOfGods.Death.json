@@ -1,0 +1,55 @@
+﻿{
+    "Revision": 1,
+    "DefaultColor": "6383FF",
+    "DefaultSpeaker": "DevourerOfGods",
+    "AlignType": 1,
+    "TextDelay": 2,
+    "BasePunctuationDelay": {
+        "Delay": 10,
+        "ForceSet": false,
+        "Locks": false
+    },
+    "PunctuationDelayCap": 30,
+    "PunctuationDelays": {
+        "!": {
+            "Delay": 20,
+            "ForceSet": true,
+            "Locks": true
+        },
+        "?": {
+            "Delay": 20,
+            "ForceSet": true,
+            "Locks": true
+        }
+    },
+    "Pages": [
+        {
+            "TextDelay": 0,
+            "Lines": [
+                "[Scale(1.5):[Colors(2, 0.5, 00FFFF, FF00FF):Отвратная [Pause(0.25)]дрянь.]]"
+            ]
+        },
+        {
+            "Lines": [
+                "[Scale(1.5):[Colors(2, 0.5, 00FFFF, FF00FF):Вкуснятина... Блюдо, достойное бога!]]"
+            ]
+        },
+        {
+            "Lines": [
+                "[Scale(1.5):[Colors(2, 0.5, 00FFFF, FF00FF):И в гробу тебе [Shaking:И МЕСТО!]]]"
+            ]
+        },
+        {
+            "TextDelay": 0,
+            "Lines": [
+                "[Shaking:[Scale(1.5):[Colors(2, 0.5, 00FFFF, FF00FF):С Л А Б А К.]]]"
+            ]
+        },
+        {
+            "Lines": [
+							"[Scale(1.5):[Colors(2, 0.5, 00FFFF, FF00FF):[Shaking(3):МЕРЗКОЕ НИЧТОЖЕСТВО.]]]",
+							"[Colors(2, 0.5, 00FFFF, FF00FF):ВСЯ ЭТА БЕГОТНЯ ДЛЯ ТОГО, ЧТОБЫ СДОХНУТЬ [Scale(2):[Shaking:ОДНОМУ КАСАНИЮ?!]]]"
+            ]
+        }
+    ]
+}

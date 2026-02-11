@@ -1,8 +1,8 @@
-ShortTooltip:
-	'''
-	[c/E3AF40:Шепот с небес танцует возле твоих ушей...]
-	[c/BEBEBE:Нажмите "Left Shift", чтобы прислушаться]
-	'''
+/* ShortTooltip:
+'''
+[c/E3AF40:Whispers from on high dance in your ears...]
+[c/BEBEBE:Hold Shift to listen closer]
+''' */
 
 LoreAbyss: {
 	DisplayName: Бездна
@@ -792,3 +792,9 @@ LoreYharon: {
 		'''
 	Tooltip: ""
 }
+
+ShortTooltip:
+	'''
+	[c/E3AF40:Шепот с небес танцует возле твоих ушей...]
+	[c/BEBEBE:Нажмите "Left Shift", чтобы прислушаться]
+	'''

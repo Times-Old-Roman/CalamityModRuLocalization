@@ -4,7 +4,6 @@ AegisBeam.DisplayName: Луч Эгиды
 AegisBlast.DisplayName: Вспышка Эгиды
 AegisBlast2.DisplayName: Вспышка Эгиды
 AegisFlame.DisplayName: Пламя Эгиды
-AftershockRock.DisplayName: Землекамни
 AmidiasWhirlpool.DisplayName: Водоворот
 AncientBeam.DisplayName: Древний Луч
 AncientStar.DisplayName: Древняя Звезда
@@ -29,18 +28,16 @@ AtaraxiaMain.DisplayName: Не Экзомеч
 AtaraxiaSide.DisplayName: Тоже не Экзомеч
 AtaraxiaSplit.DisplayName: Все еще не Экзомеч
 BalefulHarvesterProjectile.DisplayName: Тыквенный Черепок
-BallOFuguProj.DisplayName: Шар Фугу
 BansheeHookBoom.DisplayName: Волна Банши
 BansheeHookScythe.DisplayName: Крюк Банши
 BiomeBladeHoldout.DisplayName: Исправленные Биомный Меч
 BitingEmbrace.DisplayName: Морозное Объятие
 BitingEmbraceMist.DisplayName: Ледяной Туман
+BladecrestOathswordThrownBlade.DisplayName: Брошенный Меч Клятвенного Меча Гребня Лезвий
 BlazingPhantomBlade.DisplayName: Пылающий Фантомный Меч
 Blood.DisplayName: Кровь Резни
 Blood2.DisplayName: Кровь
 BloodBall.DisplayName: Кровавый Комок
-BloodExplosion.DisplayName: Кровь
-BloodScythe.DisplayName: Кровавая Коса
 BonebreakerFragment1.DisplayName: Ломающая Кости Шрапнель
 BonebreakerProjectile.DisplayName: Костелом
 BotanicSpear.DisplayName: Ботаническое Копье
@@ -50,14 +47,13 @@ BrimlanceStandingFire.DisplayName: Огонь Серного Копья
 Brimlash2.DisplayName: Серный Бич
 BrimlashProj.DisplayName: Серный Бич
 BrimstoneBoom.DisplayName: Бум
-BrimstoneLaserFriendly.DisplayName: Серный Лазер
 BrimstoneSwordExplosion.DisplayName: Взрыв Серного Меча
 BrimstoneSwordProj.DisplayName: Серный Меч
 BrinySpout.DisplayName: Морской Фонтан
 BrinyTyphoonBubble.DisplayName: Пузырь
 BrokenBiomeBladeHoldout.DisplayName: Сломанный Биомный Меч
+BurningHolyBlast.DisplayName: Взрыв Скверны
 BurningMeteor.DisplayName: Метеорит
-CatastropheClaymoreSparkle.DisplayName: Искры Катастрофы
 CausticEdgeProjectile.DisplayName: Едкая Грань
 ChainedMeatHook.DisplayName: Зачарованный Мясницкий Крюк
 ClamCrusherFlail.DisplayName: Моллюсковый Крушитель
@@ -70,9 +66,7 @@ CosmicShivAura.DisplayName: Аура Космического Ножа
 CosmicShivBall.DisplayName: Космическая Энергия
 CosmicShivBlade.DisplayName: Космический Луч
 CosmicShivTrail.DisplayName: След Космического Ножа
-CosmicSpiritBomb1.DisplayName: Космическая Бомба
-CosmicSpiritBomb2.DisplayName: Космическая Бомба
-CosmicSpiritBomb3.DisplayName: Космическая Бомба
+CosmicSpiritBomb.DisplayName: Космическая Бомба
 CrescentMoonFlail.DisplayName: Полумесяц
 CrescentMoonProj.DisplayName: Полумесяц
 CrystylCrusherRay.DisplayName: Луч Кристильного Крушителя
@@ -85,71 +79,61 @@ DarklightGreatswordSlashCreator.DisplayName: Генератор Разрезов
 DarkMasterBeam.DisplayName: Луч Темного Повелителя
 DarkMasterClone.DisplayName: Темный Терраианин
 DeathsAscensionProjectile.DisplayName: Возвышенная Коса
+DeathsAscensionRift.DisplayName: Разрыв
 DecaysRetort.DisplayName: Разлагающий Ответ
 DecaysRetortDash.DisplayName: Выпад Потрошения
-DemonBlast.DisplayName: Вилы Дьявола
 DepthCrusherProjectile.DisplayName: Глубинный Дробитель
 DepthCrusherSplitProjectile.DisplayName: Струя Глубинного Дробителя
-DepthOrb.DisplayName: Глубинный Трезубец
-DepthOrb2.DisplayName: Трезубец Нептуна
+DevilsDevastationThrownBlade.DisplayName: Брошенный Меч Дьявольского Разрушения
 DevilsSunriseCyclone.DisplayName: Восход Дьявола
-DivineHatchetBoomerang.DisplayName: Преследующий Выжигатель
-DNA.DisplayName: ДНК
 DracoBeam.DisplayName: Драконический Луч
 DracoBeam2.DisplayName: Драконический Луч
 DraconicSpark.DisplayName: Драконическая Искра
 DragonPowFlail.DisplayName: Драконий Удар
 DragonRageFireball.DisplayName: Огненный Шар Драконьего Гнева
-Earth2.DisplayName: Земля
-Earth3.DisplayName: Земля
-Earth4.DisplayName: Земля
-EarthProj.DisplayName: Земля
+DragoonBigBolt.DisplayName: Молния Драгуна
+DragoonSmallBolt.DisplayName: Сгусток Драгуна
+EarthBoom.DisplayName: Суждение Земли
+EarthMeteor.DisplayName: Метеорит Гайи
+EarthenTides.DisplayName: Тектонические Волны
+EarthenTidesBeam.DisplayName: Тектоническая Проекция
+EarthenTidesBlast.DisplayName: Взрыв Тектонических Волн
+EarthenTidesBlastSpawner.DisplayName: Спавнер Взрывов
+EarthenTidesShockwave.DisplayName: Ударная Волна Тектонических Волн
 ElementalGlassStar.DisplayName: Стеклянная Звезда
-ElementBall.DisplayName: Элементальная Сфера
-ElementBallShiv.DisplayName: Нож
 EmpyreanKnife.DisplayName: Эмпирейский Нож
 EntropicFlechette.DisplayName: Флешетка Энтропии
-EntropicFlechetteLarge.DisplayName: Флешетка Энтропии
-EntropicFlechetteSmall.DisplayName: Флешетка Энтропии
 EonBolt.DisplayName: Болт Эон
-EssenceFlame2.DisplayName: Пламя Эссенции
 EssenceScythe.DisplayName: Коса Эссенции
-EutrophicScimitarProj.DisplayName: Ток Скимитара
-EutrophicSpark.DisplayName: Эвтрофная Искра
-ExcelsusBlue.DisplayName: Эксельсус
-ExcelsusMain.DisplayName: Эксельсус
-ExcelsusPink.DisplayName: Эксельсус
+ExaltedOathbladeThrownBlade.DisplayName: Брошенный Меч Величественного Клятвенного Меча
+MawOfInfinityHoldout.DisplayName: Челюсти Бесконечности
+MawOfInfinityJaws.DisplayName: Пожиратель Святости
 Exobeam.DisplayName: Экзолуч
 ExobeamSlash.DisplayName: Разрез Экзолуча
 ExobeamSlashCreator.DisplayName: Анимешный Эффект Меча
 Exoboom.DisplayName: Экзоплазменный Взрыв
-Exocomet.DisplayName: Комета
 ExtantAbhorrence.DisplayName: Надвигающееся Отвращение
-ExtantAbhorrenceMonolith.DisplayName: Отвращающий Монолит
 FallenBlast.DisplayName: Ярость Павшего Паладина
+FallenExplosionSmall.DisplayName: Взрыв Падшего Молота
 FallenPaladinsHammerEcho.DisplayName: Эхо Молота Павшего Паладина
 FallenPaladinsHammerProj.DisplayName: Молот Павшего Паладина
 Feather.DisplayName: Перо
 Flarefrost.DisplayName: Пламенный Мороз
 FloodtideShark.DisplayName: ОКУЛА
-ForbiddenOathbladeProjectile.DisplayName: Клятвенный Меч
+ForbiddenOathbladeThrownBlade.DisplayName: Брошенный Меч Запретного Клятвенного Меча
 GaelExplosion.DisplayName: Гаэльский Взрыв
 GaelSkull.DisplayName: Больше не Более Крутой Брат Ковчега Космоса
 GaelSkull2.DisplayName: Больше не Более Крутой Брат Ковчега Космоса
 GalacticaComet.DisplayName: Комета Галактуса
 GalaxiaBolt.DisplayName: Болт Галаксии
 GalaxiaHoldout.DisplayName: Галактическое Скопление
-GalaxiaTropicRing.DisplayName: Звездное Кольцо
-GalaxyBlast.DisplayName: Галактический Взрыв
-GalaxyBlastType2.DisplayName: Галактический Взрыв
-GalaxyBlastType3.DisplayName: Галактический Взрыв
 GalaxySmasherBlast.DisplayName: Галактический Взрыв
 GalaxySmasherEcho.DisplayName: Эхо Раскалывателя Галактик
 GalaxySmasherHammer.DisplayName: Раскалыватель Галактик
 GalaxySmasherMini.DisplayName: Раскалыватель Галактик
-GalaxyStar.DisplayName: Галактическая Звезда
 GalileosMoon.DisplayName: Полумесяц
 GalileosPlanet.DisplayName: Планета
+GalileoGladiusThrown.DisplayName: Гладиус Галилео (Брошенный)
 GayBeam.DisplayName: Перламутровый Луч
 GelWave.DisplayName: Гелевая Волна
 GemTechYellowShard.DisplayName: Желтый Самоцвет Триремы
@@ -159,47 +143,54 @@ GhastlyChain.DisplayName: Призрачная Цепь
 GhastlySoulLarge.DisplayName: Жуткая Душа
 GhastlySoulMedium.DisplayName: Жуткая Душа
 GhastlySoulSmall.DisplayName: Жуткая Душа
+GrandGuardianBoom.DisplayName: Космический Всплеск
 GreenWater.DisplayName: Зуб Зеленого Прилива
 GrovetendersEntanglingVines.DisplayName: Опутывающая Поросль
 GrovetendersTouch.DisplayName: Касание Садовнкиа
+GildedProboscisProj.DisplayName: Золотой Хоботок
 HeavensMight.DisplayName: Могущество Небес
+HeavensMonolith.DisplayName: Монолит Небес
 HellionSpike.DisplayName: Озорная Колючка
-IridescentExcaliburSlash.DisplayName: Взмах Перламутрового Экскалибура
-IridescentExcaliburSlash2.DisplayName: Взмах Перламутрового Экскалибура
-IridescentExcaliburSlash3.DisplayName: Взмах Перламутрового Экскалибура
 HolyColliderHolyFire.DisplayName: Огонь Священного Тарана
 IceBombFriendly.DisplayName: Ледяная Бомба
 IllustriousKnife.DisplayName: Блистательные Ножи
 InsidiousHarpoon.DisplayName: Коварный Гарпун
 JudgementProj.DisplayName: JUDGEMENT
 LamentationsOfTheChained.DisplayName: Скорбь Узников
-LaserFountain.DisplayName: Лазерный Фонтан
 LifeScythe.DisplayName: Коса Охоты на Жизнь
 LightBeam.DisplayName: Световой Луч
 LightningThing.DisplayName: Молния
+LightspeedDashHitbox.DisplayName: Разрыв Световой Скорости
+LightspeedHoldout.DisplayName: Световая Скорость
+LightspeedM1Hitbox.DisplayName: Укол Световой Скорости
+LucreciaBolt.DisplayName: Сгусток Люкрекции
+LucreciaDNATrailCreator.DisplayName: След Кометы Темного Света
+LucreciaHoldout.DisplayName: Люкреция
 LuxorsGiftMelee.DisplayName: Снаряд Люксора
-MercurialTides.DisplayName: Переменчивый Прилив
-MercurialTidesBlast.DisplayName: Переменчивый Взрыв
-MercurialTidesMonolith.DisplayName: Переменчивый Монолит
+MantisClawHoldout.DisplayName: Клешня Рака-Богомола
+MantisClawJet.DisplayName: Струя Клешни Рака-Богомола
+MantisClawSlash.DisplayName: Взмах Клешни Рака-Богомола
 MicrowaveAura.DisplayName: Радиация Микроволновки
 MirrorBlast.DisplayName: Зеркальный Клинок
+MirrorBladeProjectile.DisplayName: Зеркальный Меч
+MirrorBladeSlash.DisplayName: Взмах Зеркального Меча
+MirrorBladeSlashCreator.DisplayName: Спавнер Взмахов Зеркального Меча
 MonstrousKnife.DisplayName: Чудовищные Ножи
 MourningSkull.DisplayName: Скорбящий Череп
 MourningstarFlail.DisplayName: Скорбящая Звезда
+MutilatorSwordProj.DisplayName: Калечатель
 Nebudust.DisplayName: Пыль Хлыста Туманности
 NebulashFlail.DisplayName: Хлыст Туманности
 NebulaShot.DisplayName: Выстрел Туманности
 NeptuneOrb.DisplayName: Трезубец Нептуна
 NeptunesBountyProjectile.DisplayName: Сокровища Нептуна
 NeptunesBountySplitProjectile.DisplayName: Струя Сокровища Нептуна
-Oathblade.DisplayName: Клятвенный Меч
 OathswordFlame.DisplayName: Пламя Клятвенного Меча
 Orbacle.DisplayName: Ауритовая Сфера
-OrderbringerAura.DisplayName: Аура
 OrderbringerBeam.DisplayName: Луч Вершитель Порядка
-OrderbringerRain.DisplayName: Дождь
-OrderbringerWhiteOrb.DisplayName: Сфера Вершителя Порядка
+OrderbringerWaveProj.DisplayName: Вершащая Порядок Волна
 PhoenixsPride.DisplayName: Гордость Феникса
+PhoenixsPrideFirewall.DisplayName: Огненная Башня Гордости Феникса
 PhosphorescentGauntletPunches.DisplayName: Удар Перчаткой
 PhotonRipperProjectile.DisplayName: Исключительно Неэффективная с Точки Зрения Цены Бензопила
 PlagueSeeker.DisplayName: Чумной Искатель
@@ -208,21 +199,24 @@ PolarisGazeDash.DisplayName: Пронзающий Выпад Полярной З
 PolarisGazeStar.DisplayName: Полярная Звезда
 PrismaticBeam.DisplayName: Призматический Луч
 PrismaticWave.DisplayName: Призматическая Волна
+PrismaticMagicCircle.DisplayName: Магический Круг
+PrismaticRay.DisplayName: Главная Призматическая Искра
 PrismRay.DisplayName: Призматический Луч
 PrismTooth.DisplayName: Фотонный Разрыватель
+PureClarity.DisplayName: Непорочная Чистота
 PurityProjection.DisplayName: Проекция Чистоты
 PurityProjectionSigil.DisplayName: Сигил Чистоты
 PwnagehammerEcho.DisplayName: Эхо Молота Огребания
-PwnagehammerExplosionSmall.DisplayName: Взрыв Огребания
 PwnagehammerExplosionBig.DisplayName: Взрыв Огребания
+PwnagehammerExplosionSmall.DisplayName: Взрыв Огребания
 PwnagehammerProj.DisplayName: Молот Огребания
-PwnagehammerSmallExplosion.DisplayName: Взрыв Огребания
-RainBolt.DisplayName: Удар
 RainbowBoom.DisplayName: Бум
 Razorwind.DisplayName: Бритвенный Ветер
 RedtideWhirlpool.DisplayName: Водоворот
-RemsRevengeProj.DisplayName: Мщение Рем
+RemsRevengeExplosion.DisplayName: Взрыв Крови
 RendingNeedle.DisplayName: Разрывающая Игла
+RespiteblockBlood.DisplayName: Кровь Спокойни
+RespiteblockHoldout.DisplayName: Спокойня
 Rox1.DisplayName: Камень
 RoxcaliburProj.DisplayName: Эк-скала-бур
 RSSolarFlare.DisplayName: Вспышка
@@ -232,24 +226,28 @@ SandFire.DisplayName: Огонь
 SanguineFury.DisplayName: Сангвиническая Ярость
 SanguineFuryDash.DisplayName: Кромсающий Выпад
 SanguineFuryWheel.DisplayName: Сангвиническое Колесо Лезвий
+ScorcherExplosion.DisplayName: Обжигающий Кристаллический Взрыв
+ScorpiusConstellation.DisplayName: Созвездие Скорпиона
 ScourgeoftheCosmosMini.DisplayName: Миниатюрный Бич Космоса
 ScourgeoftheCosmosProj.DisplayName: Бич Космоса
 SeashineSwordProj.DisplayName: Луч Морского Сияния
-SHIV.DisplayName: Ножик
+SeekingScorcherProj.DisplayName: Преследующий Выжигатель
 SolarNeedle.DisplayName: Солнечная Игла
 SolsticeBeam.DisplayName: Луч Солнцестояния
 SoulScythe.DisplayName: Коса Души
 SoulScytheExplosion.DisplayName: Взрыв Души
-Spark.DisplayName: Искра
 SpatialSpear.DisplayName: Элементальное Копье
 SpatialSpear2.DisplayName: Элементальное Копье
 SpatialSpear3.DisplayName: Элементальное Копье
 SpatialSpear4.DisplayName: Элементальное Копье
 SpineOfThanatosProjectile.DisplayName: Позвоночник Танатоса
 StarnightBeam.DisplayName: Луч Звездной Ночи
+StarofJudgement.DisplayName: Звезда Правосудия
+StarofOrder.DisplayName: Звезда Порядка
 StellarContemptBlast.DisplayName: Звездная Вспышка
 StellarContemptEcho.DisplayName: Эхо Презрения
 StellarContemptHammer.DisplayName: Презрение Звезд
+StellarStrikerMeteor.DisplayName: Метеорит Звездного Ударника
 StormBeam.DisplayName: Луч Бури
 StormMark.DisplayName: Метка Бури
 StormRulerProj.DisplayName: Повелитель Бурь
@@ -259,7 +257,9 @@ StygianShieldThrown.DisplayName: Щит Хаоса
 SulphurousGrabberBubble.DisplayName: Пузырь Хапуги
 SulphurousGrabberBubble2.DisplayName: Пузырь Хапуги
 SwordsmithsPride.DisplayName: Гордость Мечника
-SwordsmithsPrideBeam.DisplayName: Проекция Мечника
+SwordsmithsPrideAstralBomber.DisplayName: Астральный Бомбардировщик Мечника
+SwordsmithsPrideAstralEnergy.DisplayName: Астральная Энергия Мечника
+SwordsmithsPrideMonolith.DisplayName: Монолит Гордости Мечника
 SwordsplosionBlue.DisplayName: Синий Меч
 SwordsplosionGreen.DisplayName: Зеленый Меч
 SwordsplosionPurple.DisplayName: Фиолетовый Меч
@@ -268,12 +268,12 @@ TaintedBladeSlasher.DisplayName: Порочное Лезвие
 TenebreusTidesWaterProjectile.DisplayName: Водяное Копье
 TenebreusTidesWaterSpear.DisplayName: Водяное Копье Мрачного Прилива
 TenebreusTidesWaterSword.DisplayName: Водяной Меч Мрачного Прилива
-TerratomereMeleeSlash.DisplayName: Взмах Терратомера
-TerratomereSwordBeam.DisplayName: Режущий Луч Терратомера
 TerratomereExplosion.DisplayName: Взрыв Терратомера
 TerratomereHoldoutProj.DisplayName: Терратомер
+TerratomereMeleeSlash.DisplayName: Взмах Терратомера
 TerratomereSlash.DisplayName: Разрез Терратомера
 TerratomereSlashCreator.DisplayName: Анимешный Эффект Меча
+TerratomereSwordBeam.DisplayName: Режущий Луч Терратомера
 TerrorBeam.DisplayName: Луч Террора
 TerrorBlast.DisplayName: Вспышка Террора
 ThanatosBoom.DisplayName: Ахах Танос делает Бум
@@ -281,6 +281,8 @@ ThornBase.DisplayName: Иголка
 TinyCrystal.DisplayName: Кристалл
 TinyFlare.DisplayName: Вспышка
 Tornado.DisplayName: Торнадо
+TriactisHammerExplosion.DisplayName: Большой Коллапс
+TriactisHammerFlare.DisplayName: Призматическая Вспышка Света
 TriactisHammerProj.DisplayName: Истинный Паладинский Магический Молот Могущества Триактиса Или Какое-то Такое Название Почему Оно Такое Черт Возьми Длинное Ахахххахахах
 TrueAncientBeam.DisplayName: Истинный Древний Луч
 TrueAncientBlast.DisplayName: Древняя Энергетическая Вспышка
@@ -292,14 +294,11 @@ TrueBiomeBladeHoldout.DisplayName: Истинный Биомный Меч
 TrueBitingEmbrace.DisplayName: Морозное Объятие
 TrueDecaysRetort.DisplayName: Разлагающий Ответ
 TrueGrovetendersTouch.DisplayName: Касание Садовника
+TruePureClarity.DisplayName: Непорочная Чистота
 TruePurityProjection.DisplayName: Проекция Чистоты
-TumbleweedFlail.DisplayName: Перекати-Поле
 TumbleweedRolling.DisplayName: Перекати-Поле
 TyphonsGreedBubble.DisplayName: Алчность Тайфуна
 UltimusCleaverDust.DisplayName: Пламя Ультимуса
-UrchinBall.DisplayName: Морской Еж
-UrchinBallSpike.DisplayName: Колючка Морского Ежа
-UrchinMaceProjectile.DisplayName: Морская Ежепалка
 UrchinSpikeFugu.DisplayName: Колючка Морского Ежа
 VirulentBeeWave.DisplayName: Пчелиная Волна Заразности
 VirulentWave.DisplayName: Волна Заразности
@@ -308,67 +307,7 @@ VoidTentacle.DisplayName: Щупальце Пустоты
 VolcanicFireball.DisplayName: Вулканический Огненный Шар
 VolcanicFireballLarge.DisplayName: Вулканический Огненный Шар
 Waterfall.DisplayName: Луч Водопада
-WhiteBoltAura.DisplayName: Белая Аура
-WhiteOrb.DisplayName: Белая Сфера
-Whiterain.DisplayName: Белый Дождь (а?)
 WulfrumScrew.DisplayName: Вульфрумовый Винт
 WulfrumScrewdriverProj.DisplayName: Вульфрумовая Отвертка
-YateveoBloomProj.DisplayName: Бутон Ятево
 YinYoDark.DisplayName: Темный Осколок
 YinYoLight.DisplayName: Светлый Осколок
-RespiteblockHoldout.DisplayName: Спокойня
-RespiteblockBlood.DisplayName: Кровь Спокойни
-BladecrestOathswordThrownBlade.DisplayName: Брошенный Меч Клятвенного Меча Гребня Лезвий
-BurningHolyBlast.DisplayName: Взрыв Скверны
-CosmicSpiritBomb.DisplayName: Космическая Бомба
-DeathsAscensionRift.DisplayName: Разрыв
-DevilsDevastationThrownBlade.DisplayName: Брошенный Меч Дьявольского Разрушения
-DragoonBigBolt.DisplayName: Молния Драгуна
-DragoonSmallBolt.DisplayName: Сгусток Драгуна
-EarthBoom.DisplayName: Суждение Земли
-EarthMeteor.DisplayName: Метеорит Гайи
-EarthenTides.DisplayName: Тектонические Волны
-EarthenTidesBeam.DisplayName: Тектоническая Проекция
-EarthenTidesBlast.DisplayName: Взрыв Тектонических Волн
-EarthenTidesBlastSpawner.DisplayName: Спавнер Взрывов
-EarthenTidesShockwave.DisplayName: Ударная Волна Тектонических Волн
-ExaltedOathbladeThrownBlade.DisplayName: Брошенный Меч Величественного Клятвенного Меча
-MawOfInfinityHoldout.DisplayName: Челюсти Бесконечности
-MawOfInfinityJaws.DisplayName: Пожиратель Святости
-FallenExplosionSmall.DisplayName: Взрыв Падшего Молота
-ForbiddenOathbladeThrownBlade.DisplayName: Брошенный Меч Запретного Клятвенного Меча
-GalileoGladiusThrown.DisplayName: Гладиус Галилео (Брошенный)
-GrandGuardianBoom.DisplayName: Космический Всплеск
-GildedProboscisProj.DisplayName: Золотой Хоботок
-HeavensMonolith.DisplayName: Монолит Небес
-LightspeedDashHitbox.DisplayName: Разрыв Световой Скорости
-LightspeedHoldout.DisplayName: Световая Скорость
-LightspeedM1Hitbox.DisplayName: Укол Световой Скорости
-LucreciaBolt.DisplayName: Сгусток Люкрекции
-LucreciaDNATrailCreator.DisplayName: След Кометы Темного Света
-LucreciaHoldout.DisplayName: Люкреция
-MantisClawHoldout.DisplayName: Клешня Рака-Богомола
-MantisClawJet.DisplayName: Струя Клешни Рака-Богомола
-MantisClawSlash.DisplayName: Взмах Клешни Рака-Богомола
-MirrorBladeProjectile.DisplayName: Зеркальный Меч
-MirrorBladeSlash.DisplayName: Взмах Зеркального Меча
-MirrorBladeSlashCreator.DisplayName: Спавнер Взмахов Зеркального Меча
-MutilatorSwordProj.DisplayName: Калечатель
-OrderbringerWaveProj.DisplayName: Вершащая Порядок Волна
-PhoenixsPrideFirewall.DisplayName: Огненная Башня Гордости Феникса
-PrismaticMagicCircle.DisplayName: Магический Круг
-PrismaticRay.DisplayName: Главная Призматическая Искра
-PureClarity.DisplayName: Непорочная Чистота
-RemsRevengeExplosion.DisplayName: Взрыв Крови
-ScorcherExplosion.DisplayName: Обжигающий Кристаллический Взрыв
-ScorpiusConstellation.DisplayName: Созвездие Скорпиона
-SeekingScorcherProj.DisplayName: Преследующий Выжигатель
-StarofJudgement.DisplayName: Звезда Правосудия
-StarofOrder.DisplayName: Звезда Порядка
-StellarStrikerMeteor.DisplayName: Метеорит Звездного Ударника
-SwordsmithsPrideAstralBomber.DisplayName: Астральный Бомбардировщик Мечника
-SwordsmithsPrideAstralEnergy.DisplayName: Астральная Энергия Мечника
-SwordsmithsPrideMonolith.DisplayName: Монолит Гордости Мечника
-TriactisHammerExplosion.DisplayName: Большой Коллапс
-TriactisHammerFlare.DisplayName: Призматическая Вспышка Света
-TruePureClarity.DisplayName: Непорочная Чистота
