@@ -1,6 +1,6 @@
 AuricTeslaBodyArmor: {
 	DisplayName: Броня Ауритовой Молнии
-	Tooltip: "{$CommonItemTooltip.PercentIncreasedDamage} and {$CommonItemTooltip.PercentIncreasedCritChance@1}"
+	Tooltip: "{$CommonItemTooltip.PercentIncreasedDamage} и {$CommonItemTooltip.PercentIncreasedCritChance@1}"
 }
 
 AuricTeslaCuisses: {
@@ -18,7 +18,7 @@ AuricTeslaHeadRanged: {
 	DisplayName: Капюшон и Лицевая Маска Ауритовой Молнии
 	Tooltip:
 		'''
-		{$CommonItemTooltip.PercentIncreasedRangedDamage} b {$CommonItemTooltip.PercentIncreasedRangedCritChance@1}
+		{$CommonItemTooltip.PercentIncreasedRangedDamage} и {$CommonItemTooltip.PercentIncreasedRangedCritChance@1}
 		{$CommonItemTooltip.PercentChanceToSaveAmmo@2}
 		'''
 	SetBonus:
@@ -552,7 +552,7 @@ PrismaticHelmet: {
 	Tooltip:
 		'''
 		{$CommonItemTooltip.IncreasesMaxManaBy} и {$CommonItemTooltip.PercentReducedManaCost@1}
-		{$CommonItemTooltip.PercentIncreasedMagicDamage@2} and {$CommonItemTooltip.PercentIncreasedMagicCritChance@3}
+		{$CommonItemTooltip.PercentIncreasedMagicDamage@2} и {$CommonItemTooltip.PercentIncreasedMagicCritChance@3}
 		-{4}% немагического урона
 		Противники, у которых менее 500 максимального здоровья не наносят контактного урона
 		Этот эффект пропадает, пока жив босс

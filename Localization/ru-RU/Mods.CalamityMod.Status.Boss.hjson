@@ -12,7 +12,7 @@ SandSharkText: Что-то шевелится в теплых пустынных
 SandSharkText2: Титанический хищник уже приближается...
 // Plaguebringer Goliath
 PlagueBossText: >> КРИТИЧЕСКАЯ ОШИБКА! >> escalate_NukePrep(cmdCond, trgts); "ЗАГРАДИТЕЛЬНЫЙ ЯДЕРНЫЙ ОГОНЬ ГОТОВ. ОЖИДАЕТСЯ КОМАНДА ПУСКА!!!"
-PlagueBossText2: >> ПРЕДУПРЕЖДЕНИЕ! >> missleLaunch(launchPrcdr, trgts); "РАКЕТЫ ЗАПУСКАЮТСЯ. ИНИЦИИРОВАНА ПРОЦЕДУРА НАВЕДЕНИЯ!!!"
+PlagueBossText2: >> ПРЕДУПРЕЖДЕНИЕ! >> missleLaunch(launchProc, trgts); "РАКЕТЫ ЗАПУСКАЮТСЯ. ИНИЦИИРОВАНА ПРОЦЕДУРА НАВЕДЕНИЯ!!!"
 // Providence
 ProfanedBossText: Святое пламя опаляет ваши крылья...
 // Polterghast

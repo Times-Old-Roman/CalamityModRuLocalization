@@ -4778,11 +4778,11 @@ WulfrumHovercraftBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
 WulfrumRoverBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
 
 EldenDiorama: {
-	// DisplayName: Elden Diorama
-	// Tooltip: "'Enshroud the sky with toxic torrents'"
+	DisplayName: Старинная Диорама
+	Tooltip: "'Покройте небеса токсичными вихрями'"
 }
 
 OtonilouStatue: {
-	// DisplayName: Otonilou Memorial
-	// Tooltip: ""
+	DisplayName: Мемориал Отонилу
+	Tooltip: ""
 }

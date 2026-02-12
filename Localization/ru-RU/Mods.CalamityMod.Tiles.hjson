@@ -109,4 +109,4 @@ ScoriaOre.MapEntry: Скория
 UelibloomOre.MapEntry: Уэлицвет
 // Misc
 ArenaTile.MapEntry: Арена
-PlaguedPlateBed.MapEntry: "'Кровать'"
+// PlaguedPlateBed.MapEntry: "'Bed'"

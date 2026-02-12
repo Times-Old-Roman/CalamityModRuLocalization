@@ -1,51 +1,14 @@
-BeeWings:
-	'''
-	Decreases fall speed while not pressing {$Key.DOWN}
-	[c/FF0000:(Problema s shriftom. Poka English)]
-	'''
-BoneWings:
-	'''
-	Halves flight time when taking a hit
-	[c/FF0000:(Problema s shriftom. Poka English)]
-	'''
-DemonWings:
-	'''
-	Increases fall speed
-	[c/FF0000:(Problema s shriftom. Poka English)]
-	'''
-FestiveWings:
-	'''
-	Spawns ornaments which restore flight time
-	[c/FF0000:(Problema s shriftom. Poka English)]
-	'''
-FinWings:
-	'''
-	Allows quick travel in water
-	[c/FF0000:(Problema s shriftom. Poka English)]
-	'''
-TatteredFairyWings:
-	'''
-	Leaves a trail of flight draining fairy dust
-	[c/FF0000:(Problema s shriftom. Poka English)]
-	'''
-WingsNebula:
-	'''
-	Greatly increases the pickup range of Nebula armor's nebula boosters while hovering
-	[c/FF0000:(Problema s shriftom. Poka English)]
-	'''
-WingsSolar:
-	'''
-	Solar Flare armor's shield restores flight time whenever a charge is consumed
-	[c/FF0000:(Problema s shriftom. Poka English)]
-	'''
+BeeWings: Уменьшает скорость падения, пока вы не держите {$Key.DOWN}
+BoneWings: Уменьшает время полета на половину при получении урона
+DemonWings: Увеличивает Скорость падения
+FestiveWings: Сотворяет орнамернты, которые восстанавливают время полета
+FinWings: Позволяют быстро двигаться в воде
+TatteredFairyWings: Оставляет след уменьшающей время полета пыльцы
+WingsNebula: Сильно увеличивает радиус сбора усилителей Брони Туманности, пока вы парите
+WingsSolar: Щит Брони Солнечной Вспышки восстанавливает время полета, когда тратится заряд
 WingsStardust:
 	'''
-	Greatly increases Stardust armor's stardust guardian attack range
-	Stardust guardian damage increases the lower your flight time
-	[c/FF0000:(Problema s shriftom. Poka English)]
+	Сильно увеличивает радиус атаки стража Брони Звездной Пыли
+	Урон стража тем выше, чем меньше ваше время полета
 	'''
-WingsVortex:
-	'''
-	Vortex armor's stealth gradually restores flight time while activated
-	[c/FF0000:(Problema s shriftom. Poka English)]
-	'''
+WingsVortex: Скрытность Брони Вихря постепенно восстанавливает время полета, пока активна

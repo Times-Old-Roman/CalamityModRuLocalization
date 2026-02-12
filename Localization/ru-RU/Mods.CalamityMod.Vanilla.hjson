@@ -217,8 +217,8 @@ EditedTooltip: {
 	/*
 	Accessories
 	*/
-	SunMoonStones: шанс критического удара, регенерацию жизни,
-	CelestialStoneShell: Малое увеличение урона,
+	SunMoonStones: шансу критического удара, регенерации жизни,
+	CelestialStoneShell: Дарует малое увеличение к урону,
 	PowerGlove: +10% скорости атаки в ближнем бою, не складывается с более слабыми версяими
 	BerserkerGlove: +10% урона в истинном ближнем бою
 	MechanicalGlove:
