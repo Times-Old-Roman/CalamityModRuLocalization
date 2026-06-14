@@ -436,11 +436,11 @@ Rum: {
 		-{1}% урона призванных существ
 		{$Common.AlcoholWarning}
 		'''
-	/* DripEffect:
+	DripEffect:
 		'''
-		{0}% increased non-minion summon damage
-		{1}% decreased minion damage
-		''' */
+		+{0}% призывательного урона НЕ от призванных существ
+		-{1}% урона призванных существ
+		'''
 }
 
 Screwdriver: {

@@ -30,11 +30,11 @@ OnFire: {
 }
 
 Ichor.ItemTooltipEnemy: -10 защиты
-/* Oiled.ItemTooltipEnemy:
+Oiled.ItemTooltipEnemy:
 	'''
-	Heat - 25 DPS. Recieves 2x the effect from Heat multipliers
-	Only does damage when paired with another Heat debuff
-	''' */
+	Огонь - 25 УВС. Получает двойной эффект от усилителей элемента огня
+	Наносит урон только если активен еще один эффект огня
+	'''
 Poisoned.ItemTooltipEnemy: Болезнь - 6 УВС
 PotionSickness.ItemTooltipPlayer: ""
 Slimed.ItemTooltipEnemy: Усиливает урон от эффектов огня

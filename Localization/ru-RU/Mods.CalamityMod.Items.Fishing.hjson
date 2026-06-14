@@ -411,28 +411,28 @@ GrandMarquisBait: {
 
 // Bobbers
 AcrobaticBobber: {
-	// DisplayName: Acrobatic Bobber
-	/* Tooltip:
+	DisplayName: Поплавок Акробата
+	Tooltip:
 		'''
 		{$ItemTooltip.FishingBobber}
-		Provides a fishing minigame
-		Moving while fishing instead moves your bobbers
-		Rings appear over time above the water's surface
-		Touching a ring hooks an item onto the bobber
-		Bobbers will automatically reel in hooked items upon landing back in the water
-		''' */
+		Устраивает рыболовную мини-игру
+		Движение во время рыбалки смещает поплавок, а не вас
+		Со временем над поверхностью воды появляются кольца
+		Касание кольца цепляет за поплавок предмет
+		Поплавки автоматически собирают зацепленные предметы при возвращении в воду
+		'''
 }
 
 FeralBobber: {
-	// DisplayName: Feral Bobber
-	/* Tooltip:
+	DisplayName: Дикий Поплавок
+	Tooltip:
 		'''
 		{$ItemTooltip.FishingBobber}
-		Gains fishing power the more life you have lost
-		Provides a fishing minigame
-		Hold <right> while catching fish to drain life and speed up catches
-		Bobbers can hook onto enemies, dealing damage when life is drained
-		''' */
+		Чем больше потеряно здоровья - тем больше рыболовное мастерство
+		Устраивает рыболовную мини-игру
+		Удерживайте <right>, пока ловите рыбу, чтобы вытянуть жизнь и ускорить ловлю
+		Поплавки могут зацепиться за врага, нанося урон пока вытягивается жизнь
+		'''
 }
 
 SunkenSinker: {
@@ -447,16 +447,16 @@ SunkenSinker: {
 }
 
 VolcanicSinker: {
-	// DisplayName: Volcanic Sinker
-	/* Tooltip:
+	DisplayName: Вулканическое Грузило
+	Tooltip:
 		'''
 		{$ItemTooltip.FishingBobber}
-		Allows fishing in lava
-		Provides a fishing minigame
-		Moving while fishing instead moves your bobbers
-		Rifts appear over time in liquids, containing an item
-		When bobbers touch a rift, they automatically reel in the item within
-		''' */
+		Позволяет рыбачить в лаве
+		Устраивает рыболовную мини-игру
+		Движение во время рыбалки смещает поплавок, а не вас
+		Со временем в жидкости будут появляться разломы, в которых содержатся предметы
+		Когда поплавок касается разлома, то он автоматически собирает предмет внутри
+		'''
 }
 
 WulfrumBobber: {

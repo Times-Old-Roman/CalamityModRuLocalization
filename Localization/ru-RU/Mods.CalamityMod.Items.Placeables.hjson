@@ -735,7 +735,7 @@ CrimsonEffigy: {
 		Если разместить, то игроки рядом получают +15% урона и +10 защиты
 		Однако, игроки также теряют 10% максимального здоровья
 		'''
-	// SalesPitch: "{$Common.SalesmanShrinePitch}"
+	SalesPitch: "{$Common.SalesmanShrinePitch}"
 }
 
 EffigyOfDecay: {
@@ -4700,7 +4700,7 @@ GreedPot: {
 		'''
 }
 
-// HorribleHogBanner.DisplayName: Horrible Hog Banner
+HorribleHogBanner.DisplayName: Horrible Hog Banner
 
 EutrophicSandWall: {
 	DisplayName: Небезопасная Стена из Эвтрофного Песка

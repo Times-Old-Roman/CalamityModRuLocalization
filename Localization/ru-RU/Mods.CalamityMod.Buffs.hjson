@@ -174,7 +174,7 @@ BrainRot: {
 	DisplayName: Гниение Мозга
 	Description: Ваши нейроны перегорают, как лампочки на гирлянде
 	ItemTooltipPlayer: Болезнь - 4 УВС
-	// ItemTooltipEnemy: Sickness - 20 DPS
+	ItemTooltipEnemy: Болезнь - 20 УВС
 }
 
 DemonicFlames: {
@@ -321,7 +321,7 @@ ShellfishClaps: {
 Shred: {
 	DisplayName: Шинковка
 	Description: Кажется кто-то накопил десять Трехгранных Кинжалов...
-	// ItemTooltipEnemy: ""
+	ItemTooltipEnemy: ""
 }
 
 SnapClamDebuff: {
@@ -1225,8 +1225,8 @@ WeakPetrification: {
 WhisperingDeath: {
 	DisplayName: Шепчущая Смерть
 	Description: Урон и регенерация жизни уменьшены; [c/660066:Надвигается смерть...]
-	// ItemTooltipPlayer: Negates life regen, reduces damage
-	// ItemTooltipEnemy: Reduced damage
+	ItemTooltipPlayer: Регенерация жизни отменена, уменьшен урон
+	ItemTooltipEnemy: Уменьшен урон
 }
 
 WitherDebuff: {

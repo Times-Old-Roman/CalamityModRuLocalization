@@ -485,7 +485,7 @@ HivePod: {
 		'''
 		{$CommonItemTooltip.Sentry}
 		Summons an astraglomerate to spawn glomerings at your enemies
-		Glomerings spread the [cbuff:CalamityMod/AstralInfectionDebuff] on impact
+		      Glomerings spread the [cbuff:CalamityMod/AstralInfectionDebuff] on impact
 		'''
 }
 

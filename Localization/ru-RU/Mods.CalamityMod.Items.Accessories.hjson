@@ -2147,7 +2147,7 @@ TrinketofChi: {
 		Сбрасывается при получении урона
 		+{2} ОЗ/c регенерации жизни для вас и союзников по команде
 		'''
-	// SalesPitch: "{$Common.SalesmanShrinePitch}"
+	SalesPitch: "{$Common.SalesmanShrinePitch}"
 }
 
 UnholyTonic: {
