@@ -67,7 +67,6 @@ DrizzlefishFire.DisplayName: Огонь Драгуна Брызгуна
 DrizzlefishFireball.DisplayName: Огненный Шар Драгуна Брызгуна
 DrizzlefishFireSplit.DisplayName: Огонь Драгуна Брызгуна
 DryadsTearMain.DisplayName: Слеза Дриады
-DryadsTearSplit.DisplayName: Слеза Дриады
 ElysianArrowProj.DisplayName: Элизийская Стрела
 ElysianArrowRain.DisplayName: Элизийский Свет
 EmesisGore.DisplayName: Гнилые Кишки
@@ -189,7 +188,6 @@ ScorchedEarthClusterBomb.DisplayName: Кассетная Бомба
 ScorchedEarthRocket.DisplayName: Ракета
 ScorpioRocket.DisplayName: Нано-Ракета
 ScorpioLargeRocket.DisplayName: Нано-Ядерная Бомба
-SeaDragonMuzzleBlast.DisplayName: Дульный Взрыв Морского Дракона
 SeaDragonRocket.DisplayName: RPG Морского Дракона
 SeasSearingBubble.DisplayName: Обжигающий Пузырь
 SeasSearingSecondary.DisplayName: Гидроструя
@@ -261,9 +259,14 @@ VanquisherArrowMain.DisplayName: Стрела Покорителя
 VanquisherArrowProj.DisplayName: Разрез Стрелы Покорителя
 VeriumBoltProj.DisplayName: Болт «Вериум»
 VernalBolt.DisplayName: Весенний Болт
-Voidragon.DisplayName: Всплеск Дракона Бездны
-VoidragonTentacle.DisplayName: Щупальце Дракона Бездны
 WaterSpout.DisplayName: Родник
 WildfireBloomFire.DisplayName: Языки Лесного Пожара
 WildfireBloomFlare.DisplayName: Вспышка Лесного Пожара
 WulfrumScrapBullet.DisplayName: Высокоскоростной Металлолом
+AbyssalFire.DisplayName: Огонь Бездны
+BlahajBlast.DisplayName: Blahaj-Взрыв
+MegalodonRocket.DisplayName: Ракета Мегалодона
+VoidBlast.DisplayName: Всплеск Бездны
+OmniSniperShot.DisplayName: Выстрел Омни-снайперкой
+OmniGrenade.DisplayName: Омни-гранат
+OmniShotgunShot.DisplayName: Омни-картечь

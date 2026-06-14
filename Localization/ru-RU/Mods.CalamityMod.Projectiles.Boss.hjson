@@ -23,6 +23,7 @@ BigFlare.DisplayName: Большая Вспышка
 BigFlare2.DisplayName: Большая Вспышка
 BirbAura.DisplayName: Драконическая Аура
 BirbAuraFlare.DisplayName: Вспышка Драконической Ауры
+BloodBombRTS.DisplayName: Кровавая Бомба
 BloodGeyser.DisplayName: Кровавый Гейзер
 BloodScythe.DisplayName: Коса Крови
 BrimstoneBall.DisplayName: Серный Огненный Шар
@@ -50,7 +51,6 @@ CrimsonEye.DisplayName: Багровый Глаз
 CursedFire.DisplayName: Глазное Пламя
 DarkEnergyBall.DisplayName: Темная Энергия
 DarkEnergyBall2.DisplayName: Темная Энергия
-DarkOrb.DisplayName: Темная Сфера
 DesertScourgeDiveSplash.DisplayName: Всплеск от Прыжка Бича Пустыни
 DesertScourgeSpit.DisplayName: Плевок Бича
 DestroyerCursedLaser.DisplayName: Проклятый Лазер
@@ -59,16 +59,14 @@ DeusMine.DisplayName: Астральная Мина
 DeusRitualDrama.DisplayName: Ритуальная Драма Деуса
 DoGBeam.DisplayName: Портальный Лазер
 DoGBeamPortal.DisplayName: Лучевой Портал
-DoGDeath.DisplayName: Луч Смерти
 DoGDeathBoom.DisplayName: Космический Взрыв
-DoGFire.DisplayName: Инферно Богоубийцы
-DoGLaserWalls.DisplayName: Натиск Гибельных Лучей Божественной Смерти
-DoGLaserWallsBigBeam.DisplayName: Разрывный Потрошитель Гиперсмерти
+DoGFire.DisplayName: "[ceffect/dog:Выжигатель Веры]"
+DoGLaserWalls.DisplayName: "[ceffect/dog:Залп Гибельных Лучей Божественной Смерти]"
+DoGLaserWallsBigBeam.DisplayName: "[ceffect/dog:Разрывный Потрошитель Гиперсмерти]"
 DoGP1EndPortal.DisplayName: Портал
 DoGRiftCrack.DisplayName: Трещина Дисторсии ПБ
 DoGTeleportRift.DisplayName: Разрыв
 DraedonSummonLaser.DisplayName: Гигантский Злоебучий Луч Смерти и Погибели
-DyingSun.DisplayName: Умирающее Солнце
 EssenceDust.DisplayName: Космическая Пыль
 Flare.DisplayName: Вспышка
 FlareBomb.DisplayName: Огненная Бомба
@@ -85,6 +83,7 @@ HellfireExplosion.DisplayName: Взрыв Серного Огня
 HiveBombGoliath.DisplayName: Бомба Улья
 HolyAura.DisplayName: Святая Аура
 HolyBlast.DisplayName: Святая Вспышка
+HolyBlastFrags.DisplayName: Фрагмент Святой Вспышки
 HolyBomb.DisplayName: Святая Бомба
 HolyBurnOrb.DisplayName: Святая Сфера
 HolyExplosionBoom.DisplayName: Святой Взрыв
@@ -159,7 +158,6 @@ ShadowflameFireball.DisplayName: Огненный Шар Теневого Пла
 Shadowflamethrower.DisplayName: Дыхание Теневого Пламени
 SignusScythe.DisplayName: Коса
 SirenSong.DisplayName: Музыкальная Нота
-SkyFlare.DisplayName: Небесная Вспышка
 SkyFlareRevenge.DisplayName: Небесная Вспышка
 SporeGasPlantera.DisplayName: Споровый Газ
 StormWeaverFrostWaveTelegraph.DisplayName: Траектория Ледяной Волны

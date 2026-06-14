@@ -19,6 +19,14 @@ GammaAcid.DisplayName: Кислота
 GammaBeam.DisplayName: Гамма-Луч
 GammaRayBurst.DisplayName: ЛУЧ G-FUEL
 GhostBellShock.DisplayName: Электрическое Поле
+HorribleHogChargeHitbox.DisplayName: Ужасающий Кабан
+HorribleHogRubble.DisplayName: Обломки
+HorribleHogShockwave.DisplayName: Ударня Волна Кошмарного Свинтуса
+HorribleHogShockwaveSpawner.DisplayName: Спавнер Ударной Волны Ужасающего Кабана
+HorribleHogVomitBomb.DisplayName: Блевобомба
+HorribleHogVomitChunk.DisplayName: Останки Ужасающего Кабана
+HorribleHogVomitEye.DisplayName: Выплюнутый Демонический Глаз
+HorribleHogZombieSpawner.DisplayName: Спавнер Зомби Ужасающего Кабана
 HorsPoisonBlast.DisplayName: Ядовитый Плевок
 HorsWaterBlast.DisplayName: Вода
 IceClasperEnemyProjectile.DisplayName: Ледяной Осколок

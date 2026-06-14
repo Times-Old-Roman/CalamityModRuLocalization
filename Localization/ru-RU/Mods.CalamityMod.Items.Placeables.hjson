@@ -1,126 +1,126 @@
-// FormattedBannerName: "{0} Banner"
-// FormattedBannerTooltip: "{$CommonItemTooltip.BannerBonus}{0}"
-// AcidEelBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// AeroSlimeBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// AmberCrawlerBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// AmethystCrawlerBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// AndroombaBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// AnthozoanCrabBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// AquaticUrchinBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// AriesBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// BurrowerBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// AstraglomerateBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// AstralachneaBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// AstralProbeBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// AstralSlimeBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// AtlasBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// AuroraSpiritBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// BabyCannonballJellyfishBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// BabyFlakCrabBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// BabyGhostBellBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// BelchingCoralBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// BlindedAnglerBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// BloatfishBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// BloomSlimeBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// BobbitWormBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// BohldohrBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// BoxJellyfishBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// CalamityEyeBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// CannonballJellyfishBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// ChaoticPufferBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// CladCrabBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// ClamBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// CloudElementalBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// CnidrionBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// ColossalSquidBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// CrimulanBlightSlimeBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// CryonBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// CryoSlimeBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// CrystalCrawlerBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// CuttlefishBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// DespairStoneBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// DevilFishBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// DiamondCrawlerBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// DraconicSwarmerBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// EarthElementalBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// EbonianBlightSlimeBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// EidolistBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// EidolonWyrmJuvenileBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// EmeraldCrawlerBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// EutrophicRayBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// FearlessGoldfishWarriorBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// FlakCrabBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// FrogfishBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// FusionFeederBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// GammaSlimeBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// GhostBellBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// GiantSquidBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// GnasherBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// GulperEelBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// HadarianBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// HeatSpiritBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// IceClasperBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// ImpiousImmolatorBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// InfernalCongealmentBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// IrradiatedSlimeBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// LaserfishBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// LuminousCorvinaBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// MantisBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// MantisShrimpBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// MelterBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// MirageJellyBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// MorayEelBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// NovaBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// NuclearToadBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// OarfishBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// OrthoceraBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// OverloadedSoldierBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// PerennialSlimeBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// PestilentSlimeBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// PhantomSpiritBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// PiggyBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// PlaguebringerBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// PlagueChargerBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// PlagueshellBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// PrismBackBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// ProfanedEnergyBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// RadiatorBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// ReaperSharkBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// RenegadeWarlockBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// RepairUnitBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// RimehoundBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// RotdogBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// RubyCrawlerBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// SeaSerpentBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// SapphireCrawlerBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// ScornEaterBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// ScryllarBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// SeaFloatyBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// SeaMinnowBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// ShockstormShuttleBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// ShroombleBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// SightseerColliderBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// SightseerSpitterBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// SkyfinBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// SlabCrabBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// SoulSlurperBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// StellarCulexBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// StormlionBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// SulflounderBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// SulphurousSkaterBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// SunskaterBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// TopazCrawlerBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// ToxicatfishBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// ToxicMinnowBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// TrasherBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// TrilobiteBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// ViperfishBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// VirulingBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// WulfrumAmplifierBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// WulfrumDroneBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// WulfrumGyratorBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// WulfrumHovercraftBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-// WulfrumRoverBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+FormattedBannerName: Знамя «{0}»
+FormattedBannerTooltip: Вы получаете дополнительную защиту от и наносите больше урона против: {0}
+AcidEelBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+AeroSlimeBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+AmberCrawlerBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+AmethystCrawlerBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+AndroombaBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+AnthozoanCrabBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+AquaticUrchinBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+AriesBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+BurrowerBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+AstraglomerateBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+AstralachneaBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+AstralProbeBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+AstralSlimeBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+AtlasBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+AuroraSpiritBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+BabyCannonballJellyfishBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+BabyFlakCrabBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+BabyGhostBellBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+BelchingCoralBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+BlindedAnglerBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+BloatfishBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+BloomSlimeBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+BobbitWormBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+BohldohrBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+BoxJellyfishBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+CalamityEyeBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+CannonballJellyfishBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+ChaoticPufferBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+CladCrabBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+ClamBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+CloudElementalBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+CnidrionBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+ColossalSquidBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+CrimulanBlightSlimeBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+CryonBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+CryoSlimeBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+CrystalCrawlerBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+CuttlefishBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+DespairStoneBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+DevilFishBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+DiamondCrawlerBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+DraconicSwarmerBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+EarthElementalBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+EbonianBlightSlimeBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+EidolistBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+EidolonWyrmJuvenileBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+EmeraldCrawlerBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+EutrophicRayBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+FearlessGoldfishWarriorBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+FlakCrabBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+FrogfishBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+FusionFeederBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+GammaSlimeBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+GhostBellBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+GiantSquidBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+GnasherBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+GulperEelBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+HadarianBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+HeatSpiritBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+IceClasperBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+ImpiousImmolatorBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+InfernalCongealmentBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+IrradiatedSlimeBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+LaserfishBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+LuminousCorvinaBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+MantisBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+MantisShrimpBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+MelterBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+MirageJellyBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+MorayEelBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+NovaBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+NuclearToadBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+OarfishBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+OrthoceraBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+OverloadedSoldierBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+PerennialSlimeBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+PestilentSlimeBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+PhantomSpiritBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+PiggyBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+PlaguebringerBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+PlagueChargerBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+PlagueshellBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+PrismBackBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+ProfanedEnergyBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+RadiatorBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+ReaperSharkBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+RenegadeWarlockBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+RepairUnitBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+RimehoundBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+RotdogBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+RubyCrawlerBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+SeaSerpentBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+SapphireCrawlerBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+ScornEaterBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+ScryllarBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+SeaFloatyBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+SeaMinnowBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+ShockstormShuttleBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+ShroombleBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+SightseerColliderBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+SightseerSpitterBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+SkyfinBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+SlabCrabBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+SoulSlurperBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+StellarCulexBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+StormlionBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+SulflounderBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+SulphurousSkaterBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+SunskaterBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+TopazCrawlerBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+ToxicatfishBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+ToxicMinnowBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+TrasherBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+TrilobiteBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+ViperfishBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+VirulingBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+WulfrumAmplifierBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+WulfrumDroneBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+WulfrumGyratorBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+WulfrumHovercraftBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
+WulfrumRoverBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
 
 AstralPylon: {
 	DisplayName: Астральный Пилон
@@ -676,6 +676,7 @@ CorruptionEffigy: {
 		Если разместить, то игроки рядом получают +10% скорости движения и шанса критического удара
 		Однако, игроки также теряют 5% уменьшения входящего урона
 		'''
+	SalesPitch: "{$Common.SalesmanShrinePitch}"
 }
 
 AltarOfTheAccursedItem: {
@@ -734,6 +735,7 @@ CrimsonEffigy: {
 		Если разместить, то игроки рядом получают +15% урона и +10 защиты
 		Однако, игроки также теряют 10% максимального здоровья
 		'''
+	// SalesPitch: "{$Common.SalesmanShrinePitch}"
 }
 
 EffigyOfDecay: {
@@ -776,6 +778,20 @@ GloomTorch: {
 	Tooltip: ""
 }
 
+GluttonyBlender: {
+	DisplayName: Алчный Блендер
+	Tooltip:
+		'''
+		Странный индустриальный механизм, который, по всей видимости, перерабатывает еду
+		Может потенциально сделать еду более питательный... но это не точно
+		'''
+	SalesPitch:
+		'''
+		'Новейшая машина, разработанная моим партнером Хоггартом! В нее можно положить что угодно, и она сделает для вас питательный деликатес!'
+		'Я сам могу из опыта рассказать вам о ее качестве. Я с ее помощью делаю себе и завтрак, и обед, и ужин!'
+		'''
+}
+
 LanternCenter: {
 	DisplayName: Центр По Выпуску Фонарей
 	Tooltip: Зажигает ночное небо праздничными фонарями. Добавляет удачу также, как и в обычно случае
@@ -806,6 +822,11 @@ DraconicIncense: {
 	Tooltip: "'Зажгите воздух драконьим огнем.'"
 }
 
+EldenDiorama: {
+	DisplayName: Старинная Диорама
+	Tooltip: "'Покройте небеса токсичными вихрями'"
+}
+
 ExoObelisk: {
 	DisplayName: Экзо-обелиск
 	Tooltip: "'Зарядите атмосферу экзо-энергией.'"
@@ -821,7 +842,9 @@ KelpTorch: {
 	Tooltip: Можно разместить в воде
 }
 
-OldDukeMonolith: {
+OtonilouStatue: {
+	DisplayName: Мемориал Отонилу
+	Tooltip: ""
 }
 
 PlagueHumidifier: {
@@ -876,12 +899,17 @@ ThankYouPainting: {
 		'''
 		Огромное спасибо команде, тем, кто нас поддерживал, и всем вам, кто играет в этот мод, поднимая его актив и держа его в живых!
 		Этой картины не хватает, чтобы разместить на нем всю команду
-		Зажмите SHIFT, чтобы увидеть список всех прошлых и нынешних разработчиков
+		Зажмите SHIFT, чтобы увидеть список всех нынешних разработчиков, а затем еще раз нажмите SHIFT, чтобы увидеть всех прошлых разработчиков
 		'''
 }
 
 PiggyCage: {
 	DisplayName: Клетка со Свинкой
+	Tooltip: ""
+}
+
+PiggyCageGold: {
+	DisplayName: Клетка с Золотой Свинкой
 	Tooltip: ""
 }
 
@@ -916,6 +944,11 @@ SeaMinnowJar: {
 	Tooltip: ""
 }
 
+ShroombleCage: {
+	DisplayName: Клетка с грибулем
+	Tooltip: ""
+}
+
 SpitefulCandle: {
 	DisplayName: Свеча Ненависти
 	Tooltip:
@@ -935,6 +968,20 @@ SulphurousTorch: {
 ThaumaticChair: {
 	DisplayName: Тауматический Стул
 	Tooltip: Одно из лучших творений Хлои
+}
+
+TheMonument: {
+	DisplayName: Монумент
+	Tooltip:
+		'''
+		Монумент в честь празднования успехов капитализма!
+		Оплачен за счет налогов ближайших городских НИПов. Они, конечно, не слишком довольны этим фактом... Но это не важно, не так ли?
+		'''
+	SalesPitch:
+		'''
+		'Вам не кажется, что этот город немного скучный? Не хочется ли вам извлечь побольше денег из своих дел? Тогда у меня для вас идеальное предложение два-в-одном!'
+		'Эта статуя, которая я сам и сделал, настолько сногсшибательная, что она сама по себе способна поднять стоимость проживания в этом городе! Просто присядьте, расслабьтесь, и наслаждайтесь зрелищем и деньгами!'
+		'''
 }
 
 ThermalTorch: {
@@ -1615,7 +1662,7 @@ AuricDisplay: {
 }
 
 AuricLandMine: {
-	DisplayName: Ауритовая Мина
+	DisplayName: Ауритовая Противопехотная Мина
 	Tooltip: Взрывается, если наступить на нее...
 }
 
@@ -4643,6 +4690,18 @@ MossyStone: {
 	Tooltip: ""
 }
 
+GreedPot: {
+	DisplayName: Урна Алчности
+	Tooltip: Предложите свои сокровища Урне, и наконец ваша алчность будет утолена
+	SalesPitch:
+		'''
+		'Мы можем согласиться, что для ваших вещей нужны самые разные руды. Но вот находить эти драгоценные минералы не так просто, не так ли? Но только представьте, у меня есть решение для вас!'
+		'Забросьте любые руды, которые у вас накопились, в эту урну и они превратятся в более редкие камни! Вам больше не придется выискивать вольфрам по несколько часов за заход!'
+		'''
+}
+
+// HorribleHogBanner.DisplayName: Horrible Hog Banner
+
 EutrophicSandWall: {
 	DisplayName: Небезопасная Стена из Эвтрофного Песка
 	Tooltip: ""
@@ -4650,139 +4709,5 @@ EutrophicSandWall: {
 
 EutrophicSandWallSafe: {
 	DisplayName: Стена из Эвтрофного Песка
-	Tooltip: ""
-}
-
-FormattedBannerName: Знамя «{0}»
-FormattedBannerTooltip: Вы получаете дополнительную защиту от и наносите больше урона против: {0}
-AcidEelBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-AeroSlimeBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-AmberCrawlerBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-AmethystCrawlerBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-AndroombaBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-AnthozoanCrabBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-AquaticUrchinBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-AriesBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-BurrowerBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-AstraglomerateBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-AstralachneaBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-AstralProbeBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-AstralSlimeBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-AtlasBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-AuroraSpiritBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-BabyCannonballJellyfishBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-BabyFlakCrabBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-BabyGhostBellBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-BelchingCoralBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-BlindedAnglerBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-BloatfishBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-BloomSlimeBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-BobbitWormBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-BohldohrBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-BoxJellyfishBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-CalamityEyeBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-CannonballJellyfishBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-ChaoticPufferBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-CladCrabBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-ClamBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-CloudElementalBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-CnidrionBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-ColossalSquidBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-CrimulanBlightSlimeBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-CryonBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-CryoSlimeBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-CrystalCrawlerBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-CuttlefishBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-DespairStoneBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-DevilFishBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-DiamondCrawlerBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-DraconicSwarmerBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-EarthElementalBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-EbonianBlightSlimeBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-EidolistBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-EidolonWyrmJuvenileBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-EmeraldCrawlerBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-EutrophicRayBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-FearlessGoldfishWarriorBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-FlakCrabBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-FrogfishBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-FusionFeederBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-GammaSlimeBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-GhostBellBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-GiantSquidBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-GnasherBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-GulperEelBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-HadarianBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-HeatSpiritBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-IceClasperBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-ImpiousImmolatorBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-InfernalCongealmentBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-IrradiatedSlimeBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-LaserfishBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-LuminousCorvinaBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-MantisBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-MantisShrimpBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-MelterBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-MirageJellyBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-MorayEelBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-NovaBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-NuclearToadBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-OarfishBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-OrthoceraBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-OverloadedSoldierBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-PerennialSlimeBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-PestilentSlimeBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-PhantomSpiritBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-PiggyBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-PlaguebringerBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-PlagueChargerBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-PlagueshellBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-PrismBackBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-ProfanedEnergyBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-RadiatorBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-ReaperSharkBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-RenegadeWarlockBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-RepairUnitBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-RimehoundBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-RotdogBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-RubyCrawlerBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-SeaSerpentBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-SapphireCrawlerBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-ScornEaterBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-ScryllarBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-SeaFloatyBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-SeaMinnowBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-ShockstormShuttleBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-ShroombleBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-SightseerColliderBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-SightseerSpitterBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-SkyfinBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-SlabCrabBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-SoulSlurperBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-StellarCulexBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-StormlionBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-SulflounderBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-SulphurousSkaterBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-SunskaterBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-TopazCrawlerBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-ToxicatfishBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-ToxicMinnowBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-TrasherBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-TrilobiteBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-ViperfishBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-VirulingBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-WulfrumAmplifierBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-WulfrumDroneBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-WulfrumGyratorBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-WulfrumHovercraftBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-WulfrumRoverBanner.DisplayName: "{$Items.Placeables.FormattedBannerName}"
-
-EldenDiorama: {
-	DisplayName: Старинная Диорама
-	Tooltip: "'Покройте небеса токсичными вихрями'"
-}
-
-OtonilouStatue: {
-	DisplayName: Мемориал Отонилу
 	Tooltip: ""
 }

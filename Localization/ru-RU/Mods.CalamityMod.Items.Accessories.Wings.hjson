@@ -22,7 +22,7 @@ ExodusWings: {
 	Tooltip:
 		'''
 		{$CommonItemTooltip.FlightAndSlowfall}
-		Дарует постоянный Эмпирейский Гнев, если надета Броня Эмпирея
+		Дарует постоянный [cbuffplr:CalamityMod/EmpyreanWrath], если надета Броня Эмпирея
 		'Пульсируют чужеземным сердцебиением'
 		'''
 }

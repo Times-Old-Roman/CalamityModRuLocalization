@@ -1,0 +1,47 @@
+﻿{
+    "Revision": 1,
+    "DefaultColor": "FF00FF",
+    "DefaultSpeaker": "DemonAltar",
+    "AlignType": 1,
+    "TextDelay": 2,
+    "BasePunctuationDelay": {
+        "Delay": 10,
+        "ForceSet": false,
+        "Locks": false
+    },
+    "PunctuationDelayCap": 30,
+    "PunctuationDelays": {
+        "!": {
+            "Delay": 20,
+            "ForceSet": true,
+            "Locks": true
+        },
+        "?": {
+            "Delay": 20,
+            "ForceSet": true,
+            "Locks": true
+        }
+    },
+		"Pages": [
+			{
+				"Lines": [
+					"Повелитель Священного Молота...[Pause(0.25)] [Wavy:жаждете ли вы вкусить настоящего могущества?]"
+				]
+			},
+			{
+				"Lines": [
+					"Ваши очи будут открыты...[Pause(0.25)] [Shaking:вас восприимут за богов!]"
+				]
+			},
+			{
+				"Lines": [
+					"Опустите молот нам на алтарь."
+				]
+			},
+			{
+				"Lines": [
+					"Доверьте свои силы, и взамен мы даруем вам нашу мощь."
+				]
+			}
+	]
+}

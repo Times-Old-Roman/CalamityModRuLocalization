@@ -143,11 +143,6 @@ ExoPrism: {
 	Tooltip: Фрактальные энергии мерцают по ее поверхности
 }
 
-GalacticaSingularity: {
-	DisplayName: Галактическая Сингулярность
-	Tooltip: Фрагмент Космоса
-}
-
 GrandScale: {
 	DisplayName: Величественная Чешуя
 	Tooltip: Большая чешуя высшего хищника
@@ -175,12 +170,7 @@ Lumenyl: {
 
 MeldBlob: {
 	DisplayName: Сгусток Мелда
-	Tooltip: ""
-}
-
-MeldConstruct: {
-	DisplayName: Конструкция Мелда
-	Tooltip: ""
+	Tooltip: "'Визги искаженных воспоминаний раздаются эхом в этой массе'"
 }
 
 MiracleMatter: {

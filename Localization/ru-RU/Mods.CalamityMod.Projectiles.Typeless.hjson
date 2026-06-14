@@ -1,4 +1,3 @@
-AbaddonCrit.DisplayName: Серный Взрыв
 AeroExplosive.DisplayName: Аэробум
 AllianceTriangle.DisplayName: Треугольник Альянса
 AmuletEnergy.DisplayName: Морской Дух
@@ -42,8 +41,8 @@ CursorProj.DisplayName: Крситал Эстететикуса
 CursorProjSplit.DisplayName: Крситал Эстететикуса
 CyanLabSeeker.DisplayName: Ищущий Механизм
 DarkIce.DisplayName: Темный Лед
+DebuffSpreadEffect.DisplayName: Эффект Распространения Эффектов
 DeepseaBlaze.DisplayName: Огонь Глубокого Моря
-DemonshadeRedDevil.DisplayName: Красный Дьявол
 DevourerofCodsBobber.DisplayName: Поплавок Пожирателя Трески
 DiamondOfTheDeepProjectile.DisplayName: Дух Бездны
 DirectStrike.DisplayName: Неописуемый Наносящий Урон Объект
@@ -51,9 +50,10 @@ DragonDust.DisplayName: Пыль
 DunesandBallFalling.DisplayName: Ком Дюнного Песка
 DuneSandBallGun.DisplayName: Ком Дюнного Песка
 EarlyBloomBobber.DisplayName: Поплавок Раннего Цветения
+Elumphant.DisplayName: Элеуммонт
+ElumphantMist.DisplayName: Тумант Элеуммонта
 EmpyreanBlast.DisplayName: Эмпирейский Всплеск
 EmpyreanEmber.DisplayName: Эмпирейский Уголек
-EmpyreanGlob.DisplayName: Эмпирейский Сгусток
 EmpyreanMarble.DisplayName: Эмпирейская Сфера
 EmpyreanStellarDetritus.DisplayName: Эмпирейский Звездный Детрит
 EnergyShell.DisplayName: Энергетическая Оболочка
@@ -74,10 +74,12 @@ FungalClumpMinion.DisplayName: Грибной Комок
 GemTechArmorGem.DisplayName: Самоцвет Триреме
 GenericElectricSpark.DisplayName: Электрическая Искра
 GhostlyBolt.DisplayName: Болт
+GluttonyBlenderAnimation.DisplayName: Анимация Блендера Алчности
 GodKiller.DisplayName: Богоубийца
 GodSlayerShrapnel.DisplayName: Пламя
 GodSlayerShrapnelRound.DisplayName: Снаряд
 GreenLabSeeker.DisplayName: Ищущий Механизм
+Gunshot.DisplayName: Выстрел
 HeronBobber.DisplayName: Поплавок Цапли
 HideOfAstrumDeusExplosion.DisplayName: Взрыв
 HolyExplosionSupreme.DisplayName: Взрыв
@@ -109,6 +111,7 @@ PauldronDash.DisplayName: Рывок от Наплечника
 PauldronExplosion.DisplayName: Взрыв от Наплечника
 PearlAuraShard.DisplayName: Призматический Осколок
 PlaguePulse.DisplayName: Пульс Чумы
+Pigion.DisplayName: Свинтион
 PinkPearlFalling.DisplayName: Розовая Жемчужина
 PoisonousSeawater.DisplayName: Морская Вода
 PolypSandBallFalling.DisplayName: Ком Полипового Песка
@@ -137,10 +140,13 @@ SkyFlareFriendly.DisplayName: Вспышка
 SlimeStream.DisplayName: Слизевая Струя
 SlurperBobber.DisplayName: Поплавок Сосуна
 SpiritOriginBullseye.DisplayName: Мишень Духа Призыва
-StandingFire.DisplayName: Огонь
+SpringStoolFX.DisplayName: Пружинный Стул
+StandingFire.DisplayName: Бедственное Пламя
 StarStruckWaterBottle.DisplayName: Бутылка
+StepStoolBonusFX.DisplayName: Бонус от Стула
 StickyFeatherAero.DisplayName: Перо
 StomperSlam.DisplayName: Удар Топтунов
+StratusBlackHole.DisplayName: Сингулярность Стратуса
 SuicideBomberDemon.DisplayName: Демон
 SulphuricAcidBubbleFriendly.DisplayName: Кислотный Пузырь
 SulphurousSandBallGun.DisplayName: Серный Песок
@@ -148,10 +154,13 @@ TarraEnergy.DisplayName: Тарра-Энергия
 TarragonAura.DisplayName: Аура Таррагона
 TatteredFairyDust.DisplayName: Фейская Изорванная Пыльца
 TeslaAura.DisplayName: Электричество Теслы
+TileSlamDamage.DisplayName: Великий Урон
 TitanHeartBoom.DisplayName: Бум Сердца Титана
 TransformerAura.DisplayName: Аура Трансформатора
 TransformerBlob.DisplayName: Осколок Трансформатора
+TrustyOldBobber.DisplayName: Старый Добрый Поплавок
 UrsaSlash.DisplayName: Взмах Медведицы
+V8000SoulVisual.DisplayName: Эссенция V8000
 VerstaltiteBobber.DisplayName: Поплавок Ферстилита
 VoidFieldGenerator.DisplayName: Генератор Поля Пустоты
 VolcanicSandBallFalling.DisplayName: Ком Вулканического Песка
@@ -165,7 +174,5 @@ WulfrumDiggingTurtleProjectile.DisplayName: Копающая Черепаха
 WulfrumHook.DisplayName: Вульфрумовая Веревка
 WulfrumLureSignal.DisplayName: Сигнал
 YellowLabSeeker.DisplayName: Ищущий Механизм
-VoidofExtinctionCrit.DisplayName: Критический Удар Мглы Погибели
 XykDeathAnim.DisplayName: Анимация Смерти Xyk
 XykWings.DisplayName: Крылья Xyk
-StratusBlackHole.DisplayName: Сингулярность Стратус

@@ -105,7 +105,7 @@ RavagerBag: {
 }
 
 SignusBag: {
-	DisplayName: Мешок с Сокровищами (Сигнус, Посол Пожирателя)
+	DisplayName: Мешок с Сокровищами (Сигнус)
 	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 }
 

@@ -1,6 +1,6 @@
 CalamityClientConfig: {
-	// DisplayName: Client Config
-	
+	DisplayName: Конфигурации Клиента
+
 	Headers: {
 		Gameplay: Общие изменения игрового процесса
 		Graphics: Изменения Графики
@@ -10,7 +10,7 @@ CalamityClientConfig: {
 	}
 
 	AbyssLayer3Alt: {
-		Label: "[i:CalamityModMusic/AbyssLayer3AltMusicBox] Abyss Layer 3 Alt"
+		Label: "[i:CalamityModMusic/AbyssLayer3AltMusicBox] 3 Слой Бездны - альтернативная версия"
 		Tooltip: Проигрывает Calamity Mod OST - "R'lyehian Depths", пока вы в слоях Бездны с Термальными Источниками.
 	}
 
@@ -92,7 +92,7 @@ CalamityClientConfig: {
 	}
 
 	DevourerofGodsEulogy: {
-		Label: "[i:CalamityModMusic/DevourerofGodsEulogyMusicBox] Eulogy for the Ego"
+		Label: "[i:CalamityModMusic/DevourerofGodsEulogyMusicBox] Трек 'Eulogy for the Ego'"
 		Tooltip: После поражения Пожирателя Богов, играет Calamity Mod OST - "Scourge of The Universe (Eulogy for The Ego).
 	}
 
@@ -212,6 +212,15 @@ CalamityClientConfig: {
 			'''
 	}
 
+	BoCSpriteChange: {
+		Label: "[i:BrainOfConfusion] Убрать Потенциально Трвеожные Изображения"
+		Tooltip:
+			'''
+			Заменяет некоторые текстуры у боссов, чтобы убрать потенциально трвожные изображения, которые могут вызвать фобии.
+			Рекомендуется, если вам неприятно смотреть на боди-хоррор или у вас имеется трипофобия (боязнь скоплений маленькых отверстий).
+			'''
+	}
+
 	RageMeterPosX: {
 		Label: "[i:LaserRuler] X-координата шкалы Буйства"
 		Tooltip:
@@ -251,7 +260,7 @@ CalamityClientConfig: {
 	}
 
 	SetBonusDoubleTap: {
-		Label: "[i:VortexHelmet] Разрешить активацию бонусов наборов брони двойным нажатием"
+		Label: "[i:VortexHelmet] Аактивация бонусов брони двойным нажатием"
 		Tooltip: Позволяет активировать все наборы брони ванильным двойным нажатием на кнопку {$Key.DOWN} (или {$Key.UP} в зависимости от настроек).
 	}
 
@@ -397,14 +406,12 @@ CalamityClientConfig: {
 		Label: "[i:Book] Информационное сообщение Википедии"
 		Tooltip: Включает или отключает сообщение об Official Calamity Wiki, которое появляется при входе в мир.
 	}
-
-	DisplayName: Конфигурации Клиента
 }
 
 CalamityServerConfig: {
-	// DisplayName: Server Config
-	// Denied: You have no permission to change this config
-	
+	DisplayName: Серверные Конфигурации
+	Denied: У вас нет прав на изменения этой конфигурации
+
 	Headers: {
 		ExpertMaster: Изменения режима Эксперта и Мастера
 		Gameplay: Общие изменения игрового процесса
@@ -479,16 +486,16 @@ CalamityServerConfig: {
 	}
 
 	FasterRopeClimbSpeed: {
-		Label: "[i:Rope] Increase Rope Climb Speed"
+		Label: "[i:Rope] Увеличение скорости лазанья по веревке"
 		Tooltip:
 			'''
-			Если включено, вы можете зажать кнопку DOWN вниз, пока находитесь в воздухе, чтобы ускорить свое падение.
+			Если включено, вы можете зажать кнопку {$Key.DOWN} вниз, пока находитесь в воздухе, чтобы ускорить свое падение.
 			Calamity сбалансирован вокруг того, что эта опция включена.
 			'''
 	}
 
 	FasterJumpSpeed: {
-		Label: "[i:FrogLeg] Increase Base Jump Speed"
+		Label: "[i:FrogLeg] Увеличение базовой скорости прыжка"
 		Tooltip:
 			'''
 			Немного увеличивает базовую скорость прыжка игрока.
@@ -539,21 +546,12 @@ CalamityServerConfig: {
 	}
 
 	PlayerRespawnTime_BossAlive: {
-		Label: "[i:Stopwatch] Boss Fight Player Respawn Time"
+		Label: "[i:Stopwatch] Время возрождения игрока при битве с боссами"
 		Tooltip:
 			'''
 			Устанавливает время возрождения игроков во время битвы с боссом. Измеряется в секундах.
 			Если нет активного босса, то игрок возродится через 3 секунды.
 			Это время работает одинаково как в одиночной игре, так и в многопользовательской.
-			'''
-	}
-
-	SimplifyAccessoryReforge: {
-		Label: "[i:Autohammer] Упростить перековку аксессуаров"
-		Tooltip:
-			'''
-			Упрощает перековку аксессуаров, ограничив выбор следюущими префиксами:
-			    - Охранный, Грозный, Счастливый, Быстрый, Жестокий, Загадочный, Заглушенный, Воодушевляющий, Бесстрашный
 			'''
 	}
 
@@ -574,14 +572,11 @@ CalamityServerConfig: {
 			Это также включает в себя и Старика.
 			'''
 	}
-
-	DisplayName: Серверные Конфигурации
-	Denied: У вас нет прав на изменения этой конфигурации
 }
 
 CooldownDisplayOptions: {
-	// Tooltip: ""
-	
+	Tooltip: ""
+
 	Full: {
 		Label: Полный вид
 		Tooltip: Отображает круглую полоску вокруг иконки, которая отображает длительность перезарядки
@@ -596,16 +591,14 @@ CooldownDisplayOptions: {
 		Label: Спрятано
 		Tooltip: ""
 	}
-
-	Tooltip: ""
 }
 
 SetBonusDoubleTapOptions: {
-	// Tooltip: ""
-	
+	Tooltip: ""
+
 	On: {
 		Label: Всегда включен
-		Tooltip: Всегда включает двойное нажатие. Можно использовать вместе кнопкой {$Keybinds.ArmorSetBonus.DisplayName} из Calamity's .
+		Tooltip: Всегда включает двойное нажатие. Можно использовать вместе кнопкой {$Keybinds.ArmorSetBonus.DisplayName} из Calamity.
 	}
 
 	Auto: {
@@ -617,13 +610,11 @@ SetBonusDoubleTapOptions: {
 		Label: Всегда выключен
 		Tooltip: Отключает двойное нажатие. Можно использовать, чтобы насовсем отключить активацию бонусов наборов брони.
 	}
-
-	Tooltip: ""
 }
 
 TileBlendingQuality: {
-	// Tooltip: ""
-	
+	Tooltip: ""
+
 	Disable: {
 		Label: Отключено
 		Tooltip: Мягкое смешивание текстур слитых блоков отключено.
@@ -639,9 +630,7 @@ TileBlendingQuality: {
 		Tooltip:
 			'''
 			Мягкое смешивание текстур слитых блоков включено и использует slice-рендеринг.
-			[c/F05A5A:Not recommended for low-end devices.]
+			[c/F05A5A:Не рекомендуется для устройств с низкой производительностью.]
 			'''
 	}
-
-	Tooltip: ""
 }

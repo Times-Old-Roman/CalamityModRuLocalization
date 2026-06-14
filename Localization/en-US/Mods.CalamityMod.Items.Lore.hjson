@@ -1,8 +1,8 @@
-/* ShortTooltip:
-'''
-[c/E3AF40:Whispers from on high dance in your ears...]
-[c/BEBEBE:Hold Shift to listen closer]
-''' */
+ShortTooltip:
+	'''
+	[c/E3AF40:Whispers from on high dance in your ears...]
+	[c/BEBEBE:Hold Shift to listen closer]
+	'''
 
 LoreAbyss: {
 	DisplayName: The Abyss
@@ -762,9 +762,3 @@ LoreYharon: {
 		'''
 	Tooltip: ""
 }
-
-ShortTooltip:
-	'''
-	[c/E3AF40:Whispers from on high dance in your ears...]
-	[c/BEBEBE:Hold Shift to listen closer]
-	'''

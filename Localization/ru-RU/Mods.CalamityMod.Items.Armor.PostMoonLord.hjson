@@ -104,63 +104,63 @@ AuricTeslaHeadMelee: {
 }
 
 AuricTeslaHeadSummon: {
-	// DisplayName: Auric Tesla Space Helmet
-	/* Tooltip:
+	DisplayName: Космический Шлем Ауритовой Молнии
+	Tooltip:
 		'''
 		{$CommonItemTooltip.IncreasesMaxMinionsBy}
 		{$CommonItemTooltip.PercentIncreasedSummonDamage@1}
-		''' */
-	/* SetBonus:
+		'''
+	SetBonus:
 		'''
 		{$CommonItemTooltip.IncreasesMaxMinionsBy}
 		{$CommonItemTooltip.PercentIncreasedSummonDamage@1}
-		Summoner Tarragon, Bloodflare and Silva armor effects
-		Hold Shift to view these set bonus details and press Shift repeatedly to cycle through them
-		''' */
-	/* SetBonus1:
+		Эффекты Таррагоновой брони, Кровавой Вспышки и Сильвы для призыва
+		Удерживайте Shift чтобы посмотреть бонусы и нажмите Shift опять, чтобы пролистать через них
 		'''
-		Inherited Tarragon Set Bonus:
+	SetBonus1:
+		'''
+		Унаследованный бонус Таррагоновой брони:
 		{$TarragonHeadSummon.SetBonusEffect}
-		''' */
-	/* SetBonus2:
 		'''
-		Inherited Bloodflare Set Bonus:
+	SetBonus2:
+		'''
+		Унаследованный бонус брони Кровавой Вспышки:
 		{$BloodflareHeadSummon.SetBonusEffect}
-		''' */
-	/* SetBonus3:
 		'''
-		Inherited Silva Set Bonus:
+	SetBonus3:
+		'''
+		Унаследованный бонус брони Сильвы:
 		{$SilvaHeadSummon.SetBonusEffect}
-		''' */
+		'''
 }
 
 AuricTeslaHeadMagic: {
-	// DisplayName: Auric Tesla Wire-Hemmed Visage
-	/* Tooltip:
+	DisplayName: Обшитый Проволокой Лик Ауритовой Молнии
+	Tooltip:
 		'''
-		{$CommonItemTooltip.IncreasesMaxManaBy} and {$CommonItemTooltip.PercentReducedManaCost@1}
-		{$CommonItemTooltip.PercentIncreasedMagicDamage@2} and {$CommonItemTooltip.PercentIncreasedMagicCritChance@3}
-		''' */
-	/* SetBonus:
+		{$CommonItemTooltip.IncreasesMaxManaBy} и {$CommonItemTooltip.PercentReducedManaCost@1}
+		{$CommonItemTooltip.PercentIncreasedMagicDamage@2} и {$CommonItemTooltip.PercentIncreasedMagicCritChance@3}
 		'''
-		Magic Tarragon, Bloodflare and Silva armor effects
-		Hold Shift to view these set bonus details and press Shift repeatedly to cycle through them
-		''' */
-	/* SetBonus1:
+	SetBonus:
 		'''
-		Inherited Tarragon Set Bonus:
+		Эффекты Таррагоновой брони, Кровавой Вспышки и Сильвы для магии
+		Удерживайте Shift чтобы посмотреть бонусы и нажмите Shift опять, чтобы пролистать через них
+		'''
+	SetBonus1:
+		'''
+		Унаследованный бонус Таррагоновой брони:
 		{$TarragonHeadMagic.SetBonusEffect}
-		''' */
-	/* SetBonus2:
 		'''
-		Inherited Bloodflare Set Bonus:
+	SetBonus2:
+		'''
+		Унаследованный бонус брони Кровавой Вспышки:
 		{$BloodflareHeadMagic.SetBonusEffect}
-		''' */
-	/* SetBonus3:
 		'''
-		Inherited Silva Set Bonus:
+	SetBonus3:
+		'''
+		Унаследованный бонус брони Сильвы:
 		{$SilvaHeadMagic.SetBonusEffect}
-		''' */
+		'''
 }
 
 BloodflareBodyArmor: {
@@ -168,7 +168,6 @@ BloodflareBodyArmor: {
 	Tooltip: "{$CommonItemTooltip.PercentIncreasedDamage} и {$CommonItemTooltip.PercentIncreasedCritChance@1}"
 	CommonSetBonus:
 		'''
-		Увеличивает регенерацию жизни до уровня, эквивалентного Багрянцевой Брони
 		Противники, у которых менее 50% здоровья, роняют сердца при получении урона
 		У этого эффекта есть 5 секундная перезарядка
 		'''
@@ -193,7 +192,7 @@ BloodflareHeadMagic: {
 	SetBonus: "{$BloodflareHeadMagic.SetBonusEffect}"
 	SetBonusEffect:
 		'''
-		Магическое оружие стреляет призрачными сгустками раз в {0} {^0:секунду;секунды;секунд}
+		Магическое оружие стреляет призрачными сгустками раз в {0} секунд
 		Критические удары магией провоцируют кровавые взрывы раз в {1} {^1:секунду;секунды;секунд}
 		{$BloodflareBodyArmor.CommonSetBonus}
 		'''
@@ -213,7 +212,7 @@ BloodflareHeadMelee: {
 		'''
 	SetBonusEffect:
 		'''
-		После удара по противнику {0} раз в настоящем ближнем бою вы войдете в Кровавое Исступление на {1} {^1:секунду;секунды;секунд}
+		После {0} {^0:удара;ударов} по противнику в настоящем ближнем бою вы войдете в Кровавое Исступление на {1} {^1:секунду;секунды;секунд}
 		Во время этого эффекта вы получаете +{2}% урона и шанса критического удара в ближнем бою, а контактный урон уменьшен на {3}%
 		У этого эффекта есть {4} секундная перезарядка
 		{$BloodflareBodyArmor.CommonSetBonus}
@@ -221,7 +220,7 @@ BloodflareHeadMelee: {
 }
 
 BloodflareHeadRanged: {
-	DisplayName: Рогатый Шлем Кровавой Вспышки
+	DisplayName: Шлем Демона Кровавой Вспышки
 	Tooltip:
 		'''
 		{$CommonItemTooltip.PercentIncreasedRangedDamageCritChance}
@@ -230,9 +229,9 @@ BloodflareHeadRanged: {
 	SetBonus: "{$BloodflareHeadRanged.SetBonusEffect}"
 	SetBonusEffect:
 		'''
-		{0} чтобы выпустить заблудших духов Полтергаста и уничтожить ваших противников
+		Нажмите {0}, чтобы выпустить заблудших духов Полтергаста и уничтожить ваших противников
 		У этого эффекта есть {1} секундная перезарядка
-		Оружие дальнего боя стреляет сферами кровавой вспышки раз в {2} {^2:секунду;секунды;секунд}
+		Оружие дальнего боя стреляет сферами кровавой вспышки раз в {2} секунд
 		{$BloodflareBodyArmor.CommonSetBonus}
 		'''
 }
@@ -243,6 +242,7 @@ BloodflareHeadRogue: {
 		'''
 		{$Common.RogueDamage} и {$Common.RogueCrit@1}
 		{$CommonItemTooltip.PercentIncreasedMovementSpeed@2}
+		+{3} ОЗ/с регенерации жизни
 		'''
 	SetBonus:
 		'''
@@ -252,7 +252,6 @@ BloodflareHeadRogue: {
 	SetBonusEffect:
 		'''
 		Дарует +{0} защиты, если у вас более {1}% ОЗ
-		Критические удары метательным оружием имеют высасывание жизни
 		{$BloodflareBodyArmor.CommonSetBonus}
 		'''
 }
@@ -307,7 +306,6 @@ DemonshadeHelm: {
 		{$CommonItemTooltip.IncreasesMaxMinionsBy}
 		{$CommonItemTooltip.PercentIncreasedSummonDamage@1}
 		При получении урона выстреливаются теневые лучи и демонические косы
-		За вами следует дружественный красный дьявол
 		Нажмите {2}, чтобы разъярить ближайших противников на {3} {^3:секунду;секунды;секунд} при помощи темного магического заклинания
 		Этот эффект заставляет их получать в {4}x больше урона, но взамен они будут наносить вам в {5}x больше урона
 		'''
@@ -338,7 +336,7 @@ EmpyreanMask: {
 		'''
 		{$Common.RogueStealth}
 		Метательное оружие имеет особые эффекты при попадании
-		При получении урона, вы пропитываетесь космическим гневом и яростью
+		При получении урона или пока у вас менее {1}% здоровья вы пропитываетесь [cbuffplr:CalamityMod/EmpyreanWrath]
 		'''
 }
 
@@ -355,7 +353,7 @@ FearmongerGreathelm: {
 		{$CommonItemTooltip.IncreasesMaxMinionsBy}
 		Призванные существа больше не получают штраф на урон, если вы держите не-призывательное оружие
 		Иммунитет ко всем формам огня и холода, кроме самых сильных
-		Прзванные существа даруют +{1} ОЗ/с регенерации жизни при атаках, а также сильно ускоряют естественное восстановление здоровья
+		Призванные существа даруют +{1} ОЗ/с регенерации жизни при атаках, а также сильно ускоряют естественное восстановление здоровья
 		'''
 }
 
@@ -421,18 +419,13 @@ GemTechSchynbaulds: {
 
 GodSlayerChestplate: {
 	DisplayName: Кираса Богоубийцы
-	Tooltip:
-		'''
-		+60 максимального здоровья
-		Касающиеся вас противники получают урон
-		+11% урона и +6% шанса критического удара
-		'''
+	Tooltip: "{$CommonItemTooltip.PercentIncreasedDamage} и {$CommonItemTooltip.PercentIncreasedCritChance@1}"
 	CommonSetBonus:
 		'''
-		Нажмите {0}, чтобы совершить [c/ff00ff:Пространственный Поток] к курсору в течение 2 секунд
+		Нажмите {0}, чтобы совершить [ceffect/dog:Пространственный Поток] к курсору в течение 2 секунд
 		Противники, через которых вы проходите, получают огромный урон
-		Во время [c/ff00ff:Пространственного Потока] вы иммунны к урону и большей части эффектов
-		[c/ff00ff:Пространственный Поток] имеет {1} секундную перезарядку 
+		Во время [ceffect/dog:Пространственного Потока] вы иммунны к урону и большей части эффектов
+		[ceffect/dog:Пространственный Поток] имеет {1} секундную перезарядку 
 		'''
 }
 
@@ -465,7 +458,7 @@ GodSlayerHeadRanged: {
 	SetBonus: "{$GodSlayerHeadRanged.SetBonusEffect}"
 	SetBonusEffect:
 		'''
-		Вы выстреливаете шрапнельным патроном богоубийцы раз в {0} {^0:секунду;секунды;секунд}, пока используете оружие дальнего боя
+		Вы выстреливаете шрапнельным патроном богоубийцы раз в {0} секунд, пока используете оружие дальнего боя
 		{$GodSlayerChestplate.CommonSetBonus@1}
 		'''
 }
@@ -484,8 +477,8 @@ GodSlayerHeadRogue: {
 		'''
 	SetBonusEffect:
 		'''
-		Пока вы на полном здоровье, все урон, шанс критического удара и скорость полета метательгого оружия усилены на {0}%
-		При получении более {1} урона за один удар, вы получите дополнительные кадры иммунитета
+		Весь урон, шанс критического удара и скорость полета метательгого оружия усилены на {0}%, пока у вас полное здоровье
+		При получении более {1} урона за один удар, вам даются дополнительные кадры иммунитета
 		{$GodSlayerChestplate.CommonSetBonus@2}
 		'''
 }
@@ -505,7 +498,7 @@ OmegaBlueChestplate: {
 		'''
 		{$CommonItemTooltip.PercentIncreasedDamage} и {$CommonItemTooltip.PercentIncreasedCritChance@1}
 		{$CommonItemTooltip.PercentChanceToSaveAmmo@2}
-		Ваши атаки накладывают Давление Глубин
+		Ваши атаки накладывают [cbuff:CalamityMod/HadopelagicPressure]
 		У вас пропадает положительная регенерация жизни
 		'''
 }
@@ -543,7 +536,7 @@ PrismaticGreaves: {
 		'''
 		{$CommonItemTooltip.PercentIncreasedMagicDamage} и {$CommonItemTooltip.PercentIncreasedMagicCritChance@1}
 		-{2}% немагического урона
-		+{3}% время полета и +{4}% скорости прыжка
+		+{3}% времени полета и +{4}% скорости прыжка
 		'''
 }
 
@@ -554,13 +547,13 @@ PrismaticHelmet: {
 		{$CommonItemTooltip.IncreasesMaxManaBy} и {$CommonItemTooltip.PercentReducedManaCost@1}
 		{$CommonItemTooltip.PercentIncreasedMagicDamage@2} и {$CommonItemTooltip.PercentIncreasedMagicCritChance@3}
 		-{4}% немагического урона
-		Противники, у которых менее 500 максимального здоровья не наносят контактного урона
+		Противники, у которых менее 500 максимального здоровья, не будут наносить вам контактный урон
 		Этот эффект пропадает, пока жив босс
 		'''
 	SetBonus:
 		'''
 		Ускоренная регенерация маны
-		[c/{0}:Призматический Шторм - Нажмите {1}, чтобы выпустить {2} секундный натиск лазеров смерти на положении курсора]
+		[c/{0}:Призматический Шторм - Нажмите {1}, чтобы выпустить {2} секундный натиск лазеров на положении курсора]
 		[c/67F4FB:У этого эффекта присутствует {3} секундная перезарядка]
 		'''
 }
@@ -582,7 +575,6 @@ SilvaArmor: {
 		'''
 		+{0} ОЗ/с регенерации жизни
 		+{1}% максимальной скорости и ускорения движения
-		Все снаряды порождают лечащие лиственные сферы при попадания в противников
 		Получение фатального урона сделает вас неуязвимым ко всему урону на {2} {^2:секунду;секунды;секунд}
 		У этого эффекта присутствует {3} минутная перезарядка
 		Во время событий или битвы с боссом этот эффект - одноразовый
@@ -605,7 +597,7 @@ SilvaHeadMagic: {
 }
 
 SilvaHeadSummon: {
-	DisplayName: Рогатый Плащ Сильвы
+	DisplayName: Рогатый Капюшон Сильвы
 	Tooltip:
 		'''
 		{$CommonItemTooltip.IncreasesMaxMinionsBy}
@@ -656,7 +648,7 @@ TarragonHeadMagic: {
 	SetBonus: "{$TarragonHeadMagic.SetBonusEffect}"
 	SetBonusEffect:
 		'''
-		Каждый пятый критический удар позволяет вам выстрелить лиственной бурей
+		Каждые пять критических ударов вы выстреливаете лиственной бурей
 		{$TarragonBreastplate.CommonSetBonus}
 		'''
 }
@@ -675,7 +667,7 @@ TarragonHeadMelee: {
 		'''
 	SetBonusEffect:
 		'''
-		При получении урона вам дается эффект [cbuff:CalamityMod/TarraLifeRegen], который дарует +{0} ОЗ/с регенерации жизни
+		При получении урона вам дается эффект [cbuffplr:CalamityMod/TarraLifeRegen], который дарует +{0} ОЗ/с регенерации жизни
 		Нажмите {1}, чтобы облачить себя энергией жизни, которая сильно уменьшает контактный урон врагов на {2} {^2:секунду;секунды;секунд}
 		У этого эффекта присутствует {3} секундная перезарядка
 		{$TarragonBreastplate.CommonSetBonus}
@@ -692,7 +684,7 @@ TarragonHeadRanged: {
 	SetBonus: "{$TarragonHeadRanged.SetBonusEffect}"
 	SetBonusEffect:
 		'''
-		Снаряды дальнего боя раскалываются при исчезновении на наводящуюся энергию жизни и листья
+		Снаряды дальнего боя раскалываются при попадании на наводящуюся энергию жизни и листья
 		{$TarragonBreastplate.CommonSetBonus}
 		'''
 }
@@ -711,9 +703,9 @@ TarragonHeadRogue: {
 		'''
 	SetBonusEffect:
 		'''
-		Каждые {0} критических ударов метательным оружием дают вам {1} {^1:секунду;секунды;секунд] иммунитета к урону
+		Каждые {0} {^0:критический удар;критических ударов} метательным оружием дают вам {1} секунды иммунитета к урону
 		У этого эффекта есть {2} секундная перезарядка
-		Если вы подвержены вредному эффекту, вы получаете +{3}% урона метательного оружия
+		Если вы подвержены вредному эффекту, то вам даруется +{3}% урона метательного оружия
 		{$TarragonBreastplate.CommonSetBonus}
 		'''
 }

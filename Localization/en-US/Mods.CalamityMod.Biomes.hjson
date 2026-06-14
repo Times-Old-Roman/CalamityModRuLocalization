@@ -1,10 +1,10 @@
 // For general uses
-// Abyss: Abyss
-// AstralInfection: Astral Infection
-// AstralSnow: Astral Snow
-// BrimstoneCrags: Brimstone Crags
-// SulphurousSea: Sulphurous Sea
-// SunkenSea: Sunken Sea
+Abyss: Abyss
+AstralInfection: Astral Infection
+AstralSnow: Astral Snow
+BrimstoneCrags: Brimstone Crags
+SulphurousSea: Sulphurous Sea
+SunkenSea: Sunken Sea
 
 AstralDesert: {
 	DisplayName: Astral Desert Surface
@@ -115,11 +115,3 @@ ClamDenBiome: {
 	DisplayName: Clam Den
 	TownNPCDialogueName: the Clam Den
 }
-
-// For general uses
-Abyss: Abyss
-AstralInfection: Astral Infection
-AstralSnow: Astral Snow
-BrimstoneCrags: Brimstone Crags
-SulphurousSea: Sulphurous Sea
-SunkenSea: Sunken Sea

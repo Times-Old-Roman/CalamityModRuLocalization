@@ -1,6 +1,24 @@
 SetBonus: {
-	Adamantite.Melee: 15% increased melee speed and 20% increased movement speed
-	Cobalt.Melee: 10% increased melee damage
+	Adamantite: {
+		$parentVal:
+			'''
+			{0}% of your current damage reduction is added to your critical strike chance
+			Continuously doing damage makes you gradually gain more and more defense, up to a maximum of {1}
+			When not doing damage, this bonus gradually decays over {2} seconds
+			This added defense can be broken by defense damage
+			'''
+		Melee: 15% increased melee speed and 20% increased movement speed
+	}
+
+	Cobalt: {
+		$parentVal:
+			'''
+			{0}% increased max speed and acceleration
+			You gain a damage and critical strike chance boost relative to your current movement speed, up to {0}%
+			'''
+		Melee: 10% increased melee damage
+	}
+
 	Copper: Increases all damage by {0}
 	Crimson:
 		'''
@@ -10,7 +28,7 @@ SetBonus: {
 		'''
 	Eskimo:
 		'''
-		25% increased Cold debuff damage
+		50% increased Cold debuff damage
 		Provides immunity to the Chilled, Frozen, and Frostburn debuffs
 		'''
 	Rain:
@@ -103,7 +121,7 @@ SetBonus: {
 		'''
 	SpectreHealing:
 		'''
-		Converts magic damage to healing force
+		Reduces Magic damage by 20% and converts it to healing force
 		Magic damage done to enemies heals the player with lowest health
 		'''
 }

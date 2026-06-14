@@ -53,7 +53,7 @@ CalamitasClone: {
 
 CeaselessVoid: {
 	EntryName: Ненасытная Пустота
-	SpawnInfo: Используйте [i:CalamityMod/RuneofKos] в Темнице.
+	SpawnInfo: Используйте [i:CalamityMod/MarkofProvidence] в Темнице.
 	DespawnMessage: "[c/4B0082:Древний межпространственный разрыв ускользнул в неизвестные нам миры.]"
 }
 
@@ -164,7 +164,7 @@ Polterghast: {
 ProfanedGuardians: {
 	EntryName: Защитники Скверны
 	SpawnInfo: Используйте [i:CalamityMod/ProfanedShard] в Освящении или в Преисподней.
-	DespawnMessage: "[c/FFA500:Защитники были отозваны обратно к своей Богине.]"
+	DespawnMessage: "[c/FFA500:Защитники были отозваны обратно к своей богине.]"
 }
 
 Providence: {
@@ -180,19 +180,19 @@ Ravager: {
 
 Signus: {
 	EntryName: Сигнус
-	SpawnInfo: Используйте [i:CalamityMod/RuneofKos] в Преисподней.
+	SpawnInfo: Используйте [i:CalamityMod/MarkofProvidence] в Преисподней.
 	DespawnMessage: "[c/BA55D3:Сигнус необъяснимо перестал быть там, где он только что находился.]"
 }
 
 SlimeGod: {
 	EntryName: Слизневый Бог
 	SpawnInfo: Используйтеn [i:CalamityMod/OverloadedSludge].
-	DespawnMessage: "[c/BA5533:Грязный, желатинистый Бог ускакал, свершив свое мщение.]"
+	DespawnMessage: "[c/BA5533:Грязный, желатинистый бог ускакал, свершив свое мщение.]"
 }
 
 StormWeaver: {
 	EntryName: Ткач Штормов
-	SpawnInfo: Используйте [i:CalamityMod/RuneofKos] высоко в небе или в космосе.
+	SpawnInfo: Используйте [i:CalamityMod/MarkofProvidence] высоко в небе или в космосе.
 	DespawnMessage: "[c/EE82EE:Ткач Штормов укрылся в свирепых грозовых облаках.]"
 }
 

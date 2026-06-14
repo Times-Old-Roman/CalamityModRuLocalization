@@ -10,12 +10,16 @@ AstralBreastplate: {
 
 AstralHelm: {
 	DisplayName: Астральный Шлем
-	Tooltip: "{$CommonItemTooltip.PercentIncreasedDamage} и {$CommonItemTooltip.PercentIncreasedCritChance@1}"
+	Tooltip:
+		'''
+		{$CommonItemTooltip.PercentIncreasedDamage} и {$CommonItemTooltip.PercentIncreasedCritChance@1}
+		Отмечает ближайших противников, вражеских снарядов, источников опасностей и сокровищ
+		[c/aaaaaa:Нажмите SHIFT-<right> на этот предмет в вашем инвентаре, чтобы переключить эффект] [cbuffplr:CalamityMod/Omniscience]
+		'''
 	SetBonus:
 		'''
 		{$CommonItemTooltip.IncreasesMaxMinionsBy}
 		{$CommonItemTooltip.PercentIncreasedDamageCritChance@1}
-		Отмечает ближайших противников, вражеских снарядов, источников опасностей и сокровищ
 		Критические удары обрушают лавину из звезд
 		У этого эффекта {2} секундная перезарядка
 		'''
@@ -45,7 +49,7 @@ BrimflameCowl: {
 		'''
 		{$CommonItemTooltip.IncreasesMaxManaBy} и {$CommonItemTooltip.PercentReducedManaCost@1}
 		{$CommonItemTooltip.PercentIncreasedMagicDamageCritChance@2}
-		Иммунитет к следующим эффектам: [cbuff:OnFire], [cbuff:CalamityMod/BrimstoneFlames] и[cbuff:Frostburn]
+		Иммунитет к следующим эффектам: [cbuffplr:OnFire], [cbuffplr:CalamityMod/BrimstoneFlames] и [cbuffplr:Frostburn]
 		'''
 	SetBonus:
 		'''
@@ -86,7 +90,7 @@ DaedalusHeadMelee: {
 	SetBonus:
 		'''
 		{$Common.AggroBoost}
-		Вы отражаете снаряды назад в противников, проигнорировав урон
+		Вы отражаете снаряды назад в противников, игнорируя урон
 		{$Common.ReflectInformation}
 		'''
 }
@@ -98,7 +102,7 @@ DaedalusHeadRanged: {
 		{$CommonItemTooltip.PercentIncreasedRangedDamage} и {$CommonItemTooltip.PercentIncreasedRangedCritChance@1}
 		{$CommonItemTooltip.PercentChanceToSaveAmmo@2}
 		'''
-	SetBonus: При получении урона, вы выпускаете взрыв осколков кристаллов
+	SetBonus: При получении урона, вы выпускаете взрыв из осколков кристаллов
 }
 
 DaedalusHeadRogue: {
@@ -140,7 +144,7 @@ DaedalusLeggings: {
 }
 
 FathomSwarmerBoots: {
-	DisplayName: Поножи Глубинного Роевика
+	DisplayName: Поножи Роевика Морской Сажени
 	Tooltip:
 		'''
 		{$CommonItemTooltip.PercentIncreasedSummonDamage}
@@ -150,7 +154,7 @@ FathomSwarmerBoots: {
 }
 
 FathomSwarmerBreastplate: {
-	DisplayName: Нагрудник Глубинного Роевика
+	DisplayName: Нагрудник Роевика Морской Сажени
 	Tooltip:
 		'''
 		{$CommonItemTooltip.IncreasesMaxMinionsBy}
@@ -160,7 +164,7 @@ FathomSwarmerBreastplate: {
 }
 
 FathomSwarmerVisage: {
-	DisplayName: Лик Глубинного Роевика
+	DisplayName: Лик Роевика Морской Сажени
 	Tooltip:
 		'''
 		{$CommonItemTooltip.IncreasesMaxMinionsBy}
@@ -186,7 +190,7 @@ ForbiddenCirclet: {
 		'''
 		{$Common.RogueStealth}
 		Нажмите {1}, чтобы создать древнюю бурю на позиции курсора
-		Древняя буря стоит {2} маны и получает бонус как от усилений призывательного оружия, так и от метательного
+		Древняя буря стоит {2} {^2:ману;маны} и получает бонус как от усилений призывательного оружия, так и от метательного
 		Скрытые удары метателя будут метить противников, призывая наводящихся пожирателей при попадании
 		Использование призывательного оружия больше не сбрасывает скрытность
 		Призванные существа больше не получают штраф на урон при использовании метательного оружия
@@ -198,7 +202,7 @@ HydrothermicArmor: {
 	Tooltip:
 		'''
 		{$CommonItemTooltip.PercentIncreasedDamage}
-		Дарует иммунитет к лаве и эффекту "[cbuff:OnFire]"
+		Дарует иммунитет к лаве и эффекту [cbuffplr:OnFire]
 		'''
 	CommonSetBonus:
 		'''
@@ -260,7 +264,7 @@ HydrothermicHeadRogue: {
 	SetBonus:
 		'''
 		{$Common.RogueStealth}
-		Метательное оружие выпускает вокруг игрока натиск наводящегося хаотического огня каждые {1} секунды
+		Метательное оружие выпускает вокруг игрока натиск наводящегося хаотического огня {^1:каждуюю;каждые} {1} {^1:секунду;секунды;секунд}
 		{$HydrothermicArmor.CommonSetBonus@2}
 		'''
 }
@@ -277,7 +281,7 @@ HydrothermicHeadSummon: {
 		{$CommonItemTooltip.IncreasesMaxMinionsBy}
 		{$CommonItemTooltip.PercentIncreasedSummonDamage@1}
 		Призывает гидротермальный источник, который будет защищать вас
-		{$HydrothermicArmor.CommonSetBonus@2
+		{$HydrothermicArmor.CommonSetBonus@2}
 		'''
 }
 
@@ -303,7 +307,7 @@ LunicCorpsHelmet: {
 	DisplayName: Шлем Лунного Отряда
 	Tooltip:
 		'''
-		+12% урона оружием, не являющимся лукоам
+		+{0}% урона оружием, не являющимся лукоам
 		Улучшает зрение и показывает местоположение врагов
 		'''
 	SetBonus:
@@ -311,7 +315,7 @@ LunicCorpsHelmet: {
 		+{0}% скорости прыжка
 		[c/{1}:Щит «MJOLNIR» - Проецирует щит-оболочку, который поглощает до {2} урона]{3}
 		[c/52CBDE:Щит начинает заряжаться через {4} {^4:секунду;секунды;секунд} после получения удара]
-		[c/52CBDE:Зарядка с нуля до полной мощности требует {5} {^5:секунду;секунды;секунд}
+		[c/52CBDE:Зарядка с нуля до полной мощности требует {5} {^5:секунду;секунды;секунд}]
 		[c/52CBDE:Получение урона во время перезарядки сбрасывает таймер]
 		'Finish the fight'
 		'''
@@ -347,7 +351,7 @@ MolluskShellmet: {
 	SetBonus:
 		'''
 		+{0}% уменьшения входящего урона
-		Вам в битве помогают две устрицы
+		Вам в битве помогают две устрицы, накладывая эффект [cbuff:CalamityMod/ShellfishClaps]
 		'''
 }
 
@@ -366,7 +370,7 @@ PlaguebringerCarapace: {
 		'''
 		{$CommonItemTooltip.IncreasesMaxMinionsBy}
 		{$CommonItemTooltip.PercentIncreasedSummonDamage@1}
-		Дарует иммунитет к эффекту "[cbuff:CalamityMod/Plague]"
+		Дарует иммунитет к эффекту [cbuffplr:CalamityMod/Plague]
 		'''
 }
 
@@ -406,9 +410,9 @@ PlagueReaperMask: {
 		'''
 		+{0}% времени полета
 		Подверженные Чуме противники получают в {1}x больше урона снарядами дальнего боя
-		[c/{2}: Затемнение Чумы - нажмите {3}, чтобы получить огромное усиление урона взамен на полную слепоту]
+		[c/{2}: Чумная Пелена - нажмите {3}, чтобы получить огромное усиление урона взамен на полную слепоту]
 		[c/009418:{$CommonItemTooltip.PercentIncreasedRangedDamage@4} и {$CommonItemTooltip.PercentIncreasedRangedCritChance@5} пока вы ослеплены]
-		[c/009418:Этот эффект длится {6} {^6:секунду;секунды;секунд} и имеет {7} секундную перезарядка]
+		[c/009418:Этот эффект длится {6} {^6:секунду;секунды;секунд} и имеет {7} секундную перезарядку]
 		'''
 }
 
@@ -426,7 +430,7 @@ PlagueReaperVest: {
 	Tooltip:
 		'''
 		{$CommonItemTooltip.PercentIncreasedRangedDamage}
-		Дарует иммунитет к Чуме
+		Дарует иммунитет к [cbuffplr:CalamityMod/Plague]
 		'''
 }
 
@@ -440,14 +444,14 @@ ReaverHeadExplore: {
 	Tooltip:
 		'''
 		+{0}% скорости копания
-		+{1}% скорости размещения блоков/стен
-		Иммунитет к лаве и дает возможность свободно двигаться сквозь жидкости
+		+{1}% скорости размещения блоков и стен
+		Дарует иммунитет к лаве и дает возможность свободно двигаться сквозь жидкости
 		'''
 	SetBonus:
 		'''
 		Излучает свет и подсвечивает сокровища и руды поблизости
 		{$Common.AggroReduction}
-		Вы можете дышать под водой
+		Дарует возможность дышать под водой
 		Сильно увеличивает видимость в Бездне
 		+{0} дальности инструментов и размещения блоков
 		Увеличивает дальность сбора предметов
@@ -468,17 +472,13 @@ ReaverHeadMobility: {
 
 ReaverHeadTank: {
 	DisplayName: Шлем Разорителя
-	Tooltip:
-		'''
-		+15% уменьшения входящего урона, но -30% урона
-		+{0} максимального здоровья и +{1} ОЗ/с
-		'''
+	Tooltip: +{0} ОЗ и +{1} ОЗ/с регенерации жизни
 	SetBonus:
 		'''
 		{$Common.AggroBoost}
-		Уменьшает на {0}% потерю регенерации здоровья от наносящих урон вредных эффектов
+		Уменьшает на {0}% потерю регенерации здоровья от наносящих урон эффектов
 		-{1}% скорости движения и времени полета
-		Получение урона дарует эффект [cbuff:CalamityMod/ReaverRage] на {2} {^2:секунду;секунды;секунд}
+		Получение урона дарует эффект [cbuffplr:CalamityMod/ReaverRage] на {2} {^2:секунду;секунды;секунд}
 		'''
 }
 

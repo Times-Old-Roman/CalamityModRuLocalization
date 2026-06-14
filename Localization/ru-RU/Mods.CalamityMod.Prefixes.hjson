@@ -2,13 +2,16 @@ Accessory: {
 	Silent.DisplayName: (Беззвучный)
 	Invigorating.DisplayName: (Воодушевляющий)
 	Dauntless.DisplayName: (Бесстрашный)
+	Friendly.DisplayName: (Дружный)
 	// New modifier effects (this is only positive)
 	StealthGenTooltip: +{0}% генерации скрытности
 	LifeRegenTooltip: +{0} ОЗ/с регенерации жизни
 	MaxLifeBoostTooltip: +{0} ОЗ
+	FriendlyTooltip: +{0} слотов призванных существ
 }
 
 Weapon: {
+	Horrible.DisplayName: (Ужасный)
 	Atrocious.DisplayName: (Отвратительный)
 	Blunt.DisplayName: (Тупой)
 	Feathered.DisplayName: (Оперенный)

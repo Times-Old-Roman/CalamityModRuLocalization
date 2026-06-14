@@ -158,12 +158,12 @@ YellowSeekingMechanism: {
 }
 
 // Schematics
-/* SchematicUnlocked:
-'''
-Has already been decrypted.
-Click to view its contents.
-Unlocked recipes:
-''' */
+SchematicUnlocked:
+	'''
+	Уже расшифровано.
+	Нажмите, чтобы ознакомиться с содержанием.
+	Разблокированы рецепты:
+	'''
 
 EncryptedSchematicHell: {
 	DisplayName: Зашифрованная схема (Преисподняя)
@@ -226,11 +226,3 @@ EncryptedSchematicSunkenSea: {
 		В итоге я сделаю вывод - достойны ли Вы битвы с моими творениями.
 		'''
 }
-
-// Schematics
-SchematicUnlocked:
-	'''
-	Уже расшифровано.
-	Нажмите, чтобы ознакомиться с содержанием.
-	Разблокированы рецепты:
-	'''

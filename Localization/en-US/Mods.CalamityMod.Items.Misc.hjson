@@ -128,6 +128,11 @@ PiggyItem: {
 	Tooltip: ""
 }
 
+PiggyGoldItem: {
+	DisplayName: "{$NPCs.PiggyGold.DisplayName}"
+	Tooltip: ""
+}
+
 PrismaticGuppyBlueItem: {
 	DisplayName: Blue Prismatic Guppy
 	Tooltip: ""
@@ -224,8 +229,8 @@ TwinklerItem: {
 }
 
 // Permanent Boosters
-// AdrenalineBoosterTooltip: Permanently increases {$Buffs.AdrenalineMode.DisplayName} damage by {0}% and damage reduction by {1}%
-// RageBoosterTooltip: Permanently increases the duration of {$Buffs.RageMode.DisplayName} by {0} second
+AdrenalineBoosterTooltip: Permanently increases {$Buffs.AdrenalineMode.DisplayName} damage by {0}% and damage reduction by {1}%
+RageBoosterTooltip: Permanently increases the duration of {$Buffs.RageMode.DisplayName} by {0} second
 
 CelestialOnion: {
 	DisplayName: Celestial Onion
@@ -246,8 +251,8 @@ CometShard: {
 		'''
 }
 
-// Ectoheart.DisplayName: Ectoheart
-// ElectrolyteGelPack.DisplayName: Electrolyte Gel Pack
+Ectoheart.DisplayName: Ectoheart
+ElectrolyteGelPack.DisplayName: Electrolyte Gel Pack
 
 EtherealCore: {
 	DisplayName: Ethereal Core
@@ -258,7 +263,7 @@ EtherealCore: {
 		'''
 }
 
-// InfernalBlood.DisplayName: Infernal Blood
+InfernalBlood.DisplayName: Infernal Blood
 
 MiracleFruit: {
 	DisplayName: Miracle Fruit
@@ -270,7 +275,7 @@ MiracleFruit: {
 		'''
 }
 
-// MushroomPlasmaRoot.DisplayName: Mushroom Plasma Root
+MushroomPlasmaRoot.DisplayName: Mushroom Plasma Root
 
 PhantomHeart: {
 	DisplayName: Phantom Heart
@@ -281,7 +286,7 @@ PhantomHeart: {
 		'''
 }
 
-// RedLightningContainer.DisplayName: Red Lightning Container
+RedLightningContainer.DisplayName: Red Lightning Container
 
 SacredStrawberry: {
 	DisplayName: Sacred Strawberry
@@ -303,7 +308,7 @@ SanguineTangerine: {
 		'''
 }
 
-// StarlightFuelCell.DisplayName: Starlight Fuel Cell
+StarlightFuelCell.DisplayName: Starlight Fuel Cell
 
 TaintedCloudberry: {
 	DisplayName: Tainted Cloudberry
@@ -315,15 +320,6 @@ TaintedCloudberry: {
 		'''
 }
 
-// Permanent Boosters
-AdrenalineBoosterTooltip: Permanently increases {$Buffs.AdrenalineMode.DisplayName} damage by {0}% and damage reduction by {1}%
-RageBoosterTooltip: Permanently increases the duration of {$Buffs.RageMode.DisplayName} by {0} second
-Ectoheart.DisplayName: Ectoheart
-ElectrolyteGelPack.DisplayName: Electrolyte Gel Pack
-InfernalBlood.DisplayName: Infernal Blood
-MushroomPlasmaRoot.DisplayName: Mushroom Plasma Root
-RedLightningContainer.DisplayName: Red Lightning Container
-StarlightFuelCell.DisplayName: Starlight Fuel Cell
 // Spawn Blockers
 SpawnBlockersOn: Spawns are currently disabled
 SpawnBlockersOff: Spawns are currently enabled
@@ -338,3 +334,8 @@ LegendaryShortTooltip:
 	[c/FF6F00:Tales of legends past radiate around you...]
 	[c/BABABA:Hold Shift to listen closer]
 	'''
+
+DisgustingSlop: {
+	DisplayName: Disgusting Slop
+	Tooltip: Can be extractinated
+}

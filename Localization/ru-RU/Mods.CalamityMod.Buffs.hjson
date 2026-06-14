@@ -1,7 +1,16 @@
+// General (Player) and (Enemy) indicators for buff tags
+OnPlayer: (Игрок)
+OnEnemy: (Противник)
+
 // Alcohols (including Odd Mushroom)
 AlcoholPoisoning: {
 	DisplayName: Алкогольное Отравление
 	Description: Вы слишком много выпили и теперь вы умираете
+}
+
+BaconOilBuff: {
+	DisplayName: Масло от Бекона
+	Description: Ох мамочки, ты облился им с ног до головы!
 }
 
 BloodyMaryBuff: {
@@ -41,7 +50,7 @@ FireballBuff: {
 
 GrapeBeerBuff: {
 	DisplayName: Виноградное Пиво
-	Description: Дальнобойные снаряды получают наведение, но урон критического удара уменьшен
+	Description: Дальнобойные снаряды получают наведение, но урон уменьшается от расстояния
 }
 
 ManhattanBuff: {
@@ -72,6 +81,7 @@ OldFashionedBuff: {
 RedWineBuff: {
 	DisplayName: Красное Вино
 	Description: Увеличена вертикальная скорость, но уменьшено время полета
+	ItemTooltipPlayer: Заставляет Багет лечить 200 ОЗ, но -2 ОЗ/с регенерации жизни на 15 секунд
 }
 
 RumBuff: {
@@ -86,7 +96,7 @@ ScrewdriverBuff: {
 
 StarBeamRyeBuff: {
 	DisplayName: Ржаной «Стар Бим»
-	Description: Увеличен магический урон, но уменьшена регенерация маны
+	Description: Увеличена регенерация маны, но уменьшен магический урон
 }
 
 TequilaBuff: {
@@ -129,85 +139,104 @@ Withered: {
 AstralInfectionDebuff: {
 	DisplayName: Астральная Инфекция
 	Description: Ваша плоть стекает с ваших костей
-	ItemTooltip: Болезнь - 37.5 УВС
+	ItemTooltipPlayer: Болезнь - 12 УВС
+	ItemTooltipEnemy: Болезнь - 37.5 УВС
 }
 
 AuricRebuke: {
 	DisplayName: Ауритовый Выговор
 	Description: Ваши клетки буйно отскакивают друг от друга
-	ItemTooltip: Электричество - 100 УВС. 4x урона по движущимся целям.
+	ItemTooltipPlayer: Электричество - 8 УВС. 5x урона по движущимся игрокам
+	ItemTooltipEnemy: Электричество - 100 УВС. 4x урона по движущимся целям
 }
 
 BanishingFire: {
 	DisplayName: Пламя Изгнания
 	Description: Вам нет прощения за грехи
-	ItemTooltip: Огонь - УВС=0.1% от максимальных ОЗ или 2000, выбирается наибольшее число
+	ItemTooltipEnemy: Огонь - УВС либо 0.1% от максимальных ОЗ, либо 2000, выбирается наибольшее число
 }
 
 BrimstoneFlames: {
 	DisplayName: Пламя Серы
 	Description: Обжигает ваше тело и дух
-	ItemTooltip: Огонь - 30 УВС
+	ItemTooltipPlayer: Огонь - 15 УВС
+	ItemTooltipEnemy: Огонь - 30 УВС
 }
 
 BurningBlood: {
 	DisplayName: Кипящая Кровь
 	Description: Ваша кровь вполне буквально кипит
-	ItemTooltip: Болезнь - 20 УВС
+	ItemTooltipPlayer: Болезнь - 4 УВС
+	ItemTooltipEnemy: Болезнь - 20 УВС
 }
 
 BrainRot: {
 	DisplayName: Гниение Мозга
 	Description: Ваши нейроны перегорают, как лампочки на гирлянде
-	ItemTooltip: Болезнь - 20 УВС
+	ItemTooltipPlayer: Болезнь - 4 УВС
+	// ItemTooltipEnemy: Sickness - 20 DPS
 }
 
 DemonicFlames: {
 	DisplayName: Демоническое Пламя
 	Description: Сжигающее пламя опаляет вашу душу
-	ItemTooltip: Огонь - УВС зависит от предмета, который наложил этот эффект
+	ItemTooltipEnemy: Огонь - УВС зависит от предмета, который наложил этот эффект
 }
 
 ElementalMix: {
 	DisplayName: Элементальный Микс
 	Description: Вас заживо потрошит чудесная симфония элементов
-	ItemTooltip: Без Типа - 200 УВС
+	ItemTooltipEnemy: Без Типа - 200 УВС
 }
 
 CrushDepth: {
 	DisplayName: Глубинное Давление
 	Description: Вас крушит давление воды
-	ItemTooltip: Вода - 50 УВС
-}
-
-RiptideDebuff: {
-	DisplayName: Разрывное Течение
-	Description: Вас хлещут сильные потоки воды
-	ItemTooltip: Вода - 15 УВС
+	ItemTooltipPlayer:
+		'''
+		Вода - 9 УВС
+		Ускоряет потерю дыхания в Бездне
+		'''
+	ItemTooltipEnemy: Вода - 50 УВС
 }
 
 Dragonfire: {
 	DisplayName: Драконий Огонь
 	Description: Вы охвачены ревущим пламенем
-	ItemTooltip: Огонь - 480 УВС
+	ItemTooltipPlayer: Огонь - 25 УВС
+	ItemTooltipEnemy: Огонь - 480 УВС
 }
 
 GodSlayerInferno: {
 	DisplayName: Инферно Богоубийцы
-	Description: Ваша плоть горит
-	ItemTooltip: Огонь - 250 УВС
+	Description: Ваша плоть объята потусторонним пламенем
+	ItemTooltipPlayer: Огонь - 25 УВС
+	ItemTooltipEnemy: Огонь - 250 УВС
+}
+
+HadopelagicPressure: {
+	DisplayName: Гадопелагическое Давление
+	Description: Вы быстро тонете в своей водяной могиле
+	ItemTooltipPlayer:
+		'''
+		Вода - 20 УВС
+		Ускоряет потерю дыхания в Бездне
+		'''
+	ItemTooltipEnemy: Вода - 175 УВС
 }
 
 HeavyBleeding: {
 	DisplayName: Сильное Кровоизлияние
 	Description: Ух, тут понадобятся швы
-	ItemTooltip: Без Типа - 40 УВС
+	ItemTooltipPlayer: Без Типа - 8 УВС
+	ItemTooltipEnemy: Без Типа - 40 УВС
 }
 
 HolyFlames: {
 	DisplayName: Святое Пламя
 	Description: Вы растворяетесь в лучах священного света
-	ItemTooltip: Огонь - 150 УВС
+	ItemTooltipPlayer: Огонь - 20 УВС
+	ItemTooltipEnemy: Огонь - 150 УВС
 }
 
 HolyInferno: {
@@ -218,83 +247,114 @@ HolyInferno: {
 Laceration: {
 	DisplayName: Рваные Раны
 	Description: Вы - кровавое месиво
-	ItemTooltip: Без Типа - 200 УВС
+	ItemTooltipPlayer: Без Типа - 18 УВС
+	ItemTooltipEnemy: Без Типа - 200 УВС
 }
 
 ManaBurn: {
 	DisplayName: Горение Маны
 	Description: Избыток маны поджигает ваше тело и сознание
-	ItemTooltip:
+	ItemTooltipEnemy:
 		'''
 		Без Типа
 		Каждые 100 потраченные маны уменьшают регенерацию жизни на 4 ОЗ/с,
-		 но обжигаю врагов на 3% от нанесенного урона
+		 но опаляют врагов на 5% от нанесенного урона
 		'''
 }
 
 MiracleBlight: {
 	DisplayName: Чудо-Пагубь
 	Description: Экзотический резонанс кромсает вашу физическую форму
-	ItemTooltip: Без Типа - 1500 УВС
+	ItemTooltipPlayer: Без Типа - 30 УВС
+	ItemTooltipEnemy: Без Типа - 1500 УВС
 }
 
 Nightwither: {
 	DisplayName: Ночное Иссушение
-	Description: Вы горите лунными лучами
-	ItemTooltip: Холод - 100 УВС
+	Description: Вас расщепляют лунные лучи
+	ItemTooltipPlayer: Холод - 20 УВС
+	ItemTooltipEnemy: Холод - 100 УВС
 }
 
 Plague: {
 	DisplayName: Чума
 	Description: Вы гниете изнутри
-	ItemTooltip: Болезнь - 50 УВС
+	ItemTooltipPlayer: Болезнь - 15 УВС
+	ItemTooltipEnemy: Болезнь - 50 УВС
+}
+
+RiptideDebuff: {
+	DisplayName: Разрывное Течение
+	Description: Вас хлещут резкие потоки воды
+	ItemTooltipPlayer: Вода - 3 УВС
+	ItemTooltipEnemy: Вода - 15 УВС
 }
 
 SagePoison: {
 	DisplayName: Яд Флоры
-	Description: Вы отравлены
-	ItemTooltip: Болезнь - УВС увеличивается с количеством Вирусных Ростков
+	Description: Вы отравлены быстродействующим ядом
+	ItemTooltipEnemy:
+		'''
+		Болезнь - 25 УВС за Вирусный Росток / 50 УВС за лезвие Изумрудного Авангарда
+		Игнорирует 75% сопротивления врага к болезни
+		'''
 }
 
 SearingLava: {
 	DisplayName: Обжигающая Лава
-	Description: Серная лава обжигает вашу плоть
+	Description: Серная лава обугливает вашу плоть
+	ItemTooltipPlayer: Огонь - 15 УВС
+	ItemTooltipEnemy:
+		'''
+		Огонь - 20 УВС
+		Игнорирует сопротивления врага к огню
+		Получает двойной эффект от усилителей элемента огня
+		'''
 }
 
 ShellfishClaps: {
 	DisplayName: Схлопнувшиеся Устрицы
-	Description: Техасская мазня с устрицами
+	Description: Техасская резня с устрицами
+	ItemTooltipEnemy: Без Типа - 75 УВС за каждую призванную Устрицу
 }
 
 Shred: {
 	DisplayName: Шинковка
-	Description: Кто-то накопил десять Трехгранных Кинжалов...
-	ItemTooltip: ""
+	Description: Кажется кто-то накопил десять Трехгранных Кинжалов...
+	// ItemTooltipEnemy: ""
 }
 
 SnapClamDebuff: {
 	DisplayName: Заустрицен
 	Description: Вас прихлопнули Устрицы
+	ItemTooltipEnemy: Без Типа - 7.5 УВС за каждую схлопнувшуюсю Устрицу
 }
 
 StaticDischarge: {
 	DisplayName: Статический Разряд
 	Description: Шокированы статическим электричеством
-	ItemTooltip: Электричество - 2.5 УВС. 4x урона по движущимся целям
+	ItemTooltipPlayer: Электричество - 1.5 УВС. 4x урона по движущимся игрокам
+	ItemTooltipEnemy: Электричество - 2.5 УВС. 4x урона по движущимся целям
 }
 
 SulphuricPoisoning: {
 	DisplayName: Отравление Серой
-	Description: Кислотные воды разъедают вашу кожу
-	ItemTooltip: Болезнь - 120 УВС
+	Description: Кислотные воды разъедают вашу плоть
+	ItemTooltipPlayer: Болезнь - 3 УВС
+	ItemTooltipEnemy: Болезнь - 175 УВС
 }
 
 TrueVulnerabilityHex: {
 	DisplayName: Истинные Чары Уязвимости
 	Description: Настал конец
-	ItemTooltip:
+	ItemTooltipPlayer:
 		'''
-		Огонь - 1998 УВС
+		Огонь - 25 УВС
+		Увеличивает урон от всех источников
+		'''
+	ItemTooltipEnemy:
+		'''
+		Огонь - 1332 УВС
 		Увеличивает урон от всех источников
 		Замедляет противников
 		'''
@@ -302,8 +362,8 @@ TrueVulnerabilityHex: {
 
 Vaporfied: {
 	DisplayName: Испарен
-	Description: Парево
-	ItemTooltip:
+	Description: Парилка
+	ItemTooltipEnemy:
 		'''
 		Без Типа - 15 УВС
 		Замедляет врагов
@@ -313,28 +373,51 @@ Vaporfied: {
 VermillionFlux: {
 	DisplayName: Алый Ток
 	Description: Жгучие алые дуги скачут по вам
-	ItemTooltip: Электричество - 50 УВС. 4x урона по движущимся целям
+	ItemTooltipPlayer: Электричество - 5 УВС. 5x урона по движущимся игрокам
+	ItemTooltipEnemy: Электричество - 37.5 УВС. 4x урона по движущимся целям
 }
 
 Voidfrost: {
 	DisplayName: Мороз Пустоты
 	Description: Пустота космоса поглощает все тепло и жизнь
-	ItemTooltip: Холод - 200 УВС
+	ItemTooltipPlayer: Холод - 20 УВС
+	ItemTooltipEnemy: Холод - 250 УВС
 }
 
 VulnerabilityHex: {
 	DisplayName: Чары Уязвимости
 	Description: Сила твоей души угасла
-	ItemTooltip:
+	ItemTooltipPlayer:
+		'''
+		Огонь - 15 УВС
+		Ослабляет защиту и уменьшение входящего урона 
+		'''
+	ItemTooltipEnemy:
 		'''
 		Огонь - 1332 УВС
-		Замедляет врагов
+		Замедляет противников
 		'''
 }
 
 WeakBrimstoneFlames: {
 	DisplayName: Легкое Пламя Серы
 	Description: Использование силы Великой Ведьмы приносит вам страдание, но делает ваши атаки сильными
+}
+
+WindChilled: {
+	DisplayName: Холодный Ветер
+	Description: Я ж говорил, что надо было надеть куртку!
+	ItemTooltipPlayer:
+		'''
+		Холод - 2 УВс
+		Уменьшенная скорость движения
+		'''
+	ItemTooltipEnemy:
+		'''
+		Холод - 6 УВС
+		1.5x урона, если на противника наложен эффект Воды
+		Усиливает урон от эффектов Воды
+		'''
 }
 
 // Mounts
@@ -423,6 +506,11 @@ BabyGhostBellBuff: {
 BearBuff: {
 	DisplayName: Бер
 	Description: За вами следует ангелочек-хранитель
+}
+
+BeldumBuff: {
+	DisplayName: Железный Шар
+	Description: Исключительно блестящий!
 }
 
 BloodBound: {
@@ -540,9 +628,14 @@ SparksBuff: {
 	Description: Ест бабочек
 }
 
+StarSwallowerPetBuff: {
+	DisplayName: Звездоглот
+	Description: Мммммм мда
+}
+
 ThirdSageBuff: {
 	DisplayName: Третий Мудрец
-	Description: Ах? Ну не может быть, что он Они
+	Description: А? Ну не может быть, что он Они
 }
 
 ToastyBatBuff: {
@@ -614,7 +707,7 @@ AstralInjectionBuff: {
 
 BaguetteBuff: {
 	DisplayName: Багет
-	Description: Хорошо идет с Красным Вином
+	Description: -2 ОЗ/с регенерации жизни
 }
 
 BloodfinBoost: {
@@ -672,6 +765,11 @@ SulphurskinBuff: {
 	Description: Эффект серных воды уменьшен на вас
 }
 
+SwinesWrathBuff: {
+	DisplayName: Гнев Свинтуса
+	Description: Священная эссенция отвергает твое тело
+}
+
 WeaponImbueBrimstone: {
 	DisplayName: Накачка Оружия: Сера
 	Description: Атаки в ближнем бою, кнутами, и метательным оружием зажигают врагов пламенем серы
@@ -705,7 +803,7 @@ AbsorberRegen: {
 		Вы благословлены кульминацией природных сил
 		+3 ОЗ/с регенерации жизни, +8% урона, +5% уменьшение входящего урона
 		'''
-	ItemTooltip: Увеличены регенерация жизни, урон, и уменьшение входящего урона
+	ItemTooltipPlayer: Увеличены регенерация жизни, урон, и уменьшение входящего урона
 }
 
 AbyssalDivingSuitBuff: {
@@ -730,6 +828,7 @@ AeolianEarthBuff: {
 		Вы усилены первозданными силами
 		+{0}% уменьшения входящего урона, +{1}% урона, значительно увеличена регенерация маны
 		'''
+	ItemTooltipPlayer: +8% уменьшаения входящего урона, +15% урона, массивное ускорение регенерации маны
 }
 
 Afflicted: {
@@ -796,12 +895,13 @@ ChiRegenBuff: {
 CoralSymbiosis: {
 	DisplayName: Коралловый Симбиоз
 	Description: Коралловый Фонтан заряжается быстрее и наносит +{0} урона
+	ItemTooltipPlayer: Ускоряет зарядку Кораллового Фонтана и усиливает его урон
 }
 
 CosmicFreeze: {
 	DisplayName: Космическая Заморозка
 	Description: Вы чувствуете, что вы так же холодны, как и пустые просторы космоса
-	ItemTooltip: Увеличена регенерация здоровья, особенно, если вы стоити на месте, а ближайшие противники замораживаются
+	ItemTooltipPlayer: Увеличена регенерация здоровья, особенно, если вы стоити на месте, а ближайшие противники замораживаются
 }
 
 DivineBless: {
@@ -812,6 +912,7 @@ DivineBless: {
 EmpyreanWrath: {
 	DisplayName: Эмпирейский Гнев
 	Description: Гнев космоса
+	ItemTooltipPlayer: Увеличивает урон и шанс критического удара
 }
 
 Encased: {
@@ -857,7 +958,7 @@ IceShieldBuff: {
 Mushy: {
 	DisplayName: Грибное Покрытие
 	Description: +{0} защиты и +{1} ОЗ/с регенерации жизни
-	ItemTooltip: Увеличена защита и регенерация жизни
+	ItemTooltipPlayer: Увеличена защита и регенерация жизни
 }
 
 PhantomicEmpowerment: {
@@ -928,7 +1029,7 @@ ReaverRage: {
 		Гнев земли
 		+{0} защиты и +{1}% урона
 		'''
-	ItemTooltip: Защита и урон увеличены
+	ItemTooltipPlayer: +10 защиты, +10% урона
 }
 
 SandsWindBuff: {
@@ -938,6 +1039,7 @@ SandsWindBuff: {
 		Вы усилены мощью песков
 		+{0}% защиты, +{1}% урона, значительно увеличена регенерация маны
 		'''
+	ItemTooltipPlayer: +4 защиты, +12% урона, значительное ускорение регенерации маны
 }
 
 SilvaRevival: {
@@ -973,14 +1075,14 @@ TarragonImmunity: {
 TarraLifeRegen: {
 	DisplayName: Тарра-Регенерация
 	Description: Быстрая регенерация жизни
-	ItemTooltip: ""
+	ItemTooltipPlayer: ""
 }
 
 // Stat debuffs
 AbsorberAffliction: {
 	DisplayName: Недуг Поглотителя
 	Description: Емае, природа, ты страшная!
-	ItemTooltip: Болезнь - 200 УВС
+	ItemTooltipEnemy: Болезнь - 200 УВС
 }
 
 AndromedaCripple: {
@@ -991,18 +1093,29 @@ AndromedaCripple: {
 ArmorCrunch: {
 	DisplayName: Пробитие Брони
 	Description: Ваша броня покромсана
-	ItemTooltip: -15% уменьшения входящего урона
+	ItemTooltipPlayer: Ослабляет защиту и уменьшение входящего урона
+	ItemTooltipEnemy: -15% уменьшения входящего урона
+}
+
+Bane: {
+	DisplayName: Пагубь
+	Description: Вас охватывает древнее проклятье
+	ItemTooltipEnemy:
+		'''
+		Без Типа - 20 УВС
+		Урон увеличивается не усилителями эффектов, а шансом критического удара
+		'''
 }
 
 Crumbling: {
 	DisplayName: Крошение
 	Description: Ваша броня повреждена
-	ItemTooltip: -8% уменьшения входящего урона
+	ItemTooltipEnemy: -8% уменьшения входящего урона
 }
 
 Clamity: {
 	DisplayName: Clamity
-	Description: Моллюски были разозлены!
+	Description: Вы повергли гнев моллюсков!
 }
 
 DoGExtremeGravity: {
@@ -1022,7 +1135,7 @@ Enraged: {
 Eutrophication: {
 	DisplayName: Эвтрофикация
 	Description: Нехватка кислорода в вашем теле препятствуют движению
-	ItemTooltip: Противника замедляются
+	ItemTooltipEnemy: Противника замедляются
 }
 
 ExoFreeze: {
@@ -1043,19 +1156,7 @@ FrozenLungs: {
 GalvanicCorrosion: {
 	DisplayName: Электрохимическая Коррозия
 	Description: Ваши конечности начали корродировать
-	ItemTooltip: Противники замедляются
-}
-
-GlacialState: {
-	DisplayName: Оледеневшее Состояние
-	Description: Вы не можете двигаться
-	ItemTooltip: Противники замораживаются
-}
-
-HadopelagicPressure: {
-	DisplayName: Гадопелагическое Давление
-	Description: Быстро тонете в своей водяной могиле
-	ItemTooltip: Вода - 200 УВС
+	ItemTooltipEnemy: Замедляет противников
 }
 
 IcarusFolly: {
@@ -1070,7 +1171,12 @@ IcarusFolly: {
 Irradiated: {
 	DisplayName: Облучение
 	Description: Ваша кожа горит
-	ItemTooltip:
+	ItemTooltipPlayer:
+		'''
+		Typeless - 2 УВС
+		Ослабляет защиту и уменьшение входящего урона
+		'''
+	ItemTooltipEnemy:
 		'''
 		Без типа - 10 УВС
 		Увеличивается входящий урон от эффектов болезни
@@ -1079,13 +1185,14 @@ Irradiated: {
 
 MarkedforDeath: {
 	DisplayName: Метка на Смерть
-	Description: Уменьшение входящего урона ослаблено
-	ItemTooltip: -50% уменьшения входящего урона
+	Description: Увеличивает получаемый урон
+	ItemTooltipEnemy: 1.1x входящего урона
 }
 
 PearlAura: {
 	DisplayName: Аура Жемчужины
 	Description: Вы замедлены
+	ItemTooltipEnemy: Замедляет противников
 }
 
 ProfanedWeakness: {
@@ -1096,13 +1203,13 @@ ProfanedWeakness: {
 TemporalSadness: {
 	DisplayName: Временная Грусть
 	Description: Вы плачете
-	ItemTooltip: Останавливает противников
+	ItemTooltipEnemy: Замедляет противников
 }
 
 TimeDistortion: {
 	DisplayName: Искажение Времени
 	Description: Время замедлено
-	ItemTooltip: Замедляет противников
+	ItemTooltipEnemy: Замедляет противников
 }
 
 Warped: {
@@ -1118,7 +1225,8 @@ WeakPetrification: {
 WhisperingDeath: {
 	DisplayName: Шепчущая Смерть
 	Description: Урон и регенерация жизни уменьшены; [c/660066:Надвигается смерть...]
-	ItemTooltip: Контактный урон уменьшен
+	// ItemTooltipPlayer: Negates life regen, reduces damage
+	// ItemTooltipEnemy: Reduced damage
 }
 
 WitherDebuff: {
@@ -1128,6 +1236,7 @@ WitherDebuff: {
 		Вы иссушены...
 		-{0} защиты
 		'''
+	ItemTooltipEnemy: -20 защиты
 }
 
 // Summons
@@ -1168,7 +1277,7 @@ BabyBloodCrawlerBuff: {
 
 BabySlimeGodBuff: {
 	DisplayName: Молодой Слизневый Бог
-	Description: Молодой Слизневый Бог защищает вас
+	Description: Молодой Слизневый бог защищает вас
 }
 
 BabyStormlionBuff: {
@@ -1274,11 +1383,6 @@ DankCreeperBuff: {
 DazzlingStabberBuff: {
 	DisplayName: Ослепляющий Кол
 	Description: Защищайтесь!
-}
-
-DemonshadeSetDevilBuff: {
-	DisplayName: Красный Дьявол
-	Description: Красный Дьявол защищает вас
 }
 
 EnchantedKnifeStaffBuff: {
@@ -1497,9 +1601,9 @@ PuffWarriorBuff: {
 	Description: Он уверенно и оживленно защищает вас
 }
 
-RareSandElemental: {
-	DisplayName: Редкий Пустынный Элементаль
-	Description: Пустынный Элементаль излечит вас
+OasisElementalBuff: {
+	DisplayName: Элементаль Оазиса
+	Description: Элементаль Оазиса излечит вас
 }
 
 ResurrectionButterflyBuff: {
@@ -1661,17 +1765,28 @@ PopoNoselessBuff: {
 
 Daybroken: {
 	DisplayName: Солнечный Ожог
-	ItemTooltip: Огонь - 100 УВС
+	ItemTooltipPlayer: Огонь - 20 УВС
+	ItemTooltipEnemy: Огонь - 100 УВС
 }
 
 Shadowflame: {
 	DisplayName: Теневое Пламя
-	ItemTooltip: Огонь - 30 УВС
+	ItemTooltipPlayer: Огонь - 15 УВС
+	ItemTooltipEnemy: Огонь - 30 УВС
 }
 
 ForbiddenStealthSummonTagBuff: {
 	DisplayName: Запретный Скрытностный Бафф для Метки Призывателя
 	Description: Если вы это видите, то что-то очень пошле не так
+}
+
+Malnourished: {
+	DisplayName: Недоедание
+	Description:
+		'''
+		Малые уменьшения всем характеристикам
+		Ваша печенка стала сильнее!
+		'''
 }
 
 SeaKingsAssurance: {
@@ -1682,4 +1797,25 @@ SeaKingsAssurance: {
 CnidarianSummonTagBuff: {
 	DisplayName: Бафф Метки Призывателя от Книдариана
 	Description: нет, вы это не увидите
+}
+
+SmashedEvil: {
+	DisplayName: Врагопобоище
+	Description: Увеличение урона, скорости движения и регенерации жизни
+	ItemTooltipEnemy:
+		'''
+		Все Типы - 20 УВС
+		+5 получаемого урона
+		'''
+	ItemTooltipPlayer:
+		'''
+		Регенерация достигает полной силы на 200% быстрее
+		+10% урона
+		+20% скорости движения
+		'''
+}
+
+VoidConcentrationSummonTagBuff: {
+	DisplayName: Эффект Метки Призванной Концентрации Бездны
+	Description: Вы это не увидите в нормальных условиях.
 }

@@ -162,12 +162,12 @@ YellowSeekingMechanism: {
 }
 
 // Schematics
-/* SchematicUnlocked:
-'''
-Has already been decrypted.
-Click to view its contents.
-Unlocked recipes:
-''' */
+SchematicUnlocked:
+	'''
+	Has already been decrypted.
+	Click to view its contents.
+	Unlocked recipes:
+	'''
 
 EncryptedSchematicHell: {
 	DisplayName: Encrypted Schematic (Underworld)
@@ -225,11 +225,3 @@ EncryptedSchematicSunkenSea: {
 		I will know by the end if you are worthy of battling my creations.
 		'''
 }
-
-// Schematics
-SchematicUnlocked:
-	'''
-	Has already been decrypted.
-	Click to view its contents.
-	Unlocked recipes:
-	'''

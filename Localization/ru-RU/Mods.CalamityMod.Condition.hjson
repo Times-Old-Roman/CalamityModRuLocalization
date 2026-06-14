@@ -33,6 +33,7 @@ Drops: {
 	DownedExos: После победы над Экзо-Мехами
 	DownedSCal: После победы над Каламитас
 	DownedAEW: После победы над Первозданным Вирмом
+	DownedHorribleHog: После победы над Ужасающим Кабаном
 	DownedClam: После победы над Гигантским Моллюском
 	DownedClamHM: После победы над Гигантским Моллюском в Хардмоде
 	DownedGSS: После победы над Великой Песчаной Акулой
@@ -52,6 +53,8 @@ Drops: {
 // Other conditions
 HasFlareGun: Пока держите в руках улучшенный вариант Сигнальной Ракетницы
 LacewingBestiary: После того, как хотя бы 40% Бестиария было заполнено
+CrescentMoons: Во время растущих лун
+GibbousMoons: Во время убывающих лун
 HasRogueArmor: Пока носите броню для метателя
 HasWings: Пока носите крылья
 InAstral: В Астральной Инфекции
@@ -60,3 +63,11 @@ InSulph: В Серном Море
 InSunken: В Затонувшем Море
 InRev: Доступно только на режиме Мести
 InRevOrMM: Доступно только на режиме Мести или Мастера
+HasFoundCorruptionEffigy: После получения Тотема Искажения
+HasFoundCrimsonEffigy: После получения Тотема Багрянца
+HasFoundUnstableGraniteCore: После получения Нестабильного Гранитного Ядра
+HasFoundGladiatorsLocket: После получения Медальона Гладиатора
+HasFoundFrozenCube: После получения Морозного Куба
+HasFoundTrinketOfChi: После получения Ожерелья Ки
+HasFoundFungalSymbiote: После получения Грибного Симбионта
+HasFoundLuxorsGift: После получения Дара Люксора

@@ -1,10 +1,10 @@
 // Quest fish tooltips
-// CaughtInAstral: Caught in the Astral Infection
-// CaughtInBrimstoneCrag: Caught in the Brimstone Crag
-// CaughtInSnow: Caught in Tundra
-// CaughtInSpace: Caught in Sky Lakes
-// CaughtInSunkenSea: Caught in the Sunken Sea
-// LocationTooltip: "'{0}'"
+CaughtInAstral: "'Ловится в Астральной Инфекции'"
+CaughtInBrimstoneCrag: "'Ловится в Серных Скалах'"
+CaughtInSnow: Ловится в Тундре
+CaughtInSpace: Ловится на Небесных Островах
+CaughtInSunkenSea: "'Ловится в Затонувшем Море'"
+LocationTooltip: "'{0}'"
 
 // Astral Infection Catches
 AldebaranAlewife: {
@@ -46,8 +46,8 @@ UrsaSergeant: {
 	DisplayName: Сержант Большой Медведицы
 	Tooltip:
 		'''
-		Атаки терзают противников астральными когтями
-		Получение урона сбрасывает перезарядку, но накладывает на вас эффект {$Buffs.AstralInfectionDebuff.DisplayName}
+		Атаки терзают противников астральными когтями, которые накладывают эффект [cbuff:CalamityMod/AstralInfectionDebuff]
+		Получение урона сбрасывает перезарядку, но накладывает на вас эффект [cbuffplr:CalamityMod/AstralInfectionDebuff]
 		Убийства противников уменьшают перезарядку
 		Взмахи будут прозрачными и тихими, если отключена видимость
 		'''
@@ -58,10 +58,8 @@ Bloodfin: {
 	DisplayName: Кровоперка
 	Tooltip:
 		'''
-		Дает эффект, который дарует +{0} ОЗ/с регенерации жизни и сильно увеличивает естественную регенерацию жизни
-		+{1} ОЗ/с регенерации жизни, если на вас отрицательный эффект
-		Этот эффект напрямую восстанавливает ОЗ каждые {2} секунд, если у вас меньше {3}% здоровья
-		{$CommonItemTooltip.SecondDuration@4}
+		Дарует эффект, который восстанавливает 1 ОЗ каждые {0} секунд
+		{$CommonItemTooltip.SecondDuration@1}
 		'Чудеса ангиогенеза'
 		'''
 }
@@ -105,7 +103,7 @@ DragoonDrizzlefish: {
 		'''
 		Стреляет ассортиментом огненных шаров из адского и серного пламени
 		Иногда плюется большим раскалывающимся огненным шаром
-		Нажмите ПКМ, чтобы накормить малыша вкусненьким гелем
+		Нажмите <right>, чтобы накормить малыша вкусненьким гелем
 		'Он голодный малый'
 		'''
 }
@@ -267,9 +265,14 @@ Spadefish: {
 	DisplayName: Лопаторыба
 	Tooltip:
 		'''
+		Швырните лопаторыбу в ваших противников
+		Скрытые удары заставляют вас прокрутить лопату перед броском, нанося урон ближайшим противникам
+		[c/aaaaaa:SHIFT-<right> на предмет в инвентаре, чтобы [TOGGLE] копание блоков]
 		'Как можно использовать рыбу, чтобы копать землю?
 		Думаю, на некоторые вопросы лучше не знать ответы...'
 		'''
+	TextWhileEnabled: включить
+	TextWhileDisabled: отключить
 }
 
 StuffedFish: {
@@ -320,7 +323,7 @@ NavyFishingRod: {
 	DisplayName: Морская Удочка
 	Tooltip:
 		'''
-		Поплавки накладывают Статический Разряд на ближайших противников
+		Поплавки накладывают [cbuff:CalamityMod/StaticDischarge] на ближайших противников
 		'Море - это город
 		Прямо под нами тянутся автострады, бульвары, улицы и развязки, полные бурного подводного движения'
 		'''
@@ -330,7 +333,7 @@ RiftReeler: {
 	DisplayName: Разломная Катушка
 	Tooltip:
 		'''
-		Бросает сразу 4 лесок.
+		Бросает сразу 4 лесок. Поплавки наносят урон при контакте о противника
 		Позволяет рыбачить в лаве
 		'Поле боя - это сцена постоянного хаоса
 		Победителем станет тот, кто обуздает этот хаос, как удочку, так и рыбу'
@@ -358,6 +361,16 @@ TheDevourerofCods: {
 		'''
 }
 
+TrustyOldRod: {
+	DisplayName: Старая Добрая Удочка
+	Tooltip: Позволяет совершать..."особо экзотические" ловли
+	SalesPitch:
+		'''
+		'Я с Хоггартом работал с лучшими рыбаками мира, чтобы дать вам самую эффективную удочку на рынке!'
+		'С ее новейшими рыболовными технологиями вы сможете выловить что угодно! Больше ни одна тварь не избежит вашего крючка!'
+		'''
+}
+
 VerstaltiteFishingRod: {
 	DisplayName: Удочка Ферсталита
 	Tooltip:
@@ -377,76 +390,82 @@ WulfrumRod: {
 }
 
 // Bait
+RageBait: {
+	DisplayName: Байт
+	Tooltip:
+		'''
+		Реагирует на выловленную рыбу
+		До злости ненадежно
+		'''
+	SalesPitch:
+		'''
+		'Знаете секрет? Рыбалка такая долгая, потому что рыба - глупая! Они все время проплывают мимо вашего крючка!'
+		'А вот с этой вот наживкой? Больше такого не произойдет! Она сделает ваш крючок единственной вещью, о которой они будут думать. Вы будете тонуть в улове спустя всего лишь несколько минут!' 
+		'''
+}
+
 GrandMarquisBait: {
 	DisplayName: Великая Наживка Маркиза
 	Tooltip: ""
 }
 
 // Bobbers
-ScrapBobber: {
+AcrobaticBobber: {
+	// DisplayName: Acrobatic Bobber
+	/* Tooltip:
+		'''
+		{$ItemTooltip.FishingBobber}
+		Provides a fishing minigame
+		Moving while fishing instead moves your bobbers
+		Rings appear over time above the water's surface
+		Touching a ring hooks an item onto the bobber
+		Bobbers will automatically reel in hooked items upon landing back in the water
+		''' */
+}
+
+FeralBobber: {
+	// DisplayName: Feral Bobber
+	/* Tooltip:
+		'''
+		{$ItemTooltip.FishingBobber}
+		Gains fishing power the more life you have lost
+		Provides a fishing minigame
+		Hold <right> while catching fish to drain life and speed up catches
+		Bobbers can hook onto enemies, dealing damage when life is drained
+		''' */
+}
+
+SunkenSinker: {
+	DisplayName: Затонувшее Грузило
+	Tooltip:
+		'''
+		{$ItemTooltip.FishingBobber}
+		Устраивает рыболовную мини-игру
+		Поплавок всплывет до вашей высоты в воде, позволяя рыбачить под водой
+		Двигайтесь в указанном направлении, пока рыбачите, чтобы поймать предмет
+		'''
+}
+
+VolcanicSinker: {
+	// DisplayName: Volcanic Sinker
+	/* Tooltip:
+		'''
+		{$ItemTooltip.FishingBobber}
+		Allows fishing in lava
+		Provides a fishing minigame
+		Moving while fishing instead moves your bobbers
+		Rifts appear over time in liquids, containing an item
+		When bobbers touch a rift, they automatically reel in the item within
+		''' */
+}
+
+WulfrumBobber: {
 	DisplayName: Вульфрумовый Поплавок
 	Tooltip:
 		'''
 		Устраивает рыболовную мини-игру
-		Двигайтесь в указанном направлении, пока рыбачите, чтобы поймать предмет
-		Удочка усиливается, если вы играете без ошибок, ускоряя ееup
+		Удерживайте кнопки движения в указанном направлении, пока рыбачите, чтобы поймать предмет
+		Удочка постепенно ускоряется, пока вы играете без ошибок
 		'Тут должен был быть установлен эхолот, но он пиликает только если направить на себя...'
 		'''
 }
-
-NavystoneBobber: {
-	DisplayName: Затонувший Поплавок
-	Tooltip:
-		'''
-		{$ItemTooltip.FishingBobber}
-		Устраивает рыболовную мини-игру
-		Поплавок всплывет до вашей высоты, позволяя рыбачить
-		Двигайтесь в указанном направлении, пока рыбачите, чтобы поймать предмет
-		'''
-}
-
-SkylineBobber: {
-	DisplayName: Поплавок Акробата
-	Tooltip:
-		'''
-		{$ItemTooltip.FishingBobber}
-		Устраивает рыболовную мини-игру
-		Движение во время рыбалки двигает ваш поплавок
-		Со временем над поверхностью воды появляются кольца
-		Касание кольца зацепляет предмет поплавком
-		Поплавки автоматически поднимут зацепленный предмет, как только попадут обратно в воду
-		'''
-}
-
-PerennialBobber: {
-	DisplayName: Дикий Поплавок
-	Tooltip:
-		'''
-		{$ItemTooltip.FishingBobber}
-		Чем меньше у вас здоровья, тем больше даруется рыболовного мастерства
-		Устраивает рыболовную мини-игру
-		Удерживайте <right>, пока ловите рыбу, чтобы вытянуть жизнь и ускорить ловлю
-		Поплавки могут зацепиться за врага, нанося урон, если у вас вытягивается здоровье
-		'''
-}
-
-ScoriaBobber: {
-	DisplayName: Вулканическое Грузило
-	Tooltip:
-		'''
-		{$ItemTooltip.FishingBobber}
-		Позволяет рыбачить в лаве
-		Устраивает рыболовную мини-игру
-		Движение во время рыбалки двигает поплавок
-		Со временем в жидкостях появляются разломы, в которых есть предмет
-		Если поплавок касается разлома, то он автоматически собирает предмет внутри
-		'''
-}
-
-// Quest fish tooltips
-CaughtInAstral: "'Ловится в Астральной Инфекции'"
-CaughtInBrimstoneCrag: "'Ловится в Серных Скалах'"
-CaughtInSnow: Ловится в Тундре
-CaughtInSpace: Ловится на Небесных Островах
-CaughtInSunkenSea: "'Ловится в Затонувшем Море'"
-LocationTooltip: "'{0}'"

@@ -128,6 +128,11 @@ PiggyItem: {
 	Tooltip: ""
 }
 
+PiggyGoldItem: {
+	DisplayName: "{$NPCs.PiggyGold.DisplayName}"
+	Tooltip: ""
+}
+
 PrismaticGuppyBlueItem: {
 	DisplayName: Синий Призматический Гуппи
 	Tooltip: ""
@@ -224,8 +229,8 @@ TwinklerItem: {
 }
 
 // Permanent Boosters
-// AdrenalineBoosterTooltip: Permanently increases {$Buffs.AdrenalineMode.DisplayName} damage by {0}% and damage reduction by {1}%
-// RageBoosterTooltip: Permanently increases the duration of {$Buffs.RageMode.DisplayName} by {0} second
+AdrenalineBoosterTooltip: Навсегда увеличивает урон {$Buffs.AdrenalineMode.DisplayName} на {0}% и уменьшение урона на {1}%
+RageBoosterTooltip: Навсегда увеличивает длительность {$Buffs.RageMode.DisplayName} на {0} {^0:секунду;секунды;секунд}
 
 CelestialOnion: {
 	DisplayName: Небесная Луковица
@@ -246,8 +251,8 @@ CometShard: {
 		'''
 }
 
-// Ectoheart.DisplayName: Ectoheart
-// ElectrolyteGelPack.DisplayName: Electrolyte Gel Pack
+Ectoheart.DisplayName: Эктосердце
+ElectrolyteGelPack.DisplayName: Пачка Электролитного Геля
 
 EtherealCore: {
 	DisplayName: Эфирное Ядро
@@ -258,7 +263,7 @@ EtherealCore: {
 		'''
 }
 
-// InfernalBlood.DisplayName: Infernal Blood
+InfernalBlood.DisplayName: Горящая Кровь
 
 MiracleFruit: {
 	DisplayName: Чудо-Фрукт
@@ -270,7 +275,7 @@ MiracleFruit: {
 		'''
 }
 
-// MushroomPlasmaRoot.DisplayName: Mushroom Plasma Root
+MushroomPlasmaRoot.DisplayName: Плазменный Грибной Корень
 
 PhantomHeart: {
 	DisplayName: Фантомное Сердце
@@ -281,7 +286,7 @@ PhantomHeart: {
 		'''
 }
 
-// RedLightningContainer.DisplayName: Red Lightning Container
+RedLightningContainer.DisplayName: Контейнер с Красной Молнией
 
 SacredStrawberry: {
 	DisplayName: Священная Клубника
@@ -303,7 +308,7 @@ SanguineTangerine: {
 		'''
 }
 
-// StarlightFuelCell.DisplayName: Starlight Fuel Cell
+StarlightFuelCell.DisplayName: Топливная Ячейка со Звездным Ветром
 
 TaintedCloudberry: {
 	DisplayName: Порочная Морошка
@@ -315,15 +320,6 @@ TaintedCloudberry: {
 		'''
 }
 
-// Permanent Boosters
-AdrenalineBoosterTooltip: Навсегда увеличивает урон {$Buffs.AdrenalineMode.DisplayName} на {0}% и уменьшение урона на {1}%
-RageBoosterTooltip: Навсегда увеличивает длительность {$Buffs.RageMode.DisplayName} на {0} {^0:секунду;секунды;секунд}
-Ectoheart.DisplayName: Эктосердце
-ElectrolyteGelPack.DisplayName: Пачка Электролитного Геля
-InfernalBlood.DisplayName: Горящая Кровь
-MushroomPlasmaRoot.DisplayName: Плазменный Грибной Корень
-RedLightningContainer.DisplayName: Контейнер с Красной Молнией
-StarlightFuelCell.DisplayName: Топливная Ячейка со Звездным Ветром
 // Spawn Blockers
 SpawnBlockersOn: Появление включено
 SpawnBlockersOff: Появление отключено
@@ -338,3 +334,8 @@ LegendaryShortTooltip:
 	[c/FF6F00:Легенды былых времен лучатся рядом с вами...]
 	[c/BABABA:Удерживайте Shift, чтобы прислушаться]
 	'''
+
+DisgustingSlop: {
+	DisplayName: Мерзкий Шлак
+	Tooltip: Можно извлечь в Извлекателе
+}
